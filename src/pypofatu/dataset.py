@@ -70,6 +70,10 @@ class Method(object):
     ref_uncertainty = attr.ib()
     ref_uncertainty_unit = attr.ib()
 
+    @property
+    def label(self):
+        return '{0.code} {0.parameter}'.format(self)
+
 
 def almost_float(f):
     if isinstance(f, str):
