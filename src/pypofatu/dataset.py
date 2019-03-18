@@ -55,6 +55,22 @@ class Site(object):  # new resource type, like villages in dogonlanguages!
     source_ids = attr.ib(converter=semicolon_split)
 
 
+@attr.s
+class Method(object):
+    code = attr.ib()
+    parameter = attr.ib()
+    technique = attr.ib()
+    instrument = attr.ib()
+    laboratory = attr.ib()
+    analyst = attr.ib()
+    date = attr.ib()
+    comment = attr.ib()
+    ref_sample_name = attr.ib()
+    ref_sample_measured_value = attr.ib()
+    ref_uncertainty = attr.ib()
+    ref_uncertainty_unit = attr.ib()
+
+
 def almost_float(f):
     if isinstance(f, str):
         if f.endswith(','):
@@ -123,6 +139,17 @@ class Dataset(API):
                 head[1] = row
             elif i > 4:
                 yield i, head, row
+
+    def itermethods(self):
+        ids, dups = {}, 0
+        for i, head, row in self.iterrows('3 Analytical metadata'):
+            if (row[0], row[1]) not in ids:
+                yield Method(*row[:12])
+                ids[(row[0], row[1])] = row
+            else:
+                if ids[(row[0], row[1])] != row:
+                    dups += 1
+        #print(dups)
 
     def itercontributions(self):
         ids = set()

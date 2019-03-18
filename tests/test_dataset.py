@@ -9,3 +9,4 @@ def test_Dataset():
     assert len(dps) == 4117
     assert len(list(ds.itersources())) == 98
     assert len(list(ds.itercontributions())) == 28
+    assert len(list(ds.itermethods())) == 980
