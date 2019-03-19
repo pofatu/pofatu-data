@@ -72,7 +72,10 @@ class Method(object):
 
     @property
     def label(self):
-        return '{0.code} {0.parameter}'.format(self)
+        res = '{0.code} {0.parameter}'.format(self)
+        if self.ref_sample_name:
+            res += ' {0}'.format(self.ref_sample_name)
+        return res
 
 
 def almost_float(f):
@@ -127,7 +130,7 @@ class Dataset(API):
     def __init__(self, repos=Path(__file__).parent.parent.parent):
         API.__init__(self, repos)
         self.workbook = xlrd.open_workbook(str(self.repos / 'Pofatu Dataset.xlsx'))
-        self.bib = self.repos / 'sources.bib'
+        self.bib = self.repos / 'POFATU-references.bib'
 
     def iterrows(self, name):
         sheet = self.workbook.sheet_by_name(name)
@@ -145,15 +148,15 @@ class Dataset(API):
                 yield i, head, row
 
     def itermethods(self):
-        ids, dups = {}, 0
+        ids = {}
         for i, head, row in self.iterrows('3 Analytical metadata'):
-            if (row[0], row[1]) not in ids:
-                yield Method(*row[:12])
-                ids[(row[0], row[1])] = row
+            m = Method(*row[:12])
+            if m.label not in ids:
+                yield m
+                ids[m.label] = row
             else:
-                if ids[(row[0], row[1])] != row:
-                    dups += 1
-        #print(dups)
+                if ids[m.label] != row:
+                    raise ValueError(m.label)
 
     def itercontributions(self):
         ids = set()
@@ -215,6 +218,7 @@ class Dataset(API):
                     'nd',
                     'bdl',
                     '2σ',
+                    'LOD',
                 ]:
                     v = None
                 else:
@@ -222,35 +226,35 @@ class Dataset(API):
                 data.append((p, (v, less, precision)))
             d = dict(zip(head[1], row))
             yield Datapoint(
-                d['POFATU ID'],
-                d['SAMPLE CATEGORY'],
+                d['Pofatu ID'],
+                d['Sample category'],
                 d['Sample comment'],
                 Location(
-                    d['LOCATION 1'],
-                    d['LOCATION 2'],
-                    d['LOCATION 3'],
+                    d['Location 1'],
+                    d['Location 2'],
+                    d['Location 3'],
                     d['Location comment'],
-                    d['LATITUDE'],
-                    d['LONGITUDE'],
-                    d['ELEVATION'],
+                    d['Latitude'],
+                    d['Longitude'],
+                    d['Elevation'],
                 ),
                 d['Petrography'],
-                d['CITATION 1 [DATA]'],
+                d['Citation code 1 [Data]'],
                 Artefact(
-                    d['ARTEFACT NAME'],
-                    d['ARTEFACT DESCRIPTION'],
-                    d['ARTEFACT CATEGORY'],
+                    d['Artefact name'],
+                    d['Artefact description'],
+                    d['Artefact category'],
                     d['Artefact comments'],
-                    d['CITATION 2 [ARTEFACT]'],
+                    d['Citation code 2 [Artefact]'],
                 ),
                 Site(
-                    d['SITE NAME'],
-                    d['SITE CONTEXT'],
-                    d['STRATIGRAPHIC POSITION'],
+                    d['Site name'],
+                    d['Site context'],
+                    d['Stratigraphic position'],
                     d['Site comments'],
-                    d['CITATION 3 [SITE]'],
+                    d['Citation 3 [Site]'],
                 ),
-                (d['ANALYZED MATERIAL 1'], d['ANALYZED MATERIAL 2']),
+                (d['Analyzed material 1'], d['Analyzed material 2']),
                 d['[citation code][ _ ][A], [B], etc.'],
                 collections.OrderedDict(data),
             )
