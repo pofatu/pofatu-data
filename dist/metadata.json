@@ -1,0 +1,500 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:title": "Pofatu",
+    "dcat:accessURL": "https://pofatu.clld.org",
+    "tables": [
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "SOURCE|ARTEFACT|ARTEFACT\\ USED\\ AS\\ SOURCE"
+                        },
+                        "name": "category"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "petrography"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Whole\\ rock|Fused\\ disk|Volcanic\\ glass|Mineral"
+                        },
+                        "name": "analyzed_material_1"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Core\\ sample|Sample\\ surface|Powder"
+                        },
+                        "name": "analyzed_material_2"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_authors"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_affiliation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "contribution_contact_email"
+                    },
+                    {
+                        "name": "location_loc1",
+                        "titles": "region"
+                    },
+                    {
+                        "name": "location_loc2",
+                        "titles": "subregion"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "location_loc3"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "location_comment"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "name": "location_latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "name": "location_longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "location_elevation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_name"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|NATURAL\\ DYKE"
+                        },
+                        "name": "artefact_category"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER\\/COBBLE|NATURAL\\ PRISM|Blade|Blade\\+mid"
+                        },
+                        "name": "artefact_attributes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_collector"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "SURVEY|EXCAVATION"
+                        },
+                        "name": "artefact_collection_type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_fieldwork_date"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_collection_location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "artefact_collection_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "site_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "site_code"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "DOMESTIC|QUARRY|CEREMONIAL|WORKSHOP|NATURAL|AGRICULTURAL|ROCKSHELTER|MIDDEN|FUNERAL|DEFENSIVE"
+                        },
+                        "name": "site_context"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "site_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "site_stratigraphic_position"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "site_stratigraphy_comment"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "samples.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Entry_Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "annotation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "author"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "bookauthor"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "booktitle"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "date"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "doi"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "edition"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "editor"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "editora"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "editoratype"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "institution"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "isbn"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "issn"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "issue"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "journaltitle"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "keywords"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "langid"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "note"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "pages"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "pagetotal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "pmcid"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "pmid"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "publisher"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "rights"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "series"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "shortjournal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "shorttitle"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "title"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "url"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "urldate"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "volume"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "volumes"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "sources.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "Source_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sample_ID"
+                    },
+                    {
+                        "dc:description": "The aspect of a sample a reference relates to",
+                        "name": "scope"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Source_ID"
+                        ],
+                        "reference": {
+                            "resource": "sources.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Sample_ID"
+                        ],
+                        "reference": {
+                            "resource": "samples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "url": "references.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "Sample_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "value_string"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "parameter"
+                    },
+                    {
+                        "datatype": "decimal",
+                        "name": "value"
+                    },
+                    {
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "less"
+                    },
+                    {
+                        "datatype": "decimal",
+                        "name": "precision"
+                    },
+                    {
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 1,
+                            "maximum": 2
+                        },
+                        "name": "sigma"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_parameter"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_technique"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_instrument"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_laboratory"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_analyst"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_date"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_detection_limit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_detection_limit_unit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_total_procedural_blank_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_total_procedural_unit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_reference_samples"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Sample_ID"
+                        ],
+                        "reference": {
+                            "resource": "samples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "url": "measurements.csv"
+        }
+    ]
+}
