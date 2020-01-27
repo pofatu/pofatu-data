@@ -10,6 +10,12 @@ provide analysis-friendly formats of the data in the [`dist`](dist/) directory, 
   [CSV on the Web - CSVW](https://www.w3.org/TR/tabular-data-primer/) standard.
 - an [SQLite](https://sqlite.org/index.html) database file.
 
+In the following, we assume 
+- you have the Pofatu data available locally, either
+through downloading a [released versions](https://github.com/pofatu/pofatu-data/releases) or via cloning the repository using `git`,
+- you have navigated in the shell to the root of the repository, i.e. the directory
+  where this README.md is located.
+
 
 ## Querying the CSVW data
 
