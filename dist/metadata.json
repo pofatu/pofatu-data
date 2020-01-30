@@ -17,6 +17,10 @@
                         "name": "ID"
                     },
                     {
+                        "datatype": "string",
+                        "name": "name"
+                    },
+                    {
                         "datatype": {
                             "base": "string",
                             "format": "SOURCE|ARTEFACT|ARTEFACT\\ USED\\ AS\\ SOURCE"
@@ -116,14 +120,14 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|NATURAL\\ DYKE"
+                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK"
                         },
                         "name": "artefact_category"
                     },
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER\\/COBBLE|NATURAL\\ PRISM|Blade|Blade\\+mid"
+                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER\\/COBBLE|NATURAL\\ PRISM"
                         },
                         "name": "artefact_attributes"
                     },
