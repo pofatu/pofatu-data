@@ -4,13 +4,13 @@ This repository is used for curating the Pofatu dataset, which is browsable onli
 https://pofatu.clld.org and [published on Zenodo]().
 
 [Released versions](https://github.com/pofatu/pofatu-data/releases) of this repository
-provide analysis-friendly formats of the data in the [`dist`](dist/) directory, In particular
+provide analysis-friendly formats of the data in the [`dist`](dist/) directory, in particular:
 
 - a set of CSV files, described by [metadata](dist/metadata.json), following the 
   [CSV on the Web - CSVW](https://www.w3.org/TR/tabular-data-primer/) standard.
 - an [SQLite](https://sqlite.org/index.html) database file.
 
-In the following, we assume 
+In the following, we assume that:
 - you have the Pofatu data available locally, either
 through downloading a [released versions](https://github.com/pofatu/pofatu-data/releases) or via cloning the repository using `git`,
 - you have navigated in the shell to the root of the repository, i.e. the directory
