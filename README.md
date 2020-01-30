@@ -116,3 +116,74 @@ Reepmeyer-2008-AO_ANU9001  K2O [%]                5.67
 Reepmeyer-2008-AO_ANU9001  Na2O [%]               4.27
 Reepmeyer-2008-AO_ANU9001  P [ppm]              285.35
 ```
+
+
+As a more real-life example, we query the SQLite database to retrieve all samples
+with measurements matching the following set of criteria:
+- 45 < SiO2 < 48.8
+- 0.95 < K2O < 2
+- 3 < Na2O < 3.37
+- 280 < V < 333
+- 16 < Rb < 31
+- 575 < Sr < 622
+- 272 < Zr < 354
+- 27 < Nb < 30
+
+This translates to the following - somewhat lenghty, but quite transparent - SQL:
+```sql
+select
+  s.id, s.name, s.artefact_id,
+  sio2.value_string as "SiO2 [%]",
+  k2o.value_string as "K2O [%]",
+  na2o.value_string as "Na2O [%]",
+  v.value_string as "V [ppm]",
+  rb.value_string as "Rb [ppm]",
+  sr.value_string as "Sr [ppm]",
+  zr.value_string as "Zr [ppm]",
+  nb.value_string as "Nb [ppm]"
+from
+  "samples.csv" as s
+  join "measurements.csv" as sio2 on s.id = sio2.sample_id
+  join "measurements.csv" as k2o on s.id = k2o.sample_id
+  join "measurements.csv" as na2o on s.id = na2o.sample_id
+  join "measurements.csv" as v on s.id = v.sample_id
+  join "measurements.csv" as rb on s.id = rb.sample_id
+  join "measurements.csv" as sr on s.id = sr.sample_id
+  join "measurements.csv" as zr on s.id = zr.sample_id
+  join "measurements.csv" as nb on s.id = nb.sample_id
+where
+  sio2.parameter = 'SiO2 [%]' and sio2.value > 45 and sio2.value < 48.8 and
+  k2o.parameter = 'K2O [%]' and k2o.value > 0.95 and k2o.value < 2 and
+  na2o.parameter = 'Na2O [%]' and na2o.value > 3 and na2o.value < 3.37 and
+  v.parameter = 'V [ppm]' and v.value > 280 and v.value < 333 and
+  rb.parameter = 'Rb [ppm]' and rb.value > 16 and rb.value < 31 and
+  sr.parameter = 'Sr [ppm]' and sr.value > 575 and sr.value < 622 and
+  zr.parameter = 'Zr [ppm]' and zr.value > 272 and zr.value < 354 and
+  nb.parameter = 'Nb [ppm]' and nb.value > 27 and nb.value < 30
+;
+```
+
+Saving this query as file `query.sql` and running it as
+
+```shell script
+$ cat query.sql | sqlite3 dist/pofatu.sqlite -csv -header
+```
+
+yield the following output, suitable for piping into a CSV file:
+```csv
+ID,name,artefact_id,"SiO2 [%]","K2O [%]","Na2O [%]","V [ppm]","Rb [ppm]","Sr [ppm]","Zr [ppm]","Nb [ppm]"
+Collerson-2007-Science_KC-05-11,KC-05-11,KC-05-11-WEISLER,47.83,1.05,3.33,297.9,22.07,602.94,305.62,28.75
+Collerson-2007-Science_D465,D465,D465-EMORY,45.23,1.89,3.35,292.7,24.09,600.4,312.3,29.3
+Weisler-1998-CurrAnth_2032,2032.0,MANGAREVA-85-2032-GREEN,47.35,1.0,3.34,315.0,18.0,591.0,279.0,29.9
+Weisler-1998-CurrAnth_2294,2294.0,MOOREA-85-2294-GREEN,47.27,1.0,3.27,315.0,18.0,593.0,273.0,28.0
+Weisler-1998-CurrAnth_832-1,832-1,EIAO-832-1-WEISLER,47.66,1.05,3.35,329.0,20.0,584.0,276.0,28.3
+McAlister-2017-PO_118,118.0,NH-ANAHO-118,46.94,0.99,3.18,296.0,22.0,604.0,292.0,29.0
+McAlister-2017-PO_119,119.0,NH-ANAHO-119,46.84,1.01,3.2,290.0,21.0,601.0,298.0,29.0
+McAlister-2017-PO_1344,1344.0,NH-ANAHO-1344,46.72,1.0,3.17,297.0,18.0,592.0,295.0,29.0
+McAlister-2017-PO_5071,5071.0,NH-HAKAEA-5071,46.69,0.98,3.22,292.0,19.0,602.0,293.0,28.0
+McAlister-2017-PO_5140,5140.0,NH-PUA-5140,46.37,1.0,3.23,298.0,17.0,605.0,295.0,28.0
+McAlister-2017-PO_5182,5182.0,NH-PUA-5182,46.83,1.13,3.1,295.0,27.0,590.0,302.0,29.0
+Sinton-1997-Database_EIAO-J,EIAO-J,EIAO-EIAO-J,47.65703423620975,1.0137637574177782,3.223768748588535,306.81,17.12,592.5,308.01,28.38
+Sinton-1997-Database_I82-N,I82-N,UH-HANE-I82-N,47.84915652873425,1.0289596160310437,3.152772813651769,287.43,20.84,593.42,306.5,28.68
+Sinton-1997-Database_M94-62,M94-62,UH-HANE-M94-62,47.670991925270584,0.9834296505213199,3.3456885017735627,297.79,17.09,588.18,304.4,27.87
+```
