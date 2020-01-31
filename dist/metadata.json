@@ -36,20 +36,6 @@
                         "name": "petrography"
                     },
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "Whole\\ rock|Fused\\ disk|Volcanic\\ glass|Mineral"
-                        },
-                        "name": "analyzed_material_1"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "Core\\ sample|Sample\\ surface|Powder"
-                        },
-                        "name": "analyzed_material_2"
-                    },
-                    {
                         "datatype": "string",
                         "name": "contribution_id"
                     },
@@ -438,6 +424,32 @@
                     {
                         "datatype": "string",
                         "name": "method_parameter"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Whole\\ rock|Fused\\ disk|Volcanic\\ glass|Mineral"
+                        },
+                        "name": "method_analyzed_material_1"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Core\\ sample|Sample\\ surface|Powder"
+                        },
+                        "name": "method_analyzed_material_2"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_sample_preparation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_chemical_treatment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "method_number_of_replicates"
                     },
                     {
                         "datatype": "string",
