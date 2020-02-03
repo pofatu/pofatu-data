@@ -4,17 +4,17 @@
 
 2. Dump the Pofatu excel file to CSV, running
    ```shell script
-   pufatu dump
+   pofatu dump
    ```
 
 3. Check data consistency running
    ```shell script
-   pufatu check
+   pofatu check
    ```
 
 4. Create the data formats for distribution, running
    ```shell script
-   pufatu dist
+   pofatu dist
    ```
 
 5. Commit and push all changes.
