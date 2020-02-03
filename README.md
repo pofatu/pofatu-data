@@ -97,8 +97,6 @@ Reepmeyer-2008-AO_ANU9001|P [ppm]|285.3549225066772
 ...
 ```
 
-But we could also use a graphical user interface such as the Firefox add-on [SQLite manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager-webext/).
-
 If you installed the Python package [`pypofatu`](https://pypi.org/project/pypofatu/), you can run
 the query using the `pofatu query` subcommand:
 ```shell script
@@ -163,7 +161,7 @@ where
 ;
 ```
 
-Saving this query as file `query.sql` and running it as
+Saving this query to a file `query.sql` and running it as
 
 ```shell script
 $ cat query.sql | sqlite3 dist/pofatu.sqlite -csv -header

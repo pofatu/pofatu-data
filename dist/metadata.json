@@ -440,12 +440,19 @@
                         "name": "method_analyzed_material_2"
                     },
                     {
-                        "datatype": "string",
                         "name": "method_sample_preparation"
                     },
                     {
-                        "datatype": "string",
                         "name": "method_chemical_treatment"
+                    },
+                    {
+                        "name": "method_technique"
+                    },
+                    {
+                        "name": "method_laboratory"
+                    },
+                    {
+                        "name": "method_analyst"
                     },
                     {
                         "datatype": "string",
@@ -453,19 +460,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "method_technique"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "method_instrument"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_laboratory"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_analyst"
                     },
                     {
                         "datatype": "string",
