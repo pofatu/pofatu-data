@@ -115,6 +115,11 @@ Reepmeyer-2008-AO_ANU9001  Na2O [%]               4.27
 Reepmeyer-2008-AO_ANU9001  P [ppm]              285.35
 ```
 
+You can also explore the data using the [datasette](https://datasette.readthedocs.io/en/stable/installation.html#install-using-pip)
+tool, which provides a user interface to browse the databases in your browser.
+
+
+### Examples
 
 As a more real-life example, we query the SQLite database to retrieve all samples
 with measurements matching the following set of criteria:
