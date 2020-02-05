@@ -130,7 +130,7 @@ with measurements matching the following set of criteria:
 This translates to the following - somewhat lenghty, but quite transparent - SQL:
 ```sql
 select
-  s.id, s.name, s.artefact_id,
+  s.id, s.sample_name, s.artefact_id,
   sio2.value_string as "SiO2 [%]",
   k2o.value_string as "K2O [%]",
   na2o.value_string as "Na2O [%]",
@@ -193,6 +193,58 @@ McAlister-2017-PO_5182,5182.0,NH-PUA-5182,46.83,1.13,3.1,295.0,27.0,590.0,302.0,
 Sinton-1997-Database_EIAO-J,EIAO-J,EIAO-EIAO-J,47.65703423620975,1.0137637574177782,3.223768748588535,306.81,17.12,592.5,308.01,28.38
 Sinton-1997-Database_I82-N,I82-N,UH-HANE-I82-N,47.84915652873425,1.0289596160310437,3.152772813651769,287.43,20.84,593.42,306.5,28.68
 Sinton-1997-Database_M94-62,M94-62,UH-HANE-M94-62,47.670991925270584,0.9834296505213199,3.3456885017735627,297.79,17.09,588.18,304.4,27.87
+```
+
+Pofatu also provides detailed methodological metadata for the geochemical data, such as
+information about reference samples.
+
+A query like the following can be used to retrieve methodological metadata for
+the geochemical data of a particular sample:
+```sql
+select
+  distinct
+  s.sample_name,
+  m.code,
+  m.parameter,
+  coalesce(r.sample_name, 'NA') as 'Reference sample name (international standard)',
+  coalesce(r.sample_measured_value, 'NA') as 'Measured value',
+  coalesce(r.uncertainty, 'NA') as 'SD',
+  coalesce(r.uncertainty_unit, 'NA') as 'SD Unit'
+from
+  "samples.csv" as s
+  join "measurements.csv" as d on s.id = d.sample_id
+  join "methods.csv" as m on m.id = d.method_id
+  left outer join "methods_reference_samples.csv" as mr on mr.method_id = m.id
+  left outer join "reference_samples.csv" as r on mr.reference_sample_id = r.id
+where
+  s.id = 'Hermann-2017-JASR_At3-229-064'
+;
+```
+
+Note that (some) methodological metadata is not available for a small fraction of Pofatu data.
+Thus, we have to use
+- a `left outer join` construct to also retrieve measurements with no related method and
+- the `coalesce` function to provide string representations of `NULL` values.
+
+The results of this query look as follows:
+```csv
+sample_name,code,parameter,"Reference sample name (international standard)","Measured value",SD,"SD Unit"
+...
+At3-229-064,Hermann-2017-JASR_A,Dy,WSE,6.0,2.97959678408457,%
+At3-229-064,Hermann-2017-JASR_A,Er,AC-E,15.93,2.5165074820158275,%
+At3-229-064,Hermann-2017-JASR_A,Er,JB-2,2.6,21.838794290669927,%
+At3-229-064,Hermann-2017-JASR_A,Er,WSE,3.02,21.17731217801253,%
+At3-229-064,Hermann-2017-JASR_A,Yb,AC-E,15.66,1.4079126317055592,%
+At3-229-064,Hermann-2017-JASR_A,Yb,JB-2,2.62,2.7650232098860696,%
+At3-229-064,Hermann-2017-JASR_A,Yb,WSE,2.48,1.1237823318988296,%
+At3-229-064,Hermann-2017-JASR_A,Th,AC-E,16.65,2.755220355842639,%
+At3-229-064,Hermann-2017-JASR_A,Th,JB-2,<LD,0.0,%
+At3-229-064,Hermann-2017-JASR_A,Th,WSE,3.0,15.028249662053367,%
+At3-229-064,Hermann-2017-JASR_B,Sr87_Sr86,"NBS 987",0.710248,8e-06,"2σ"
+At3-229-064,Hermann-2017-JASR_C,Pb206_Pb204,"NBS 981",16.9415,0.0052,"2σ"
+At3-229-064,Hermann-2017-JASR_C,Pb207_Pb204,"NBS 981",15.4924,0.002,"2σ"
+At3-229-064,Hermann-2017-JASR_C,Pb208_Pb204,"NBS 981",36.701,0.007,"2σ"
+At3-229-064,Hermann-2017-JASR_D,Age,NA,NA,NA,NA
 ```
 
 Exporting the results of a query to CSV is simple. See the relevant 

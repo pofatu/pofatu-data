@@ -10,6 +10,7 @@
     "dcat:accessURL": "https://pofatu.clld.org",
     "tables": [
         {
+            "dc:description": "Samples of archeological interest which have been analysed geochemically",
             "tableSchema": {
                 "columns": [
                     {
@@ -18,18 +19,18 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "name"
+                        "name": "sample_name"
                     },
                     {
                         "datatype": {
                             "base": "string",
                             "format": "SOURCE|ARTEFACT|ARTEFACT\\ USED\\ AS\\ SOURCE"
                         },
-                        "name": "category"
+                        "name": "sample_category"
                     },
                     {
                         "datatype": "string",
-                        "name": "comment"
+                        "name": "sample_comment"
                     },
                     {
                         "datatype": "string",
@@ -60,16 +61,16 @@
                         "name": "contribution_contact_email"
                     },
                     {
-                        "name": "location_loc1",
-                        "titles": "region"
-                    },
-                    {
-                        "name": "location_loc2",
-                        "titles": "subregion"
+                        "datatype": "string",
+                        "name": "location_region"
                     },
                     {
                         "datatype": "string",
-                        "name": "location_loc3"
+                        "name": "location_subregion"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "location_locality"
                     },
                     {
                         "datatype": "string",
@@ -179,6 +180,7 @@
             "url": "samples.csv"
         },
         {
+            "dc:description": "Bibliographical sources",
             "tableSchema": {
                 "columns": [
                     {
@@ -337,6 +339,7 @@
             "url": "sources.csv"
         },
         {
+            "dc:description": "Bibliographical references for aspects of a sample",
             "tableSchema": {
                 "columns": [
                     {
@@ -348,7 +351,7 @@
                         "name": "Sample_ID"
                     },
                     {
-                        "dc:description": "The aspect of a sample a reference relates to",
+                        "dc:description": "The aspect of a sample described by the reference",
                         "name": "scope"
                     }
                 ],
@@ -380,6 +383,7 @@
             "url": "references.csv"
         },
         {
+            "dc:description": "Individual measurements of geochemical parameters for a sample",
             "tableSchema": {
                 "columns": [
                     {
@@ -389,6 +393,10 @@
                     {
                         "datatype": "string",
                         "name": "value_string"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Method_ID"
                     },
                     {
                         "datatype": "string",
@@ -407,7 +415,7 @@
                     },
                     {
                         "datatype": "decimal",
-                        "name": "precision"
+                        "name": "value_sd"
                     },
                     {
                         "datatype": {
@@ -415,80 +423,7 @@
                             "minimum": 1,
                             "maximum": 2
                         },
-                        "name": "sigma"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_code"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_parameter"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "Whole\\ rock|Fused\\ disk|Volcanic\\ glass|Mineral"
-                        },
-                        "name": "method_analyzed_material_1"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "Core\\ sample|Sample\\ surface|Powder"
-                        },
-                        "name": "method_analyzed_material_2"
-                    },
-                    {
-                        "name": "method_sample_preparation"
-                    },
-                    {
-                        "name": "method_chemical_treatment"
-                    },
-                    {
-                        "name": "method_technique"
-                    },
-                    {
-                        "name": "method_laboratory"
-                    },
-                    {
-                        "name": "method_analyst"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_number_of_replicates"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_instrument"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_date"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_detection_limit"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_detection_limit_unit"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_total_procedural_blank_value"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_total_procedural_unit"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "method_reference_samples"
+                        "name": "sd_sigma"
                     }
                 ],
                 "foreignKeys": [
@@ -502,10 +437,247 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Method_ID"
+                        ],
+                        "reference": {
+                            "resource": "methods.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ]
             },
             "url": "measurements.csv"
+        },
+        {
+            "dc:description": "Metadata about the methodology used for a measurement",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "parameter"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Whole\\ rock|Fused\\ disk|Volcanic\\ glass|Mineral"
+                        },
+                        "name": "analyzed_material_1"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Core\\ sample|Sample\\ surface|Powder"
+                        },
+                        "name": "analyzed_material_2"
+                    },
+                    {
+                        "name": "sample_preparation"
+                    },
+                    {
+                        "name": "chemical_treatment"
+                    },
+                    {
+                        "name": "technique"
+                    },
+                    {
+                        "name": "laboratory"
+                    },
+                    {
+                        "name": "analyst"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "number_of_replicates"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "instrument"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "date"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "detection_limit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "detection_limit_unit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "total_procedural_blank_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "total_procedural_unit"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "methods.csv"
+        },
+        {
+            "dc:description": "Association table between methods and reference samples",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "Method_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Reference_sample_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Reference_sample_ID"
+                        ],
+                        "reference": {
+                            "resource": "reference_samples.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Method_ID"
+                        ],
+                        "reference": {
+                            "resource": "methods.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "url": "methods_reference_samples.csv"
+        },
+        {
+            "dc:description": "Reference samples used to ensure analytical accuracy and reproducibility",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "sample_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "sample_measured_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "uncertainty"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "uncertainty_unit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "number_of_measurements"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "reference_samples.csv"
+        },
+        {
+            "dc:description": "Association table between methods and normalization reference samples",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "Method_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Normalization_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Normalization_ID"
+                        ],
+                        "reference": {
+                            "resource": "normalizations.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Method_ID"
+                        ],
+                        "reference": {
+                            "resource": "methods.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "url": "methods_normalizations.csv"
+        },
+        {
+            "dc:description": "Reference samples used for normalization",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "reference_sample_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "reference_sample_accepted_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "citation"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "normalizations.csv"
         }
     ]
 }

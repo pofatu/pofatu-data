@@ -1,0 +1,1525 @@
+ID,sample_name,sample_measured_value,uncertainty,uncertainty_unit,number_of_measurements
+charleux2014jpaa_tio2-BHVO-1,BHVO-1,2.6,,,
+charleux2014jpaa_fe2o3-BHVO-1,BHVO-1,12.1,,,
+charleux2014jpaa_cao-BHVO-1,BHVO-1,10.8,,,
+charleux2014jpaa_mno-BHVO-1,BHVO-1,0.16,,,
+charleux2014jpaa_k2o-BHVO-1,BHVO-1,0.5,,,
+charleux2014jpaa_cr-BHVO-1,BHVO-1,257.0,,,
+charleux2014jpaa_ni-BHVO-1,BHVO-1,125.0,,,
+charleux2014jpaa_cu-BHVO-1,BHVO-1,139.0,,,
+charleux2014jpaa_zn-BHVO-1,BHVO-1,105.0,,,
+charleux2014jpaa_rb-BHVO-1,BHVO-1,9.0,,,
+charleux2014jpaa_sr-BHVO-1,BHVO-1,392.0,,,
+charleux2014jpaa_zr-BHVO-1,BHVO-1,175.0,,,
+charleux2014jpaa_nb-BHVO-1,BHVO-1,18.0,,,
+charleux2014jpab_tio2-BHVO-1,BHVO-1,2.7,,,
+charleux2014jpab_fe2o3-BHVO-1,BHVO-1,12.3,,,
+charleux2014jpab_cao-BHVO-1,BHVO-1,11.6,,,
+charleux2014jpab_mno-BHVO-1,BHVO-1,0.17,,,
+charleux2014jpab_k2o-BHVO-1,BHVO-1,0.5,,,
+charleux2014jpab_v-BHVO-1,BHVO-1,351.0,,,
+charleux2014jpab_cr-BHVO-1,BHVO-1,248.0,,,
+charleux2014jpab_ni-BHVO-1,BHVO-1,126.0,,,
+charleux2014jpab_cu-BHVO-1,BHVO-1,140.0,,,
+charleux2014jpab_zn-BHVO-1,BHVO-1,101.0,,,
+charleux2014jpab_rb-BHVO-1,BHVO-1,10.0,,,
+charleux2014jpab_sr-BHVO-1,BHVO-1,395.0,,,
+charleux2014jpab_y-BHVO-1,BHVO-1,29.0,,,
+charleux2014jpab_zr-BHVO-1,BHVO-1,180.0,,,
+charleux2014jpab_nb-BHVO-1,BHVO-1,21.0,,,
+charleux2014jpab_pb-BHVO-1,BHVO-1,2.0,,,
+charleux2014jpac_sio2-BHVO-1,BHVO-1,50.0,,,
+charleux2014jpac_tio2-BHVO-1,BHVO-1,2.7,,,
+charleux2014jpac_al2o3-BHVO-1,BHVO-1,14.0,,,
+charleux2014jpac_fe2o3-BHVO-1,BHVO-1,12.7,,,
+charleux2014jpac_cao-BHVO-1,BHVO-1,11.1,,,
+charleux2014jpac_mgo-BHVO-1,BHVO-1,7.0,,,
+charleux2014jpac_mno-BHVO-1,BHVO-1,0.16,,,
+charleux2014jpac_k2o-BHVO-1,BHVO-1,0.6,,,
+charleux2014jpac_na2o-BHVO-1,BHVO-1,2.0,,,
+charleux2014jpac_v-BHVO-1,BHVO-1,370.0,,,
+charleux2014jpac_ni-BHVO-1,BHVO-1,86.0,,,
+charleux2014jpac_cu-BHVO-1,BHVO-1,144.0,,,
+charleux2014jpac_zn-BHVO-1,BHVO-1,80.0,,,
+charleux2014jpac_rb-BHVO-1,BHVO-1,11.0,,,
+charleux2014jpac_sr-BHVO-1,BHVO-1,398.0,,,
+charleux2014jpac_y-BHVO-1,BHVO-1,27.0,,,
+charleux2014jpac_zr-BHVO-1,BHVO-1,191.0,,,
+charleux2014jpac_nb-BHVO-1,BHVO-1,20.0,,,
+charleux2014jpac_ba-BHVO-1,BHVO-1,136.0,,,
+charleux2014jpac_pb-BHVO-1,BHVO-1,0.0,,,
+clark2014pnasa_ti-ANU9000,ANU9000,,,,
+clark2014pnasa_mn-ANU9000,ANU9000,,,,
+clark2014pnasa_fe-ANU9000,ANU9000,,,,
+clark2014pnasa_rb-ANU9000,ANU9000,,,,
+clark2014pnasa_sr-ANU9000,ANU9000,,,,
+clark2014pnasa_y-ANU9000,ANU9000,,,,
+clark2014pnasa_zr-ANU9000,ANU9000,,,,
+clark2014pnasa_nb-ANU9000,ANU9000,,,,
+clark2014pnasc_sio2-ANU9000,ANU9000,,,,
+clark2014pnasc_tio2-ANU9000,ANU9000,,,,
+clark2014pnasc_al2o3-ANU9000,ANU9000,,,,
+clark2014pnasc_fe2o3-ANU9000,ANU9000,,,,
+clark2014pnasc_cao-ANU9000,ANU9000,,,,
+clark2014pnasc_mgo-ANU9000,ANU9000,,,,
+clark2014pnasc_mno-ANU9000,ANU9000,,,,
+clark2014pnasc_k2o-ANU9000,ANU9000,,,,
+clark2014pnasc_na2o-ANU9000,ANU9000,,,,
+clark2014pnasd_ca-ANU9000,ANU9000,,,,
+clark2014pnasd_sc-ANU9000,ANU9000,6.5161419120878685,0.7429735647207081,ppm,16.0
+clark2014pnasd_ti-ANU9000,ANU9000,1626.303322097445,45.74860551876704,ppm,16.0
+clark2014pnasd_v-ANU9000,ANU9000,5.656711070471915,0.08396178091790774,ppm,16.0
+clark2014pnasd_cr-ANU9000,ANU9000,1.1261500921186969,0.5466674066815211,ppm,16.0
+clark2014pnasd_mn-ANU9000,ANU9000,454.07516544522235,13.724923741531299,ppm,16.0
+clark2014pnasd_ni-ANU9000,ANU9000,,,,
+clark2014pnasd_cu-ANU9000,ANU9000,3.065170183662251,0.21287691184102087,ppm,16.0
+clark2014pnasd_zn-ANU9000,ANU9000,,,,
+clark2014pnasd_ga-ANU9000,ANU9000,,,,
+clark2014pnasd_ge-ANU9000,ANU9000,,,,
+clark2014pnasd_as-ANU9000,ANU9000,6.826263544519062,0.6869616742741927,ppm,16.0
+clark2014pnasd_rb-ANU9000,ANU9000,51.500647191648156,1.7649978795595496,ppm,16.0
+clark2014pnasd_sr-ANU9000,ANU9000,169.75868999562147,7.489461059215993,ppm,16.0
+clark2014pnasd_y-ANU9000,ANU9000,17.77636547376945,0.7076961124977327,ppm,16.0
+clark2014pnasd_zr-ANU9000,ANU9000,119.08044740422022,4.6336867751160655,ppm,16.0
+clark2014pnasd_nb-ANU9000,ANU9000,2.226021152488474,0.04460642885295009,ppm,16.0
+clark2014pnasd_mo-ANU9000,ANU9000,3.0628242222786577,0.057328798330966484,ppm,16.0
+clark2014pnasd_sn-ANU9000,ANU9000,0.8587710113624518,0.14771574046521377,ppm,16.0
+clark2014pnasd_cs-ANU9000,ANU9000,1.4907417374430194,0.06057227959726027,ppm,16.0
+clark2014pnasd_ba-ANU9000,ANU9000,465.0402698094159,25.008825984566688,ppm,16.0
+clark2014pnasd_la-ANU9000,ANU9000,11.307057016281378,0.49948669969352083,ppm,16.0
+clark2014pnasd_ce-ANU9000,ANU9000,24.26544662646843,1.0325397614133736,ppm,16.0
+clark2014pnasd_pr-ANU9000,ANU9000,3.0045948643070686,0.15136430792704408,ppm,16.0
+clark2014pnasd_nd-ANU9000,ANU9000,11.35064437936254,0.5575255387328859,ppm,16.0
+clark2014pnasd_sm-ANU9000,ANU9000,2.710588444589895,0.12628545395742954,ppm,16.0
+clark2014pnasd_eu-ANU9000,ANU9000,0.5965806318383542,0.030083726383347813,ppm,16.0
+clark2014pnasd_gd-ANU9000,ANU9000,2.6818377995251264,0.11727123327716274,ppm,16.0
+clark2014pnasd_tb-ANU9000,ANU9000,0.4154767307936927,0.02059157017907834,ppm,16.0
+clark2014pnasd_dy-ANU9000,ANU9000,2.8377736384618024,0.12435802995963713,ppm,16.0
+clark2014pnasd_ho-ANU9000,ANU9000,,,,
+clark2014pnasd_er-ANU9000,ANU9000,1.9703795863371514,0.08867188977615395,ppm,16.0
+clark2014pnasd_tm-ANU9000,ANU9000,0.30971553238323857,0.01464729495732113,ppm,16.0
+clark2014pnasd_yb-ANU9000,ANU9000,2.2630332352787383,0.1032148648686935,ppm,16.0
+clark2014pnasd_lu-ANU9000,ANU9000,0.358377781662767,0.01763248950530546,ppm,16.0
+clark2014pnasd_hf-ANU9000,ANU9000,,,,
+clark2014pnasd_ta-ANU9000,ANU9000,0.1428283266935593,0.010981806501669644,ppm,16.0
+clark2014pnasd_pb-ANU9000,ANU9000,9.477734909846696,0.4426935185044485,ppm,16.0
+clark2014pnasd_th-ANU9000,ANU9000,2.4584554840305577,0.16516925598961354,ppm,16.0
+clark2014pnasd_u-ANU9000,ANU9000,1.57560361122586,0.08163342428840832,ppm,16.0
+clark2014pnasb_sio2-ANU9000,ANU9000,,,,
+clark2014pnasb_tio2-ANU9000,ANU9000,,,,
+clark2014pnasb_al2o3-ANU9000,ANU9000,,,,
+clark2014pnasb_fe2o3-ANU9000,ANU9000,,,,
+clark2014pnasb_cao-ANU9000,ANU9000,,,,
+clark2014pnasb_mgo-ANU9000,ANU9000,,,,
+clark2014pnasb_mno-ANU9000,ANU9000,,,,
+clark2014pnasb_k2o-ANU9000,ANU9000,,,,
+clark2014pnasb_na2o-ANU9000,ANU9000,,,,
+clark2014pnasb_p2o5-ANU9000,ANU9000,,,,
+clark2014pnasd_be-ANU9000,ANU9000,,,,
+clark2014pnasd_ag-ANU9000,ANU9000,,,,
+clark2014pnasd_cd-ANU9000,ANU9000,,,,
+clark2014pnasd_in-ANU9000,ANU9000,,,,
+clark2014pnasd_sb-ANU9000,ANU9000,,,,
+clark2014pnasd_bi-ANU9000,ANU9000,,,,
+clark2014pnasc_p2o5-ANU9000,ANU9000,,,,
+collerson2007sciencea_sio2-BCR-2,BCR-2,54.77,0.11,%,
+collerson2007sciencea_tio2-BCR-2,BCR-2,2.38,0.11,%,
+collerson2007sciencea_al2o3-BCR-2,BCR-2,13.53,0.17,%,
+collerson2007sciencea_feo-BCR-2,BCR-2,10.59,0.19,%,
+collerson2007sciencea_cao-BCR-2,BCR-2,7.18,0.05,%,
+collerson2007sciencea_mgo-BCR-2,BCR-2,3.63,0.03,%,
+collerson2007sciencea_mno-BCR-2,BCR-2,0.2,0.001,%,
+collerson2007sciencea_k2o-BCR-2,BCR-2,1.81,0.03,%,
+collerson2007sciencea_na2o-BCR-2,BCR-2,3.21,0.08,%,
+collerson2007sciencea_p2o5-BCR-2,BCR-2,0.39,0.0005,%,
+collerson2007scienceb_li-BHVO-1,BHVO-1,4.7,1.3,%,254.0
+collerson2007scienceb_li-BCR-21,BCR-21,9.16,0.85,%,254.0
+collerson2007scienceb_li-W-2,W-2,9.16,0.85,%,254.0
+collerson2007scienceb_be-BHVO-1,BHVO-1,0.91,2.3,%,254.0
+collerson2007scienceb_be-BCR-21,BCR-21,0.62,9.8,%,254.0
+collerson2007scienceb_be-W-2,W-2,0.62,9.8,%,254.0
+collerson2007scienceb_sc-BHVO-1,BHVO-1,31.87,1.67,%,254.0
+collerson2007scienceb_sc-BCR-21,BCR-21,36.07,1.78,%,254.0
+collerson2007scienceb_sc-W-2,W-2,36.07,1.78,%,254.0
+collerson2007scienceb_v-BHVO-1,BHVO-1,310.0,1.38,%,254.0
+collerson2007scienceb_v-BCR-21,BCR-21,262.0,1.18,%,254.0
+collerson2007scienceb_v-W-2,W-2,262.0,1.18,%,254.0
+collerson2007scienceb_cr-BHVO-1,BHVO-1,295.3,2.65,%,254.0
+collerson2007scienceb_cr-BCR-21,BCR-21,92.79,4.8,%,254.0
+collerson2007scienceb_cr-W-2,W-2,92.79,4.8,%,254.0
+collerson2007scienceb_co-BHVO-1,BHVO-1,45.06,1.4,%,254.0
+collerson2007scienceb_co-BCR-21,BCR-21,44.53,1.62,%,254.0
+collerson2007scienceb_co-W-2,W-2,44.53,1.62,%,254.0
+collerson2007scienceb_ni-BHVO-1,BHVO-1,116.6,3.91,%,254.0
+collerson2007scienceb_ni-BCR-21,BCR-21,69.99,6.71,%,254.0
+collerson2007scienceb_ni-W-2,W-2,69.99,6.71,%,254.0
+collerson2007scienceb_cu-BHVO-1,BHVO-1,140.0,5.8,%,254.0
+collerson2007scienceb_cu-BCR-21,BCR-21,103.0,15.69,%,254.0
+collerson2007scienceb_cu-W-2,W-2,103.0,15.69,%,254.0
+collerson2007scienceb_zn-BHVO-1,BHVO-1,105.0,5.41,%,254.0
+collerson2007scienceb_zn-BCR-21,BCR-21,77.0,3.45,%,254.0
+collerson2007scienceb_zn-W-2,W-2,77.0,3.45,%,254.0
+collerson2007scienceb_ga-BHVO-1,BHVO-1,21.1,1.17,%,254.0
+collerson2007scienceb_ga-BCR-21,BCR-21,17.42,1.0,%,254.0
+collerson2007scienceb_ga-W-2,W-2,17.42,1.0,%,254.0
+collerson2007scienceb_rb-BHVO-1,BHVO-1,9.31,0.83,%,254.0
+collerson2007scienceb_rb-BCR-21,BCR-21,19.8,1.01,%,254.0
+collerson2007scienceb_rb-W-2,W-2,19.8,1.01,%,254.0
+collerson2007scienceb_sr-BHVO-1,BHVO-1,396.0,0.55,%,254.0
+collerson2007scienceb_sr-BCR-21,BCR-21,195.0,0.51,%,254.0
+collerson2007scienceb_sr-W-2,W-2,195.0,0.51,%,254.0
+collerson2007scienceb_y-BHVO-1,BHVO-1,24.61,0.8,%,254.0
+collerson2007scienceb_y-BCR-21,BCR-21,20.11,0.88,%,254.0
+collerson2007scienceb_y-W-2,W-2,20.11,0.88,%,254.0
+collerson2007scienceb_zr-BHVO-1,BHVO-1,170.0,1.4,%,254.0
+collerson2007scienceb_zr-BCR-21,BCR-21,87.87,0.91,%,254.0
+collerson2007scienceb_zr-W-2,W-2,87.87,0.91,%,254.0
+collerson2007scienceb_nb-BHVO-1,BHVO-1,18.48,1.0,%,254.0
+collerson2007scienceb_nb-BCR-21,BCR-21,7.28,0.95,%,254.0
+collerson2007scienceb_nb-W-2,W-2,7.28,0.95,%,254.0
+collerson2007scienceb_sn-BHVO-1,BHVO-1,2.25,14.77,%,254.0
+collerson2007scienceb_sn-BCR-21,BCR-21,1.95,7.99,%,254.0
+collerson2007scienceb_sn-W-2,W-2,1.95,7.99,%,254.0
+collerson2007scienceb_cs-BHVO-1,BHVO-1,0.097,2.26,%,254.0
+collerson2007scienceb_cs-BCR-21,BCR-21,0.89,1.1,%,254.0
+collerson2007scienceb_cs-W-2,W-2,0.89,1.1,%,254.0
+collerson2007scienceb_ba-BHVO-1,BHVO-1,132.0,0.76,%,254.0
+collerson2007scienceb_ba-BCR-21,BCR-21,170.0,0.43,%,254.0
+collerson2007scienceb_ba-W-2,W-2,170.0,0.43,%,254.0
+collerson2007scienceb_la-BHVO-1,BHVO-1,15.43,0.76,%,254.0
+collerson2007scienceb_la-BCR-21,BCR-21,10.52,0.98,%,254.0
+collerson2007scienceb_la-W-2,W-2,10.52,0.98,%,254.0
+collerson2007scienceb_ce-BHVO-1,BHVO-1,38.25,0.69,%,254.0
+collerson2007scienceb_ce-BCR-21,BCR-21,23.22,0.66,%,254.0
+collerson2007scienceb_ce-W-2,W-2,23.22,0.66,%,254.0
+collerson2007scienceb_pr-BHVO-1,BHVO-1,5.46,0.68,%,254.0
+collerson2007scienceb_pr-BCR-21,BCR-21,3.03,0.69,%,254.0
+collerson2007scienceb_pr-W-2,W-2,3.03,0.69,%,254.0
+collerson2007scienceb_nd-BHVO-1,BHVO-1,24.73,0.61,%,254.0
+collerson2007scienceb_nd-BCR-21,BCR-21,12.91,0.54,%,254.0
+collerson2007scienceb_nd-W-2,W-2,12.91,0.54,%,254.0
+collerson2007scienceb_sm-BHVO-1,BHVO-1,6.13,0.89,%,254.0
+collerson2007scienceb_sm-BCR-21,BCR-21,3.27,0.75,%,254.0
+collerson2007scienceb_sm-W-2,W-2,3.27,0.75,%,254.0
+collerson2007scienceb_eu-BHVO-1,BHVO-1,2.07,0.92,%,254.0
+collerson2007scienceb_eu-BCR-21,BCR-21,1.09,0.73,%,254.0
+collerson2007scienceb_eu-W-2,W-2,1.09,0.73,%,254.0
+collerson2007scienceb_gd-BHVO-1,BHVO-1,6.29,0.79,%,254.0
+collerson2007scienceb_gd-BCR-21,BCR-21,0.62,0.86,%,254.0
+collerson2007scienceb_gd-W-2,W-2,0.62,0.86,%,254.0
+collerson2007scienceb_tb-BHVO-1,BHVO-1,0.95,0.93,%,254.0
+collerson2007scienceb_tb-BCR-21,BCR-21,3.71,0.82,%,254.0
+collerson2007scienceb_tb-W-2,W-2,3.71,0.82,%,254.0
+collerson2007scienceb_dy-BHVO-1,BHVO-1,5.3,0.89,%,254.0
+collerson2007scienceb_dy-BCR-21,BCR-21,3.81,1.02,%,254.0
+collerson2007scienceb_dy-W-2,W-2,3.81,1.02,%,254.0
+collerson2007scienceb_ho-BHVO-1,BHVO-1,1.01,0.85,%,254.0
+collerson2007scienceb_ho-BCR-21,BCR-21,0.8,0.97,%,254.0
+collerson2007scienceb_ho-W-2,W-2,0.8,0.97,%,254.0
+collerson2007scienceb_er-BHVO-1,BHVO-1,2.53,0.96,%,254.0
+collerson2007scienceb_er-BCR-21,BCR-21,2.22,1.01,%,254.0
+collerson2007scienceb_er-W-2,W-2,2.22,1.01,%,254.0
+collerson2007scienceb_tm-BHVO-1,BHVO-1,0.34,1.22,%,254.0
+collerson2007scienceb_tm-BCR-21,BCR-21,0.33,1.43,%,254.0
+collerson2007scienceb_tm-W-2,W-2,0.33,1.43,%,254.0
+collerson2007scienceb_yb-BHVO-1,BHVO-1,2.01,1.01,%,254.0
+collerson2007scienceb_yb-BCR-21,BCR-21,2.06,0.92,%,254.0
+collerson2007scienceb_yb-W-2,W-2,2.06,0.92,%,254.0
+collerson2007scienceb_lu-BHVO-1,BHVO-1,0.28,1.33,%,254.0
+collerson2007scienceb_lu-BCR-21,BCR-21,0.3,1.26,%,254.0
+collerson2007scienceb_lu-W-2,W-2,0.3,1.26,%,254.0
+collerson2007scienceb_hf-BHVO-1,BHVO-1,4.35,1.42,%,254.0
+collerson2007scienceb_hf-BCR-21,BCR-21,2.36,0.9,%,254.0
+collerson2007scienceb_hf-W-2,W-2,2.36,0.9,%,254.0
+collerson2007scienceb_ta-BHVO-1,BHVO-1,1.16,1.24,%,254.0
+collerson2007scienceb_ta-BCR-21,BCR-21,0.45,1.48,%,254.0
+collerson2007scienceb_ta-W-2,W-2,0.45,1.48,%,254.0
+collerson2007scienceb_w-BHVO-1,BHVO-1,0.2,3.82,%,254.0
+collerson2007scienceb_w-BCR-21,BCR-21,0.24,1.51,%,254.0
+collerson2007scienceb_w-W-2,W-2,0.24,1.51,%,254.0
+collerson2007scienceb_tl-BHVO-1,BHVO-1,0.04,5.49,%,254.0
+collerson2007scienceb_tl-BCR-21,BCR-21,0.09,,,254.0
+collerson2007scienceb_tl-W-2,W-2,0.09,,,254.0
+collerson2007scienceb_pb-BHVO-1,BHVO-1,2.02,4.14,%,254.0
+collerson2007scienceb_pb-BCR-21,BCR-21,7.53,9.88,%,254.0
+collerson2007scienceb_pb-W-2,W-2,7.53,9.88,%,254.0
+collerson2007scienceb_th-BHVO-1,BHVO-1,1.2,1.06,%,254.0
+collerson2007scienceb_th-BCR-21,BCR-21,2.1,0.47,%,254.0
+collerson2007scienceb_th-W-2,W-2,2.1,0.47,%,254.0
+collerson2007scienceb_u-BHVO-1,BHVO-1,0.43,1.27,%,254.0
+collerson2007scienceb_u-BCR-21,BCR-21,0.51,1.16,%,254.0
+collerson2007scienceb_u-W-2,W-2,0.51,1.16,%,254.0
+collerson2007sciencec_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2σ,long-term reproducibility over 9 years
+collerson2007sciencec_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2σ,long-term reproducibility over 9 years
+collerson2007sciencec_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2σ,6.0
+collerson2007sciencec_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2σ,6.0
+collerson2007sciencec_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2σ,6.0
+collerson2007sciencec_pb207pb206-NBS SRM 981,NBS SRM 981,0.91461,0.00018,2σ,6.0
+collerson2007sciencec_pb208pb206-NBS SRM 981,NBS SRM 981,2.16746,0.00098,2σ,6.0
+fankhauser2009fijic_sc-BHVO-1,BHVO-1,32.1,,,
+fankhauser2009fijic_v-BHVO-1,BHVO-1,310.3,,,
+fankhauser2009fijic_cr-BHVO-1,BHVO-1,257.4,,,
+fankhauser2009fijic_ni-BHVO-1,BHVO-1,115.1,,,
+fankhauser2009fijic_cu-BHVO-1,BHVO-1,136.0,,,
+fankhauser2009fijic_zn-BHVO-1,BHVO-1,116.4,,,
+fankhauser2009fijic_ga-BHVO-1,BHVO-1,22.0,,,
+fankhauser2009fijic_as-BHVO-1,BHVO-1,<5,,,
+fankhauser2009fijic_rb-BHVO-1,BHVO-1,13.7,,,
+fankhauser2009fijic_sr-BHVO-1,BHVO-1,318.9,,,
+fankhauser2009fijic_y-BHVO-1,BHVO-1,25.5,,,
+fankhauser2009fijic_zr-BHVO-1,BHVO-1,182.5,,,
+fankhauser2009fijic_nb-BHVO-1,BHVO-1,19.3,,,
+fankhauser2009fijic_ba-BHVO-1,BHVO-1,129.8,,,
+fankhauser2009fijic_la-BHVO-1,BHVO-1,16.2,,,
+fankhauser2009fijic_ce-BHVO-1,BHVO-1,36.4,,,
+fankhauser2009fijic_nd-BHVO-1,BHVO-1,21.6,,,
+fankhauser2009fijic_pb-BHVO-1,BHVO-1,2.0,,,
+fankhauser2009fijic_th-BHVO-1,BHVO-1,1.0,,,
+hermann2017jasra_sio2-JB-2,JB-2,47.04526970645924,0.4120647944763819,%,10.0
+hermann2017jasra_sio2-AC-E,AC-E,62.86808251464655,0.7310061209084209,%,10.0
+hermann2017jasra_sio2-WSE,WSE,50.0068852635536,0.7629064971133162,%,10.0
+hermann2017jasra_tio2-JB-2,JB-2,2.393489156319721,0.7193174961421368,%,10.0
+hermann2017jasra_tio2-AC-E,AC-E,0.09194446724517467,1.0831852856800017,%,10.0
+hermann2017jasra_tio2-WSE,WSE,1.7447889564154988,1.3414094969675199,%,10.0
+hermann2017jasra_al2o3-JB-2,JB-2,15.998137891297231,0.7970419285613236,%,10.0
+hermann2017jasra_al2o3-AC-E,AC-E,12.914830658611766,1.3754685201367471,%,10.0
+hermann2017jasra_al2o3-WSE,WSE,16.16779639160849,1.338105742274582,%,10.0
+hermann2017jasra_fe2o3-JB-2,JB-2,12.06088981482057,0.9504209347228586,%,10.0
+hermann2017jasra_fe2o3-AC-E,AC-E,2.3360199774700843,1.3159872243937027,%,10.0
+hermann2017jasra_fe2o3-WSE,WSE,9.749822769867333,1.6573416269821415,%,10.0
+hermann2017jasra_cao-JB-2,JB-2,9.68743439598679,3.9025234803550095,%,10.0
+hermann2017jasra_cao-AC-E,AC-E,0.24453899519219383,22.76938189664214,%,10.0
+hermann2017jasra_cao-WSE,WSE,10.979432927221998,4.897662933894541,%,10.0
+hermann2017jasra_mgo-JB-2,JB-2,6.351729383683861,1.2871865649225764,%,10.0
+hermann2017jasra_mgo-AC-E,AC-E,0.015274924980774587,15.07617450063121,%,10.0
+hermann2017jasra_mgo-WSE,WSE,7.430020257532803,1.3404172739339475,%,10.0
+hermann2017jasra_mno-JB-2,JB-2,0.1900481435193355,1.2166568015408903,%,10.0
+hermann2017jasra_mno-AC-E,AC-E,0.05384991145291562,4.542542100908131,%,10.0
+hermann2017jasra_mno-WSE,WSE,0.17281456669227138,2.0959750682382596,%,10.0
+hermann2017jasra_k2o-JB-2,JB-2,1.6787103236273582,2.6372260915343797,%,10.0
+hermann2017jasra_k2o-AC-E,AC-E,3.990078009991619,3.6217700434044957,%,10.0
+hermann2017jasra_k2o-WSE,WSE,0.41337878027149894,5.761418190339528,%,10.0
+hermann2017jasra_na2o-JB-2,JB-2,3.875360748376991,3.159467399854169,%,10.0
+hermann2017jasra_na2o-AC-E,AC-E,5.8326468343281395,4.125833788722658,%,10.0
+hermann2017jasra_na2o-WSE,WSE,3.2666465149227544,4.682326846704004,%,10.0
+hermann2017jasra_p2o5-JB-2,JB-2,0.6580443864034298,1.5343443748132157,%,10.0
+hermann2017jasra_p2o5-AC-E,AC-E,0.01284126774483099,14.709808843431782,%,10.0
+hermann2017jasra_p2o5-WSE,WSE,0.25498238384888444,3.2859974299481434,%,10.0
+hermann2017jasra_sc-JB-2,JB-2,21.78624046518244,1.0769044137808819,%,10.0
+hermann2017jasra_sc-AC-E,AC-E,0.02947029666454402,147.29514915322184,%,10.0
+hermann2017jasra_sc-WSE,WSE,37.9488373180632,1.1692456471891928,%,10.0
+hermann2017jasra_v-JB-2,JB-2,250.4149143146806,0.6561278029931245,%,10.0
+hermann2017jasra_v-AC-E,AC-E,<LD,0.0,%,10.0
+hermann2017jasra_v-WSE,WSE,276.0894209421145,1.8301390790214305,%,10.0
+hermann2017jasra_cr-JB-2,JB-2,158.15454079173145,3.888819106447035,%,10.0
+hermann2017jasra_cr-AC-E,AC-E,<LD,0.0,%,10.0
+hermann2017jasra_cr-WSE,WSE,257.40434969780443,6.411318278676541,%,10.0
+hermann2017jasra_co-JB-2,JB-2,36.97471342757685,2.677333133922953,%,10.0
+hermann2017jasra_co-AC-E,AC-E,<LD,0.0,%,10.0
+hermann2017jasra_co-WSE,WSE,37.6710467243132,2.9948819446082435,%,10.0
+hermann2017jasra_ni-JB-2,JB-2,67.02886285814336,4.298812636625744,%,10.0
+hermann2017jasra_ni-AC-E,AC-E,<LD,0.0,%,10.0
+hermann2017jasra_ni-WSE,WSE,90.34112206055958,5.632587545536037,%,10.0
+hermann2017jasra_rb-JB-2,JB-2,4.1798565441178575,46.99074645399148,%,10.0
+hermann2017jasra_rb-AC-E,AC-E,137.74528122465819,3.341522041915626,%,10.0
+hermann2017jasra_rb-WSE,WSE,22.111587488872228,22.277360022987178,%,10.0
+hermann2017jasra_sr-JB-2,JB-2,786.7079849523918,1.7463083783335134,%,10.0
+hermann2017jasra_sr-AC-E,AC-E,1.0718704369559382,26.4398878221832,%,10.0
+hermann2017jasra_sr-WSE,WSE,222.76822412714895,1.7399701471993563,%,10.0
+hermann2017jasra_y-JB-2,JB-2,26.831855254906756,2.3359004279256252,%,10.0
+hermann2017jasra_y-AC-E,AC-E,164.84457758533733,1.544424408375575,%,10.0
+hermann2017jasra_y-WSE,WSE,33.68047811916435,3.4267870482462035,%,10.0
+hermann2017jasra_zr-JB-2,JB-2,222.17057399077376,2.047705830164027,%,10.0
+hermann2017jasra_zr-AC-E,AC-E,721.9649535006556,2.090431772753816,%,10.0
+hermann2017jasra_zr-WSE,WSE,150.14884972050947,3.6701688728788913,%,10.0
+hermann2017jasra_nb-JB-2,JB-2,60.768131389561674,1.2242168710823298,%,10.0
+hermann2017jasra_nb-AC-E,AC-E,98.87438469777089,1.2404089529497129,%,10.0
+hermann2017jasra_nb-WSE,WSE,9.55256512678449,4.465515926982571,%,10.0
+hermann2017jasra_ba-JB-2,JB-2,523.4225103937449,2.2416268960818853,%,10.0
+hermann2017jasra_ba-AC-E,AC-E,49.62778102210582,4.455184148953962,%,10.0
+hermann2017jasra_ba-WSE,WSE,41.08873873661734,2.407617575625974,%,10.0
+hermann2017jasra_la-JB-2,JB-2,2.35,16.694081603778276,%,10.0
+hermann2017jasra_la-AC-E,AC-E,53.1,3.759221141591588,%,10.0
+hermann2017jasra_la-WSE,WSE,27.0,1.4363032843598682,%,10.0
+hermann2017jasra_ce-JB-2,JB-2,6.76,20.516838244234307,%,10.0
+hermann2017jasra_ce-AC-E,AC-E,138.6,2.3257119867581917,%,10.0
+hermann2017jasra_ce-WSE,WSE,61.0,2.553800173964378,%,10.0
+hermann2017jasra_nd-JB-2,JB-2,6.63,7.35526223362373,%,10.0
+hermann2017jasra_nd-AC-E,AC-E,82.8,1.4097876680647785,%,10.0
+hermann2017jasra_nd-WSE,WSE,33.4,2.1048038072716504,%,10.0
+hermann2017jasra_sm-JB-2,JB-2,2.31,14.110227965910804,%,10.0
+hermann2017jasra_sm-AC-E,AC-E,21.78,2.3590693973965173,%,10.0
+hermann2017jasra_sm-WSE,WSE,8.8,4.6739960047408875,%,10.0
+hermann2017jasra_eu-JB-2,JB-2,0.86,9.816189709368201,%,10.0
+hermann2017jasra_eu-AC-E,AC-E,1.8,3.8612545030019896,%,10.0
+hermann2017jasra_eu-WSE,WSE,2.2,3.9956625159032177,%,10.0
+hermann2017jasra_gd-JB-2,JB-2,3.28,5.715136693627776,%,10.0
+hermann2017jasra_gd-AC-E,AC-E,23.4,3.790133190728609,%,10.0
+hermann2017jasra_gd-WSE,WSE,7.2,7.801466383024504,%,10.0
+hermann2017jasra_dy-JB-2,JB-2,3.73,2.3524349296964924,%,10.0
+hermann2017jasra_dy-AC-E,AC-E,26.1,1.6995753207648319,%,10.0
+hermann2017jasra_dy-WSE,WSE,6.0,2.97959678408457,%,10.0
+hermann2017jasra_er-JB-2,JB-2,2.6,21.838794290669927,%,10.0
+hermann2017jasra_er-AC-E,AC-E,15.93,2.5165074820158275,%,10.0
+hermann2017jasra_er-WSE,WSE,3.02,21.17731217801253,%,10.0
+hermann2017jasra_yb-JB-2,JB-2,2.62,2.7650232098860696,%,10.0
+hermann2017jasra_yb-AC-E,AC-E,15.66,1.4079126317055592,%,10.0
+hermann2017jasra_yb-WSE,WSE,2.48,1.1237823318988296,%,10.0
+hermann2017jasra_th-JB-2,JB-2,<LD,0.0,%,10.0
+hermann2017jasra_th-AC-E,AC-E,16.65,2.755220355842639,%,10.0
+hermann2017jasra_th-WSE,WSE,3.0,15.028249662053367,%,10.0
+hermann2017jasrb_sr87sr86-NBS 987,NBS 987,0.710248,8e-06,2σ,3.0
+hermann2017jasrc_pb206pb204-NBS 981,NBS 981,16.9415,0.0052,2σ,14.0
+hermann2017jasrc_pb207pb204-NBS 981,NBS 981,15.4924,0.002,2σ,14.0
+hermann2017jasrc_pb208pb204-NBS 981,NBS 981,36.701,0.007,2σ,14.0
+kahn2008nzjaa_sio2-BHVO-2,BHVO-2,48.0,,,3.0
+kahn2008nzjaa_tio2-BHVO-2,BHVO-2,2.9,,,3.0
+kahn2008nzjaa_al2o3-BHVO-2,BHVO-2,13.5,,,3.0
+kahn2008nzjaa_cao-BHVO-2,BHVO-2,11.9,,,3.0
+kahn2008nzjaa_mgo-BHVO-2,BHVO-2,7.7,,,3.0
+kahn2008nzjaa_k2o-BHVO-2,BHVO-2,0.6,,,3.0
+kahn2008nzjaa_na2o-BHVO-2,BHVO-2,2.6,,,3.0
+kahn2008nzjaa_v-BHVO-2,BHVO-2,339.0,,,3.0
+kahn2008nzjaa_fe-BHVO-2,BHVO-2,8.5,,,3.0
+kahn2008nzjaa_ni-BHVO-2,BHVO-2,99.0,,,3.0
+kahn2008nzjaa_cu-BHVO-2,BHVO-2,109.0,,,3.0
+kahn2008nzjaa_zn-BHVO-2,BHVO-2,95.0,,,3.0
+kahn2008nzjaa_rb-BHVO-2,BHVO-2,12.0,,,3.0
+kahn2008nzjaa_sr-BHVO-2,BHVO-2,366.0,,,3.0
+kahn2008nzjaa_y-BHVO-2,BHVO-2,25.0,,,3.0
+kahn2008nzjaa_zr-BHVO-2,BHVO-2,175.0,,,3.0
+kahn2008nzjaa_nb-BHVO-2,BHVO-2,19.0,,,3.0
+kahn2013jasa_sio2-BHVO-2,BHVO-2,48.56457894736842,0.1765000000000001,%,19.0
+kahn2013jasa_tio2-BHVO-2,BHVO-2,2.655,0.4889999999999999,%,19.0
+kahn2013jasa_al2o3-BHVO-2,BHVO-2,13.298105263157895,0.492,%,19.0
+kahn2013jasa_cao-BHVO-2,BHVO-2,10.94905263157895,2.6084999999999994,%,19.0
+kahn2013jasa_mgo-BHVO-2,BHVO-2,7.243631578947368,0.02749999999999997,%,19.0
+kahn2013jasa_mno-BHVO-2,BHVO-2,1522.2713684210526,0.33700000000000063,%,19.0
+kahn2013jasa_k2o-BHVO-2,BHVO-2,0.5306842105263158,0.07099999999999995,%,19.0
+kahn2013jasa_v-BHVO-2,BHVO-2,346.980157894737,75.894,%,19.0
+kahn2013jasa_ni-BHVO-2,BHVO-2,87.77326315789473,5.7719999999999985,ppm,19.0
+kahn2013jasa_cu-BHVO-2,BHVO-2,119.34857894736845,16.0355,ppm,19.0
+kahn2013jasa_zn-BHVO-2,BHVO-2,96.1512105263158,8.119,ppm,19.0
+kahn2013jasa_rb-BHVO-2,BHVO-2,12.63321052631579,3.3409999999999993,ppm,19.0
+kahn2013jasa_sr-BHVO-2,BHVO-2,380.67810526315793,8.144000000000005,ppm,19.0
+kahn2013jasa_y-BHVO-2,BHVO-2,26.536157894736835,2.0035000000000007,ppm,19.0
+kahn2013jasa_zr-BHVO-2,BHVO-2,186.7245263157895,9.73899999999999,ppm,19.0
+kahn2013jasa_nb-BHVO-2,BHVO-2,18.182105263157894,3.5199999999999996,ppm,19.0
+kahn2013jasa_na2o-BHVO-2,BHVO-2,2.024375,32.899,%,8.0
+kirch2015aoa_sio2-BHVO-2 (5-12.1),BHVO-2 (5-12.1),47.036,,,
+kirch2015aoa_sio2-BHVO-2 (3-13.1),BHVO-2 (3-13.1),48.096,,,
+kirch2015aoa_tio2-BHVO-2 (5-12.1),BHVO-2 (5-12.1),2.622,,,
+kirch2015aoa_tio2-BHVO-2 (3-13.1),BHVO-2 (3-13.1),2.747,,,
+kirch2015aoa_al2o3-BHVO-2 (5-12.1),BHVO-2 (5-12.1),13.315,,,
+kirch2015aoa_al2o3-BHVO-2 (3-13.1),BHVO-2 (3-13.1),13.457,,,
+kirch2015aoa_cao-BHVO-2 (5-12.1),BHVO-2 (5-12.1),10.497,,,
+kirch2015aoa_cao-BHVO-2 (3-13.1),BHVO-2 (3-13.1),11.131,,,
+kirch2015aoa_mgo-BHVO-2 (5-12.1),BHVO-2 (5-12.1),7.259,,,
+kirch2015aoa_mgo-BHVO-2 (3-13.1),BHVO-2 (3-13.1),7.421,,,
+kirch2015aoa_mno-BHVO-2 (5-12.1),BHVO-2 (5-12.1),1553.891,,,
+kirch2015aoa_mno-BHVO-2 (3-13.1),BHVO-2 (3-13.1),1589.271,,,
+kirch2015aoa_k2o-BHVO-2 (5-12.1),BHVO-2 (5-12.1),0.539,,,
+kirch2015aoa_k2o-BHVO-2 (3-13.1),BHVO-2 (3-13.1),0.612,,,
+kirch2015aoa_na2o-BHVO-2 (5-12.1),BHVO-2 (5-12.1),2.377,,,
+kirch2015aoa_na2o-BHVO-2 (3-13.1),BHVO-2 (3-13.1),2.385,,,
+kirch2015aoa_v-BHVO-2 (5-12.1),BHVO-2 (5-12.1),367.142,,,
+kirch2015aoa_v-BHVO-2 (3-13.1),BHVO-2 (3-13.1),360.629,,,
+kirch2015aoa_fe-BHVO-2 (5-12.1),BHVO-2 (5-12.1),8.659,,,
+kirch2015aoa_fe-BHVO-2 (3-13.1),BHVO-2 (3-13.1),8.926,,,
+kirch2015aoa_ni-BHVO-2 (5-12.1),BHVO-2 (5-12.1),80.906,,,
+kirch2015aoa_ni-BHVO-2 (3-13.1),BHVO-2 (3-13.1),89.633,,,
+kirch2015aoa_cu-BHVO-2 (5-12.1),BHVO-2 (5-12.1),128.05,,,
+kirch2015aoa_cu-BHVO-2 (3-13.1),BHVO-2 (3-13.1),128.116,,,
+kirch2015aoa_zn-BHVO-2 (5-12.1),BHVO-2 (5-12.1),100.103,,,
+kirch2015aoa_zn-BHVO-2 (3-13.1),BHVO-2 (3-13.1),100.487,,,
+kirch2015aoa_rb-BHVO-2 (5-12.1),BHVO-2 (5-12.1),9.348,,,
+kirch2015aoa_rb-BHVO-2 (3-13.1),BHVO-2 (3-13.1),10.675,,,
+kirch2015aoa_sr-BHVO-2 (5-12.1),BHVO-2 (5-12.1),381.776,,,
+kirch2015aoa_sr-BHVO-2 (3-13.1),BHVO-2 (3-13.1),389.488,,,
+kirch2015aoa_y-BHVO-2 (5-12.1),BHVO-2 (5-12.1),26.219,,,
+kirch2015aoa_y-BHVO-2 (3-13.1),BHVO-2 (3-13.1),28.092,,,
+kirch2015aoa_zr-BHVO-2 (5-12.1),BHVO-2 (5-12.1),185.087,,,
+kirch2015aoa_zr-BHVO-2 (3-13.1),BHVO-2 (3-13.1),187.631,,,
+kirch2015aoa_nb-BHVO-2 (5-12.1),BHVO-2 (5-12.1),20.851,,,
+kirch2015aoa_nb-BHVO-2 (3-13.1),BHVO-2 (3-13.1),19.619,,,
+kirch2015aoa_ba-BHVO-2 (5-12.1),BHVO-2 (5-12.1),122.941,,,
+kirch2015aoa_ba-BHVO-2 (3-13.1),BHVO-2 (3-13.1),145.946,,,
+kirch2015aoa_pb-BHVO-2 (5-12.1),BHVO-2 (5-12.1),0.0,,,
+kirch2015aoa_pb-BHVO-2 (3-13.1),BHVO-2 (3-13.1),0.0,,,
+rolett2015jasa_sio2-W-1,W-1,52.44,0.11,%,12.0
+rolett2015jasa_sio2-BHVO-1,BHVO-1,49.58,0.03,ppm,2.0
+rolett2015jasa_sio2-BIR-1,BIR-1,47.71,0.26,ppm,8.0
+rolett2015jasa_tio2-W-1,W-1,1.1,0.02,%,12.0
+rolett2015jasa_tio2-BHVO-1,BHVO-1,2.73,0.0,ppm,2.0
+rolett2015jasa_tio2-BIR-1,BIR-1,0.98,0.01,ppm,8.0
+rolett2015jasa_al2o3-W-1,W-1,15.05,0.14,%,12.0
+rolett2015jasa_al2o3-BHVO-1,BHVO-1,13.21,0.04,ppm,2.0
+rolett2015jasa_al2o3-BIR-1,BIR-1,15.67,0.08,ppm,8.0
+rolett2015jasa_cao-W-1,W-1,11.0,0.06,%,12.0
+rolett2015jasa_cao-BHVO-1,BHVO-1,11.51,0.08,ppm,2.0
+rolett2015jasa_cao-BIR-1,BIR-1,13.3,0.05,ppm,8.0
+rolett2015jasa_mgo-W-1,W-1,6.63,0.03,%,12.0
+rolett2015jasa_mgo-BHVO-1,BHVO-1,7.26,0.04,ppm,2.0
+rolett2015jasa_mgo-BIR-1,BIR-1,9.64,0.04,ppm,8.0
+rolett2015jasa_mno-W-1,W-1,0.16,0.01,%,12.0
+rolett2015jasa_mno-BHVO-1,BHVO-1,0.14,0.01,ppm,2.0
+rolett2015jasa_mno-BIR-1,BIR-1,0.17,0.0,ppm,8.0
+rolett2015jasa_k2o-W-1,W-1,0.64,0.01,%,12.0
+rolett2015jasa_k2o-BHVO-1,BHVO-1,0.53,0.01,ppm,2.0
+rolett2015jasa_k2o-BIR-1,BIR-1,0.01,0.0,ppm,8.0
+rolett2015jasa_na2o-W-1,W-1,2.13,0.11,%,12.0
+rolett2015jasa_na2o-BHVO-1,BHVO-1,2.33,0.01,ppm,2.0
+rolett2015jasa_na2o-BIR-1,BIR-1,1.54,0.03,ppm,8.0
+rolett2015jasa_p2o5-W-1,W-1,0.13,0.01,%,12.0
+rolett2015jasa_p2o5-BHVO-1,BHVO-1,0.27,0.0,ppm,2.0
+rolett2015jasa_p2o5-BIR-1,BIR-1,0.02,0.01,ppm,8.0
+rolett2015jasa_sc-W-1,W-1,36.0,1.0,ppm,6.0
+rolett2015jasa_sc-BHVO-1,BHVO-1,31.0,1.0,ppm,5.0
+rolett2015jasa_sc-BIR-1,BIR-1,41.0,1.0,ppm,5.0
+rolett2015jasa_v-W-1,W-1,260.0,7.0,ppm,6.0
+rolett2015jasa_v-BHVO-1,BHVO-1,309.0,7.0,ppm,5.0
+rolett2015jasa_v-BIR-1,BIR-1,307.0,2.0,ppm,5.0
+rolett2015jasa_cr-W-1,W-1,128.0,1.0,ppm,6.0
+rolett2015jasa_cr-BHVO-1,BHVO-1,301.0,3.0,ppm,5.0
+rolett2015jasa_cr-BIR-1,BIR-1,407.0,2.0,ppm,5.0
+rolett2015jasa_co-W-1,W-1,46.0,1.0,ppm,6.0
+rolett2015jasa_co-BHVO-1,BHVO-1,44.0,0.3,ppm,5.0
+rolett2015jasa_co-BIR-1,BIR-1,54.0,2.0,ppm,5.0
+rolett2015jasa_ni-W-1,W-1,77.0,2.0,ppm,6.0
+rolett2015jasa_ni-BHVO-1,BHVO-1,126.0,1.0,ppm,5.0
+rolett2015jasa_ni-BIR-1,BIR-1,169.0,3.0,ppm,5.0
+rolett2015jasa_zn-W-1,W-1,86.0,1.0,ppm,6.0
+rolett2015jasa_zn-BHVO-1,BHVO-1,104.0,1.0,ppm,5.0
+rolett2015jasa_zn-BIR-1,BIR-1,68.0,1.0,ppm,5.0
+rolett2015jasa_rb-W-1,W-1,22.5,0.3,ppm,6.0
+rolett2015jasa_rb-BHVO-1,BHVO-1,9.7,0.2,ppm,5.0
+rolett2015jasa_rb-BIR-1,BIR-1,0.6,0.1,ppm,5.0
+rolett2015jasa_sr-W-1,W-1,189.0,1.0,ppm,6.0
+rolett2015jasa_sr-BHVO-1,BHVO-1,394.0,4.0,ppm,5.0
+rolett2015jasa_sr-BIR-1,BIR-1,111.0,1.0,ppm,5.0
+rolett2015jasa_y-W-1,W-1,22.0,0.1,ppm,6.0
+rolett2015jasa_y-BHVO-1,BHVO-1,26.0,0.2,ppm,5.0
+rolett2015jasa_y-BIR-1,BIR-1,16.0,0.2,ppm,5.0
+rolett2015jasa_zr-W-1,W-1,94.0,0.3,ppm,6.0
+rolett2015jasa_zr-BHVO-1,BHVO-1,175.0,1.6,ppm,5.0
+rolett2015jasa_zr-BIR-1,BIR-1,15.0,0.2,ppm,5.0
+rolett2015jasa_nb-W-1,W-1,7.5,0.3,ppm,6.0
+rolett2015jasa_nb-BHVO-1,BHVO-1,18.8,0.5,ppm,5.0
+rolett2015jasa_nb-BIR-1,BIR-1,0.8,0.1,ppm,5.0
+rolett2015jasa_ba-W-1,W-1,155.0,4.0,ppm,6.0
+rolett2015jasa_ba-BHVO-1,BHVO-1,124.0,8.0,ppm,5.0
+rolett2015jasa_ba-BIR-1,BIR-1,<14,,ppm,5.0
+sheppard1997cooka_sio2-AC-E,AC-E,70.49,,,
+sheppard1997cooka_sio2-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),45.72,0.24,%,16.0
+sheppard1997cooka_sio2-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),76.4,0.37,%,16.0
+sheppard1997cooka_tio2-AC-E,AC-E,0.11,,,
+sheppard1997cooka_tio2-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),2.23,0.02,%,16.0
+sheppard1997cooka_tio2-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),0.17,0.0,%,16.0
+sheppard1997cooka_al2o3-AC-E,AC-E,14.71,,,
+sheppard1997cooka_al2o3-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),13.77,0.11,%,16.0
+sheppard1997cooka_al2o3-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),12.57,0.12,%,16.0
+sheppard1997cooka_fe2o3-AC-E,AC-E,2.63,,,
+sheppard1997cooka_fe2o3-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),13.25,0.12,%,16.0
+sheppard1997cooka_fe2o3-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),1.39,0.02,%,16.0
+sheppard1997cooka_cao-AC-E,AC-E,0.34,,,
+sheppard1997cooka_cao-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),9.61,0.07,%,16.0
+sheppard1997cooka_cao-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),1.09,0.01,%,16.0
+sheppard1997cooka_mgo-AC-E,AC-E,0.07,,,
+sheppard1997cooka_mgo-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),10.53,0.12,%,16.0
+sheppard1997cooka_mgo-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),0.22,0.03,%,16.0
+sheppard1997cooka_mno-AC-E,AC-E,0.06,,,
+sheppard1997cooka_mno-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.2,0.02,%,16.0
+sheppard1997cooka_mno-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),0.07,0.02,%,16.0
+sheppard1997cooka_k2o-AC-E,AC-E,4.42,,,
+sheppard1997cooka_k2o-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.97,0.01,%,16.0
+sheppard1997cooka_k2o-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),3.42,0.03,%,16.0
+sheppard1997cooka_na2o-AC-E,AC-E,6.58,,,
+sheppard1997cooka_na2o-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),3.73,0.07,%,16.0
+sheppard1997cooka_na2o-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),4.11,0.06,%,16.0
+sheppard1997cooka_p2o5-AC-E,AC-E,0.02,,,
+sheppard1997cooka_p2o5-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.44,0.01,%,16.0
+sheppard1997cooka_p2o5-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),0.03,0.0,%,16.0
+sheppard1997cooka_v-AC-E,AC-E,<3,,,
+sheppard1997cooka_v-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),210.5,8.3,ppm,18.0
+sheppard1997cooka_v-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),5.7,2.2,ppm,18.0
+sheppard1997cooka_cr-AC-E,AC-E,<4,,,
+sheppard1997cooka_cr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),294.1,11.1,ppm,18.0
+sheppard1997cooka_cr-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),4.1,2.0,ppm,18.0
+sheppard1997cooka_ni-AC-E,AC-E,<3,,,
+sheppard1997cooka_ni-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),218.6,5.7,ppm,18.0
+sheppard1997cooka_ni-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),4.7,3.7,ppm,18.0
+sheppard1997cooka_zn-AC-E,AC-E,,,,
+sheppard1997cooka_zn-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),118.0,2.1,ppm,18.0
+sheppard1997cooka_zn-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),56.2,1.9,ppm,18.0
+sheppard1997cooka_rb-AC-E,AC-E,146.0,,,
+sheppard1997cooka_rb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),17.3,1.1,ppm,18.0
+sheppard1997cooka_rb-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),121.1,1.3,ppm,18.0
+sheppard1997cooka_sr-AC-E,AC-E,<2,,,
+sheppard1997cooka_sr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),477.4,2.2,ppm,18.0
+sheppard1997cooka_sr-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),82.9,0.6,ppm,18.0
+sheppard1997cooka_y-AC-E,AC-E,187.0,,,
+sheppard1997cooka_y-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),21.0,1.3,ppm,18.0
+sheppard1997cooka_y-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),23.4,0.8,ppm,18.0
+sheppard1997cooka_zr-AC-E,AC-E,791.0,,,
+sheppard1997cooka_zr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),162.6,2.7,ppm,18.0
+sheppard1997cooka_zr-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),157.0,1.3,ppm,18.0
+sheppard1997cooka_nb-AC-E,AC-E,115.0,,,
+sheppard1997cooka_nb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),33.1,0.6,ppm,18.0
+sheppard1997cooka_nb-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),7.8,0.6,ppm,18.0
+sheppard1997cooka_ba-AC-E,AC-E,64.0,,,
+sheppard1997cooka_ba-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),206.3,5.7,ppm,18.0
+sheppard1997cooka_ba-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),651.8,8.3,ppm,18.0
+sheppard1997cooka_la-AC-E,AC-E,62.0,,,
+sheppard1997cooka_la-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),23.6,2.5,ppm,18.0
+sheppard1997cooka_la-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),24.1,1.6,ppm,18.0
+sheppard1997cooka_pb-AC-E,AC-E,,,,
+sheppard1997cooka_pb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),7.2,1.7,ppm,18.0
+sheppard1997cooka_pb-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),18.3,1.1,ppm,18.0
+sheppard1997cooka_th-AC-E,AC-E,,,,
+sheppard1997cooka_th-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),4.3,2.0,ppm,18.0
+sheppard1997cooka_th-TOR (Taupo Obsidian Rhyolite),TOR (Taupo Obsidian Rhyolite),14.5,1.2,ppm,18.0
+simpson2018aob_be-BHVO-2,BHVO-2,1.0,,,
+simpson2018aob_mg-BHVO-2,BHVO-2,37433.0,,,
+simpson2018aob_p-BHVO-2,BHVO-2,1011.2,,,
+simpson2018aob_ca-BHVO-2,BHVO-2,61762.7,,,
+simpson2018aob_sc-BHVO-2,BHVO-2,30.4,,,
+simpson2018aob_ti-BHVO-2,BHVO-2,12188.0,,,
+simpson2018aob_v-BHVO-2,BHVO-2,229.5,,,
+simpson2018aob_cr-BHVO-2,BHVO-2,221.3,,,
+simpson2018aob_mn-BHVO-2,BHVO-2,969.1,,,
+simpson2018aob_fe-BHVO-2,BHVO-2,64121.5,,,
+simpson2018aob_co-BHVO-2,BHVO-2,33.4,,,
+simpson2018aob_ni-BHVO-2,BHVO-2,89.1,,,
+simpson2018aob_cu-BHVO-2,BHVO-2,95.1,,,
+simpson2018aob_zn-BHVO-2,BHVO-2,80.2,,,
+simpson2018aob_ga-BHVO-2,BHVO-2,15.8,,,
+simpson2018aob_rb-BHVO-2,BHVO-2,7.7,,,
+simpson2018aob_sr-BHVO-2,BHVO-2,294.2,,,
+simpson2018aob_y-BHVO-2,BHVO-2,21.6,,,
+simpson2018aob_zr-BHVO-2,BHVO-2,130.3,,,
+simpson2018aob_nb-BHVO-2,BHVO-2,13.6,,,
+simpson2018aob_mo-BHVO-2,BHVO-2,2.6,,,
+simpson2018aob_cd-BHVO-2,BHVO-2,0.1,,,
+simpson2018aob_sn-BHVO-2,BHVO-2,1.4,,,
+simpson2018aob_sb-BHVO-2,BHVO-2,0.1,,,
+simpson2018aob_cs-BHVO-2,BHVO-2,0.1,,,
+simpson2018aob_ba-BHVO-2,BHVO-2,100.3,,,
+simpson2018aob_la-BHVO-2,BHVO-2,13.5,,,
+simpson2018aob_ce-BHVO-2,BHVO-2,32.6,,,
+simpson2018aob_pr-BHVO-2,BHVO-2,4.6,,,
+simpson2018aob_nd-BHVO-2,BHVO-2,20.5,,,
+simpson2018aob_sm-BHVO-2,BHVO-2,5.1,,,
+simpson2018aob_eu-BHVO-2,BHVO-2,1.7,,,
+simpson2018aob_gd-BHVO-2,BHVO-2,0.8,,,
+simpson2018aob_tb-BHVO-2,BHVO-2,5.2,,,
+simpson2018aob_dy-BHVO-2,BHVO-2,4.4,,,
+simpson2018aob_ho-BHVO-2,BHVO-2,0.8,,,
+simpson2018aob_er-BHVO-2,BHVO-2,2.0,,,
+simpson2018aob_tm-BHVO-2,BHVO-2,0.3,,,
+simpson2018aob_yb-BHVO-2,BHVO-2,1.6,,,
+simpson2018aob_lu-BHVO-2,BHVO-2,0.2,,,
+simpson2018aob_hf-BHVO-2,BHVO-2,3.3,,,
+simpson2018aob_ta-BHVO-2,BHVO-2,0.8,,,
+simpson2018aob_w-BHVO-2,BHVO-2,0.1,,,
+simpson2018aob_tl-BHVO-2,BHVO-2,0.0,,,
+simpson2018aob_pb-BHVO-2,BHVO-2,1.0,,,
+simpson2018aob_th-BHVO-2,BHVO-2,1.1,,,
+simpson2018aob_u-BHVO-2,BHVO-2,0.3,,,
+simpson2018aoc_nd143nd144-BHVO-2,BHVO-2,0.51298,5e-06,2σ,
+simpson2018aoc_sr87sr86-BHVO-2,BHVO-2,0.703476,9e-06,2σ,
+simpson2018aoc_pb206pb204-BHVO-2,BHVO-2,18.619,0.0017,2σ,
+simpson2018aoc_pb207pb204-BHVO-2,BHVO-2,15.5312,0.0027,2σ,
+simpson2018aoc_pb208pb204-BHVO-2,BHVO-2,38.2031,0.0077,2σ,
+simpson2018jasra_sio2-CORNING B,CORNING B,62.5,0.5,%,15.0
+simpson2018jasra_sio2-CORNING D,CORNING D,55.50000000000001,1.0,%,15.0
+simpson2018jasra_tio2-CORNING B,CORNING B,0.1,4.5,%,15.0
+simpson2018jasra_tio2-CORNING D,CORNING D,0.3,7.000000000000001,%,15.0
+simpson2018jasra_al2o3-CORNING B,CORNING B,4.35,1.2,%,15.0
+simpson2018jasra_al2o3-CORNING D,CORNING D,5.2,2.0,%,15.0
+simpson2018jasra_fe2o3-CORNING B,CORNING B,0.36,3.0,%,15.0
+simpson2018jasra_fe2o3-CORNING D,CORNING D,0.5,3.0,%,15.0
+simpson2018jasra_cao-CORNING B,CORNING B,8.690000000000001,3.6999999999999997,%,15.0
+simpson2018jasra_cao-CORNING D,CORNING D,15.1,6.0,%,15.0
+simpson2018jasra_mgo-CORNING B,CORNING B,1.04,1.5,%,15.0
+simpson2018jasra_mgo-CORNING D,CORNING D,4.0,2.0,%,15.0
+simpson2018jasra_mno-CORNING B,CORNING B,0.25,2.3,%,15.0
+simpson2018jasra_mno-CORNING D,CORNING D,0.6,2.0,%,15.0
+simpson2018jasra_k2o-CORNING B,CORNING B,1.11,2.7,%,15.0
+simpson2018jasra_k2o-CORNING D,CORNING D,11.4,1.0,%,15.0
+simpson2018jasra_na2o-CORNING B,CORNING B,16.6,1.0999999999999999,%,15.0
+simpson2018jasra_na2o-CORNING D,CORNING D,1.3,1.0,%,15.0
+simpson2018jasra_p2o5-CORNING B,CORNING B,0.91,7.7,%,15.0
+simpson2018jasra_p2o5-CORNING D,CORNING D,3.8,4.0,%,15.0
+simpson2018jasra_li-CORNING B,CORNING B,11.0,4.0,%,15.0
+simpson2018jasra_li-CORNING D,CORNING D,27.0,6.0,%,15.0
+simpson2018jasra_be-CORNING B,CORNING B,0.1,37.0,%,15.0
+simpson2018jasra_be-CORNING D,CORNING D,0.08,46.0,%,15.0
+simpson2018jasra_b-CORNING B,CORNING B,97.0,3.0,%,15.0
+simpson2018jasra_b-CORNING D,CORNING D,311.0,5.0,%,15.0
+simpson2018jasra_sc-CORNING B,CORNING B,6.0,21.0,%,15.0
+simpson2018jasra_sc-CORNING D,CORNING D,5.0,24.0,%,15.0
+simpson2018jasra_v-CORNING B,CORNING B,187.0,2.0,%,15.0
+simpson2018jasra_v-CORNING D,CORNING D,93.0,3.0,%,15.0
+simpson2018jasra_cr-CORNING B,CORNING B,60.0,4.0,%,15.0
+simpson2018jasra_cr-CORNING D,CORNING D,19.0,5.0,%,15.0
+simpson2018jasra_co-CORNING B,CORNING B,330.0,2.0,%,15.0
+simpson2018jasra_co-CORNING D,CORNING D,141.0,2.0,%,15.0
+simpson2018jasra_ni-CORNING B,CORNING B,712.0,2.0,%,15.0
+simpson2018jasra_ni-CORNING D,CORNING D,361.0,2.0,%,15.0
+simpson2018jasra_zn-CORNING B,CORNING B,1698.0,9.0,%,15.0
+simpson2018jasra_zn-CORNING D,CORNING D,831.0,7.000000000000001,%,15.0
+simpson2018jasra_as-CORNING B,CORNING B,18.0,6.0,%,15.0
+simpson2018jasra_as-CORNING D,CORNING D,235.0,5.0,%,15.0
+simpson2018jasra_rb-CORNING B,CORNING B,12.0,5.0,%,15.0
+simpson2018jasra_rb-CORNING D,CORNING D,42.0,6.0,%,15.0
+simpson2018jasra_sr-CORNING B,CORNING B,163.0,8.0,%,15.0
+simpson2018jasra_sr-CORNING D,CORNING D,460.0,4.0,%,15.0
+simpson2018jasra_y-CORNING B,CORNING B,1.0,19.0,%,15.0
+simpson2018jasra_y-CORNING D,CORNING D,0.5,27.0,%,15.0
+simpson2018jasra_zr-CORNING B,CORNING B,166.0,3.0,%,15.0
+simpson2018jasra_zr-CORNING D,CORNING D,87.0,3.0,%,15.0
+simpson2018jasra_nb-CORNING B,CORNING B,0.5,49.0,%,15.0
+simpson2018jasra_nb-CORNING D,CORNING D,0.7,15.0,%,15.0
+simpson2018jasra_mo-CORNING B,CORNING B,1.7,8.0,%,15.0
+simpson2018jasra_mo-CORNING D,CORNING D,3.16,10.0,%,15.0
+simpson2018jasra_ag-CORNING B,CORNING B,63.0,3.0,%,15.0
+simpson2018jasra_ag-CORNING D,CORNING D,27.0,4.0,%,15.0
+simpson2018jasra_in-CORNING B,CORNING B,1.0,13.0,%,15.0
+simpson2018jasra_in-CORNING D,CORNING D,3.0,8.0,%,15.0
+simpson2018jasra_sn-CORNING B,CORNING B,191.0,7.000000000000001,%,15.0
+simpson2018jasra_sn-CORNING D,CORNING D,614.0,3.0,%,15.0
+simpson2018jasra_sb-CORNING B,CORNING B,2378.0,7.000000000000001,%,15.0
+simpson2018jasra_sb-CORNING D,CORNING D,5092.0,10.0,%,15.0
+simpson2018jasra_cs-CORNING B,CORNING B,0.1,61.0,%,15.0
+simpson2018jasra_cs-CORNING D,CORNING D,0.22,55.00000000000001,%,15.0
+simpson2018jasra_ba-CORNING B,CORNING B,662.0,2.0,%,15.0
+simpson2018jasra_ba-CORNING D,CORNING D,2284.0,5.0,%,15.0
+simpson2018jasra_la-CORNING B,CORNING B,0.4,27.0,%,15.0
+simpson2018jasra_la-CORNING D,CORNING D,0.76,15.0,%,15.0
+simpson2018jasra_ce-CORNING B,CORNING B,1.0,52.0,%,15.0
+simpson2018jasra_ce-CORNING D,CORNING D,0.79,44.0,%,15.0
+simpson2018jasra_pr-CORNING B,CORNING B,0.1,66.0,%,15.0
+simpson2018jasra_pr-CORNING D,CORNING D,0.11,68.0,%,15.0
+simpson2018jasra_nd-CORNING B,CORNING B,0.2,47.0,%,15.0
+simpson2018jasra_nd-CORNING D,CORNING D,0.25,40.0,%,15.0
+simpson2018jasra_sm-CORNING B,CORNING B,0.07,52.0,%,15.0
+simpson2018jasra_sm-CORNING D,CORNING D,0.08,53.0,%,15.0
+simpson2018jasra_eu-CORNING B,CORNING B,0.07,41.0,%,15.0
+simpson2018jasra_eu-CORNING D,CORNING D,0.15,43.0,%,15.0
+simpson2018jasra_gd-CORNING B,CORNING B,0.07,41.0,%,15.0
+simpson2018jasra_gd-CORNING D,CORNING D,0.08,54.0,%,15.0
+simpson2018jasra_tb-CORNING B,CORNING B,0.03,68.0,%,15.0
+simpson2018jasra_tb-CORNING D,CORNING D,0.02,68.0,%,15.0
+simpson2018jasra_dy-CORNING B,CORNING B,0.09,33.0,%,15.0
+simpson2018jasra_dy-CORNING D,CORNING D,0.07,33.0,%,15.0
+simpson2018jasra_ho-CORNING B,CORNING B,0.04,53.0,%,15.0
+simpson2018jasra_ho-CORNING D,CORNING D,0.03,50.0,%,15.0
+simpson2018jasra_er-CORNING B,CORNING B,0.08,23.0,%,15.0
+simpson2018jasra_er-CORNING D,CORNING D,0.06,40.0,%,15.0
+simpson2018jasra_tm-CORNING B,CORNING B,0.03,61.0,%,15.0
+simpson2018jasra_tm-CORNING D,CORNING D,0.02,57.99999999999999,%,15.0
+simpson2018jasra_yb-CORNING B,CORNING B,0.1,21.0,%,15.0
+simpson2018jasra_yb-CORNING D,CORNING D,0.08,22.0,%,15.0
+simpson2018jasra_lu-CORNING B,CORNING B,0.04,52.0,%,15.0
+simpson2018jasra_lu-CORNING D,CORNING D,0.03,41.0,%,15.0
+simpson2018jasra_hf-CORNING B,CORNING B,4.3,3.0,%,15.0
+simpson2018jasra_hf-CORNING D,CORNING D,2.28,3.0,%,15.0
+simpson2018jasra_ta-CORNING B,CORNING B,0.2,38.0,%,15.0
+simpson2018jasra_ta-CORNING D,CORNING D,0.29,8.0,%,15.0
+simpson2018jasra_w-CORNING B,CORNING B,0.2,98.0,%,15.0
+simpson2018jasra_w-CORNING D,CORNING D,0.15,68.0,%,15.0
+simpson2018jasra_au-CORNING B,CORNING B,0.1,97.0,%,15.0
+simpson2018jasra_au-CORNING D,CORNING D,0.1,55.00000000000001,%,15.0
+simpson2018jasra_bi-CORNING B,CORNING B,41.0,6.0,%,15.0
+simpson2018jasra_bi-CORNING D,CORNING D,12.0,7.000000000000001,%,15.0
+simpson2018jasra_th-CORNING B,CORNING B,0.94,8.0,%,15.0
+simpson2018jasra_th-CORNING D,CORNING D,0.77,7.000000000000001,%,15.0
+simpson2018jasra_u-CORNING B,CORNING B,0.4,42.0,%,15.0
+simpson2018jasra_u-CORNING D,CORNING D,0.23,19.0,%,15.0
+weisler1993toagaa_sio2-BCRP-84,BCRP-84,55.4,0.08,%,
+weisler1993toagaa_sio2-GSP-1,GSP-1,68.19,0.05,%,
+weisler1993toagaa_tio2-BCRP-84,BCRP-84,2.256,0.22,%,
+weisler1993toagaa_tio2-GSP-1,GSP-1,0.672,0.45,%,
+weisler1993toagaa_al2o3-BCRP-84,BCRP-84,13.56,0.16,%,
+weisler1993toagaa_al2o3-GSP-1,GSP-1,15.32,0.15,%,
+weisler1993toagaa_cao-BCRP-84,BCRP-84,6.98,0.11,%,
+weisler1993toagaa_cao-GSP-1,GSP-1,2.02,0.3,%,
+weisler1993toagaa_mgo-BCRP-84,BCRP-84,3.44,0.81,%,
+weisler1993toagaa_mgo-GSP-1,GSP-1,0.95,1.37,%,
+weisler1993toagaa_mno-BCRP-84,BCRP-84,0.185,0.38,%,
+weisler1993toagaa_mno-GSP-1,GSP-1,0.042,1.19,%,
+weisler1993toagaa_k2o-BCRP-84,BCRP-84,1.73,0.0,%,
+weisler1993toagaa_k2o-GSP-1,GSP-1,5.63,0.09,%,
+weisler1993toagaa_na2o-BCRP-84,BCRP-84,3.34,0.42,%,
+weisler1993toagaa_na2o-GSP-1,GSP-1,2.78,0.4,%,
+weisler1993toagaa_p2o5-BCRP-84,BCRP-84,0.381,0.47,%,
+weisler1993toagaa_p2o5-GSP-1,GSP-1,0.296,0.34,%,
+weisler1993toagaa_sc-BCRP-84,BCRP-84,34.8,7.7,%,
+weisler1993toagaa_sc-GSP-1,GSP-1,3.7,61.08,%,
+weisler1993toagaa_v-BCRP-84,BCRP-84,391.0,1.7,%,
+weisler1993toagaa_v-GSP-1,GSP-1,49.3,14.81,%,
+weisler1993toagaa_cr-BCRP-84,BCRP-84,18.1,7.6,%,
+weisler1993toagaa_cr-GSP-1,GSP-1,12.2,20.74,%,
+weisler1993toagaa_ni-BCRP-84,BCRP-84,0.0,0.0,%,
+weisler1993toagaa_ni-GSP-1,GSP-1,18.7,5.67,%,
+weisler1993toagaa_cu-BCRP-84,BCRP-84,11.0,15.5,%,
+weisler1993toagaa_cu-GSP-1,GSP-1,37.2,4.87,%,
+weisler1993toagaa_zn-BCRP-84,BCRP-84,120.7,1.2,%,
+weisler1993toagaa_zn-GSP-1,GSP-1,99.0,1.85,%,
+weisler1993toagaa_ga-BCRP-84,BCRP-84,,,%,
+weisler1993toagaa_ga-GSP-1,GSP-1,,,%,
+weisler1993toagaa_rb-BCRP-84,BCRP-84,46.6,2.1,%,
+weisler1993toagaa_rb-GSP-1,GSP-1,252.4,0.33,%,
+weisler1993toagaa_sr-BCRP-84,BCRP-84,325.6,0.26,%,
+weisler1993toagaa_sr-GSP-1,GSP-1,233.8,0.39,%,
+weisler1993toagaa_y-BCRP-84,BCRP-84,37.5,1.4,%,
+weisler1993toagaa_y-GSP-1,GSP-1,30.4,3.52,%,
+weisler1993toagaa_zr-BCRP-84,BCRP-84,174.3,0.61,%,
+weisler1993toagaa_zr-GSP-1,GSP-1,502.6,0.19,%,
+weisler1993toagaa_nb-BCRP-84,BCRP-84,13.8,5.9,%,
+weisler1993toagaa_nb-GSP-1,GSP-1,30.3,2.24,%,
+weisler1993toagaa_ba-BCRP-84,BCRP-84,675.5,2.5,%,
+weisler1993toagaa_ba-GSP-1,GSP-1,1297.2,1.32,%,
+weisler1993toagaa_la-BCRP-84,BCRP-84,21.1,39.1,%,
+weisler1993toagaa_la-GSP-1,GSP-1,188.0,2.49,%,
+weisler1993toagaa_ce-BCRP-84,BCRP-84,53.8,14.7,%,
+weisler1993toagaa_ce-GSP-1,GSP-1,399.0,3.34,%,
+weisler1993toagaa_pb-BCRP-84,BCRP-84,10.8,11.4,%,
+weisler1993toagaa_pb-GSP-1,GSP-1,51.6,2.27,%,
+weisler1993toagaa_th-BCRP-84,BCRP-84,6.1,22.5,%,
+weisler1993toagaa_th-GSP-1,GSP-1,103.3,1.37,%,
+weisler1993toagab_rb-RGM-1,RGM-1,159.9,3.6,ppm,4.0
+weisler1993toagab_sr-RGM-1,RGM-1,107.3,1.0,ppm,4.0
+weisler1993toagab_y-RGM-1,RGM-1,27.7,1.6,ppm,4.0
+weisler1993toagab_zr-RGM-1,RGM-1,227.2,2.3,ppm,4.0
+weisler1993toagab_nb-RGM-1,RGM-1,10.3,2.7,ppm,4.0
+weisler1993toagab_pb-RGM-1,RGM-1,28.6,2.0,ppm,4.0
+weisler1993toagab_th-RGM-1,RGM-1,20.4,3.2,ppm,4.0
+weisler1994jpsa_sio2-BCRP-84,BCRP-84,55.4,0.08,%,
+weisler1994jpsa_sio2-GSP-1,GSP-1,68.19,0.05,%,
+weisler1994jpsa_tio2-BCRP-84,BCRP-84,2.256,0.22,%,
+weisler1994jpsa_tio2-GSP-1,GSP-1,0.672,0.45,%,
+weisler1994jpsa_al2o3-BCRP-84,BCRP-84,13.56,0.16,%,
+weisler1994jpsa_al2o3-GSP-1,GSP-1,15.32,0.15,%,
+weisler1994jpsa_feo-BCRP-84,BCRP-84,12.73,0.11,%,
+weisler1994jpsa_feo-GSP-1,GSP-1,3.87,0.08,%,
+weisler1994jpsa_cao-BCRP-84,BCRP-84,6.98,0.11,%,
+weisler1994jpsa_cao-GSP-1,GSP-1,2.02,0.3,%,
+weisler1994jpsa_mgo-BCRP-84,BCRP-84,3.44,0.81,%,
+weisler1994jpsa_mgo-GSP-1,GSP-1,0.95,1.37,%,
+weisler1994jpsa_mno-BCRP-84,BCRP-84,0.185,0.38,%,
+weisler1994jpsa_mno-GSP-1,GSP-1,0.042,1.19,%,
+weisler1994jpsa_k2o-BCRP-84,BCRP-84,1.73,0.0,%,
+weisler1994jpsa_k2o-GSP-1,GSP-1,5.63,0.09,%,
+weisler1994jpsa_na2o-BCRP-84,BCRP-84,3.34,0.42,%,
+weisler1994jpsa_na2o-GSP-1,GSP-1,2.78,0.4,%,
+weisler1994jpsa_p2o5-BCRP-84,BCRP-84,0.381,0.47,%,
+weisler1994jpsa_p2o5-GSP-1,GSP-1,0.296,0.34,%,
+weisler1994jpsa_sc-BCRP-84,BCRP-84,34.8,7.7,ppm,
+weisler1994jpsa_sc-GSP-1,GSP-1,3.7,61.08,ppm,
+weisler1994jpsa_v-BCRP-84,BCRP-84,391.0,1.7,ppm,
+weisler1994jpsa_v-GSP-1,GSP-1,49.3,14.81,ppm,
+weisler1994jpsa_cr-BCRP-84,BCRP-84,18.1,7.6,ppm,
+weisler1994jpsa_cr-GSP-1,GSP-1,12.2,20.74,ppm,
+weisler1994jpsa_ni-BCRP-84,BCRP-84,0.0,0.0,ppm,
+weisler1994jpsa_ni-GSP-1,GSP-1,18.7,5.67,ppm,
+weisler1994jpsa_cu-BCRP-84,BCRP-84,11.0,15.5,ppm,
+weisler1994jpsa_cu-GSP-1,GSP-1,37.2,4.87,ppm,
+weisler1994jpsa_zn-BCRP-84,BCRP-84,120.7,1.2,ppm,
+weisler1994jpsa_zn-GSP-1,GSP-1,99.0,1.85,ppm,
+weisler1994jpsa_ga-BCRP-84,BCRP-84,,,ppm,
+weisler1994jpsa_ga-GSP-1,GSP-1,,,ppm,
+weisler1994jpsa_rb-BCRP-84,BCRP-84,46.6,2.1,ppm,
+weisler1994jpsa_rb-GSP-1,GSP-1,252.4,0.33,ppm,
+weisler1994jpsa_sr-BCRP-84,BCRP-84,325.6,0.26,ppm,
+weisler1994jpsa_sr-GSP-1,GSP-1,233.8,0.39,ppm,
+weisler1994jpsa_y-BCRP-84,BCRP-84,37.5,1.4,ppm,
+weisler1994jpsa_y-GSP-1,GSP-1,30.4,3.52,ppm,
+weisler1994jpsa_zr-BCRP-84,BCRP-84,174.3,0.61,ppm,
+weisler1994jpsa_zr-GSP-1,GSP-1,502.6,0.19,ppm,
+weisler1994jpsa_nb-BCRP-84,BCRP-84,13.8,5.9,ppm,
+weisler1994jpsa_nb-GSP-1,GSP-1,30.3,2.24,ppm,
+weisler1994jpsa_ba-BCRP-84,BCRP-84,675.5,2.5,ppm,
+weisler1994jpsa_ba-GSP-1,GSP-1,1297.2,1.32,ppm,
+weisler1994jpsa_la-BCRP-84,BCRP-84,21.1,39.1,ppm,
+weisler1994jpsa_la-GSP-1,GSP-1,188.0,2.49,ppm,
+weisler1994jpsa_ce-BCRP-84,BCRP-84,53.8,14.7,ppm,
+weisler1994jpsa_ce-GSP-1,GSP-1,399.0,3.34,ppm,
+weisler1994jpsa_pb-BCRP-84,BCRP-84,10.8,11.4,ppm,
+weisler1994jpsa_pb-GSP-1,GSP-1,51.6,2.27,ppm,
+weisler1994jpsa_th-BCRP-84,BCRP-84,6.1,22.5,ppm,
+weisler1994jpsa_th-GSP-1,GSP-1,103.3,1.37,ppm,
+weisler1994jpsb_rb-RGM-1,RGM-1,10.1,0.7,ppm,2.0
+weisler1994jpsb_sr-RGM-1,RGM-1,399.5,1.5,ppm,2.0
+weisler1994jpsb_y-RGM-1,RGM-1,26.9,1.5,ppm,2.0
+weisler1994jpsb_zr-RGM-1,RGM-1,170.5,0.35,ppm,2.0
+weisler1994jpsb_nb-RGM-1,RGM-1,20.2,1.3,ppm,2.0
+weisler1994jpsb_pb-RGM-1,RGM-1,0.85,0.8,ppm,2.0
+weisler1995pnasa_pb206pb204-NIST SRM 981,NIST SRM 981,16.937,0.002,±2σ,109.0
+weisler1995pnasa_pb206pb204-NG 0124,NG 0124,18.695,0.0013,±2σ,6.0
+weisler1995pnasa_pb207pb204-NIST SRM 981,NIST SRM 981,15.492,0.0024,±2σ,109.0
+weisler1995pnasa_pb207pb204-NG 0124,NG 0124,15.568,0.0017,±2σ,6.0
+weisler1995pnasa_pb208pb204-NIST SRM 981,NIST SRM 981,36.708,0.0064,±2σ,109.0
+weisler1995pnasa_pb208pb204-NG 0124,NG 0124,38.479,0.0048,±2σ,6.0
+weisler1996pnasa_sr-RGM-1,RGM-1,399.5,1.5,ppm,2.0
+weisler1996pnasa_zr-RGM-1,RGM-1,170.5,0.35,ppm,2.0
+weisler1996pnasa_nb-RGM-1,RGM-1,10.1,0.7,ppm,2.0
+weisler2016aoa_sio2-BHVO-2,BHVO-2,49.73,,,
+weisler2016aoa_tio2-BHVO-2,BHVO-2,2.78,,,
+weisler2016aoa_al2o3-BHVO-2,BHVO-2,13.02,,,
+weisler2016aoa_fe2o3-BHVO-2,BHVO-2,12.32,,,
+weisler2016aoa_cao-BHVO-2,BHVO-2,11.36,,,
+weisler2016aoa_mgo-BHVO-2,BHVO-2,7.42,,,
+weisler2016aoa_mno-BHVO-2,BHVO-2,0.174,,,
+weisler2016aoa_k2o-BHVO-2,BHVO-2,0.55,,,
+weisler2016aoa_na2o-BHVO-2,BHVO-2,2.21,,,
+weisler2016aoa_p2o5-BHVO-2,BHVO-2,0.263,,,
+weisler2016aob_li-BHVO-2,BHVO-2,4.615,0.0649999999999995,ppm,2.0
+weisler2016aob_be-BHVO-2,BHVO-2,1.345,0.09499999999999997,ppm,2.0
+weisler2016aob_mg-BHVO-2,BHVO-2,42413.5,1051.5,ppm,2.0
+weisler2016aob_p-BHVO-2,BHVO-2,1373.0,29.0,ppm,2.0
+weisler2016aob_ca-BHVO-2,BHVO-2,81178.0,122.0,ppm,2.0
+weisler2016aob_sc-BHVO-2,BHVO-2,30.75,0.9499999999999993,ppm,2.0
+weisler2016aob_ti-BHVO-2,BHVO-2,16542.5,264.5,ppm,2.0
+weisler2016aob_v-BHVO-2,BHVO-2,325.0,8.0,ppm,2.0
+weisler2016aob_cr-BHVO-2,BHVO-2,302.5,4.5,ppm,2.0
+weisler2016aob_mn-BHVO-2,BHVO-2,1309.5,23.5,ppm,2.0
+weisler2016aob_fe-BHVO-2,BHVO-2,86353.5,1597.5,ppm,2.0
+weisler2016aob_co-BHVO-2,BHVO-2,45.45,0.8499999999999943,ppm,2.0
+weisler2016aob_ni-BHVO-2,BHVO-2,119.5,2.5,ppm,2.0
+weisler2016aob_cu-BHVO-2,BHVO-2,129.5,2.5,ppm,2.0
+weisler2016aob_zn-BHVO-2,BHVO-2,109.0,2.0,ppm,2.0
+weisler2016aob_ga-BHVO-2,BHVO-2,21.4,0.3000000000000007,ppm,2.0
+weisler2016aob_rb-BHVO-2,BHVO-2,9.015,0.08500000000000085,ppm,2.0
+weisler2016aob_sr-BHVO-2,BHVO-2,396.44,4.899999999999977,ppm,2.0
+weisler2016aob_y-BHVO-2,BHVO-2,23.9,0.0,ppm,2.0
+weisler2016aob_zr-BHVO-2,BHVO-2,171.0,3.0,ppm,2.0
+weisler2016aob_nb-BHVO-2,BHVO-2,18.45,0.25,ppm,2.0
+weisler2016aob_mo-BHVO-2,BHVO-2,4.205,0.5949999999999998,ppm,2.0
+weisler2016aob_cd-BHVO-2,BHVO-2,0.098,0.0010000000000000009,ppm,2.0
+weisler2016aob_sn-BHVO-2,BHVO-2,1.705,0.125,ppm,2.0
+weisler2016aob_sb-BHVO-2,BHVO-2,0.0775,0.0005000000000000004,ppm,2.0
+weisler2016aob_cs-BHVO-2,BHVO-2,0.1,0.0030000000000000027,ppm,2.0
+weisler2016aob_ba-BHVO-2,BHVO-2,132.0,2.0,ppm,2.0
+weisler2016aob_la-BHVO-2,BHVO-2,15.3,0.1999999999999993,ppm,2.0
+weisler2016aob_ce-BHVO-2,BHVO-2,38.05,0.5500000000000043,ppm,2.0
+weisler2016aob_pr-BHVO-2,BHVO-2,5.415,0.08499999999999996,ppm,2.0
+weisler2016aob_nd-BHVO-2,BHVO-2,24.5,0.3000000000000007,ppm,2.0
+weisler2016aob_sm-BHVO-2,BHVO-2,6.15,0.0699999999999994,ppm,2.0
+weisler2016aob_eu-BHVO-2,BHVO-2,2.065,0.02499999999999991,ppm,2.0
+weisler2016aob_gd-BHVO-2,BHVO-2,6.215,0.06500000000000039,ppm,2.0
+weisler2016aob_tb-BHVO-2,BHVO-2,0.9279999999999999,0.013000000000000012,ppm,2.0
+weisler2016aob_dy-BHVO-2,BHVO-2,5.24,0.04999999999999982,ppm,2.0
+weisler2016aob_ho-BHVO-2,BHVO-2,0.9884999999999999,0.011500000000000066,ppm,2.0
+weisler2016aob_er-BHVO-2,BHVO-2,2.495,0.01499999999999968,ppm,2.0
+weisler2016aob_tm-BHVO-2,BHVO-2,0.339,0.0030000000000000027,ppm,2.0
+weisler2016aob_yb-BHVO-2,BHVO-2,1.9649999999999999,0.0050000000000001155,ppm,2.0
+weisler2016aob_lu-BHVO-2,BHVO-2,0.2735,0.0005000000000000004,ppm,2.0
+weisler2016aob_hf-BHVO-2,BHVO-2,4.395,0.055000000000000604,ppm,2.0
+weisler2016aob_ta-BHVO-2,BHVO-2,1.135,0.014999999999999902,ppm,2.0
+weisler2016aob_w-BHVO-2,BHVO-2,0.193,0.006000000000000005,ppm,2.0
+weisler2016aob_tl-BHVO-2,BHVO-2,0.0195,0.0005000000000000004,ppm,2.0
+weisler2016aob_pb-BHVO-2,BHVO-2,1.56,0.06000000000000005,ppm,2.0
+weisler2016aob_th-BHVO-2,BHVO-2,1.135,0.03499999999999992,ppm,2.0
+weisler2016aob_u-BHVO-2,BHVO-2,0.4315,0.0025000000000000022,ppm,2.0
+weisler2016aoc_nd143nd144-BHVO-2,BHVO-2,0.512987,5.5e-06,±2σ,2.0
+weisler2016aoc_sr87sr86-BHVO-2,BHVO-2,0.7034745,1.0500000000000001e-05,±2σ,2.0
+weisler2016aoc_pb206pb204-BHVO-2,BHVO-2,18.60275,0.00135,±2σ,2.0
+weisler2016aoc_pb207pb204-BHVO-2,BHVO-2,15.53305,0.0018,±2σ,2.0
+weisler2016aoc_pb208pb204-BHVO-2,BHVO-2,38.200649999999996,0.0054,±2σ,2.0
+weisler2016aoc_pb207pb206-BHVO-2,BHVO-2,0.8349500000000001,1e-05,±2σ,2.0
+weisler2016aoc_pb208pb206-BHVO-2,BHVO-2,2.053445,6.000000000000001e-05,±2σ,2.0
+weisler2016pnasa_li-BHVO-2,BHVO-2,4.63,,,
+weisler2016pnasa_be-BHVO-2,BHVO-2,1.29,,,
+weisler2016pnasa_mg-BHVO-2,BHVO-2,42607.0,,,
+weisler2016pnasa_p-BHVO-2,BHVO-2,1218.0,,,
+weisler2016pnasa_ca-BHVO-2,BHVO-2,79141.0,,,
+weisler2016pnasa_sc-BHVO-2,BHVO-2,31.4,,,
+weisler2016pnasa_ti-BHVO-2,BHVO-2,16299.0,,,
+weisler2016pnasa_v-BHVO-2,BHVO-2,307.0,,,
+weisler2016pnasa_cr-BHVO-2,BHVO-2,296.0,,,
+weisler2016pnasa_mn-BHVO-2,BHVO-2,1279.0,,,
+weisler2016pnasa_fe-BHVO-2,BHVO-2,84811.0,,,
+weisler2016pnasa_co-BHVO-2,BHVO-2,44.2,,,
+weisler2016pnasa_ni-BHVO-2,BHVO-2,104.0,,,
+weisler2016pnasa_cu-BHVO-2,BHVO-2,124.0,,,
+weisler2016pnasa_zn-BHVO-2,BHVO-2,95.7,,,
+weisler2016pnasa_ga-BHVO-2,BHVO-2,20.6,,,
+weisler2016pnasa_rb-BHVO-2,BHVO-2,8.91,,,
+weisler2016pnasa_sr-BHVO-2,BHVO-2,382.0,,,
+weisler2016pnasa_y-BHVO-2,BHVO-2,23.8,,,
+weisler2016pnasa_zr-BHVO-2,BHVO-2,165.0,,,
+weisler2016pnasa_nb-BHVO-2,BHVO-2,18.1,,,
+weisler2016pnasa_mo-BHVO-2,BHVO-2,3.01,,,
+weisler2016pnasa_cd-BHVO-2,BHVO-2,0.831,,,
+weisler2016pnasa_sb-BHVO-2,BHVO-2,0.077,,,
+weisler2016pnasa_cs-BHVO-2,BHVO-2,0.095,,,
+weisler2016pnasa_ba-BHVO-2,BHVO-2,126.0,,,
+weisler2016pnasa_la-BHVO-2,BHVO-2,14.7,,,
+weisler2016pnasa_ce-BHVO-2,BHVO-2,36.6,,,
+weisler2016pnasa_pr-BHVO-2,BHVO-2,5.25,,,
+weisler2016pnasa_nd-BHVO-2,BHVO-2,23.7,,,
+weisler2016pnasa_sm-BHVO-2,BHVO-2,5.99,,,
+weisler2016pnasa_eu-BHVO-2,BHVO-2,2.03,,,
+weisler2016pnasa_gd-BHVO-2,BHVO-2,6.11,,,
+weisler2016pnasa_tb-BHVO-2,BHVO-2,0.931,,,
+weisler2016pnasa_dy-BHVO-2,BHVO-2,5.15,,,
+weisler2016pnasa_ho-BHVO-2,BHVO-2,0.983,,,
+weisler2016pnasa_er-BHVO-2,BHVO-2,2.47,,,
+weisler2016pnasa_tm-BHVO-2,BHVO-2,0.325,,,
+weisler2016pnasa_yb-BHVO-2,BHVO-2,1.94,,,
+weisler2016pnasa_lu-BHVO-2,BHVO-2,0.269,,,
+weisler2016pnasa_hf-BHVO-2,BHVO-2,4.3,,,
+weisler2016pnasa_ta-BHVO-2,BHVO-2,1.18,,,
+weisler2016pnasa_w-BHVO-2,BHVO-2,0.2,,,
+weisler2016pnasa_tl-BHVO-2,BHVO-2,0.019,,,
+weisler2016pnasa_pb-BHVO-2,BHVO-2,1.39,,,
+weisler2016pnasa_th-BHVO-2,BHVO-2,1.13,,,
+weisler2016pnasa_u-BHVO-2,BHVO-2,0.411,,,
+weisler2016pnasb_sr87sr86-BHVO-2,BHVO-2,0.703469,7e-06,2σ,2.0
+weisler2016pnasc_nd143nd144-BHVO-2,BHVO-2,0.5129783,1.5e-05,,2.0
+weisler2016pnasc_pb206pb204-BHVO-2,BHVO-2,18.6264,0.0014,,
+weisler2016pnasc_pb207pb204-BHVO-2,BHVO-2,15.5361,0.0013,,
+weisler2016pnasc_pb208pb204-BHVO-2,BHVO-2,38.2044,0.0034,,
+weisler2016pnasc_pb207pb206-BHVO-2,BHVO-2,0.83407,2e-05,,
+weisler2016pnasc_pb208pb206-BHVO-2,BHVO-2,2.05104,5e-05,,
+weisler2016pnasa_na-BHVO-2,BHVO-2,15.911,,,
+weisler2016pnasa_k-BHVO-2,BHVO-2,4146.0,,,
+weisler1998currantha_sio2-BCR-1,BCR-1,55.16,,,
+weisler1998currantha_tio2-BCR-1,BCR-1,13.66,,,
+weisler1998currantha_al2o3-BCR-1,BCR-1,2.285,,,
+weisler1998currantha_feo-BCR-1,BCR-1,12.48,,,
+weisler1998currantha_cao-BCR-1,BCR-1,7.04,,,
+weisler1998currantha_mgo-BCR-1,BCR-1,3.45,,,
+weisler1998currantha_mno-BCR-1,BCR-1,0.184,,,
+weisler1998currantha_k2o-BCR-1,BCR-1,1.75,,,
+weisler1998currantha_na2o-BCR-1,BCR-1,3.42,,,
+weisler1998currantha_p2o5-BCR-1,BCR-1,0.37,,,
+weisler1998currantha_sc-BCR-1,BCR-1,30.0,,,
+weisler1998currantha_v-BCR-1,BCR-1,396.0,,,
+weisler1998currantha_cr-BCR-1,BCR-1,23.0,,,
+weisler1998currantha_ni-BCR-1,BCR-1,3.0,,,
+weisler1998currantha_cu-BCR-1,BCR-1,10.0,,,
+weisler1998currantha_zn-BCR-1,BCR-1,129.0,,,
+weisler1998currantha_ga-BCR-1,BCR-1,22.0,,,
+weisler1998currantha_rb-BCR-1,BCR-1,49.0,,,
+weisler1998currantha_sr-BCR-1,BCR-1,327.0,,,
+weisler1998currantha_y-BCR-1,BCR-1,36.0,,,
+weisler1998currantha_zr-BCR-1,BCR-1,178.0,,,
+weisler1998currantha_nb-BCR-1,BCR-1,13.0,,,
+weisler1998currantha_ba-BCR-1,BCR-1,669.0,,,
+weisler1998currantha_la-BCR-1,BCR-1,14.0,,,
+weisler1998currantha_ce-BCR-1,BCR-1,54.0,,,
+weisler1998currantha_pb-BCR-1,BCR-1,12.0,,,
+weisler1998currantha_th-BCR-1,BCR-1,7.0,,,
+mcalister2017pob_sio2-JR-1,JR-1,72.33742658441798,,,
+mcalister2017pob_sio2-JR-2,JR-2,69.94010931894597,,,
+mcalister2017pob_tio2-JR-1,JR-1,0.0921288865916492,,,
+mcalister2017pob_tio2-JR-2,JR-2,0.03476324674039635,,,
+mcalister2017pob_feot-JR-1,JR-1,0.9624003864916464,,,
+mcalister2017pob_feot-JR-2,JR-2,0.8592524016757432,,,
+mcalister2017pob_cao-JR-1,JR-1,0.6810111986177164,,,
+mcalister2017pob_cao-JR-2,JR-2,0.5417637914780575,,,
+mcalister2017pob_k2o-JR-1,JR-1,4.377814325315275,,,
+mcalister2017pob_k2o-JR-2,JR-2,4.303534384923505,,,
+mcalister2017pob_v-JR-1,JR-1,<LOD,,,
+mcalister2017pob_v-JR-2,JR-2,<LOD,,,
+mcalister2017pob_cr-JR-1,JR-1,4.4904439664794396,,,
+mcalister2017pob_cr-JR-2,JR-2,1.6879735476913922,,,
+mcalister2017pob_ni-JR-1,JR-1,<LOD,,,
+mcalister2017pob_ni-JR-2,JR-2,<LOD,,,
+mcalister2017pob_cu-JR-1,JR-1,<LOD,,,
+mcalister2017pob_cu-JR-2,JR-2,<LOD,,,
+mcalister2017pob_zn-JR-1,JR-1,23.779588209373934,,,
+mcalister2017pob_zn-JR-2,JR-2,27.094942766307984,,,
+mcalister2017pob_rb-JR-1,JR-1,259.301218544941,,,
+mcalister2017pob_rb-JR-2,JR-2,303.71338505753164,,,
+mcalister2017pob_sr-JR-1,JR-1,32.29,,,
+mcalister2017pob_sr-JR-2,JR-2,10.703,,,
+mcalister2017pob_y-JR-1,JR-1,44.539868813423176,,,
+mcalister2017pob_y-JR-2,JR-2,49.48809418165468,,,
+mcalister2017pob_zr-JR-1,JR-1,98.05428846506966,,,
+mcalister2017pob_zr-JR-2,JR-2,97.86998666440819,,,
+mcalister2017pob_nb-JR-1,JR-1,17.853404053026935,,,
+mcalister2017pob_nb-JR-2,JR-2,20.061393388439967,,,
+mcalister2017pob_pb-JR-1,JR-1,25.658047667448756,,,
+mcalister2017pob_pb-JR-2,JR-2,21.610303354020893,,,
+mcalister2017pob_th-JR-1,JR-1,12.68577,,,
+mcalister2017pob_th-JR-2,JR-2,10.8279,,,
+best1992jpsa_sio2-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),45.72,0.24,%,16.0
+best1992jpsa_tio2-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),2.23,0.02,%,16.0
+best1992jpsa_al2o3-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),13.77,0.11,%,16.0
+best1992jpsa_fe2o3-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),13.25,0.12,%,16.0
+best1992jpsa_cao-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),9.61,0.07,%,16.0
+best1992jpsa_mgo-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),10.53,0.12,%,16.0
+best1992jpsa_mno-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.2,0.02,%,16.0
+best1992jpsa_k2o-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.97,0.01,%,16.0
+best1992jpsa_na2o-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),3.73,0.07,%,16.0
+best1992jpsa_p2o5-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),0.44,0.01,%,16.0
+best1992jpsa_v-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),210.5,8.3,ppm,18.0
+best1992jpsa_cr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),294.1,11.1,ppm,18.0
+best1992jpsa_ni-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),218.6,5.7,ppm,18.0
+best1992jpsa_zn-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),118.0,2.1,ppm,18.0
+best1992jpsa_rb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),17.3,1.1,ppm,18.0
+best1992jpsa_sr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),477.4,2.2,ppm,18.0
+best1992jpsa_y-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),21.0,1.3,ppm,18.0
+best1992jpsa_zr-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),162.6,2.7,ppm,18.0
+best1992jpsa_nb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),33.1,0.6,ppm,18.0
+best1992jpsa_ba-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),206.3,5.7,ppm,18.0
+best1992jpsa_la-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),23.6,2.5,ppm,18.0
+best1992jpsa_pb-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),7.2,1.7,ppm,18.0
+best1992jpsa_th-MEB (Mount Eden Basalt),MEB (Mount Eden Basalt),4.3,2.0,ppm,18.0
+mccoy2016qra_fe-BHVO-2,BHVO-2,80640.0,3743.0,ppm,9.0
+mccoy2016qra_sr-BHVO-2,BHVO-2,405.0,23.0,ppm,9.0
+mccoy2016qra_y-BHVO-2,BHVO-2,26.0,2.0,ppm,9.0
+mccoy2016qra_zr-BHVO-2,BHVO-2,176.0,10.0,ppm,9.0
+mccoy2016qra_nb-BHVO-2,BHVO-2,19.0,2.0,ppm,9.0
+hermann2019aoa_sio2-CB2,CB2,47.05068086049528,-0.1078316180750567,%,
+hermann2019aoa_sio2-BELC,BELC,38.24890018558852,1.2931608113844701,%,
+hermann2019aoa_sio2-CB15,CB15,49.65272443827463,0.29573405968948874,%,
+hermann2019aoa_sio2-CB18,CB18,40.16788339265473,0.5745460577853186,%,
+hermann2019aoa_sio2-ACE,ACE,72.45646526706912,-2.994264771953271,%,
+hermann2019aoa_sio2-ME,ME,50.05036114673464,-0.5027332263747797,%,
+hermann2019aoa_tio2-CB2,CB2,2.427487355866098,-1.1453064944207578,%,
+hermann2019aoa_tio2-BELC,BELC,2.590508241272041,1.5015877843330445,%,
+hermann2019aoa_tio2-CB15,CB15,1.3694750414777734,0.762678153784526,%,
+hermann2019aoa_tio2-CB18,CB18,2.4664721488331685,1.3411140466732618,%,
+hermann2019aoa_tio2-ACE,ACE,0.11256169173421261,-2.328810667466011,%,
+hermann2019aoa_tio2-ME,ME,1.7360785027468575,1.9164687713639847,%,
+hermann2019aoa_al2o3-CB2,CB2,15.783239865965077,1.967454248664124,%,
+hermann2019aoa_al2o3-BELC,BELC,9.91247718032174,3.292905557836677,%,
+hermann2019aoa_al2o3-CB15,CB15,15.176194715254402,0.15661371543156039,%,
+hermann2019aoa_al2o3-CB18,CB18,11.26865961894789,3.2733079918636094,%,
+hermann2019aoa_al2o3-ACE,ACE,14.670015309921506,0.20397748352716194,%,
+hermann2019aoa_al2o3-ME,ME,15.952527732203135,1.8305985710576285,%,
+hermann2019aoa_fe2o3-CB2,CB2,11.193082965433153,7.495182103858242,%,
+hermann2019aoa_fe2o3-BELC,BELC,11.926116928020587,7.405924471889858,%,
+hermann2019aoa_fe2o3-CB15,CB15,11.126689804715385,-0.24044869112959621,%,
+hermann2019aoa_fe2o3-CB18,CB18,13.908291424579534,1.4295434119097454,%,
+hermann2019aoa_fe2o3-ACE,ACE,2.6388191509469463,-4.301152211341759,%,
+hermann2019aoa_fe2o3-ME,ME,9.849760011112354,-0.7132925471610859,%,
+hermann2019aoa_cao-CB2,CB2,9.024306882823435,8.382671240371216,%,
+hermann2019aoa_cao-BELC,BELC,13.815835211930573,1.6666532958678162,%,
+hermann2019aoa_cao-CB15,CB15,11.995847080692695,-2.092315580363359,%,
+hermann2019aoa_cao-CB18,CB18,11.555634835557594,1.233890294379531,%,
+hermann2019aoa_cao-ACE,ACE,0.3080970882613338,9.383209334901828,%,
+hermann2019aoa_cao-ME,ME,11.304021783453146,-2.763834395028604,%,
+hermann2019aoa_mgo-CB2,CB2,5.8404768129090865,10.146510570629438,%,
+hermann2019aoa_mgo-BELC,BELC,13.021904804865633,0.5961465277432572,%,
+hermann2019aoa_mgo-CB15,CB15,7.439713103995183,0.1380791410042524,%,
+hermann2019aoa_mgo-CB18,CB18,10.79886401058034,0.5629464955769728,%,
+hermann2019aoa_mgo-ACE,ACE,0.05594942125175236,-86.49807083917455,%,
+hermann2019aoa_mgo-ME,ME,7.514921824035397,0.46461160218016406,%,
+hermann2019aoa_mno-CB2,CB2,0.17646021247981086,9.50758334368674,%,
+hermann2019aoa_mno-BELC,BELC,0.1795326875808652,11.560252423219113,%,
+hermann2019aoa_mno-CB15,CB15,0.18414785505238757,0.4606188906013146,%,
+hermann2019aoa_mno-CB18,CB18,0.4604324083664615,-0.09400181879597119,%,
+hermann2019aoa_mno-ACE,ACE,0.06087353154537101,-4.9543647333982825,%,
+hermann2019aoa_mno-ME,ME,0.17682393263017482,-1.0422472172427597,%,
+hermann2019aoa_k2o-CB2,CB2,1.6385434080482357,1.2925657802267585,%,
+hermann2019aoa_k2o-BELC,BELC,1.5284076169666092,7.369235335357013,%,
+hermann2019aoa_k2o-CB15,CB15,0.13277773081566027,0.16711968747348502,%,
+hermann2019aoa_k2o-CB18,CB18,2.1161976876972965,2.4793692305393265,%,
+hermann2019aoa_k2o-ACE,ACE,4.4660793073808405,0.5327548467518874,%,
+hermann2019aoa_k2o-ME,ME,0.42610065704354866,-3.926989522816752,%,
+hermann2019aoa_na2o-CB2,CB2,3.7716177891416782,0.7469002857453053,%,
+hermann2019aoa_na2o-BELC,BELC,3.4443272364205355,1.5906503879846996,%,
+hermann2019aoa_na2o-CB15,CB15,2.724895122728023,-4.803658566462417,%,
+hermann2019aoa_na2o-CB18,CB18,3.2369352948752534,2.5019489495405542,%,
+hermann2019aoa_na2o-ACE,ACE,6.479168700715937,0.9301421908878091,%,
+hermann2019aoa_na2o-ME,ME,3.18428130157946,-3.3857565447876596,%,
+hermann2019aoa_p2o5-CB2,CB2,0.6578157777856081,1.818540629013727,%,
+hermann2019aoa_p2o5-BELC,BELC,0.9311411002645957,11.319895212895648,%,
+hermann2019aoa_p2o5-CB15,CB15,0.12751469702621884,8.918073552700836,%,
+hermann2019aoa_p2o5-CB18,CB18,0.9179154681378978,-1.4271235511489269,%,
+hermann2019aoa_p2o5-ACE,ACE,0.0023412670004197968,83.27666428271574,%,
+hermann2019aoa_p2o5-ME,ME,0.25492869821212916,-1.9714792848516627,%,
+hermann2019aoa_sc-CB2,CB2,21.598224277543903,1.8262532838913517,%,
+hermann2019aoa_sc-BELC,BELC,21.674152021777505,3.6704354587666423,%,
+hermann2019aoa_sc-CB15,CB15,40.83719635755456,0.397082054744974,%,
+hermann2019aoa_sc-CB18,CB18,24.619281771267456,2.690585884318358,%,
+hermann2019aoa_sc-ACE,ACE,0.15411072741837414,-40.10066128943104,%,
+hermann2019aoa_sc-ME,ME,37.03437339700068,1.2416709413315252,%,
+hermann2019aoa_rb-CB2,CB2,37.1713153525933,2.1807490721229033,%,
+hermann2019aoa_rb-BELC,BELC,47.46513083913497,6.009641902703026,%,
+hermann2019aoa_rb-CB15,CB15,0.712250038870855,67.62499823314295,%,
+hermann2019aoa_rb-CB18,CB18,109.09440213439915,2.1574868749783436,%,
+hermann2019aoa_rb-ACE,ACE,153.05031247184243,-0.6909950472647577,%,
+hermann2019aoa_rb-ME,ME,1.6442405669438562,58.89398582640359,%,
+hermann2019aoa_sr-CB2,CB2,749.8263098831535,7.428850631709445,%,
+hermann2019aoa_sr-BELC,BELC,1383.2417846171356,2.5886067171031244,%,
+hermann2019aoa_sr-CB15,CB15,114.22620158848767,0.6728681839237661,%,
+hermann2019aoa_sr-CB18,CB18,1120.9098376121997,3.3698415851552,%,
+hermann2019aoa_sr-ACE,ACE,1.2768898744019013,57.43700418660329,%,
+hermann2019aoa_sr-ME,ME,218.2912093958927,0.7767230018669512,%,
+hermann2019aoa_y-CB2,CB2,26.463015944039128,1.988829836892118,%,
+hermann2019aoa_y-BELC,BELC,28.273293183324906,4.1583281921189625,%,
+hermann2019aoa_y-CB15,CB15,30.86579645322371,-0.5400535935625718,%,
+hermann2019aoa_y-CB18,CB18,60.44457976558654,0.9105249744482966,%,
+hermann2019aoa_y-ACE,ACE,180.51004361745052,1.8967154252986302,%,
+hermann2019aoa_y-ME,ME,32.033120142833155,1.4365534066672143,%,
+hermann2019aoa_zr-CB2,CB2,213.4435335126731,4.712708253270938,%,
+hermann2019aoa_zr-BELC,BELC,242.78893762771315,6.619639373956479,%,
+hermann2019aoa_zr-CB15,CB15,82.17667802142864,-2.7208475267858034,%,
+hermann2019aoa_zr-CB18,CB18,233.34303166536523,6.662787333853908,%,
+hermann2019aoa_zr-ACE,ACE,765.0627994023049,1.9150257176532175,%,
+hermann2019aoa_zr-ME,ME,146.85161339235776,2.098924405094825,%,
+hermann2019aoa_nb-CB2,CB2,59.811042230888994,1.9491110969032892,%,
+hermann2019aoa_nb-BELC,BELC,101.8728846719753,2.0453032000237505,%,
+hermann2019aoa_nb-CB15,CB15,2.7318677093069907,8.937743023100309,%,
+hermann2019aoa_nb-CB18,CB18,92.47584233148993,3.670997571364657,%,
+hermann2019aoa_nb-ACE,ACE,108.96298465145583,0.9427412259492485,%,
+hermann2019aoa_nb-ME,ME,9.502847898397064,-2.1811601978178885,%,
+hermann2019aoa_ba-CB2,CB2,526.5826524884462,-1.2658947093165824,%,
+hermann2019aoa_ba-BELC,BELC,963.2388956102111,1.2062671169014254,%,
+hermann2019aoa_ba-CB15,CB15,14.738105120993302,18.121638216703882,%,
+hermann2019aoa_ba-CB18,CB18,890.8928576734504,2.099685969950505,%,
+hermann2019aoa_ba-ACE,ACE,55.40089901088623,-0.7289072925204142,%,
+hermann2019aoa_ba-ME,ME,38.459306926262016,3.851732684344959,%,
+hermann2019aoa_la-CB2,CB2,46.034941772469885,-0.07596037493453321,%,
+hermann2019aoa_la-BELC,BELC,82.83917984872706,-1.0233900594232395,%,
+hermann2019aoa_la-CB15,CB15,3.674586076208577,-4.98817360595934,%,
+hermann2019aoa_la-CB18,CB18,76.10553334922234,-0.13885967002939623,%,
+hermann2019aoa_la-ACE,ACE,56.858061705486236,3.63040388900638,%,
+hermann2019aoa_la-ME,ME,9.147547080894993,-1.6394120099443694,%,
+hermann2019aoa_ce-CB2,CB2,88.512569630607,-1.738585782306901,%,
+hermann2019aoa_ce-BELC,BELC,149.41169088138597,-0.9538451901256523,%,
+hermann2019aoa_ce-CB15,CB15,10.804393403254053,-4.897023332563618,%,
+hermann2019aoa_ce-CB18,CB18,137.964772308005,0.7447681237374132,%,
+hermann2019aoa_ce-ACE,ACE,152.23892681993078,1.1435540130319597,%,
+hermann2019aoa_ce-ME,ME,22.713146198591733,1.2471904409055072,%,
+hermann2019aoa_nd-CB2,CB2,5.179359216490224,0.39693814441877656,%,
+hermann2019aoa_nd-BELC,BELC,6.144095127882216,2.474680509806092,%,
+hermann2019aoa_nd-CB15,CB15,5.149623289597296,1.9119373410038776,%,
+hermann2019aoa_nd-CB18,CB18,10.275736983130932,3.0590850648025296,%,
+hermann2019aoa_nd-ACE,ACE,28.942871409593472,0.19699513933285426,%,
+hermann2019aoa_nd-ME,ME,5.62962309682203,-0.5289838718219706,%,
+hermann2019aoa_sm-CB2,CB2,2.906084654295109,-11.77248670365804,%,
+hermann2019aoa_sm-BELC,BELC,2.8955813886808133,-11.368514949262046,%,
+hermann2019aoa_sm-CB15,CB15,3.454311222981328,-4.67609766610086,%,
+hermann2019aoa_sm-CB18,CB18,6.619411304431793,-2.6265318516557032,%,
+hermann2019aoa_sm-ACE,ACE,17.81861197675254,-0.6701241624437274,%,
+hermann2019aoa_sm-ME,ME,3.4936583659804334,-4.288309432251742,%,
+hermann2019aoa_eu-CB2,CB2,2.4011648550363667,-0.8892796233767555,%,
+hermann2019aoa_eu-BELC,BELC,3.687040743013798,-1.0148148770903624,%,
+hermann2019aoa_eu-CB15,CB15,1.1606420882827166,0.7998215142977168,%,
+hermann2019aoa_eu-CB18,CB18,3.36901130841659,-0.5675017437788039,%,
+hermann2019aoa_eu-ACE,ACE,2.075607347899186,-3.7803673949593053,%,
+hermann2019aoa_eu-ME,ME,1.5849841172334251,-2.2570398215112966,%,
+hermann2019aoa_gd-CB2,CB2,6.782508054878575,0.2572344870797703,%,
+hermann2019aoa_gd-BELC,BELC,9.478317950034379,2.285381958408459,%,
+hermann2019aoa_gd-CB15,CB15,4.447915014657604,1.1574441187199092,%,
+hermann2019aoa_gd-CB18,CB18,10.198635327425146,0.9841230347073272,%,
+hermann2019aoa_gd-ACE,ACE,26.48180329465106,-1.8530895948117632,%,
+hermann2019aoa_gd-ME,ME,5.406049034032598,-3.962481423703812,%,
+hermann2019aoa_dy-CB2,CB2,42.03101688253434,-0.07384972031985289,%,
+hermann2019aoa_dy-BELC,BELC,67.17500334903637,-0.2611990284124976,%,
+hermann2019aoa_dy-CB15,CB15,9.416711743965749,0.8767184845710648,%,
+hermann2019aoa_dy-CB18,CB18,63.04189251944553,1.4970429383663553,%,
+hermann2019aoa_dy-ACE,ACE,91.39910105183247,0.6531510306168758,%,
+hermann2019aoa_dy-ME,ME,16.379449020518823,-2.371556378242645,%,
+hermann2019aoa_er-CB2,CB2,8.02072394582543,-0.2590493228178836,%,
+hermann2019aoa_er-BELC,BELC,12.38441346325933,-0.6862883191815381,%,
+hermann2019aoa_er-CB15,CB15,2.994430069468589,6.424060329106599,%,
+hermann2019aoa_er-CB18,CB18,11.897939439997527,-1.691790085448958,%,
+hermann2019aoa_er-ACE,ACE,24.41716429109225,-0.8973731036869808,%,
+hermann2019aoa_er-ME,ME,4.339708722817021,-5.8465542150493075,%,
+hermann2019aoa_yb-CB2,CB2,5.2307115181028,1.3073298471169759,%,
+hermann2019aoa_yb-BELC,BELC,10.405958040437158,0.895637710122308,%,
+hermann2019aoa_yb-CB15,CB15,0.044986799711331515,87.14662865390528,%,
+hermann2019aoa_yb-CB18,CB18,13.673370234145631,-5.17977103188947,%,
+hermann2019aoa_yb-ACE,ACE,18.51019782082224,-0.055123355795883316,%,
+hermann2019aoa_yb-ME,ME,0.6323119626609465,2.7212365137005463,%,
+hermann2019aoa_th-CB2,CB2,2.192839727501129,-0.5889783257398494,%,
+hermann2019aoa_th-BELC,BELC,1.7435700994585812,2.5938491922580345,%,
+hermann2019aoa_th-CB15,CB15,3.172240983258824,-1.674390489064871,%,
+hermann2019aoa_th-CB18,CB18,6.080492392777656,-2.0216844425781244,%,
+hermann2019aoa_th-ACE,ACE,17.52891793129501,-0.7409076511207494,%,
+hermann2019aoa_th-ME,ME,3.2001459922477835,-0.004562257743229159,%,
+hermann2019aob_sio2-JR-1,JR-1,72.33742658441798,,,
+hermann2019aob_sio2-JR-2,JR-2,69.94010931894597,,,
+hermann2019aob_tio2-JR-1,JR-1,0.0921288865916492,,,
+hermann2019aob_tio2-JR-2,JR-2,0.03476324674039635,,,
+hermann2019aob_cao-JR-1,JR-1,0.6810111986177164,,,
+hermann2019aob_cao-JR-2,JR-2,0.5417637914780575,,,
+hermann2019aob_mno-JR-1,JR-1,4.377814325315275,,,
+hermann2019aob_mno-JR-2,JR-2,4.303534384923505,,,
+hermann2019aob_v-JR-1,JR-1,4.4904439664794396,,,
+hermann2019aob_v-JR-2,JR-2,1.6879735476913922,,,
+hermann2019aob_cu-JR-1,JR-1,23.779588209373934,,,
+hermann2019aob_cu-JR-2,JR-2,27.094942766307984,,,
+hermann2019aob_ga-JR-1,JR-1,259.301218544941,,,
+hermann2019aob_ga-JR-2,JR-2,303.71338505753164,,,
+hermann2019aob_rb-JR-1,JR-1,32.29,,,
+hermann2019aob_rb-JR-2,JR-2,10.703,,,
+hermann2019aob_sr-JR-1,JR-1,44.539868813423176,,,
+hermann2019aob_sr-JR-2,JR-2,49.48809418165468,,,
+hermann2019aob_y-JR-1,JR-1,98.05428846506966,,,
+hermann2019aob_y-JR-2,JR-2,97.86998666440819,,,
+hermann2019aob_zr-JR-1,JR-1,17.853404053026935,,,
+hermann2019aob_zr-JR-2,JR-2,20.061393388439967,,,
+hermann2019aob_nb-JR-1,JR-1,25.658047667448756,,,
+hermann2019aob_nb-JR-2,JR-2,21.610303354020893,,,
+hermann2019aob_pb-JR-1,JR-1,12.68577,,,
+hermann2019aob_pb-JR-2,JR-2,10.8279,,,
+reepmeyer2010archaeometryb_p-ANU2000,ANU2000,189.09,3.84,ppm,10.0
+reepmeyer2010archaeometryb_sc-ANU2000,ANU2000,6.5,0.68,ppm,10.0
+reepmeyer2010archaeometryb_ti-ANU2000,ANU2000,1990.84,22.9,ppm,10.0
+reepmeyer2010archaeometryb_v-ANU2000,ANU2000,5.63,0.09,ppm,10.0
+reepmeyer2010archaeometryb_mn-ANU2000,ANU2000,450.63,12.59,ppm,10.0
+reepmeyer2010archaeometryb_co-ANU2000,ANU2000,1.37,0.04,ppm,10.0
+reepmeyer2010archaeometryb_ni-ANU2000,ANU2000,0.32,0.11,ppm,10.0
+reepmeyer2010archaeometryb_cu-ANU2000,ANU2000,3.37,0.26,ppm,10.0
+reepmeyer2010archaeometryb_as-ANU2000,ANU2000,2.09,0.15,ppm,10.0
+reepmeyer2010archaeometryb_rb-ANU2000,ANU2000,144.7,4.88,ppm,10.0
+reepmeyer2010archaeometryb_sr-ANU2000,ANU2000,57.11,1.77,ppm,10.0
+reepmeyer2010archaeometryb_y-ANU2000,ANU2000,31.32,0.83,ppm,10.0
+reepmeyer2010archaeometryb_zr-ANU2000,ANU2000,277.17,6.76,ppm,10.0
+reepmeyer2010archaeometryb_nb-ANU2000,ANU2000,42.36,0.23,ppm,10.0
+reepmeyer2010archaeometryb_mo-ANU2000,ANU2000,3.52,0.07,ppm,10.0
+reepmeyer2010archaeometryb_sn-ANU2000,ANU2000,3.11,0.09,ppm,10.0
+reepmeyer2010archaeometryb_cs-ANU2000,ANU2000,1.94,0.07,ppm,10.0
+reepmeyer2010archaeometryb_ba-ANU2000,ANU2000,619.75,30.34,ppm,10.0
+reepmeyer2010archaeometryb_la-ANU2000,ANU2000,34.83,1.23,ppm,10.0
+reepmeyer2010archaeometryb_ce-ANU2000,ANU2000,69.74,2.61,ppm,10.0
+reepmeyer2010archaeometryb_pr-ANU2000,ANU2000,7.17,0.32,ppm,10.0
+reepmeyer2010archaeometryb_nd-ANU2000,ANU2000,23.39,0.83,ppm,10.0
+reepmeyer2010archaeometryb_sm-ANU2000,ANU2000,4.97,0.15,ppm,10.0
+reepmeyer2010archaeometryb_eu-ANU2000,ANU2000,0.85,0.03,ppm,10.0
+reepmeyer2010archaeometryb_gd-ANU2000,ANU2000,5.03,0.16,ppm,10.0
+reepmeyer2010archaeometryb_tb-ANU2000,ANU2000,0.78,0.03,ppm,10.0
+reepmeyer2010archaeometryb_dy-ANU2000,ANU2000,5.25,0.14,ppm,10.0
+reepmeyer2010archaeometryb_er-ANU2000,ANU2000,3.42,0.07,ppm,10.0
+reepmeyer2010archaeometryb_tm-ANU2000,ANU2000,0.53,0.02,ppm,10.0
+reepmeyer2010archaeometryb_yb-ANU2000,ANU2000,3.71,0.1,ppm,10.0
+reepmeyer2010archaeometryb_lu-ANU2000,ANU2000,0.57,0.02,ppm,10.0
+reepmeyer2010archaeometryb_ta-ANU2000,ANU2000,3.01,0.05,ppm,10.0
+reepmeyer2010archaeometryb_w-ANU2000,ANU2000,1.25,0.02,ppm,10.0
+reepmeyer2010archaeometryb_th-ANU2000,ANU2000,10.43,0.8,ppm,10.0
+reepmeyer2010archaeometryb_u-ANU2000,ANU2000,2.99,0.23,ppm,10.0
+reepmeyer2010archaeometryc_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2σ,
+reepmeyer2010archaeometryc_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2σ,
+reepmeyer2010archaeometryc_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2σ,
+reepmeyer2010archaeometryc_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2σ,
+reepmeyer2010archaeometryc_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2σ,
+mccoy2019joadb_zn-BHVO-2,BHVO-2,116.0,41.0,ppm,
+mccoy2019joadb_rb-BHVO-2,BHVO-2,10.0,2.0,ppm,
+mccoy2019joadb_sr-BHVO-2,BHVO-2,378.0,18.0,ppm,
+mccoy2019joadb_y-BHVO-2,BHVO-2,24.0,2.0,ppm,
+mccoy2019joadb_zr-BHVO-2,BHVO-2,159.0,7.0,ppm,
+mccoy2019joadb_nb-BHVO-2,BHVO-2,16.0,2.0,ppm,
+mccoy2019joadb_th-BHVO-2,BHVO-2,2.2,3.2,ppm,
+mccoy2019joadc_fe-BHVO-2,BHVO-2,83675.0,1969.0,ppm,
+mccoy2019joadb_mn-BHVO-2,BHVO-2,1270.0,174.0,ppm,
+mccoy2019joada_ti-NIST-278,NIST-278,1507.0,85.0,ppm,
+mccoy2019joada_mn-NIST-278,NIST-278,399.0,14.0,ppm,
+mccoy2019joada_fe-NIST-278,NIST-278,15113.0,113.0,ppm,
+mccoy2019joada_zn-NIST-278,NIST-278,53.0,4.1,ppm,
+mccoy2019joada_rb-NIST-278,NIST-278,131.0,2.4,ppm,
+mccoy2019joada_zr-NIST-278,NIST-278,288.0,1.1,ppm,
+mccoy2019joada_sr-NIST-278,NIST-278,65.0,2.0,ppm,
+mccoy2019joada_k-NIST-278,NIST-278,34898.0,633.0,ppm,
+mccoy2019joada_ca-NIST-278,NIST-278,7221.0,196.0,ppm,
+mccoy2019joada_y-NIST-278,NIST-278,40.0,0.2,ppm,
+mccoy2019joada_nb-NIST-278,NIST-278,17.0,1.1,ppm,
+mccoy2019joada_th-NIST-278,NIST-278,13.0,0.3,ppm,
+kneebone2018maa_sio2-JR-1,JR-1,72.33742658441798,,,
+kneebone2018maa_sio2-JR-2,JR-2,69.94010931894597,,,
+kneebone2018maa_tio2-JR-1,JR-1,0.0921288865916492,,,
+kneebone2018maa_tio2-JR-2,JR-2,0.03476324674039635,,,
+kneebone2018maa_fe2o3-JR-1,JR-1,0.9624003864916464,,,
+kneebone2018maa_fe2o3-JR-2,JR-2,0.8592524016757432,,,
+kneebone2018maa_cao-JR-1,JR-1,0.6810111986177164,,,
+kneebone2018maa_cao-JR-2,JR-2,0.5417637914780575,,,
+kneebone2018maa_k2o-JR-1,JR-1,4.377814325315275,,,
+kneebone2018maa_k2o-JR-2,JR-2,4.303534384923505,,,
+kneebone2018maa_v-JR-1,JR-1,<LOD,,,
+kneebone2018maa_v-JR-2,JR-2,<LOD,,,
+kneebone2018maa_cr-JR-1,JR-1,4.4904439664794396,,,
+kneebone2018maa_cr-JR-2,JR-2,1.6879735476913922,,,
+kneebone2018maa_ni-JR-1,JR-1,<LOD,,,
+kneebone2018maa_ni-JR-2,JR-2,<LOD,,,
+kneebone2018maa_cu-JR-1,JR-1,<LOD,,,
+kneebone2018maa_cu-JR-2,JR-2,<LOD,,,
+kneebone2018maa_zn-JR-1,JR-1,23.779588209373934,,,
+kneebone2018maa_zn-JR-2,JR-2,27.094942766307984,,,
+kneebone2018maa_rb-JR-1,JR-1,259.301218544941,,,
+kneebone2018maa_rb-JR-2,JR-2,303.71338505753164,,,
+kneebone2018maa_sr-JR-1,JR-1,32.29,,,
+kneebone2018maa_sr-JR-2,JR-2,10.703,,,
+kneebone2018maa_y-JR-1,JR-1,44.539868813423176,,,
+kneebone2018maa_y-JR-2,JR-2,49.48809418165468,,,
+kneebone2018maa_zr-JR-1,JR-1,98.05428846506966,,,
+kneebone2018maa_zr-JR-2,JR-2,97.86998666440819,,,
+kneebone2018maa_nb-JR-1,JR-1,17.853404053026935,,,
+kneebone2018maa_nb-JR-2,JR-2,20.061393388439967,,,
+kneebone2018maa_pb-JR-1,JR-1,25.658047667448756,,,
+kneebone2018maa_pb-JR-2,JR-2,21.610303354020893,,,
+kneebone2018maa_th-JR-1,JR-1,12.68577,,,
+kneebone2018maa_th-JR-2,JR-2,10.8279,,,
+kneebone2018baa_mn-JR-1,JR-1,777.5964318839183,,,
+kneebone2018baa_mn-JR-2,JR-2,881.9650789311997,,,
+kneebone2018baa_zn-JR-1,JR-1,23.779588209373934,,,
+kneebone2018baa_zn-JR-2,JR-2,27.094942766307984,,,
+kneebone2018baa_rb-JR-1,JR-1,259.301218544941,,,
+kneebone2018baa_rb-JR-2,JR-2,303.71338505753164,,,
+kneebone2018baa_sr-JR-1,JR-1,32.29,,,
+kneebone2018baa_sr-JR-2,JR-2,10.703,,,
+kneebone2018baa_y-JR-1,JR-1,44.539868813423176,,,
+kneebone2018baa_y-JR-2,JR-2,49.48809418165468,,,
+kneebone2018baa_zr-JR-1,JR-1,98.05428846506966,,,
+kneebone2018baa_zr-JR-2,JR-2,97.86998666440819,,,
+kneebone2018baa_nb-JR-1,JR-1,17.853404053026935,,,
+kneebone2018baa_nb-JR-2,JR-2,20.061393388439967,,,
+golitko2013sepika_k-USGS RGM-2,USGS RGM-2,35688.0,714.0,ppm,
+golitko2013sepika_k-NIST278,NIST278,34790.0,348.0,ppm,
+golitko2013sepika_ca-USGS RGM-2,USGS RGM-2,8679.0,347.0,ppm,
+golitko2013sepika_ca-NIST278,NIST278,7160.0,358.0,ppm,
+golitko2013sepika_ti-USGS RGM-2,USGS RGM-2,1462.0,88.0,ppm,
+golitko2013sepika_ti-NIST278,NIST278,1344.0,94.0,ppm,
+golitko2013sepika_mn-USGS RGM-2,USGS RGM-2,206.0,10.0,ppm,
+golitko2013sepika_mn-NIST278,NIST278,281.0,14.0,ppm,
+golitko2013sepika_fe-USGS RGM-2,USGS RGM-2,12196.0,122.0,ppm,
+golitko2013sepika_fe-NIST278,NIST278,13636.0,136.0,ppm,
+golitko2013sepika_zn-USGS RGM-2,USGS RGM-2,36.0,3.0,ppm,
+golitko2013sepika_zn-NIST278,NIST278,48.0,3.0,ppm,
+golitko2013sepika_rb-USGS RGM-2,USGS RGM-2,151.0,3.0,ppm,
+golitko2013sepika_rb-NIST278,NIST278,131.0,3.0,ppm,
+golitko2013sepika_sr-USGS RGM-2,USGS RGM-2,110.0,3.0,ppm,
+golitko2013sepika_sr-NIST278,NIST278,66.0,2.0,ppm,
+golitko2013sepika_zr-USGS RGM-2,USGS RGM-2,204.0,2.0,ppm,
+golitko2013sepika_zr-NIST278,NIST278,266.0,1.0,ppm,
+golitko2013sepika_nb-USGS RGM-2,USGS RGM-2,<LOD,<LOD,ppm,
+golitko2013sepika_nb-NIST278,NIST278,17.0,4.0,ppm,
+reepmeyer2008aoa_sio2-NIST612,NIST612,,,,
+reepmeyer2008aoa_tio2-NIST612,NIST612,,,,
+reepmeyer2008aoa_al2o3-NIST612,NIST612,,,,
+reepmeyer2008aoa_feo-NIST612,NIST612,,,,
+reepmeyer2008aoa_cao-NIST612,NIST612,,,,
+reepmeyer2008aoa_mgo-NIST612,NIST612,,,,
+reepmeyer2008aoa_mno-NIST612,NIST612,,,,
+reepmeyer2008aoa_k2o-NIST612,NIST612,,,,
+reepmeyer2008aoa_na2o-NIST612,NIST612,,,,
+reepmeyer2008aob_sc-ANU2000,ANU2000,6.5,0.7,ppm,10.0
+reepmeyer2008aob_ti-ANU2000,ANU2000,1990.8,22.9,ppm,10.0
+reepmeyer2008aob_v-ANU2000,ANU2000,5.6,0.1,ppm,10.0
+reepmeyer2008aob_cr-ANU2000,ANU2000,1.59,0.43,ppm,10.0
+reepmeyer2008aob_mn-ANU2000,ANU2000,450.6,12.6,ppm,10.0
+reepmeyer2008aob_ni-ANU2000,ANU2000,0.3,0.1,ppm,10.0
+reepmeyer2008aob_cu-ANU2000,ANU2000,3.4,0.3,ppm,10.0
+reepmeyer2008aob_as-ANU2000,ANU2000,2.1,0.15,ppm,10.0
+reepmeyer2008aob_rb-ANU2000,ANU2000,144.7,4.9,ppm,10.0
+reepmeyer2008aob_sr-ANU2000,ANU2000,57.1,1.78,ppm,10.0
+reepmeyer2008aob_y-ANU2000,ANU2000,31.3,0.8,ppm,10.0
+reepmeyer2008aob_zr-ANU2000,ANU2000,277.2,6.7,ppm,10.0
+reepmeyer2008aob_nb-ANU2000,ANU2000,42.34,0.23,ppm,10.0
+reepmeyer2008aob_mo-ANU2000,ANU2000,3.5,0.07,ppm,10.0
+reepmeyer2008aob_sn-ANU2000,ANU2000,3.1,0.09,ppm,10.0
+reepmeyer2008aob_cs-ANU2000,ANU2000,1.9,0.07,ppm,10.0
+reepmeyer2008aob_ba-ANU2000,ANU2000,619.8,30.3,ppm,10.0
+reepmeyer2008aob_la-ANU2000,ANU2000,34.8,1.2,ppm,10.0
+reepmeyer2008aob_ce-ANU2000,ANU2000,69.7,2.6,ppm,10.0
+reepmeyer2008aob_pr-ANU2000,ANU2000,7.2,0.3,ppm,10.0
+reepmeyer2008aob_nd-ANU2000,ANU2000,2.34,0.8,ppm,10.0
+reepmeyer2008aob_sm-ANU2000,ANU2000,5.0,0.15,ppm,10.0
+reepmeyer2008aob_eu-ANU2000,ANU2000,0.85,0.03,ppm,10.0
+reepmeyer2008aob_gd-ANU2000,ANU2000,5.03,0.16,ppm,10.0
+reepmeyer2008aob_tb-ANU2000,ANU2000,0.8,0.03,ppm,10.0
+reepmeyer2008aob_dy-ANU2000,ANU2000,5.3,0.14,ppm,10.0
+reepmeyer2008aob_er-ANU2000,ANU2000,3.4,0.07,ppm,10.0
+reepmeyer2008aob_tm-ANU2000,ANU2000,0.53,0.02,ppm,10.0
+reepmeyer2008aob_yb-ANU2000,ANU2000,3.7,0.1,ppm,10.0
+reepmeyer2008aob_lu-ANU2000,ANU2000,0.6,0.02,ppm,10.0
+reepmeyer2008aob_ta-ANU2000,ANU2000,3.0,0.05,ppm,10.0
+reepmeyer2008aob_th-ANU2000,ANU2000,10.4,0.8,ppm,10.0
+reepmeyer2008aob_u-ANU2000,ANU2000,3.0,0.23,ppm,10.0
+reepmeyer2008aob_pb207pb206-ANU2000,ANU2000,0.831124,0.008,%,10.0
+reepmeyer2008aob_pb208pb206-ANU2000,ANU2000,2.081555,1.2,%,10.0
+reepmeyer2012jicaa_sio2-ANU2000,ANU2000,73.2,0.3,%,18.0
+reepmeyer2012jicaa_sio2-ANU9000,ANU9000,73.3,0.3,%,20.0
+reepmeyer2012jicaa_tio2-ANU2000,ANU2000,0.3,0.1,%,18.0
+reepmeyer2012jicaa_tio2-ANU9000,ANU9000,0.2,0.0,%,20.0
+reepmeyer2012jicaa_al2o3-ANU2000,ANU2000,13.5,0.1,%,18.0
+reepmeyer2012jicaa_al2o3-ANU9000,ANU9000,12.6,0.1,%,20.0
+reepmeyer2012jicaa_feo-ANU2000,ANU2000,2.0,0.1,%,18.0
+reepmeyer2012jicaa_feo-ANU9000,ANU9000,1.2,0.1,%,20.0
+reepmeyer2012jicaa_cao-ANU2000,ANU2000,1.1,0.0,%,18.0
+reepmeyer2012jicaa_cao-ANU9000,ANU9000,1.1,0.0,%,20.0
+reepmeyer2012jicaa_mgo-ANU2000,ANU2000,0.2,0.0,%,18.0
+reepmeyer2012jicaa_mgo-ANU9000,ANU9000,0.2,0.0,%,20.0
+reepmeyer2012jicaa_mno-ANU2000,ANU2000,0.0,0.0,%,18.0
+reepmeyer2012jicaa_mno-ANU9000,ANU9000,0.0,0.0,%,20.0
+reepmeyer2012jicaa_k2o-ANU2000,ANU2000,4.0,0.1,%,18.0
+reepmeyer2012jicaa_k2o-ANU9000,ANU9000,3.8,0.1,%,20.0
+reepmeyer2012jicaa_na2o-ANU2000,ANU2000,4.9,0.1,%,18.0
+reepmeyer2012jicaa_na2o-ANU9000,ANU9000,3.9,0.1,%,20.0
+reepmeyer2012jicab_p-ANU2000,ANU2000,183.6,12.8,ppm,18.0
+reepmeyer2012jicab_p-ANU9000,ANU9000,138.8,7.4,ppm,20.0
+reepmeyer2012jicab_sc-ANU2000,ANU2000,6.5,0.8,ppm,18.0
+reepmeyer2012jicab_sc-ANU9000,ANU9000,6.5,0.8,ppm,20.0
+reepmeyer2012jicab_ti-ANU2000,ANU2000,2013.5,55.5,ppm,18.0
+reepmeyer2012jicab_ti-ANU9000,ANU9000,1624.8,43.5,ppm,20.0
+reepmeyer2012jicab_v-ANU2000,ANU2000,5.6,0.1,ppm,18.0
+reepmeyer2012jicab_v-ANU9000,ANU9000,5.7,0.1,ppm,20.0
+reepmeyer2012jicab_mn-ANU2000,ANU2000,452.5,11.4,ppm,18.0
+reepmeyer2012jicab_mn-ANU9000,ANU9000,454.0,13.2,ppm,20.0
+reepmeyer2012jicab_co-ANU2000,ANU2000,1.4,0.0,ppm,18.0
+reepmeyer2012jicab_co-ANU9000,ANU9000,0.6,0.0,ppm,20.0
+reepmeyer2012jicab_cu-ANU2000,ANU2000,3.5,0.5,ppm,18.0
+reepmeyer2012jicab_cu-ANU9000,ANU9000,3.1,0.2,ppm,20.0
+reepmeyer2012jicab_ga-ANU2000,ANU2000,17.5,0.3,ppm,18.0
+reepmeyer2012jicab_ga-ANU9000,ANU9000,10.7,0.1,ppm,20.0
+reepmeyer2012jicab_as-ANU2000,ANU2000,2.1,0.2,ppm,18.0
+reepmeyer2012jicab_as-ANU9000,ANU9000,6.8,0.7,ppm,20.0
+reepmeyer2012jicab_rb-ANU2000,ANU2000,148.3,5.3,ppm,18.0
+reepmeyer2012jicab_rb-ANU9000,ANU9000,51.7,1.8,ppm,20.0
+reepmeyer2012jicab_sr-ANU2000,ANU2000,58.9,2.7,ppm,18.0
+reepmeyer2012jicab_sr-ANU9000,ANU9000,170.3,7.5,ppm,20.0
+reepmeyer2012jicab_y-ANU2000,ANU2000,32.2,1.3,ppm,18.0
+reepmeyer2012jicab_y-ANU9000,ANU9000,17.8,0.7,ppm,20.0
+reepmeyer2012jicab_zr-ANU2000,ANU2000,284.4,11.6,ppm,18.0
+reepmeyer2012jicab_zr-ANU9000,ANU9000,119.2,4.4,ppm,20.0
+reepmeyer2012jicab_nb-ANU2000,ANU2000,42.5,0.9,ppm,18.0
+reepmeyer2012jicab_nb-ANU9000,ANU9000,2.2,0.0,ppm,20.0
+reepmeyer2012jicab_mo-ANU2000,ANU2000,3.5,0.1,ppm,18.0
+reepmeyer2012jicab_mo-ANU9000,ANU9000,3.1,0.1,ppm,20.0
+reepmeyer2012jicab_sn-ANU2000,ANU2000,3.2,0.2,ppm,18.0
+reepmeyer2012jicab_sn-ANU9000,ANU9000,0.9,0.2,ppm,20.0
+reepmeyer2012jicab_cs-ANU2000,ANU2000,2.0,0.1,ppm,18.0
+reepmeyer2012jicab_cs-ANU9000,ANU9000,1.5,0.1,ppm,20.0
+reepmeyer2012jicab_ba-ANU2000,ANU2000,644.4,38.0,ppm,18.0
+reepmeyer2012jicab_ba-ANU9000,ANU9000,466.7,24.5,ppm,20.0
+reepmeyer2012jicab_la-ANU2000,ANU2000,36.1,1.7,ppm,18.0
+reepmeyer2012jicab_la-ANU9000,ANU9000,11.3,0.5,ppm,20.0
+reepmeyer2012jicab_ce-ANU2000,ANU2000,72.4,3.6,ppm,18.0
+reepmeyer2012jicab_ce-ANU9000,ANU9000,24.4,1.0,ppm,20.0
+reepmeyer2012jicab_pr-ANU2000,ANU2000,7.5,0.4,ppm,18.0
+reepmeyer2012jicab_pr-ANU9000,ANU9000,3.0,0.1,ppm,20.0
+reepmeyer2012jicab_nd-ANU2000,ANU2000,24.4,1.3,ppm,18.0
+reepmeyer2012jicab_nd-ANU9000,ANU9000,11.4,0.5,ppm,20.0
+reepmeyer2012jicab_sm-ANU2000,ANU2000,5.2,0.2,ppm,18.0
+reepmeyer2012jicab_sm-ANU9000,ANU9000,2.7,0.1,ppm,20.0
+reepmeyer2012jicab_eu-ANU2000,ANU2000,0.9,0.0,ppm,18.0
+reepmeyer2012jicab_eu-ANU9000,ANU9000,0.6,0.0,ppm,20.0
+reepmeyer2012jicab_gd-ANU2000,ANU2000,5.2,0.2,ppm,18.0
+reepmeyer2012jicab_gd-ANU9000,ANU9000,2.7,0.1,ppm,20.0
+reepmeyer2012jicab_tb-ANU2000,ANU2000,0.8,0.0,ppm,18.0
+reepmeyer2012jicab_tb-ANU9000,ANU9000,0.4,0.0,ppm,20.0
+reepmeyer2012jicab_dy-ANU2000,ANU2000,5.4,0.3,ppm,18.0
+reepmeyer2012jicab_dy-ANU9000,ANU9000,2.8,0.1,ppm,20.0
+reepmeyer2012jicab_er-ANU2000,ANU2000,3.5,0.2,ppm,18.0
+reepmeyer2012jicab_er-ANU9000,ANU9000,2.0,0.1,ppm,20.0
+reepmeyer2012jicab_tm-ANU2000,ANU2000,0.5,0.0,ppm,18.0
+reepmeyer2012jicab_tm-ANU9000,ANU9000,0.3,0.0,ppm,20.0
+reepmeyer2012jicab_yb-ANU2000,ANU2000,3.8,0.2,ppm,18.0
+reepmeyer2012jicab_yb-ANU9000,ANU9000,2.3,0.1,ppm,20.0
+reepmeyer2012jicab_lu-ANU2000,ANU2000,0.6,0.0,ppm,18.0
+reepmeyer2012jicab_lu-ANU9000,ANU9000,0.4,0.0,ppm,20.0
+reepmeyer2012jicab_ta-ANU2000,ANU2000,3.1,0.1,ppm,18.0
+reepmeyer2012jicab_ta-ANU9000,ANU9000,0.1,0.0,ppm,20.0
+reepmeyer2012jicab_w-ANU2000,ANU2000,1.3,0.0,ppm,18.0
+reepmeyer2012jicab_w-ANU9000,ANU9000,0.4,0.0,ppm,20.0
+reepmeyer2012jicab_th-ANU2000,ANU2000,10.7,0.8,ppm,18.0
+reepmeyer2012jicab_th-ANU9000,ANU9000,2.5,0.2,ppm,20.0
+reepmeyer2012jicab_u-ANU2000,ANU2000,3.0,0.2,ppm,18.0
+reepmeyer2012jicab_u-ANU9000,ANU9000,1.6,0.1,ppm,20.0
