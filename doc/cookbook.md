@@ -19,7 +19,10 @@ with measurements matching the following set of criteria:
 - 272 < Zr < 354
 - 27 < Nb < 30
 
-This translates to the following - somewhat lenghty, but quite transparent - SQL:
+
+### Retrieving the measurements
+
+These criteria translate to the following - somewhat lenghty, but quite transparent - SQL:
 ```sql
 select
   s.id as sampl_id, s.sample_name, s.artefact_id,
@@ -87,6 +90,9 @@ Sinton-1997-Database_I82-N,I82-N,UH-HANE-I82-N,47.84915652873425,1.0289596160310
 Sinton-1997-Database_M94-62,M94-62,UH-HANE-M94-62,47.670991925270584,0.9834296505213199,3.3456885017735627,297.79,17.09,588.18,304.4,27.87
 ```
 
+
+### Retrieving methodological metadata
+
 Pofatu also provides detailed methodological metadata for the geochemical data, such as
 information about reference samples.
 
@@ -138,6 +144,8 @@ At3-229-064,Hermann-2017-JASR_C,Pb207_Pb204,"NBS 981",15.4924,0.002,"2σ"
 At3-229-064,Hermann-2017-JASR_C,Pb208_Pb204,"NBS 981",36.701,0.007,"2σ"
 At3-229-064,Hermann-2017-JASR_D,Age,NA,NA,NA,NA
 ```
+
+### Putting it all together
 
 Since SQL is a very powerful query language, we can plugin the above query to retrieve
 methodological metadata for **all** samples matching the above query:
