@@ -5,6 +5,7 @@
             "@language": "en"
         }
     ],
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3634436",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Pofatu",
     "dcat:accessURL": "https://pofatu.clld.org",
