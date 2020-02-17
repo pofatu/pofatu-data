@@ -24,11 +24,11 @@ tooling. In the following example we will use command line tools available in th
 package, but scientific computing environments like R (with R-Studio) or Python (with Pandas)
 will provide similar (or better) functionality.
 
-From `dist/metadata.json` we learn that `dist/samples.csv` contains a column `location_loc1`,
+From `dist/metadata.json` we learn that `dist/samples.csv` contains a column `location_region`,
 which specifies a rough region in which a sample was collected.
 
 ```shell script
-$ csvcut -c location_loc1 dist/samples.csv | sort | uniq
+$ csvcut -c location_region dist/samples.csv | sort | uniq
 AUSTRAL
 ...
 VANUATU
@@ -37,7 +37,7 @@ VANUATU
 If we are interested in samples from Vanuatu, we can then list `ID`s of these:
 
 ```shell script
-$ csvgrep -c location_loc1 -m VANUATU dist/samples.csv | csvcut -c ID
+$ csvgrep -c location_region -m VANUATU dist/samples.csv | csvcut -c ID
 ID
 Reepmeyer-2008-AO_ANU9001
 Reepmeyer-2008-AO_ANU9002
@@ -78,12 +78,12 @@ select
 from 
     "samples.csv" as s, "measurements.csv" as m 
 where 
-    m.sample_id = s.id and s.location_loc1 == 'VANUATU';
+    m.sample_id = s.id and s.location_region == 'VANUATU';
 ```
 
 We can do so using the [SQLite command line program](https://www.sqlite.org/download.html):
 ```shell script
-$ sqlite3 dist/pofatu.sqlite "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_loc1 == 'VANUATU'"
+$ sqlite3 dist/pofatu.sqlite "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU'"
 Reepmeyer-2008-AO_ANU9001|SiO2 [%]|70.98
 Reepmeyer-2008-AO_ANU9001|TiO2 [%]|0.36
 Reepmeyer-2008-AO_ANU9001|Al2O3 [%]|14.02
@@ -100,7 +100,7 @@ Reepmeyer-2008-AO_ANU9001|P [ppm]|285.3549225066772
 If you installed the Python package [`pypofatu`](https://pypi.org/project/pypofatu/), you can run
 the query using the `pofatu query` subcommand:
 ```shell script
-$ pofatu query "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_loc1 == 'VANUATU' limit 10"
+$ pofatu query "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU' limit 10"
 INFO    SQLite database at dist/pofatu.sqlite
 ID                         parameter      value_string
 Reepmeyer-2008-AO_ANU9001  SiO2 [%]              70.98
