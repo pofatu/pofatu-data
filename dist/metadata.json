@@ -194,7 +194,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "annotation"
+                        "name": "address"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "annote"
                     },
                     {
                         "datatype": "string",
@@ -202,15 +206,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "bookauthor"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "booktitle"
                     },
                     {
                         "datatype": "string",
-                        "name": "date"
+                        "name": "collaborator"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "copyright"
                     },
                     {
                         "datatype": "string",
@@ -226,14 +230,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "editora"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "editoratype"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "institution"
                     },
                     {
@@ -246,11 +242,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "issue"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "journaltitle"
+                        "name": "journal"
                     },
                     {
                         "datatype": "string",
@@ -258,11 +250,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "langid"
+                        "name": "language"
                     },
                     {
                         "datatype": "string",
-                        "name": "location"
+                        "name": "month"
                     },
                     {
                         "datatype": "string",
@@ -278,10 +270,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "pagetotal"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "pmcid"
                     },
                     {
@@ -294,15 +282,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "rights"
+                        "name": "school"
                     },
                     {
                         "datatype": "string",
                         "name": "series"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "shortjournal"
                     },
                     {
                         "datatype": "string",
@@ -330,7 +314,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "volumes"
+                        "name": "year"
                     }
                 ],
                 "primaryKey": [
@@ -480,7 +464,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "Core\\ sample|Sample\\ surface|Powder"
+                            "format": "Core\\ sample|Sample\\ surface|Powder|Probe\\ sample"
                         },
                         "name": "analyzed_material_2"
                     },
