@@ -1,0 +1,35 @@
+{
+    "keywords": [
+        "Archeology"
+    ],
+    "access_right": "open",
+    "title": "pofatu/pofatu-data: Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials", 
+    "description": "<p>Geochemical fingerprinting of artefacts and sources has proven to be the most effective way to use material evidence in order to reconstruct strategies of raw material procurement, exchange systems, and mobility patterns among past societies. In order to facilitate access to this growing body of data and to promote comparability and reproducibility in provenance studies, we designed Pofatu, the first online and open-access database presenting geochemical compositions and contextual information for archaeological sources and artefacts.</p>\n\n<p>The &nbsp;data repository includes a compilation of geochemical data and supporting analytical metadata, as well as the archaeological provenance and context for each sample. All information on Samples related to sources and artefacts can be accessed on this platform or downloaded from Zenodo or GitHub.</p>\n\n<p>While most prehistoric quarries and surface procurement sources used in the past have yet to be identified, provenance studies must also integrate wide and reliable geological data. For this reason, we advise Pofatu users to also consult other open-access repositories focusing specifically on geological samples, such as &nbsp;GeoRoc and &nbsp;EarthChem.</p>",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "contributors": [
+      {
+        "affiliation": "Max Planck Institute for the Science of Human History", 
+        "type": "Sponsor", 
+        "name": "Russell Gray"
+      }
+    ], 
+    "upload_type": "dataset",
+    "alternate_identifiers": [
+      {
+        "scheme": "url", 
+        "identifier": "https://pofatu.clld.org"
+      }
+    ], 
+    "creators": [
+      {
+        "affiliation": "Max Planck Institute for the Science of Human History", 
+        "name": "Aymeric Hermann"
+      }, 
+      {
+        "affiliation": "Max Planck Institute for the Science of Human History", 
+        "name": "Robert Forkel"
+      }
+    ]
+}

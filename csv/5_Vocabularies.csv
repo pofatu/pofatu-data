@@ -2,7 +2,7 @@ Vocabularies,
 ,
 "This tab contains the suggested Vocabularies for data submission to Pofatu: Sample information, Artefact category and description, Site description, Parameter, Technique.",
 Contact us with questions or additions: hermann@shh.mpg.de,
-Last modified: 31 July 2020,
+Last modified: 23 October 2020,
 ,
 SAMPLE CATEGORY,Sample Category description
 SOURCE,"Sample related to natural raw material, as a primary geological source location"
@@ -13,16 +13,13 @@ ADZE,
 ADZE PREFORM,
 CHISEL,
 COBBLE,Natural cobbles
-COBBLE (KILIKILI),Gravel used to cover domestic or funeral ground
 CORE,
 FLAKE,Undetermined flake
-FLAKE (ADZE BLANK),Flake used as roughout for adze
-FLAKE (ADZE KNAPPING),Knapping waste flake
-FLAKE (DEBITAGE),Debitage waste flake
-FLAKE (RETOUCHED),Flake tool with retouched edge
+RETOUCHED FLAKE,Flake tool with retouched edge
 RAW MATERIAL,Untransformed material transported from primary geological source to archaeological site
 ARCHITECTURAL,Material transported from primary geological source and used as an element of architecture
 GRINDSTONE,
+PICK,
 OVENSTONE,Stone (generally porphyric and vacuolar) used in earth oven
 HAMMERSTONE,Stone used as hammer
 NA,No information

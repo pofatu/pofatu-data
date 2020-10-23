@@ -108,7 +108,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK"
+                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|RETOUCHED\\ FLAKE"
                         },
                         "name": "artefact_category"
                     },
@@ -130,7 +130,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "SURVEY|EXCAVATION"
+                            "format": "SURVEY|EXCAVATION|UNKNOWN"
                         },
                         "name": "artefact_collection_type"
                     },
@@ -207,10 +207,6 @@
                     {
                         "datatype": "string",
                         "name": "booktitle"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "collaborator"
                     },
                     {
                         "datatype": "string",
