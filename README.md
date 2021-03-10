@@ -10,6 +10,10 @@ provide analysis-friendly formats of the data in the [`dist`](dist/) directory, 
   [CSV on the Web - CSVW](https://www.w3.org/TR/tabular-data-primer/) standard.
 - an [SQLite](https://sqlite.org/index.html) database file.
 
+See also
+
+> Hermann, A., Forkel, R., McAlister, A. et al. Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. Sci Data 7, 141 (2020). DOI: [10.1038/s41597-020-0485-8](https://doi.org/10.1038/s41597-020-0485-8)
+
 In the following, we assume that:
 - you have the Pofatu data available locally, either
 through downloading a [released versions](https://github.com/pofatu/pofatu-data/releases) or via cloning the repository using `git`,
