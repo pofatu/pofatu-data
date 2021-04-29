@@ -115,7 +115,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER\\/COBBLE|NATURAL\\ PRISM"
+                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER/COBBLE|NATURAL\\ PRISM"
                         },
                         "name": "artefact_attributes"
                     },
@@ -194,15 +194,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "address"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "annote"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "author"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "bookauthor"
                     },
                     {
                         "datatype": "string",
@@ -210,7 +206,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "copyright"
+                        "name": "date"
                     },
                     {
                         "datatype": "string",
@@ -226,6 +222,18 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "eprint"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "eprinttype"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ids"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "institution"
                     },
                     {
@@ -238,7 +246,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "journal"
+                        "name": "issue"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "journaltitle"
                     },
                     {
                         "datatype": "string",
@@ -246,15 +258,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "language"
+                        "name": "langid"
                     },
                     {
                         "datatype": "string",
-                        "name": "month"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "note"
+                        "name": "location"
                     },
                     {
                         "datatype": "string",
@@ -266,11 +274,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "pmcid"
+                        "name": "pagetotal"
                     },
                     {
                         "datatype": "string",
-                        "name": "pmid"
+                        "name": "pmcid"
                     },
                     {
                         "datatype": "string",
@@ -278,11 +286,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "school"
+                        "name": "series"
                     },
                     {
                         "datatype": "string",
-                        "name": "series"
+                        "name": "shortjournal"
                     },
                     {
                         "datatype": "string",
