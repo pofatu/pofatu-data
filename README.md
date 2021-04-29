@@ -1,7 +1,7 @@
 # pofatu-data
 
 This repository is used for curating the Pofatu dataset, which is browsable online at
-https://pofatu.clld.org and [published on Zenodo]().
+https://pofatu.clld.org and [published on Zenodo](https://doi.org/10.5281/zenodo.3634435).
 
 [Released versions](https://github.com/pofatu/pofatu-data/releases) of this repository
 provide analysis-friendly formats of the data in the [`dist`](dist/) directory, in particular:
