@@ -1,7 +1,7 @@
 # pofatu-data
 
 This repository is used for curating the Pofatu dataset, which is browsable online at
-https://pofatu.clld.org and [published on Zenodo]().
+https://pofatu.clld.org and [published on Zenodo](https://doi.org/10.5281/zenodo.3634435).
 
 [Released versions](https://github.com/pofatu/pofatu-data/releases) of this repository
 provide analysis-friendly formats of the data in the [`dist`](dist/) directory, in particular:
@@ -9,6 +9,10 @@ provide analysis-friendly formats of the data in the [`dist`](dist/) directory, 
 - a set of CSV files, described by [metadata](dist/metadata.json), following the 
   [CSV on the Web - CSVW](https://www.w3.org/TR/tabular-data-primer/) standard.
 - an [SQLite](https://sqlite.org/index.html) database file.
+
+See also
+
+> Hermann, A., Forkel, R., McAlister, A. et al. Pofatu, a curated and open-access database for geochemical sourcing of archaeological materials. Sci Data 7, 141 (2020). DOI: [10.1038/s41597-020-0485-8](https://doi.org/10.1038/s41597-020-0485-8)
 
 In the following, we assume that:
 - you have the Pofatu data available locally, either
@@ -27,7 +31,7 @@ will provide similar (or better) functionality.
 From `dist/metadata.json` we learn that `dist/samples.csv` contains a column `location_region`,
 which specifies a rough region in which a sample was collected.
 
-```shell script
+```shell
 $ csvcut -c location_region dist/samples.csv | sort | uniq
 AUSTRAL
 ...
@@ -36,19 +40,19 @@ VANUATU
 
 If we are interested in samples from Vanuatu, we can then list `ID`s of these:
 
-```shell script
+```shell
 $ csvgrep -c location_region -m VANUATU dist/samples.csv | csvcut -c ID
 ID
-Reepmeyer-2008-AO_ANU9001
-Reepmeyer-2008-AO_ANU9002
+reepmeyer2008_ANU9001
+reepmeyer2008_ANU9002
 ...
 ```
 
 Once we have identified a sample we are interested in, we can list all measurements recorded in
 Pofatu about this sample:
 
-```shell script
-$ csvcut -c Sample_ID,parameter,value_string dist/measurements.csv | csvgrep -c Sample_ID -m"Reepmeyer-2008-AO_ANU9001" | csvcut -c parameter,value_string
+```shell
+$ csvcut -c Sample_ID,parameter,value_string dist/measurements.csv | csvgrep -c Sample_ID -m"reepmeyer2008_ANU9001" | csvcut -c parameter,value_string
 parameter,value_string
 SiO2 [%],70.98
 TiO2 [%],0.36
@@ -84,16 +88,16 @@ where
 We can do so using the [SQLite command line program](https://www.sqlite.org/download.html):
 ```shell script
 $ sqlite3 dist/pofatu.sqlite "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU'"
-Reepmeyer-2008-AO_ANU9001|SiO2 [%]|70.98
-Reepmeyer-2008-AO_ANU9001|TiO2 [%]|0.36
-Reepmeyer-2008-AO_ANU9001|Al2O3 [%]|14.02
-Reepmeyer-2008-AO_ANU9001|FeO [%]|3.02
-Reepmeyer-2008-AO_ANU9001|CaO [%]|0.99
-Reepmeyer-2008-AO_ANU9001|MgO [%]|0.19
-Reepmeyer-2008-AO_ANU9001|MnO [%]|0.17
-Reepmeyer-2008-AO_ANU9001|K2O [%]|5.67
-Reepmeyer-2008-AO_ANU9001|Na2O [%]|4.27
-Reepmeyer-2008-AO_ANU9001|P [ppm]|285.3549225066772
+reepmeyer2008_ANU9001|SiO2 [%]|70.98
+reepmeyer2008_ANU9001|TiO2 [%]|0.36
+reepmeyer2008_ANU9001|Al2O3 [%]|14.02
+reepmeyer2008_ANU9001|FeO [%]|3.02
+reepmeyer2008_ANU9001|CaO [%]|0.99
+reepmeyer2008_ANU9001|MgO [%]|0.19
+reepmeyer2008_ANU9001|MnO [%]|0.17
+reepmeyer2008_ANU9001|K2O [%]|5.67
+reepmeyer2008_ANU9001|Na2O [%]|4.27
+reepmeyer2008_ANU9001|P [ppm]|285.3549225066772
 ...
 ```
 
@@ -103,16 +107,16 @@ the query using the `pofatu query` subcommand:
 $ pofatu query "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU' limit 10"
 INFO    SQLite database at dist/pofatu.sqlite
 ID                         parameter      value_string
-Reepmeyer-2008-AO_ANU9001  SiO2 [%]              70.98
-Reepmeyer-2008-AO_ANU9001  TiO2 [%]               0.36
-Reepmeyer-2008-AO_ANU9001  Al2O3 [%]             14.02
-Reepmeyer-2008-AO_ANU9001  FeO [%]                3.02
-Reepmeyer-2008-AO_ANU9001  CaO [%]                0.99
-Reepmeyer-2008-AO_ANU9001  MgO [%]                0.19
-Reepmeyer-2008-AO_ANU9001  MnO [%]                0.17
-Reepmeyer-2008-AO_ANU9001  K2O [%]                5.67
-Reepmeyer-2008-AO_ANU9001  Na2O [%]               4.27
-Reepmeyer-2008-AO_ANU9001  P [ppm]              285.35
+reepmeyer2008_ANU9001  SiO2 [%]              70.98
+reepmeyer2008_ANU9001  TiO2 [%]               0.36
+reepmeyer2008_ANU9001  Al2O3 [%]             14.02
+reepmeyer2008_ANU9001  FeO [%]                3.02
+reepmeyer2008_ANU9001  CaO [%]                0.99
+reepmeyer2008_ANU9001  MgO [%]                0.19
+reepmeyer2008_ANU9001  MnO [%]                0.17
+reepmeyer2008_ANU9001  K2O [%]                5.67
+reepmeyer2008_ANU9001  Na2O [%]               4.27
+reepmeyer2008_ANU9001  P [ppm]              285.35
 ```
 
 You can also explore the data using the [datasette](https://datasette.readthedocs.io/en/stable/installation.html#install-using-pip)

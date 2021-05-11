@@ -1,2106 +1,2146 @@
 Method_ID,Reference_sample_ID
-charleux2014jpaa_tio2,charleux2014jpaa_tio2-BHVO-1
-charleux2014jpaa_fe2o3,charleux2014jpaa_fe2o3-BHVO-1
-charleux2014jpaa_cao,charleux2014jpaa_cao-BHVO-1
-charleux2014jpaa_mno,charleux2014jpaa_mno-BHVO-1
-charleux2014jpaa_k2o,charleux2014jpaa_k2o-BHVO-1
-charleux2014jpaa_cr,charleux2014jpaa_cr-BHVO-1
-charleux2014jpaa_ni,charleux2014jpaa_ni-BHVO-1
-charleux2014jpaa_cu,charleux2014jpaa_cu-BHVO-1
-charleux2014jpaa_zn,charleux2014jpaa_zn-BHVO-1
-charleux2014jpaa_rb,charleux2014jpaa_rb-BHVO-1
-charleux2014jpaa_sr,charleux2014jpaa_sr-BHVO-1
-charleux2014jpaa_zr,charleux2014jpaa_zr-BHVO-1
-charleux2014jpaa_nb,charleux2014jpaa_nb-BHVO-1
-charleux2014jpab_tio2,charleux2014jpab_tio2-BHVO-1
-charleux2014jpab_fe2o3,charleux2014jpab_fe2o3-BHVO-1
-charleux2014jpab_cao,charleux2014jpab_cao-BHVO-1
-charleux2014jpab_mno,charleux2014jpab_mno-BHVO-1
-charleux2014jpab_k2o,charleux2014jpab_k2o-BHVO-1
-charleux2014jpab_v,charleux2014jpab_v-BHVO-1
-charleux2014jpab_cr,charleux2014jpab_cr-BHVO-1
-charleux2014jpab_ni,charleux2014jpab_ni-BHVO-1
-charleux2014jpab_cu,charleux2014jpab_cu-BHVO-1
-charleux2014jpab_zn,charleux2014jpab_zn-BHVO-1
-charleux2014jpab_rb,charleux2014jpab_rb-BHVO-1
-charleux2014jpab_sr,charleux2014jpab_sr-BHVO-1
-charleux2014jpab_y,charleux2014jpab_y-BHVO-1
-charleux2014jpab_zr,charleux2014jpab_zr-BHVO-1
-charleux2014jpab_nb,charleux2014jpab_nb-BHVO-1
-charleux2014jpab_pb,charleux2014jpab_pb-BHVO-1
-charleux2014jpac_sio2,charleux2014jpac_sio2-BHVO-1
-charleux2014jpac_tio2,charleux2014jpac_tio2-BHVO-1
-charleux2014jpac_al2o3,charleux2014jpac_al2o3-BHVO-1
-charleux2014jpac_fe2o3,charleux2014jpac_fe2o3-BHVO-1
-charleux2014jpac_cao,charleux2014jpac_cao-BHVO-1
-charleux2014jpac_mgo,charleux2014jpac_mgo-BHVO-1
-charleux2014jpac_mno,charleux2014jpac_mno-BHVO-1
-charleux2014jpac_k2o,charleux2014jpac_k2o-BHVO-1
-charleux2014jpac_na2o,charleux2014jpac_na2o-BHVO-1
-charleux2014jpac_v,charleux2014jpac_v-BHVO-1
-charleux2014jpac_ni,charleux2014jpac_ni-BHVO-1
-charleux2014jpac_cu,charleux2014jpac_cu-BHVO-1
-charleux2014jpac_zn,charleux2014jpac_zn-BHVO-1
-charleux2014jpac_rb,charleux2014jpac_rb-BHVO-1
-charleux2014jpac_sr,charleux2014jpac_sr-BHVO-1
-charleux2014jpac_y,charleux2014jpac_y-BHVO-1
-charleux2014jpac_zr,charleux2014jpac_zr-BHVO-1
-charleux2014jpac_nb,charleux2014jpac_nb-BHVO-1
-charleux2014jpac_ba,charleux2014jpac_ba-BHVO-1
-charleux2014jpac_pb,charleux2014jpac_pb-BHVO-1
-clark2014pnasa_ti,clark2014pnasa_ti-ANU9000
-clark2014pnasa_mn,clark2014pnasa_mn-ANU9000
-clark2014pnasa_fe,clark2014pnasa_fe-ANU9000
-clark2014pnasa_rb,clark2014pnasa_rb-ANU9000
-clark2014pnasa_sr,clark2014pnasa_sr-ANU9000
-clark2014pnasa_y,clark2014pnasa_y-ANU9000
-clark2014pnasa_zr,clark2014pnasa_zr-ANU9000
-clark2014pnasa_nb,clark2014pnasa_nb-ANU9000
-clark2014pnasc_sio2,clark2014pnasc_sio2-ANU9000
-clark2014pnasc_tio2,clark2014pnasc_tio2-ANU9000
-clark2014pnasc_al2o3,clark2014pnasc_al2o3-ANU9000
-clark2014pnasc_fe2o3,clark2014pnasc_fe2o3-ANU9000
-clark2014pnasc_cao,clark2014pnasc_cao-ANU9000
-clark2014pnasc_mgo,clark2014pnasc_mgo-ANU9000
-clark2014pnasc_mno,clark2014pnasc_mno-ANU9000
-clark2014pnasc_k2o,clark2014pnasc_k2o-ANU9000
-clark2014pnasc_na2o,clark2014pnasc_na2o-ANU9000
-clark2014pnasd_ca,clark2014pnasd_ca-ANU9000
-clark2014pnasd_sc,clark2014pnasd_sc-ANU9000
-clark2014pnasd_ti,clark2014pnasd_ti-ANU9000
-clark2014pnasd_v,clark2014pnasd_v-ANU9000
-clark2014pnasd_cr,clark2014pnasd_cr-ANU9000
-clark2014pnasd_mn,clark2014pnasd_mn-ANU9000
-clark2014pnasd_ni,clark2014pnasd_ni-ANU9000
-clark2014pnasd_cu,clark2014pnasd_cu-ANU9000
-clark2014pnasd_zn,clark2014pnasd_zn-ANU9000
-clark2014pnasd_ga,clark2014pnasd_ga-ANU9000
-clark2014pnasd_ge,clark2014pnasd_ge-ANU9000
-clark2014pnasd_as,clark2014pnasd_as-ANU9000
-clark2014pnasd_rb,clark2014pnasd_rb-ANU9000
-clark2014pnasd_sr,clark2014pnasd_sr-ANU9000
-clark2014pnasd_y,clark2014pnasd_y-ANU9000
-clark2014pnasd_zr,clark2014pnasd_zr-ANU9000
-clark2014pnasd_nb,clark2014pnasd_nb-ANU9000
-clark2014pnasd_mo,clark2014pnasd_mo-ANU9000
-clark2014pnasd_sn,clark2014pnasd_sn-ANU9000
-clark2014pnasd_cs,clark2014pnasd_cs-ANU9000
-clark2014pnasd_ba,clark2014pnasd_ba-ANU9000
-clark2014pnasd_la,clark2014pnasd_la-ANU9000
-clark2014pnasd_ce,clark2014pnasd_ce-ANU9000
-clark2014pnasd_pr,clark2014pnasd_pr-ANU9000
-clark2014pnasd_nd,clark2014pnasd_nd-ANU9000
-clark2014pnasd_sm,clark2014pnasd_sm-ANU9000
-clark2014pnasd_eu,clark2014pnasd_eu-ANU9000
-clark2014pnasd_gd,clark2014pnasd_gd-ANU9000
-clark2014pnasd_tb,clark2014pnasd_tb-ANU9000
-clark2014pnasd_dy,clark2014pnasd_dy-ANU9000
-clark2014pnasd_ho,clark2014pnasd_ho-ANU9000
-clark2014pnasd_er,clark2014pnasd_er-ANU9000
-clark2014pnasd_tm,clark2014pnasd_tm-ANU9000
-clark2014pnasd_yb,clark2014pnasd_yb-ANU9000
-clark2014pnasd_lu,clark2014pnasd_lu-ANU9000
-clark2014pnasd_hf,clark2014pnasd_hf-ANU9000
-clark2014pnasd_ta,clark2014pnasd_ta-ANU9000
-clark2014pnasd_pb,clark2014pnasd_pb-ANU9000
-clark2014pnasd_th,clark2014pnasd_th-ANU9000
-clark2014pnasd_u,clark2014pnasd_u-ANU9000
-clark2014pnasb_sio2,clark2014pnasb_sio2-ANU9000
-clark2014pnasb_tio2,clark2014pnasb_tio2-ANU9000
-clark2014pnasb_al2o3,clark2014pnasb_al2o3-ANU9000
-clark2014pnasb_fe2o3,clark2014pnasb_fe2o3-ANU9000
-clark2014pnasb_cao,clark2014pnasb_cao-ANU9000
-clark2014pnasb_mgo,clark2014pnasb_mgo-ANU9000
-clark2014pnasb_mno,clark2014pnasb_mno-ANU9000
-clark2014pnasb_k2o,clark2014pnasb_k2o-ANU9000
-clark2014pnasb_na2o,clark2014pnasb_na2o-ANU9000
-clark2014pnasb_p2o5,clark2014pnasb_p2o5-ANU9000
-clark2014pnasd_be,clark2014pnasd_be-ANU9000
-clark2014pnasd_ag,clark2014pnasd_ag-ANU9000
-clark2014pnasd_cd,clark2014pnasd_cd-ANU9000
-clark2014pnasd_in,clark2014pnasd_in-ANU9000
-clark2014pnasd_sb,clark2014pnasd_sb-ANU9000
-clark2014pnasd_bi,clark2014pnasd_bi-ANU9000
-clark2014pnasc_p2o5,clark2014pnasc_p2o5-ANU9000
-collerson2007sciencea_sio2,collerson2007sciencea_sio2-BCR-2
-collerson2007sciencea_tio2,collerson2007sciencea_tio2-BCR-2
-collerson2007sciencea_al2o3,collerson2007sciencea_al2o3-BCR-2
-collerson2007sciencea_feo,collerson2007sciencea_feo-BCR-2
-collerson2007sciencea_cao,collerson2007sciencea_cao-BCR-2
-collerson2007sciencea_mgo,collerson2007sciencea_mgo-BCR-2
-collerson2007sciencea_mno,collerson2007sciencea_mno-BCR-2
-collerson2007sciencea_k2o,collerson2007sciencea_k2o-BCR-2
-collerson2007sciencea_na2o,collerson2007sciencea_na2o-BCR-2
-collerson2007sciencea_p2o5,collerson2007sciencea_p2o5-BCR-2
-collerson2007scienceb_li,collerson2007scienceb_li-BHVO-1
-collerson2007scienceb_li,collerson2007scienceb_li-BCR-21
-collerson2007scienceb_li,collerson2007scienceb_li-W-2
-collerson2007scienceb_be,collerson2007scienceb_be-BHVO-1
-collerson2007scienceb_be,collerson2007scienceb_be-BCR-21
-collerson2007scienceb_be,collerson2007scienceb_be-W-2
-collerson2007scienceb_sc,collerson2007scienceb_sc-BHVO-1
-collerson2007scienceb_sc,collerson2007scienceb_sc-BCR-21
-collerson2007scienceb_sc,collerson2007scienceb_sc-W-2
-collerson2007scienceb_v,collerson2007scienceb_v-BHVO-1
-collerson2007scienceb_v,collerson2007scienceb_v-BCR-21
-collerson2007scienceb_v,collerson2007scienceb_v-W-2
-collerson2007scienceb_cr,collerson2007scienceb_cr-BHVO-1
-collerson2007scienceb_cr,collerson2007scienceb_cr-BCR-21
-collerson2007scienceb_cr,collerson2007scienceb_cr-W-2
-collerson2007scienceb_co,collerson2007scienceb_co-BHVO-1
-collerson2007scienceb_co,collerson2007scienceb_co-BCR-21
-collerson2007scienceb_co,collerson2007scienceb_co-W-2
-collerson2007scienceb_ni,collerson2007scienceb_ni-BHVO-1
-collerson2007scienceb_ni,collerson2007scienceb_ni-BCR-21
-collerson2007scienceb_ni,collerson2007scienceb_ni-W-2
-collerson2007scienceb_cu,collerson2007scienceb_cu-BHVO-1
-collerson2007scienceb_cu,collerson2007scienceb_cu-BCR-21
-collerson2007scienceb_cu,collerson2007scienceb_cu-W-2
-collerson2007scienceb_zn,collerson2007scienceb_zn-BHVO-1
-collerson2007scienceb_zn,collerson2007scienceb_zn-BCR-21
-collerson2007scienceb_zn,collerson2007scienceb_zn-W-2
-collerson2007scienceb_ga,collerson2007scienceb_ga-BHVO-1
-collerson2007scienceb_ga,collerson2007scienceb_ga-BCR-21
-collerson2007scienceb_ga,collerson2007scienceb_ga-W-2
-collerson2007scienceb_rb,collerson2007scienceb_rb-BHVO-1
-collerson2007scienceb_rb,collerson2007scienceb_rb-BCR-21
-collerson2007scienceb_rb,collerson2007scienceb_rb-W-2
-collerson2007scienceb_sr,collerson2007scienceb_sr-BHVO-1
-collerson2007scienceb_sr,collerson2007scienceb_sr-BCR-21
-collerson2007scienceb_sr,collerson2007scienceb_sr-W-2
-collerson2007scienceb_y,collerson2007scienceb_y-BHVO-1
-collerson2007scienceb_y,collerson2007scienceb_y-BCR-21
-collerson2007scienceb_y,collerson2007scienceb_y-W-2
-collerson2007scienceb_zr,collerson2007scienceb_zr-BHVO-1
-collerson2007scienceb_zr,collerson2007scienceb_zr-BCR-21
-collerson2007scienceb_zr,collerson2007scienceb_zr-W-2
-collerson2007scienceb_nb,collerson2007scienceb_nb-BHVO-1
-collerson2007scienceb_nb,collerson2007scienceb_nb-BCR-21
-collerson2007scienceb_nb,collerson2007scienceb_nb-W-2
-collerson2007scienceb_sn,collerson2007scienceb_sn-BHVO-1
-collerson2007scienceb_sn,collerson2007scienceb_sn-BCR-21
-collerson2007scienceb_sn,collerson2007scienceb_sn-W-2
-collerson2007scienceb_cs,collerson2007scienceb_cs-BHVO-1
-collerson2007scienceb_cs,collerson2007scienceb_cs-BCR-21
-collerson2007scienceb_cs,collerson2007scienceb_cs-W-2
-collerson2007scienceb_ba,collerson2007scienceb_ba-BHVO-1
-collerson2007scienceb_ba,collerson2007scienceb_ba-BCR-21
-collerson2007scienceb_ba,collerson2007scienceb_ba-W-2
-collerson2007scienceb_la,collerson2007scienceb_la-BHVO-1
-collerson2007scienceb_la,collerson2007scienceb_la-BCR-21
-collerson2007scienceb_la,collerson2007scienceb_la-W-2
-collerson2007scienceb_ce,collerson2007scienceb_ce-BHVO-1
-collerson2007scienceb_ce,collerson2007scienceb_ce-BCR-21
-collerson2007scienceb_ce,collerson2007scienceb_ce-W-2
-collerson2007scienceb_pr,collerson2007scienceb_pr-BHVO-1
-collerson2007scienceb_pr,collerson2007scienceb_pr-BCR-21
-collerson2007scienceb_pr,collerson2007scienceb_pr-W-2
-collerson2007scienceb_nd,collerson2007scienceb_nd-BHVO-1
-collerson2007scienceb_nd,collerson2007scienceb_nd-BCR-21
-collerson2007scienceb_nd,collerson2007scienceb_nd-W-2
-collerson2007scienceb_sm,collerson2007scienceb_sm-BHVO-1
-collerson2007scienceb_sm,collerson2007scienceb_sm-BCR-21
-collerson2007scienceb_sm,collerson2007scienceb_sm-W-2
-collerson2007scienceb_eu,collerson2007scienceb_eu-BHVO-1
-collerson2007scienceb_eu,collerson2007scienceb_eu-BCR-21
-collerson2007scienceb_eu,collerson2007scienceb_eu-W-2
-collerson2007scienceb_gd,collerson2007scienceb_gd-BHVO-1
-collerson2007scienceb_gd,collerson2007scienceb_gd-BCR-21
-collerson2007scienceb_gd,collerson2007scienceb_gd-W-2
-collerson2007scienceb_tb,collerson2007scienceb_tb-BHVO-1
-collerson2007scienceb_tb,collerson2007scienceb_tb-BCR-21
-collerson2007scienceb_tb,collerson2007scienceb_tb-W-2
-collerson2007scienceb_dy,collerson2007scienceb_dy-BHVO-1
-collerson2007scienceb_dy,collerson2007scienceb_dy-BCR-21
-collerson2007scienceb_dy,collerson2007scienceb_dy-W-2
-collerson2007scienceb_ho,collerson2007scienceb_ho-BHVO-1
-collerson2007scienceb_ho,collerson2007scienceb_ho-BCR-21
-collerson2007scienceb_ho,collerson2007scienceb_ho-W-2
-collerson2007scienceb_er,collerson2007scienceb_er-BHVO-1
-collerson2007scienceb_er,collerson2007scienceb_er-BCR-21
-collerson2007scienceb_er,collerson2007scienceb_er-W-2
-collerson2007scienceb_tm,collerson2007scienceb_tm-BHVO-1
-collerson2007scienceb_tm,collerson2007scienceb_tm-BCR-21
-collerson2007scienceb_tm,collerson2007scienceb_tm-W-2
-collerson2007scienceb_yb,collerson2007scienceb_yb-BHVO-1
-collerson2007scienceb_yb,collerson2007scienceb_yb-BCR-21
-collerson2007scienceb_yb,collerson2007scienceb_yb-W-2
-collerson2007scienceb_lu,collerson2007scienceb_lu-BHVO-1
-collerson2007scienceb_lu,collerson2007scienceb_lu-BCR-21
-collerson2007scienceb_lu,collerson2007scienceb_lu-W-2
-collerson2007scienceb_hf,collerson2007scienceb_hf-BHVO-1
-collerson2007scienceb_hf,collerson2007scienceb_hf-BCR-21
-collerson2007scienceb_hf,collerson2007scienceb_hf-W-2
-collerson2007scienceb_ta,collerson2007scienceb_ta-BHVO-1
-collerson2007scienceb_ta,collerson2007scienceb_ta-BCR-21
-collerson2007scienceb_ta,collerson2007scienceb_ta-W-2
-collerson2007scienceb_w,collerson2007scienceb_w-BHVO-1
-collerson2007scienceb_w,collerson2007scienceb_w-BCR-21
-collerson2007scienceb_w,collerson2007scienceb_w-W-2
-collerson2007scienceb_tl,collerson2007scienceb_tl-BHVO-1
-collerson2007scienceb_tl,collerson2007scienceb_tl-BCR-21
-collerson2007scienceb_tl,collerson2007scienceb_tl-W-2
-collerson2007scienceb_pb,collerson2007scienceb_pb-BHVO-1
-collerson2007scienceb_pb,collerson2007scienceb_pb-BCR-21
-collerson2007scienceb_pb,collerson2007scienceb_pb-W-2
-collerson2007scienceb_th,collerson2007scienceb_th-BHVO-1
-collerson2007scienceb_th,collerson2007scienceb_th-BCR-21
-collerson2007scienceb_th,collerson2007scienceb_th-W-2
-collerson2007scienceb_u,collerson2007scienceb_u-BHVO-1
-collerson2007scienceb_u,collerson2007scienceb_u-BCR-21
-collerson2007scienceb_u,collerson2007scienceb_u-W-2
-collerson2007sciencec_nd143nd144,collerson2007sciencec_nd143nd144-Ames Nd
-collerson2007sciencec_sr87sr86,collerson2007sciencec_sr87sr86-NBS SRM 987
-collerson2007sciencec_pb206pb204,collerson2007sciencec_pb206pb204-NBS SRM 981
-collerson2007sciencec_pb207pb204,collerson2007sciencec_pb207pb204-NBS SRM 981
-collerson2007sciencec_pb208pb204,collerson2007sciencec_pb208pb204-NBS SRM 981
-collerson2007sciencec_pb207pb206,collerson2007sciencec_pb207pb206-NBS SRM 981
-collerson2007sciencec_pb208pb206,collerson2007sciencec_pb208pb206-NBS SRM 981
-fankhauser2009fijic_sc,fankhauser2009fijic_sc-BHVO-1
-fankhauser2009fijic_v,fankhauser2009fijic_v-BHVO-1
-fankhauser2009fijic_cr,fankhauser2009fijic_cr-BHVO-1
-fankhauser2009fijic_ni,fankhauser2009fijic_ni-BHVO-1
-fankhauser2009fijic_cu,fankhauser2009fijic_cu-BHVO-1
-fankhauser2009fijic_zn,fankhauser2009fijic_zn-BHVO-1
-fankhauser2009fijic_ga,fankhauser2009fijic_ga-BHVO-1
-fankhauser2009fijic_as,fankhauser2009fijic_as-BHVO-1
-fankhauser2009fijic_rb,fankhauser2009fijic_rb-BHVO-1
-fankhauser2009fijic_sr,fankhauser2009fijic_sr-BHVO-1
-fankhauser2009fijic_y,fankhauser2009fijic_y-BHVO-1
-fankhauser2009fijic_zr,fankhauser2009fijic_zr-BHVO-1
-fankhauser2009fijic_nb,fankhauser2009fijic_nb-BHVO-1
-fankhauser2009fijic_ba,fankhauser2009fijic_ba-BHVO-1
-fankhauser2009fijic_la,fankhauser2009fijic_la-BHVO-1
-fankhauser2009fijic_ce,fankhauser2009fijic_ce-BHVO-1
-fankhauser2009fijic_nd,fankhauser2009fijic_nd-BHVO-1
-fankhauser2009fijic_pb,fankhauser2009fijic_pb-BHVO-1
-fankhauser2009fijic_th,fankhauser2009fijic_th-BHVO-1
-hermann2017jasra_sio2,hermann2017jasra_sio2-JB-2
-hermann2017jasra_sio2,hermann2017jasra_sio2-AC-E
-hermann2017jasra_sio2,hermann2017jasra_sio2-WSE
-hermann2017jasra_tio2,hermann2017jasra_tio2-JB-2
-hermann2017jasra_tio2,hermann2017jasra_tio2-AC-E
-hermann2017jasra_tio2,hermann2017jasra_tio2-WSE
-hermann2017jasra_al2o3,hermann2017jasra_al2o3-JB-2
-hermann2017jasra_al2o3,hermann2017jasra_al2o3-AC-E
-hermann2017jasra_al2o3,hermann2017jasra_al2o3-WSE
-hermann2017jasra_fe2o3,hermann2017jasra_fe2o3-JB-2
-hermann2017jasra_fe2o3,hermann2017jasra_fe2o3-AC-E
-hermann2017jasra_fe2o3,hermann2017jasra_fe2o3-WSE
-hermann2017jasra_cao,hermann2017jasra_cao-JB-2
-hermann2017jasra_cao,hermann2017jasra_cao-AC-E
-hermann2017jasra_cao,hermann2017jasra_cao-WSE
-hermann2017jasra_mgo,hermann2017jasra_mgo-JB-2
-hermann2017jasra_mgo,hermann2017jasra_mgo-AC-E
-hermann2017jasra_mgo,hermann2017jasra_mgo-WSE
-hermann2017jasra_mno,hermann2017jasra_mno-JB-2
-hermann2017jasra_mno,hermann2017jasra_mno-AC-E
-hermann2017jasra_mno,hermann2017jasra_mno-WSE
-hermann2017jasra_k2o,hermann2017jasra_k2o-JB-2
-hermann2017jasra_k2o,hermann2017jasra_k2o-AC-E
-hermann2017jasra_k2o,hermann2017jasra_k2o-WSE
-hermann2017jasra_na2o,hermann2017jasra_na2o-JB-2
-hermann2017jasra_na2o,hermann2017jasra_na2o-AC-E
-hermann2017jasra_na2o,hermann2017jasra_na2o-WSE
-hermann2017jasra_p2o5,hermann2017jasra_p2o5-JB-2
-hermann2017jasra_p2o5,hermann2017jasra_p2o5-AC-E
-hermann2017jasra_p2o5,hermann2017jasra_p2o5-WSE
-hermann2017jasra_sc,hermann2017jasra_sc-JB-2
-hermann2017jasra_sc,hermann2017jasra_sc-AC-E
-hermann2017jasra_sc,hermann2017jasra_sc-WSE
-hermann2017jasra_v,hermann2017jasra_v-JB-2
-hermann2017jasra_v,hermann2017jasra_v-AC-E
-hermann2017jasra_v,hermann2017jasra_v-WSE
-hermann2017jasra_cr,hermann2017jasra_cr-JB-2
-hermann2017jasra_cr,hermann2017jasra_cr-AC-E
-hermann2017jasra_cr,hermann2017jasra_cr-WSE
-hermann2017jasra_co,hermann2017jasra_co-JB-2
-hermann2017jasra_co,hermann2017jasra_co-AC-E
-hermann2017jasra_co,hermann2017jasra_co-WSE
-hermann2017jasra_ni,hermann2017jasra_ni-JB-2
-hermann2017jasra_ni,hermann2017jasra_ni-AC-E
-hermann2017jasra_ni,hermann2017jasra_ni-WSE
-hermann2017jasra_rb,hermann2017jasra_rb-JB-2
-hermann2017jasra_rb,hermann2017jasra_rb-AC-E
-hermann2017jasra_rb,hermann2017jasra_rb-WSE
-hermann2017jasra_sr,hermann2017jasra_sr-JB-2
-hermann2017jasra_sr,hermann2017jasra_sr-AC-E
-hermann2017jasra_sr,hermann2017jasra_sr-WSE
-hermann2017jasra_y,hermann2017jasra_y-JB-2
-hermann2017jasra_y,hermann2017jasra_y-AC-E
-hermann2017jasra_y,hermann2017jasra_y-WSE
-hermann2017jasra_zr,hermann2017jasra_zr-JB-2
-hermann2017jasra_zr,hermann2017jasra_zr-AC-E
-hermann2017jasra_zr,hermann2017jasra_zr-WSE
-hermann2017jasra_nb,hermann2017jasra_nb-JB-2
-hermann2017jasra_nb,hermann2017jasra_nb-AC-E
-hermann2017jasra_nb,hermann2017jasra_nb-WSE
-hermann2017jasra_ba,hermann2017jasra_ba-JB-2
-hermann2017jasra_ba,hermann2017jasra_ba-AC-E
-hermann2017jasra_ba,hermann2017jasra_ba-WSE
-hermann2017jasra_la,hermann2017jasra_la-JB-2
-hermann2017jasra_la,hermann2017jasra_la-AC-E
-hermann2017jasra_la,hermann2017jasra_la-WSE
-hermann2017jasra_ce,hermann2017jasra_ce-JB-2
-hermann2017jasra_ce,hermann2017jasra_ce-AC-E
-hermann2017jasra_ce,hermann2017jasra_ce-WSE
-hermann2017jasra_nd,hermann2017jasra_nd-JB-2
-hermann2017jasra_nd,hermann2017jasra_nd-AC-E
-hermann2017jasra_nd,hermann2017jasra_nd-WSE
-hermann2017jasra_sm,hermann2017jasra_sm-JB-2
-hermann2017jasra_sm,hermann2017jasra_sm-AC-E
-hermann2017jasra_sm,hermann2017jasra_sm-WSE
-hermann2017jasra_eu,hermann2017jasra_eu-JB-2
-hermann2017jasra_eu,hermann2017jasra_eu-AC-E
-hermann2017jasra_eu,hermann2017jasra_eu-WSE
-hermann2017jasra_gd,hermann2017jasra_gd-JB-2
-hermann2017jasra_gd,hermann2017jasra_gd-AC-E
-hermann2017jasra_gd,hermann2017jasra_gd-WSE
-hermann2017jasra_dy,hermann2017jasra_dy-JB-2
-hermann2017jasra_dy,hermann2017jasra_dy-AC-E
-hermann2017jasra_dy,hermann2017jasra_dy-WSE
-hermann2017jasra_er,hermann2017jasra_er-JB-2
-hermann2017jasra_er,hermann2017jasra_er-AC-E
-hermann2017jasra_er,hermann2017jasra_er-WSE
-hermann2017jasra_yb,hermann2017jasra_yb-JB-2
-hermann2017jasra_yb,hermann2017jasra_yb-AC-E
-hermann2017jasra_yb,hermann2017jasra_yb-WSE
-hermann2017jasra_th,hermann2017jasra_th-JB-2
-hermann2017jasra_th,hermann2017jasra_th-AC-E
-hermann2017jasra_th,hermann2017jasra_th-WSE
-hermann2017jasrb_sr87sr86,hermann2017jasrb_sr87sr86-NBS 987
-hermann2017jasrc_pb206pb204,hermann2017jasrc_pb206pb204-NBS 981
-hermann2017jasrc_pb207pb204,hermann2017jasrc_pb207pb204-NBS 981
-hermann2017jasrc_pb208pb204,hermann2017jasrc_pb208pb204-NBS 981
-kahn2008nzjaa_sio2,kahn2008nzjaa_sio2-BHVO-2
-kahn2008nzjaa_tio2,kahn2008nzjaa_tio2-BHVO-2
-kahn2008nzjaa_al2o3,kahn2008nzjaa_al2o3-BHVO-2
-kahn2008nzjaa_cao,kahn2008nzjaa_cao-BHVO-2
-kahn2008nzjaa_mgo,kahn2008nzjaa_mgo-BHVO-2
-kahn2008nzjaa_k2o,kahn2008nzjaa_k2o-BHVO-2
-kahn2008nzjaa_na2o,kahn2008nzjaa_na2o-BHVO-2
-kahn2008nzjaa_v,kahn2008nzjaa_v-BHVO-2
-kahn2008nzjaa_fe,kahn2008nzjaa_fe-BHVO-2
-kahn2008nzjaa_ni,kahn2008nzjaa_ni-BHVO-2
-kahn2008nzjaa_cu,kahn2008nzjaa_cu-BHVO-2
-kahn2008nzjaa_zn,kahn2008nzjaa_zn-BHVO-2
-kahn2008nzjaa_rb,kahn2008nzjaa_rb-BHVO-2
-kahn2008nzjaa_sr,kahn2008nzjaa_sr-BHVO-2
-kahn2008nzjaa_y,kahn2008nzjaa_y-BHVO-2
-kahn2008nzjaa_zr,kahn2008nzjaa_zr-BHVO-2
-kahn2008nzjaa_nb,kahn2008nzjaa_nb-BHVO-2
-kahn2013jasa_sio2,kahn2013jasa_sio2-BHVO-2
-kahn2013jasa_tio2,kahn2013jasa_tio2-BHVO-2
-kahn2013jasa_al2o3,kahn2013jasa_al2o3-BHVO-2
-kahn2013jasa_cao,kahn2013jasa_cao-BHVO-2
-kahn2013jasa_mgo,kahn2013jasa_mgo-BHVO-2
-kahn2013jasa_mno,kahn2013jasa_mno-BHVO-2
-kahn2013jasa_k2o,kahn2013jasa_k2o-BHVO-2
-kahn2013jasa_v,kahn2013jasa_v-BHVO-2
-kahn2013jasa_ni,kahn2013jasa_ni-BHVO-2
-kahn2013jasa_cu,kahn2013jasa_cu-BHVO-2
-kahn2013jasa_zn,kahn2013jasa_zn-BHVO-2
-kahn2013jasa_rb,kahn2013jasa_rb-BHVO-2
-kahn2013jasa_sr,kahn2013jasa_sr-BHVO-2
-kahn2013jasa_y,kahn2013jasa_y-BHVO-2
-kahn2013jasa_zr,kahn2013jasa_zr-BHVO-2
-kahn2013jasa_nb,kahn2013jasa_nb-BHVO-2
-kahn2013jasa_na2o,kahn2013jasa_na2o-BHVO-2
-kirch2015aoa_sio2,kirch2015aoa_sio2-BHVO-2 (5-12.1)
-kirch2015aoa_sio2,kirch2015aoa_sio2-BHVO-2 (3-13.1)
-kirch2015aoa_tio2,kirch2015aoa_tio2-BHVO-2 (5-12.1)
-kirch2015aoa_tio2,kirch2015aoa_tio2-BHVO-2 (3-13.1)
-kirch2015aoa_al2o3,kirch2015aoa_al2o3-BHVO-2 (5-12.1)
-kirch2015aoa_al2o3,kirch2015aoa_al2o3-BHVO-2 (3-13.1)
-kirch2015aoa_cao,kirch2015aoa_cao-BHVO-2 (5-12.1)
-kirch2015aoa_cao,kirch2015aoa_cao-BHVO-2 (3-13.1)
-kirch2015aoa_mgo,kirch2015aoa_mgo-BHVO-2 (5-12.1)
-kirch2015aoa_mgo,kirch2015aoa_mgo-BHVO-2 (3-13.1)
-kirch2015aoa_mno,kirch2015aoa_mno-BHVO-2 (5-12.1)
-kirch2015aoa_mno,kirch2015aoa_mno-BHVO-2 (3-13.1)
-kirch2015aoa_k2o,kirch2015aoa_k2o-BHVO-2 (5-12.1)
-kirch2015aoa_k2o,kirch2015aoa_k2o-BHVO-2 (3-13.1)
-kirch2015aoa_na2o,kirch2015aoa_na2o-BHVO-2 (5-12.1)
-kirch2015aoa_na2o,kirch2015aoa_na2o-BHVO-2 (3-13.1)
-kirch2015aoa_v,kirch2015aoa_v-BHVO-2 (5-12.1)
-kirch2015aoa_v,kirch2015aoa_v-BHVO-2 (3-13.1)
-kirch2015aoa_fe,kirch2015aoa_fe-BHVO-2 (5-12.1)
-kirch2015aoa_fe,kirch2015aoa_fe-BHVO-2 (3-13.1)
-kirch2015aoa_ni,kirch2015aoa_ni-BHVO-2 (5-12.1)
-kirch2015aoa_ni,kirch2015aoa_ni-BHVO-2 (3-13.1)
-kirch2015aoa_cu,kirch2015aoa_cu-BHVO-2 (5-12.1)
-kirch2015aoa_cu,kirch2015aoa_cu-BHVO-2 (3-13.1)
-kirch2015aoa_zn,kirch2015aoa_zn-BHVO-2 (5-12.1)
-kirch2015aoa_zn,kirch2015aoa_zn-BHVO-2 (3-13.1)
-kirch2015aoa_rb,kirch2015aoa_rb-BHVO-2 (5-12.1)
-kirch2015aoa_rb,kirch2015aoa_rb-BHVO-2 (3-13.1)
-kirch2015aoa_sr,kirch2015aoa_sr-BHVO-2 (5-12.1)
-kirch2015aoa_sr,kirch2015aoa_sr-BHVO-2 (3-13.1)
-kirch2015aoa_y,kirch2015aoa_y-BHVO-2 (5-12.1)
-kirch2015aoa_y,kirch2015aoa_y-BHVO-2 (3-13.1)
-kirch2015aoa_zr,kirch2015aoa_zr-BHVO-2 (5-12.1)
-kirch2015aoa_zr,kirch2015aoa_zr-BHVO-2 (3-13.1)
-kirch2015aoa_nb,kirch2015aoa_nb-BHVO-2 (5-12.1)
-kirch2015aoa_nb,kirch2015aoa_nb-BHVO-2 (3-13.1)
-kirch2015aoa_ba,kirch2015aoa_ba-BHVO-2 (5-12.1)
-kirch2015aoa_ba,kirch2015aoa_ba-BHVO-2 (3-13.1)
-kirch2015aoa_pb,kirch2015aoa_pb-BHVO-2 (5-12.1)
-kirch2015aoa_pb,kirch2015aoa_pb-BHVO-2 (3-13.1)
-rolett2015jasa_sio2,rolett2015jasa_sio2-W-1
-rolett2015jasa_sio2,rolett2015jasa_sio2-BHVO-1
-rolett2015jasa_sio2,rolett2015jasa_sio2-BIR-1
-rolett2015jasa_tio2,rolett2015jasa_tio2-W-1
-rolett2015jasa_tio2,rolett2015jasa_tio2-BHVO-1
-rolett2015jasa_tio2,rolett2015jasa_tio2-BIR-1
-rolett2015jasa_al2o3,rolett2015jasa_al2o3-W-1
-rolett2015jasa_al2o3,rolett2015jasa_al2o3-BHVO-1
-rolett2015jasa_al2o3,rolett2015jasa_al2o3-BIR-1
-rolett2015jasa_feo,rolett2015jasa_feo-W-1
-rolett2015jasa_feo,rolett2015jasa_feo-BHVO-1
-rolett2015jasa_feo,rolett2015jasa_feo-BIR-1
-rolett2015jasa_cao,rolett2015jasa_cao-W-1
-rolett2015jasa_cao,rolett2015jasa_cao-BHVO-1
-rolett2015jasa_cao,rolett2015jasa_cao-BIR-1
-rolett2015jasa_mgo,rolett2015jasa_mgo-W-1
-rolett2015jasa_mgo,rolett2015jasa_mgo-BHVO-1
-rolett2015jasa_mgo,rolett2015jasa_mgo-BIR-1
-rolett2015jasa_mno,rolett2015jasa_mno-W-1
-rolett2015jasa_mno,rolett2015jasa_mno-BHVO-1
-rolett2015jasa_mno,rolett2015jasa_mno-BIR-1
-rolett2015jasa_k2o,rolett2015jasa_k2o-W-1
-rolett2015jasa_k2o,rolett2015jasa_k2o-BHVO-1
-rolett2015jasa_k2o,rolett2015jasa_k2o-BIR-1
-rolett2015jasa_na2o,rolett2015jasa_na2o-W-1
-rolett2015jasa_na2o,rolett2015jasa_na2o-BHVO-1
-rolett2015jasa_na2o,rolett2015jasa_na2o-BIR-1
-rolett2015jasa_p2o5,rolett2015jasa_p2o5-W-1
-rolett2015jasa_p2o5,rolett2015jasa_p2o5-BHVO-1
-rolett2015jasa_p2o5,rolett2015jasa_p2o5-BIR-1
-rolett2015jasa_sc,rolett2015jasa_sc-W-1
-rolett2015jasa_sc,rolett2015jasa_sc-BHVO-1
-rolett2015jasa_sc,rolett2015jasa_sc-BIR-1
-rolett2015jasa_v,rolett2015jasa_v-W-1
-rolett2015jasa_v,rolett2015jasa_v-BHVO-1
-rolett2015jasa_v,rolett2015jasa_v-BIR-1
-rolett2015jasa_cr,rolett2015jasa_cr-W-1
-rolett2015jasa_cr,rolett2015jasa_cr-BHVO-1
-rolett2015jasa_cr,rolett2015jasa_cr-BIR-1
-rolett2015jasa_co,rolett2015jasa_co-W-1
-rolett2015jasa_co,rolett2015jasa_co-BHVO-1
-rolett2015jasa_co,rolett2015jasa_co-BIR-1
-rolett2015jasa_ni,rolett2015jasa_ni-W-1
-rolett2015jasa_ni,rolett2015jasa_ni-BHVO-1
-rolett2015jasa_ni,rolett2015jasa_ni-BIR-1
-rolett2015jasa_zn,rolett2015jasa_zn-W-1
-rolett2015jasa_zn,rolett2015jasa_zn-BHVO-1
-rolett2015jasa_zn,rolett2015jasa_zn-BIR-1
-rolett2015jasa_rb,rolett2015jasa_rb-W-1
-rolett2015jasa_rb,rolett2015jasa_rb-BHVO-1
-rolett2015jasa_rb,rolett2015jasa_rb-BIR-1
-rolett2015jasa_sr,rolett2015jasa_sr-W-1
-rolett2015jasa_sr,rolett2015jasa_sr-BHVO-1
-rolett2015jasa_sr,rolett2015jasa_sr-BIR-1
-rolett2015jasa_y,rolett2015jasa_y-W-1
-rolett2015jasa_y,rolett2015jasa_y-BHVO-1
-rolett2015jasa_y,rolett2015jasa_y-BIR-1
-rolett2015jasa_zr,rolett2015jasa_zr-W-1
-rolett2015jasa_zr,rolett2015jasa_zr-BHVO-1
-rolett2015jasa_zr,rolett2015jasa_zr-BIR-1
-rolett2015jasa_nb,rolett2015jasa_nb-W-1
-rolett2015jasa_nb,rolett2015jasa_nb-BHVO-1
-rolett2015jasa_nb,rolett2015jasa_nb-BIR-1
-rolett2015jasa_ba,rolett2015jasa_ba-W-1
-rolett2015jasa_ba,rolett2015jasa_ba-BHVO-1
-rolett2015jasa_ba,rolett2015jasa_ba-BIR-1
-sheppard1997cooka_sio2,sheppard1997cooka_sio2-AC-E
-sheppard1997cooka_sio2,sheppard1997cooka_sio2-MEB (Mount Eden Basalt)
-sheppard1997cooka_sio2,sheppard1997cooka_sio2-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_tio2,sheppard1997cooka_tio2-AC-E
-sheppard1997cooka_tio2,sheppard1997cooka_tio2-MEB (Mount Eden Basalt)
-sheppard1997cooka_tio2,sheppard1997cooka_tio2-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_al2o3,sheppard1997cooka_al2o3-AC-E
-sheppard1997cooka_al2o3,sheppard1997cooka_al2o3-MEB (Mount Eden Basalt)
-sheppard1997cooka_al2o3,sheppard1997cooka_al2o3-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_fe2o3,sheppard1997cooka_fe2o3-AC-E
-sheppard1997cooka_fe2o3,sheppard1997cooka_fe2o3-MEB (Mount Eden Basalt)
-sheppard1997cooka_fe2o3,sheppard1997cooka_fe2o3-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_cao,sheppard1997cooka_cao-AC-E
-sheppard1997cooka_cao,sheppard1997cooka_cao-MEB (Mount Eden Basalt)
-sheppard1997cooka_cao,sheppard1997cooka_cao-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_mgo,sheppard1997cooka_mgo-AC-E
-sheppard1997cooka_mgo,sheppard1997cooka_mgo-MEB (Mount Eden Basalt)
-sheppard1997cooka_mgo,sheppard1997cooka_mgo-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_mno,sheppard1997cooka_mno-AC-E
-sheppard1997cooka_mno,sheppard1997cooka_mno-MEB (Mount Eden Basalt)
-sheppard1997cooka_mno,sheppard1997cooka_mno-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_k2o,sheppard1997cooka_k2o-AC-E
-sheppard1997cooka_k2o,sheppard1997cooka_k2o-MEB (Mount Eden Basalt)
-sheppard1997cooka_k2o,sheppard1997cooka_k2o-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_na2o,sheppard1997cooka_na2o-AC-E
-sheppard1997cooka_na2o,sheppard1997cooka_na2o-MEB (Mount Eden Basalt)
-sheppard1997cooka_na2o,sheppard1997cooka_na2o-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_p2o5,sheppard1997cooka_p2o5-AC-E
-sheppard1997cooka_p2o5,sheppard1997cooka_p2o5-MEB (Mount Eden Basalt)
-sheppard1997cooka_p2o5,sheppard1997cooka_p2o5-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_v,sheppard1997cooka_v-AC-E
-sheppard1997cooka_v,sheppard1997cooka_v-MEB (Mount Eden Basalt)
-sheppard1997cooka_v,sheppard1997cooka_v-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_cr,sheppard1997cooka_cr-AC-E
-sheppard1997cooka_cr,sheppard1997cooka_cr-MEB (Mount Eden Basalt)
-sheppard1997cooka_cr,sheppard1997cooka_cr-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_ni,sheppard1997cooka_ni-AC-E
-sheppard1997cooka_ni,sheppard1997cooka_ni-MEB (Mount Eden Basalt)
-sheppard1997cooka_ni,sheppard1997cooka_ni-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_zn,sheppard1997cooka_zn-AC-E
-sheppard1997cooka_zn,sheppard1997cooka_zn-MEB (Mount Eden Basalt)
-sheppard1997cooka_zn,sheppard1997cooka_zn-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_rb,sheppard1997cooka_rb-AC-E
-sheppard1997cooka_rb,sheppard1997cooka_rb-MEB (Mount Eden Basalt)
-sheppard1997cooka_rb,sheppard1997cooka_rb-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_sr,sheppard1997cooka_sr-AC-E
-sheppard1997cooka_sr,sheppard1997cooka_sr-MEB (Mount Eden Basalt)
-sheppard1997cooka_sr,sheppard1997cooka_sr-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_y,sheppard1997cooka_y-AC-E
-sheppard1997cooka_y,sheppard1997cooka_y-MEB (Mount Eden Basalt)
-sheppard1997cooka_y,sheppard1997cooka_y-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_zr,sheppard1997cooka_zr-AC-E
-sheppard1997cooka_zr,sheppard1997cooka_zr-MEB (Mount Eden Basalt)
-sheppard1997cooka_zr,sheppard1997cooka_zr-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_nb,sheppard1997cooka_nb-AC-E
-sheppard1997cooka_nb,sheppard1997cooka_nb-MEB (Mount Eden Basalt)
-sheppard1997cooka_nb,sheppard1997cooka_nb-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_ba,sheppard1997cooka_ba-AC-E
-sheppard1997cooka_ba,sheppard1997cooka_ba-MEB (Mount Eden Basalt)
-sheppard1997cooka_ba,sheppard1997cooka_ba-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_la,sheppard1997cooka_la-AC-E
-sheppard1997cooka_la,sheppard1997cooka_la-MEB (Mount Eden Basalt)
-sheppard1997cooka_la,sheppard1997cooka_la-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_pb,sheppard1997cooka_pb-AC-E
-sheppard1997cooka_pb,sheppard1997cooka_pb-MEB (Mount Eden Basalt)
-sheppard1997cooka_pb,sheppard1997cooka_pb-TOR (Taupo Obsidian Rhyolite)
-sheppard1997cooka_th,sheppard1997cooka_th-AC-E
-sheppard1997cooka_th,sheppard1997cooka_th-MEB (Mount Eden Basalt)
-sheppard1997cooka_th,sheppard1997cooka_th-TOR (Taupo Obsidian Rhyolite)
-simpson2018aob_be,simpson2018aob_be-BHVO-2
-simpson2018aob_mg,simpson2018aob_mg-BHVO-2
-simpson2018aob_p,simpson2018aob_p-BHVO-2
-simpson2018aob_ca,simpson2018aob_ca-BHVO-2
-simpson2018aob_sc,simpson2018aob_sc-BHVO-2
-simpson2018aob_ti,simpson2018aob_ti-BHVO-2
-simpson2018aob_v,simpson2018aob_v-BHVO-2
-simpson2018aob_cr,simpson2018aob_cr-BHVO-2
-simpson2018aob_mn,simpson2018aob_mn-BHVO-2
-simpson2018aob_fe,simpson2018aob_fe-BHVO-2
-simpson2018aob_co,simpson2018aob_co-BHVO-2
-simpson2018aob_ni,simpson2018aob_ni-BHVO-2
-simpson2018aob_cu,simpson2018aob_cu-BHVO-2
-simpson2018aob_zn,simpson2018aob_zn-BHVO-2
-simpson2018aob_ga,simpson2018aob_ga-BHVO-2
-simpson2018aob_rb,simpson2018aob_rb-BHVO-2
-simpson2018aob_sr,simpson2018aob_sr-BHVO-2
-simpson2018aob_y,simpson2018aob_y-BHVO-2
-simpson2018aob_zr,simpson2018aob_zr-BHVO-2
-simpson2018aob_nb,simpson2018aob_nb-BHVO-2
-simpson2018aob_mo,simpson2018aob_mo-BHVO-2
-simpson2018aob_cd,simpson2018aob_cd-BHVO-2
-simpson2018aob_sn,simpson2018aob_sn-BHVO-2
-simpson2018aob_sb,simpson2018aob_sb-BHVO-2
-simpson2018aob_cs,simpson2018aob_cs-BHVO-2
-simpson2018aob_ba,simpson2018aob_ba-BHVO-2
-simpson2018aob_la,simpson2018aob_la-BHVO-2
-simpson2018aob_ce,simpson2018aob_ce-BHVO-2
-simpson2018aob_pr,simpson2018aob_pr-BHVO-2
-simpson2018aob_nd,simpson2018aob_nd-BHVO-2
-simpson2018aob_sm,simpson2018aob_sm-BHVO-2
-simpson2018aob_eu,simpson2018aob_eu-BHVO-2
-simpson2018aob_gd,simpson2018aob_gd-BHVO-2
-simpson2018aob_tb,simpson2018aob_tb-BHVO-2
-simpson2018aob_dy,simpson2018aob_dy-BHVO-2
-simpson2018aob_ho,simpson2018aob_ho-BHVO-2
-simpson2018aob_er,simpson2018aob_er-BHVO-2
-simpson2018aob_tm,simpson2018aob_tm-BHVO-2
-simpson2018aob_yb,simpson2018aob_yb-BHVO-2
-simpson2018aob_lu,simpson2018aob_lu-BHVO-2
-simpson2018aob_hf,simpson2018aob_hf-BHVO-2
-simpson2018aob_ta,simpson2018aob_ta-BHVO-2
-simpson2018aob_w,simpson2018aob_w-BHVO-2
-simpson2018aob_tl,simpson2018aob_tl-BHVO-2
-simpson2018aob_pb,simpson2018aob_pb-BHVO-2
-simpson2018aob_th,simpson2018aob_th-BHVO-2
-simpson2018aob_u,simpson2018aob_u-BHVO-2
-simpson2018aoc_nd143nd144,simpson2018aoc_nd143nd144-BHVO-2
-simpson2018aoc_sr87sr86,simpson2018aoc_sr87sr86-BHVO-2
-simpson2018aoc_pb206pb204,simpson2018aoc_pb206pb204-BHVO-2
-simpson2018aoc_pb207pb204,simpson2018aoc_pb207pb204-BHVO-2
-simpson2018aoc_pb208pb204,simpson2018aoc_pb208pb204-BHVO-2
-simpson2018jasra_sio2,simpson2018jasra_sio2-CORNING B
-simpson2018jasra_sio2,simpson2018jasra_sio2-CORNING D
-simpson2018jasra_tio2,simpson2018jasra_tio2-CORNING B
-simpson2018jasra_tio2,simpson2018jasra_tio2-CORNING D
-simpson2018jasra_al2o3,simpson2018jasra_al2o3-CORNING B
-simpson2018jasra_al2o3,simpson2018jasra_al2o3-CORNING D
-simpson2018jasra_fe2o3,simpson2018jasra_fe2o3-CORNING B
-simpson2018jasra_fe2o3,simpson2018jasra_fe2o3-CORNING D
-simpson2018jasra_cao,simpson2018jasra_cao-CORNING B
-simpson2018jasra_cao,simpson2018jasra_cao-CORNING D
-simpson2018jasra_mgo,simpson2018jasra_mgo-CORNING B
-simpson2018jasra_mgo,simpson2018jasra_mgo-CORNING D
-simpson2018jasra_mno,simpson2018jasra_mno-CORNING B
-simpson2018jasra_mno,simpson2018jasra_mno-CORNING D
-simpson2018jasra_k2o,simpson2018jasra_k2o-CORNING B
-simpson2018jasra_k2o,simpson2018jasra_k2o-CORNING D
-simpson2018jasra_na2o,simpson2018jasra_na2o-CORNING B
-simpson2018jasra_na2o,simpson2018jasra_na2o-CORNING D
-simpson2018jasra_p2o5,simpson2018jasra_p2o5-CORNING B
-simpson2018jasra_p2o5,simpson2018jasra_p2o5-CORNING D
-simpson2018jasra_li,simpson2018jasra_li-CORNING B
-simpson2018jasra_li,simpson2018jasra_li-CORNING D
-simpson2018jasra_be,simpson2018jasra_be-CORNING B
-simpson2018jasra_be,simpson2018jasra_be-CORNING D
-simpson2018jasra_b,simpson2018jasra_b-CORNING B
-simpson2018jasra_b,simpson2018jasra_b-CORNING D
-simpson2018jasra_sc,simpson2018jasra_sc-CORNING B
-simpson2018jasra_sc,simpson2018jasra_sc-CORNING D
-simpson2018jasra_v,simpson2018jasra_v-CORNING B
-simpson2018jasra_v,simpson2018jasra_v-CORNING D
-simpson2018jasra_cr,simpson2018jasra_cr-CORNING B
-simpson2018jasra_cr,simpson2018jasra_cr-CORNING D
-simpson2018jasra_co,simpson2018jasra_co-CORNING B
-simpson2018jasra_co,simpson2018jasra_co-CORNING D
-simpson2018jasra_ni,simpson2018jasra_ni-CORNING B
-simpson2018jasra_ni,simpson2018jasra_ni-CORNING D
-simpson2018jasra_zn,simpson2018jasra_zn-CORNING B
-simpson2018jasra_zn,simpson2018jasra_zn-CORNING D
-simpson2018jasra_as,simpson2018jasra_as-CORNING B
-simpson2018jasra_as,simpson2018jasra_as-CORNING D
-simpson2018jasra_rb,simpson2018jasra_rb-CORNING B
-simpson2018jasra_rb,simpson2018jasra_rb-CORNING D
-simpson2018jasra_sr,simpson2018jasra_sr-CORNING B
-simpson2018jasra_sr,simpson2018jasra_sr-CORNING D
-simpson2018jasra_y,simpson2018jasra_y-CORNING B
-simpson2018jasra_y,simpson2018jasra_y-CORNING D
-simpson2018jasra_zr,simpson2018jasra_zr-CORNING B
-simpson2018jasra_zr,simpson2018jasra_zr-CORNING D
-simpson2018jasra_nb,simpson2018jasra_nb-CORNING B
-simpson2018jasra_nb,simpson2018jasra_nb-CORNING D
-simpson2018jasra_mo,simpson2018jasra_mo-CORNING B
-simpson2018jasra_mo,simpson2018jasra_mo-CORNING D
-simpson2018jasra_ag,simpson2018jasra_ag-CORNING B
-simpson2018jasra_ag,simpson2018jasra_ag-CORNING D
-simpson2018jasra_in,simpson2018jasra_in-CORNING B
-simpson2018jasra_in,simpson2018jasra_in-CORNING D
-simpson2018jasra_sn,simpson2018jasra_sn-CORNING B
-simpson2018jasra_sn,simpson2018jasra_sn-CORNING D
-simpson2018jasra_sb,simpson2018jasra_sb-CORNING B
-simpson2018jasra_sb,simpson2018jasra_sb-CORNING D
-simpson2018jasra_cs,simpson2018jasra_cs-CORNING B
-simpson2018jasra_cs,simpson2018jasra_cs-CORNING D
-simpson2018jasra_ba,simpson2018jasra_ba-CORNING B
-simpson2018jasra_ba,simpson2018jasra_ba-CORNING D
-simpson2018jasra_la,simpson2018jasra_la-CORNING B
-simpson2018jasra_la,simpson2018jasra_la-CORNING D
-simpson2018jasra_ce,simpson2018jasra_ce-CORNING B
-simpson2018jasra_ce,simpson2018jasra_ce-CORNING D
-simpson2018jasra_pr,simpson2018jasra_pr-CORNING B
-simpson2018jasra_pr,simpson2018jasra_pr-CORNING D
-simpson2018jasra_nd,simpson2018jasra_nd-CORNING B
-simpson2018jasra_nd,simpson2018jasra_nd-CORNING D
-simpson2018jasra_sm,simpson2018jasra_sm-CORNING B
-simpson2018jasra_sm,simpson2018jasra_sm-CORNING D
-simpson2018jasra_eu,simpson2018jasra_eu-CORNING B
-simpson2018jasra_eu,simpson2018jasra_eu-CORNING D
-simpson2018jasra_gd,simpson2018jasra_gd-CORNING B
-simpson2018jasra_gd,simpson2018jasra_gd-CORNING D
-simpson2018jasra_tb,simpson2018jasra_tb-CORNING B
-simpson2018jasra_tb,simpson2018jasra_tb-CORNING D
-simpson2018jasra_dy,simpson2018jasra_dy-CORNING B
-simpson2018jasra_dy,simpson2018jasra_dy-CORNING D
-simpson2018jasra_ho,simpson2018jasra_ho-CORNING B
-simpson2018jasra_ho,simpson2018jasra_ho-CORNING D
-simpson2018jasra_er,simpson2018jasra_er-CORNING B
-simpson2018jasra_er,simpson2018jasra_er-CORNING D
-simpson2018jasra_tm,simpson2018jasra_tm-CORNING B
-simpson2018jasra_tm,simpson2018jasra_tm-CORNING D
-simpson2018jasra_yb,simpson2018jasra_yb-CORNING B
-simpson2018jasra_yb,simpson2018jasra_yb-CORNING D
-simpson2018jasra_lu,simpson2018jasra_lu-CORNING B
-simpson2018jasra_lu,simpson2018jasra_lu-CORNING D
-simpson2018jasra_hf,simpson2018jasra_hf-CORNING B
-simpson2018jasra_hf,simpson2018jasra_hf-CORNING D
-simpson2018jasra_ta,simpson2018jasra_ta-CORNING B
-simpson2018jasra_ta,simpson2018jasra_ta-CORNING D
-simpson2018jasra_w,simpson2018jasra_w-CORNING B
-simpson2018jasra_w,simpson2018jasra_w-CORNING D
-simpson2018jasra_au,simpson2018jasra_au-CORNING B
-simpson2018jasra_au,simpson2018jasra_au-CORNING D
-simpson2018jasra_bi,simpson2018jasra_bi-CORNING B
-simpson2018jasra_bi,simpson2018jasra_bi-CORNING D
-simpson2018jasra_th,simpson2018jasra_th-CORNING B
-simpson2018jasra_th,simpson2018jasra_th-CORNING D
-simpson2018jasra_u,simpson2018jasra_u-CORNING B
-simpson2018jasra_u,simpson2018jasra_u-CORNING D
-weisler1993toagaa_sio2,weisler1993toagaa_sio2-BCRP-84
-weisler1993toagaa_sio2,weisler1993toagaa_sio2-GSP-1
-weisler1993toagaa_tio2,weisler1993toagaa_tio2-BCRP-84
-weisler1993toagaa_tio2,weisler1993toagaa_tio2-GSP-1
-weisler1993toagaa_al2o3,weisler1993toagaa_al2o3-BCRP-84
-weisler1993toagaa_al2o3,weisler1993toagaa_al2o3-GSP-1
-weisler1993toagaa_fe2o3,weisler1993toagaa_fe2o3-BCRP-84
-weisler1993toagaa_fe2o3,weisler1993toagaa_fe2o3-GSP-1
-weisler1993toagaa_cao,weisler1993toagaa_cao-BCRP-84
-weisler1993toagaa_cao,weisler1993toagaa_cao-GSP-1
-weisler1993toagaa_mgo,weisler1993toagaa_mgo-BCRP-84
-weisler1993toagaa_mgo,weisler1993toagaa_mgo-GSP-1
-weisler1993toagaa_mno,weisler1993toagaa_mno-BCRP-84
-weisler1993toagaa_mno,weisler1993toagaa_mno-GSP-1
-weisler1993toagaa_k2o,weisler1993toagaa_k2o-BCRP-84
-weisler1993toagaa_k2o,weisler1993toagaa_k2o-GSP-1
-weisler1993toagaa_na2o,weisler1993toagaa_na2o-BCRP-84
-weisler1993toagaa_na2o,weisler1993toagaa_na2o-GSP-1
-weisler1993toagaa_p2o5,weisler1993toagaa_p2o5-BCRP-84
-weisler1993toagaa_p2o5,weisler1993toagaa_p2o5-GSP-1
-weisler1993toagaa_sc,weisler1993toagaa_sc-BCRP-84
-weisler1993toagaa_sc,weisler1993toagaa_sc-GSP-1
-weisler1993toagaa_v,weisler1993toagaa_v-BCRP-84
-weisler1993toagaa_v,weisler1993toagaa_v-GSP-1
-weisler1993toagaa_cr,weisler1993toagaa_cr-BCRP-84
-weisler1993toagaa_cr,weisler1993toagaa_cr-GSP-1
-weisler1993toagaa_ni,weisler1993toagaa_ni-BCRP-84
-weisler1993toagaa_ni,weisler1993toagaa_ni-GSP-1
-weisler1993toagaa_cu,weisler1993toagaa_cu-BCRP-84
-weisler1993toagaa_cu,weisler1993toagaa_cu-GSP-1
-weisler1993toagaa_zn,weisler1993toagaa_zn-BCRP-84
-weisler1993toagaa_zn,weisler1993toagaa_zn-GSP-1
-weisler1993toagaa_ga,weisler1993toagaa_ga-BCRP-84
-weisler1993toagaa_ga,weisler1993toagaa_ga-GSP-1
-weisler1993toagaa_rb,weisler1993toagaa_rb-BCRP-84
-weisler1993toagaa_rb,weisler1993toagaa_rb-GSP-1
-weisler1993toagaa_sr,weisler1993toagaa_sr-BCRP-84
-weisler1993toagaa_sr,weisler1993toagaa_sr-GSP-1
-weisler1993toagaa_y,weisler1993toagaa_y-BCRP-84
-weisler1993toagaa_y,weisler1993toagaa_y-GSP-1
-weisler1993toagaa_zr,weisler1993toagaa_zr-BCRP-84
-weisler1993toagaa_zr,weisler1993toagaa_zr-GSP-1
-weisler1993toagaa_nb,weisler1993toagaa_nb-BCRP-84
-weisler1993toagaa_nb,weisler1993toagaa_nb-GSP-1
-weisler1993toagaa_ba,weisler1993toagaa_ba-BCRP-84
-weisler1993toagaa_ba,weisler1993toagaa_ba-GSP-1
-weisler1993toagaa_la,weisler1993toagaa_la-BCRP-84
-weisler1993toagaa_la,weisler1993toagaa_la-GSP-1
-weisler1993toagaa_ce,weisler1993toagaa_ce-BCRP-84
-weisler1993toagaa_ce,weisler1993toagaa_ce-GSP-1
-weisler1993toagaa_pb,weisler1993toagaa_pb-BCRP-84
-weisler1993toagaa_pb,weisler1993toagaa_pb-GSP-1
-weisler1993toagaa_th,weisler1993toagaa_th-BCRP-84
-weisler1993toagaa_th,weisler1993toagaa_th-GSP-1
-weisler1993toagab_rb,weisler1993toagab_rb-RGM-1
-weisler1993toagab_sr,weisler1993toagab_sr-RGM-1
-weisler1993toagab_y,weisler1993toagab_y-RGM-1
-weisler1993toagab_zr,weisler1993toagab_zr-RGM-1
-weisler1993toagab_nb,weisler1993toagab_nb-RGM-1
-weisler1993toagab_pb,weisler1993toagab_pb-RGM-1
-weisler1993toagab_th,weisler1993toagab_th-RGM-1
-weisler1994jpsa_sio2,weisler1994jpsa_sio2-BCRP-84
-weisler1994jpsa_sio2,weisler1994jpsa_sio2-GSP-1
-weisler1994jpsa_tio2,weisler1994jpsa_tio2-BCRP-84
-weisler1994jpsa_tio2,weisler1994jpsa_tio2-GSP-1
-weisler1994jpsa_al2o3,weisler1994jpsa_al2o3-BCRP-84
-weisler1994jpsa_al2o3,weisler1994jpsa_al2o3-GSP-1
-weisler1994jpsa_feo,weisler1994jpsa_feo-BCRP-84
-weisler1994jpsa_feo,weisler1994jpsa_feo-GSP-1
-weisler1994jpsa_cao,weisler1994jpsa_cao-BCRP-84
-weisler1994jpsa_cao,weisler1994jpsa_cao-GSP-1
-weisler1994jpsa_mgo,weisler1994jpsa_mgo-BCRP-84
-weisler1994jpsa_mgo,weisler1994jpsa_mgo-GSP-1
-weisler1994jpsa_mno,weisler1994jpsa_mno-BCRP-84
-weisler1994jpsa_mno,weisler1994jpsa_mno-GSP-1
-weisler1994jpsa_k2o,weisler1994jpsa_k2o-BCRP-84
-weisler1994jpsa_k2o,weisler1994jpsa_k2o-GSP-1
-weisler1994jpsa_na2o,weisler1994jpsa_na2o-BCRP-84
-weisler1994jpsa_na2o,weisler1994jpsa_na2o-GSP-1
-weisler1994jpsa_p2o5,weisler1994jpsa_p2o5-BCRP-84
-weisler1994jpsa_p2o5,weisler1994jpsa_p2o5-GSP-1
-weisler1994jpsa_sc,weisler1994jpsa_sc-BCRP-84
-weisler1994jpsa_sc,weisler1994jpsa_sc-GSP-1
-weisler1994jpsa_v,weisler1994jpsa_v-BCRP-84
-weisler1994jpsa_v,weisler1994jpsa_v-GSP-1
-weisler1994jpsa_cr,weisler1994jpsa_cr-BCRP-84
-weisler1994jpsa_cr,weisler1994jpsa_cr-GSP-1
-weisler1994jpsa_ni,weisler1994jpsa_ni-BCRP-84
-weisler1994jpsa_ni,weisler1994jpsa_ni-GSP-1
-weisler1994jpsa_cu,weisler1994jpsa_cu-BCRP-84
-weisler1994jpsa_cu,weisler1994jpsa_cu-GSP-1
-weisler1994jpsa_zn,weisler1994jpsa_zn-BCRP-84
-weisler1994jpsa_zn,weisler1994jpsa_zn-GSP-1
-weisler1994jpsa_ga,weisler1994jpsa_ga-BCRP-84
-weisler1994jpsa_ga,weisler1994jpsa_ga-GSP-1
-weisler1994jpsa_rb,weisler1994jpsa_rb-BCRP-84
-weisler1994jpsa_rb,weisler1994jpsa_rb-GSP-1
-weisler1994jpsa_sr,weisler1994jpsa_sr-BCRP-84
-weisler1994jpsa_sr,weisler1994jpsa_sr-GSP-1
-weisler1994jpsa_y,weisler1994jpsa_y-BCRP-84
-weisler1994jpsa_y,weisler1994jpsa_y-GSP-1
-weisler1994jpsa_zr,weisler1994jpsa_zr-BCRP-84
-weisler1994jpsa_zr,weisler1994jpsa_zr-GSP-1
-weisler1994jpsa_nb,weisler1994jpsa_nb-BCRP-84
-weisler1994jpsa_nb,weisler1994jpsa_nb-GSP-1
-weisler1994jpsa_ba,weisler1994jpsa_ba-BCRP-84
-weisler1994jpsa_ba,weisler1994jpsa_ba-GSP-1
-weisler1994jpsa_la,weisler1994jpsa_la-BCRP-84
-weisler1994jpsa_la,weisler1994jpsa_la-GSP-1
-weisler1994jpsa_ce,weisler1994jpsa_ce-BCRP-84
-weisler1994jpsa_ce,weisler1994jpsa_ce-GSP-1
-weisler1994jpsa_pb,weisler1994jpsa_pb-BCRP-84
-weisler1994jpsa_pb,weisler1994jpsa_pb-GSP-1
-weisler1994jpsa_th,weisler1994jpsa_th-BCRP-84
-weisler1994jpsa_th,weisler1994jpsa_th-GSP-1
-weisler1994jpsb_rb,weisler1994jpsb_rb-RGM-1
-weisler1994jpsb_sr,weisler1994jpsb_sr-RGM-1
-weisler1994jpsb_y,weisler1994jpsb_y-RGM-1
-weisler1994jpsb_zr,weisler1994jpsb_zr-RGM-1
-weisler1994jpsb_nb,weisler1994jpsb_nb-RGM-1
-weisler1994jpsb_pb,weisler1994jpsb_pb-RGM-1
-weisler1995pnasa_pb206pb204,weisler1995pnasa_pb206pb204-NIST SRM 981
-weisler1995pnasa_pb206pb204,weisler1995pnasa_pb206pb204-NG 0124
-weisler1995pnasa_pb207pb204,weisler1995pnasa_pb207pb204-NIST SRM 981
-weisler1995pnasa_pb207pb204,weisler1995pnasa_pb207pb204-NG 0124
-weisler1995pnasa_pb208pb204,weisler1995pnasa_pb208pb204-NIST SRM 981
-weisler1995pnasa_pb208pb204,weisler1995pnasa_pb208pb204-NG 0124
-weisler1996pnasa_sr,weisler1996pnasa_sr-RGM-1
-weisler1996pnasa_zr,weisler1996pnasa_zr-RGM-1
-weisler1996pnasa_nb,weisler1996pnasa_nb-RGM-1
-weisler2016aoa_sio2,weisler2016aoa_sio2-BHVO-2
-weisler2016aoa_tio2,weisler2016aoa_tio2-BHVO-2
-weisler2016aoa_al2o3,weisler2016aoa_al2o3-BHVO-2
-weisler2016aoa_fe2o3,weisler2016aoa_fe2o3-BHVO-2
-weisler2016aoa_cao,weisler2016aoa_cao-BHVO-2
-weisler2016aoa_mgo,weisler2016aoa_mgo-BHVO-2
-weisler2016aoa_mno,weisler2016aoa_mno-BHVO-2
-weisler2016aoa_k2o,weisler2016aoa_k2o-BHVO-2
-weisler2016aoa_na2o,weisler2016aoa_na2o-BHVO-2
-weisler2016aoa_p2o5,weisler2016aoa_p2o5-BHVO-2
-weisler2016aob_li,weisler2016aob_li-BHVO-2
-weisler2016aob_be,weisler2016aob_be-BHVO-2
-weisler2016aob_mg,weisler2016aob_mg-BHVO-2
-weisler2016aob_p,weisler2016aob_p-BHVO-2
-weisler2016aob_ca,weisler2016aob_ca-BHVO-2
-weisler2016aob_sc,weisler2016aob_sc-BHVO-2
-weisler2016aob_ti,weisler2016aob_ti-BHVO-2
-weisler2016aob_v,weisler2016aob_v-BHVO-2
-weisler2016aob_cr,weisler2016aob_cr-BHVO-2
-weisler2016aob_mn,weisler2016aob_mn-BHVO-2
-weisler2016aob_fe,weisler2016aob_fe-BHVO-2
-weisler2016aob_co,weisler2016aob_co-BHVO-2
-weisler2016aob_ni,weisler2016aob_ni-BHVO-2
-weisler2016aob_cu,weisler2016aob_cu-BHVO-2
-weisler2016aob_zn,weisler2016aob_zn-BHVO-2
-weisler2016aob_ga,weisler2016aob_ga-BHVO-2
-weisler2016aob_rb,weisler2016aob_rb-BHVO-2
-weisler2016aob_sr,weisler2016aob_sr-BHVO-2
-weisler2016aob_y,weisler2016aob_y-BHVO-2
-weisler2016aob_zr,weisler2016aob_zr-BHVO-2
-weisler2016aob_nb,weisler2016aob_nb-BHVO-2
-weisler2016aob_mo,weisler2016aob_mo-BHVO-2
-weisler2016aob_cd,weisler2016aob_cd-BHVO-2
-weisler2016aob_sn,weisler2016aob_sn-BHVO-2
-weisler2016aob_sb,weisler2016aob_sb-BHVO-2
-weisler2016aob_cs,weisler2016aob_cs-BHVO-2
-weisler2016aob_ba,weisler2016aob_ba-BHVO-2
-weisler2016aob_la,weisler2016aob_la-BHVO-2
-weisler2016aob_ce,weisler2016aob_ce-BHVO-2
-weisler2016aob_pr,weisler2016aob_pr-BHVO-2
-weisler2016aob_nd,weisler2016aob_nd-BHVO-2
-weisler2016aob_sm,weisler2016aob_sm-BHVO-2
-weisler2016aob_eu,weisler2016aob_eu-BHVO-2
-weisler2016aob_gd,weisler2016aob_gd-BHVO-2
-weisler2016aob_tb,weisler2016aob_tb-BHVO-2
-weisler2016aob_dy,weisler2016aob_dy-BHVO-2
-weisler2016aob_ho,weisler2016aob_ho-BHVO-2
-weisler2016aob_er,weisler2016aob_er-BHVO-2
-weisler2016aob_tm,weisler2016aob_tm-BHVO-2
-weisler2016aob_yb,weisler2016aob_yb-BHVO-2
-weisler2016aob_lu,weisler2016aob_lu-BHVO-2
-weisler2016aob_hf,weisler2016aob_hf-BHVO-2
-weisler2016aob_ta,weisler2016aob_ta-BHVO-2
-weisler2016aob_w,weisler2016aob_w-BHVO-2
-weisler2016aob_tl,weisler2016aob_tl-BHVO-2
-weisler2016aob_pb,weisler2016aob_pb-BHVO-2
-weisler2016aob_th,weisler2016aob_th-BHVO-2
-weisler2016aob_u,weisler2016aob_u-BHVO-2
-weisler2016aoc_nd143nd144,weisler2016aoc_nd143nd144-BHVO-2
-weisler2016aoc_sr87sr86,weisler2016aoc_sr87sr86-BHVO-2
-weisler2016aoc_pb206pb204,weisler2016aoc_pb206pb204-BHVO-2
-weisler2016aoc_pb207pb204,weisler2016aoc_pb207pb204-BHVO-2
-weisler2016aoc_pb208pb204,weisler2016aoc_pb208pb204-BHVO-2
-weisler2016aoc_pb207pb206,weisler2016aoc_pb207pb206-BHVO-2
-weisler2016aoc_pb208pb206,weisler2016aoc_pb208pb206-BHVO-2
-weisler2016pnasa_li,weisler2016pnasa_li-BHVO-2
-weisler2016pnasa_be,weisler2016pnasa_be-BHVO-2
-weisler2016pnasa_mg,weisler2016pnasa_mg-BHVO-2
-weisler2016pnasa_p,weisler2016pnasa_p-BHVO-2
-weisler2016pnasa_ca,weisler2016pnasa_ca-BHVO-2
-weisler2016pnasa_sc,weisler2016pnasa_sc-BHVO-2
-weisler2016pnasa_ti,weisler2016pnasa_ti-BHVO-2
-weisler2016pnasa_v,weisler2016pnasa_v-BHVO-2
-weisler2016pnasa_cr,weisler2016pnasa_cr-BHVO-2
-weisler2016pnasa_mn,weisler2016pnasa_mn-BHVO-2
-weisler2016pnasa_fe,weisler2016pnasa_fe-BHVO-2
-weisler2016pnasa_co,weisler2016pnasa_co-BHVO-2
-weisler2016pnasa_ni,weisler2016pnasa_ni-BHVO-2
-weisler2016pnasa_cu,weisler2016pnasa_cu-BHVO-2
-weisler2016pnasa_zn,weisler2016pnasa_zn-BHVO-2
-weisler2016pnasa_ga,weisler2016pnasa_ga-BHVO-2
-weisler2016pnasa_rb,weisler2016pnasa_rb-BHVO-2
-weisler2016pnasa_sr,weisler2016pnasa_sr-BHVO-2
-weisler2016pnasa_y,weisler2016pnasa_y-BHVO-2
-weisler2016pnasa_zr,weisler2016pnasa_zr-BHVO-2
-weisler2016pnasa_nb,weisler2016pnasa_nb-BHVO-2
-weisler2016pnasa_mo,weisler2016pnasa_mo-BHVO-2
-weisler2016pnasa_cd,weisler2016pnasa_cd-BHVO-2
-weisler2016pnasa_sb,weisler2016pnasa_sb-BHVO-2
-weisler2016pnasa_cs,weisler2016pnasa_cs-BHVO-2
-weisler2016pnasa_ba,weisler2016pnasa_ba-BHVO-2
-weisler2016pnasa_la,weisler2016pnasa_la-BHVO-2
-weisler2016pnasa_ce,weisler2016pnasa_ce-BHVO-2
-weisler2016pnasa_pr,weisler2016pnasa_pr-BHVO-2
-weisler2016pnasa_nd,weisler2016pnasa_nd-BHVO-2
-weisler2016pnasa_sm,weisler2016pnasa_sm-BHVO-2
-weisler2016pnasa_eu,weisler2016pnasa_eu-BHVO-2
-weisler2016pnasa_gd,weisler2016pnasa_gd-BHVO-2
-weisler2016pnasa_tb,weisler2016pnasa_tb-BHVO-2
-weisler2016pnasa_dy,weisler2016pnasa_dy-BHVO-2
-weisler2016pnasa_ho,weisler2016pnasa_ho-BHVO-2
-weisler2016pnasa_er,weisler2016pnasa_er-BHVO-2
-weisler2016pnasa_tm,weisler2016pnasa_tm-BHVO-2
-weisler2016pnasa_yb,weisler2016pnasa_yb-BHVO-2
-weisler2016pnasa_lu,weisler2016pnasa_lu-BHVO-2
-weisler2016pnasa_hf,weisler2016pnasa_hf-BHVO-2
-weisler2016pnasa_ta,weisler2016pnasa_ta-BHVO-2
-weisler2016pnasa_w,weisler2016pnasa_w-BHVO-2
-weisler2016pnasa_tl,weisler2016pnasa_tl-BHVO-2
-weisler2016pnasa_pb,weisler2016pnasa_pb-BHVO-2
-weisler2016pnasa_th,weisler2016pnasa_th-BHVO-2
-weisler2016pnasa_u,weisler2016pnasa_u-BHVO-2
-weisler2016pnasb_sr87sr86,weisler2016pnasb_sr87sr86-BHVO-2
-weisler2016pnasc_nd143nd144,weisler2016pnasc_nd143nd144-BHVO-2
-weisler2016pnasc_pb206pb204,weisler2016pnasc_pb206pb204-BHVO-2
-weisler2016pnasc_pb207pb204,weisler2016pnasc_pb207pb204-BHVO-2
-weisler2016pnasc_pb208pb204,weisler2016pnasc_pb208pb204-BHVO-2
-weisler2016pnasc_pb207pb206,weisler2016pnasc_pb207pb206-BHVO-2
-weisler2016pnasc_pb208pb206,weisler2016pnasc_pb208pb206-BHVO-2
-weisler2016pnasa_na,weisler2016pnasa_na-BHVO-2
-weisler2016pnasa_k,weisler2016pnasa_k-BHVO-2
-weisler1998currantha_sio2,weisler1998currantha_sio2-BCR-1
-weisler1998currantha_tio2,weisler1998currantha_tio2-BCR-1
-weisler1998currantha_al2o3,weisler1998currantha_al2o3-BCR-1
-weisler1998currantha_feo,weisler1998currantha_feo-BCR-1
-weisler1998currantha_cao,weisler1998currantha_cao-BCR-1
-weisler1998currantha_mgo,weisler1998currantha_mgo-BCR-1
-weisler1998currantha_mno,weisler1998currantha_mno-BCR-1
-weisler1998currantha_k2o,weisler1998currantha_k2o-BCR-1
-weisler1998currantha_na2o,weisler1998currantha_na2o-BCR-1
-weisler1998currantha_p2o5,weisler1998currantha_p2o5-BCR-1
-weisler1998currantha_sc,weisler1998currantha_sc-BCR-1
-weisler1998currantha_v,weisler1998currantha_v-BCR-1
-weisler1998currantha_cr,weisler1998currantha_cr-BCR-1
-weisler1998currantha_ni,weisler1998currantha_ni-BCR-1
-weisler1998currantha_cu,weisler1998currantha_cu-BCR-1
-weisler1998currantha_zn,weisler1998currantha_zn-BCR-1
-weisler1998currantha_ga,weisler1998currantha_ga-BCR-1
-weisler1998currantha_rb,weisler1998currantha_rb-BCR-1
-weisler1998currantha_sr,weisler1998currantha_sr-BCR-1
-weisler1998currantha_y,weisler1998currantha_y-BCR-1
-weisler1998currantha_zr,weisler1998currantha_zr-BCR-1
-weisler1998currantha_nb,weisler1998currantha_nb-BCR-1
-weisler1998currantha_ba,weisler1998currantha_ba-BCR-1
-weisler1998currantha_la,weisler1998currantha_la-BCR-1
-weisler1998currantha_ce,weisler1998currantha_ce-BCR-1
-weisler1998currantha_pb,weisler1998currantha_pb-BCR-1
-weisler1998currantha_th,weisler1998currantha_th-BCR-1
-mcalister2017pob_sio2,mcalister2017pob_sio2-JR-1
-mcalister2017pob_sio2,mcalister2017pob_sio2-JR-2
-mcalister2017pob_tio2,mcalister2017pob_tio2-JR-1
-mcalister2017pob_tio2,mcalister2017pob_tio2-JR-2
-mcalister2017pob_feot,mcalister2017pob_feot-JR-1
-mcalister2017pob_feot,mcalister2017pob_feot-JR-2
-mcalister2017pob_cao,mcalister2017pob_cao-JR-1
-mcalister2017pob_cao,mcalister2017pob_cao-JR-2
-mcalister2017pob_k2o,mcalister2017pob_k2o-JR-1
-mcalister2017pob_k2o,mcalister2017pob_k2o-JR-2
-mcalister2017pob_v,mcalister2017pob_v-JR-1
-mcalister2017pob_v,mcalister2017pob_v-JR-2
-mcalister2017pob_cr,mcalister2017pob_cr-JR-1
-mcalister2017pob_cr,mcalister2017pob_cr-JR-2
-mcalister2017pob_ni,mcalister2017pob_ni-JR-1
-mcalister2017pob_ni,mcalister2017pob_ni-JR-2
-mcalister2017pob_cu,mcalister2017pob_cu-JR-1
-mcalister2017pob_cu,mcalister2017pob_cu-JR-2
-mcalister2017pob_zn,mcalister2017pob_zn-JR-1
-mcalister2017pob_zn,mcalister2017pob_zn-JR-2
-mcalister2017pob_rb,mcalister2017pob_rb-JR-1
-mcalister2017pob_rb,mcalister2017pob_rb-JR-2
-mcalister2017pob_sr,mcalister2017pob_sr-JR-1
-mcalister2017pob_sr,mcalister2017pob_sr-JR-2
-mcalister2017pob_y,mcalister2017pob_y-JR-1
-mcalister2017pob_y,mcalister2017pob_y-JR-2
-mcalister2017pob_zr,mcalister2017pob_zr-JR-1
-mcalister2017pob_zr,mcalister2017pob_zr-JR-2
-mcalister2017pob_nb,mcalister2017pob_nb-JR-1
-mcalister2017pob_nb,mcalister2017pob_nb-JR-2
-mcalister2017pob_pb,mcalister2017pob_pb-JR-1
-mcalister2017pob_pb,mcalister2017pob_pb-JR-2
-mcalister2017pob_th,mcalister2017pob_th-JR-1
-mcalister2017pob_th,mcalister2017pob_th-JR-2
-best1992jpsa_sio2,best1992jpsa_sio2-MEB (Mount Eden Basalt)
-best1992jpsa_tio2,best1992jpsa_tio2-MEB (Mount Eden Basalt)
-best1992jpsa_al2o3,best1992jpsa_al2o3-MEB (Mount Eden Basalt)
-best1992jpsa_fe2o3,best1992jpsa_fe2o3-MEB (Mount Eden Basalt)
-best1992jpsa_cao,best1992jpsa_cao-MEB (Mount Eden Basalt)
-best1992jpsa_mgo,best1992jpsa_mgo-MEB (Mount Eden Basalt)
-best1992jpsa_mno,best1992jpsa_mno-MEB (Mount Eden Basalt)
-best1992jpsa_k2o,best1992jpsa_k2o-MEB (Mount Eden Basalt)
-best1992jpsa_na2o,best1992jpsa_na2o-MEB (Mount Eden Basalt)
-best1992jpsa_p2o5,best1992jpsa_p2o5-MEB (Mount Eden Basalt)
-best1992jpsa_v,best1992jpsa_v-MEB (Mount Eden Basalt)
-best1992jpsa_cr,best1992jpsa_cr-MEB (Mount Eden Basalt)
-best1992jpsa_ni,best1992jpsa_ni-MEB (Mount Eden Basalt)
-best1992jpsa_zn,best1992jpsa_zn-MEB (Mount Eden Basalt)
-best1992jpsa_rb,best1992jpsa_rb-MEB (Mount Eden Basalt)
-best1992jpsa_sr,best1992jpsa_sr-MEB (Mount Eden Basalt)
-best1992jpsa_y,best1992jpsa_y-MEB (Mount Eden Basalt)
-best1992jpsa_zr,best1992jpsa_zr-MEB (Mount Eden Basalt)
-best1992jpsa_nb,best1992jpsa_nb-MEB (Mount Eden Basalt)
-best1992jpsa_ba,best1992jpsa_ba-MEB (Mount Eden Basalt)
-best1992jpsa_la,best1992jpsa_la-MEB (Mount Eden Basalt)
-best1992jpsa_pb,best1992jpsa_pb-MEB (Mount Eden Basalt)
-best1992jpsa_th,best1992jpsa_th-MEB (Mount Eden Basalt)
-mccoy2016qra_fe,mccoy2016qra_fe-BHVO-2
-mccoy2016qra_sr,mccoy2016qra_sr-BHVO-2
-mccoy2016qra_y,mccoy2016qra_y-BHVO-2
-mccoy2016qra_zr,mccoy2016qra_zr-BHVO-2
-mccoy2016qra_nb,mccoy2016qra_nb-BHVO-2
-hermann2019aoa_sio2,hermann2019aoa_sio2-CB2
-hermann2019aoa_sio2,hermann2019aoa_sio2-BELC
-hermann2019aoa_sio2,hermann2019aoa_sio2-CB15
-hermann2019aoa_sio2,hermann2019aoa_sio2-CB18
-hermann2019aoa_sio2,hermann2019aoa_sio2-ACE
-hermann2019aoa_sio2,hermann2019aoa_sio2-ME
-hermann2019aoa_tio2,hermann2019aoa_tio2-CB2
-hermann2019aoa_tio2,hermann2019aoa_tio2-BELC
-hermann2019aoa_tio2,hermann2019aoa_tio2-CB15
-hermann2019aoa_tio2,hermann2019aoa_tio2-CB18
-hermann2019aoa_tio2,hermann2019aoa_tio2-ACE
-hermann2019aoa_tio2,hermann2019aoa_tio2-ME
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-CB2
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-BELC
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-CB15
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-CB18
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-ACE
-hermann2019aoa_al2o3,hermann2019aoa_al2o3-ME
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-CB2
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-BELC
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-CB15
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-CB18
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-ACE
-hermann2019aoa_fe2o3,hermann2019aoa_fe2o3-ME
-hermann2019aoa_cao,hermann2019aoa_cao-CB2
-hermann2019aoa_cao,hermann2019aoa_cao-BELC
-hermann2019aoa_cao,hermann2019aoa_cao-CB15
-hermann2019aoa_cao,hermann2019aoa_cao-CB18
-hermann2019aoa_cao,hermann2019aoa_cao-ACE
-hermann2019aoa_cao,hermann2019aoa_cao-ME
-hermann2019aoa_mgo,hermann2019aoa_mgo-CB2
-hermann2019aoa_mgo,hermann2019aoa_mgo-BELC
-hermann2019aoa_mgo,hermann2019aoa_mgo-CB15
-hermann2019aoa_mgo,hermann2019aoa_mgo-CB18
-hermann2019aoa_mgo,hermann2019aoa_mgo-ACE
-hermann2019aoa_mgo,hermann2019aoa_mgo-ME
-hermann2019aoa_mno,hermann2019aoa_mno-CB2
-hermann2019aoa_mno,hermann2019aoa_mno-BELC
-hermann2019aoa_mno,hermann2019aoa_mno-CB15
-hermann2019aoa_mno,hermann2019aoa_mno-CB18
-hermann2019aoa_mno,hermann2019aoa_mno-ACE
-hermann2019aoa_mno,hermann2019aoa_mno-ME
-hermann2019aoa_k2o,hermann2019aoa_k2o-CB2
-hermann2019aoa_k2o,hermann2019aoa_k2o-BELC
-hermann2019aoa_k2o,hermann2019aoa_k2o-CB15
-hermann2019aoa_k2o,hermann2019aoa_k2o-CB18
-hermann2019aoa_k2o,hermann2019aoa_k2o-ACE
-hermann2019aoa_k2o,hermann2019aoa_k2o-ME
-hermann2019aoa_na2o,hermann2019aoa_na2o-CB2
-hermann2019aoa_na2o,hermann2019aoa_na2o-BELC
-hermann2019aoa_na2o,hermann2019aoa_na2o-CB15
-hermann2019aoa_na2o,hermann2019aoa_na2o-CB18
-hermann2019aoa_na2o,hermann2019aoa_na2o-ACE
-hermann2019aoa_na2o,hermann2019aoa_na2o-ME
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-CB2
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-BELC
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-CB15
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-CB18
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-ACE
-hermann2019aoa_p2o5,hermann2019aoa_p2o5-ME
-hermann2019aoa_sc,hermann2019aoa_sc-CB2
-hermann2019aoa_sc,hermann2019aoa_sc-BELC
-hermann2019aoa_sc,hermann2019aoa_sc-CB15
-hermann2019aoa_sc,hermann2019aoa_sc-CB18
-hermann2019aoa_sc,hermann2019aoa_sc-ACE
-hermann2019aoa_sc,hermann2019aoa_sc-ME
-hermann2019aoa_rb,hermann2019aoa_rb-CB2
-hermann2019aoa_rb,hermann2019aoa_rb-BELC
-hermann2019aoa_rb,hermann2019aoa_rb-CB15
-hermann2019aoa_rb,hermann2019aoa_rb-CB18
-hermann2019aoa_rb,hermann2019aoa_rb-ACE
-hermann2019aoa_rb,hermann2019aoa_rb-ME
-hermann2019aoa_sr,hermann2019aoa_sr-CB2
-hermann2019aoa_sr,hermann2019aoa_sr-BELC
-hermann2019aoa_sr,hermann2019aoa_sr-CB15
-hermann2019aoa_sr,hermann2019aoa_sr-CB18
-hermann2019aoa_sr,hermann2019aoa_sr-ACE
-hermann2019aoa_sr,hermann2019aoa_sr-ME
-hermann2019aoa_y,hermann2019aoa_y-CB2
-hermann2019aoa_y,hermann2019aoa_y-BELC
-hermann2019aoa_y,hermann2019aoa_y-CB15
-hermann2019aoa_y,hermann2019aoa_y-CB18
-hermann2019aoa_y,hermann2019aoa_y-ACE
-hermann2019aoa_y,hermann2019aoa_y-ME
-hermann2019aoa_zr,hermann2019aoa_zr-CB2
-hermann2019aoa_zr,hermann2019aoa_zr-BELC
-hermann2019aoa_zr,hermann2019aoa_zr-CB15
-hermann2019aoa_zr,hermann2019aoa_zr-CB18
-hermann2019aoa_zr,hermann2019aoa_zr-ACE
-hermann2019aoa_zr,hermann2019aoa_zr-ME
-hermann2019aoa_nb,hermann2019aoa_nb-CB2
-hermann2019aoa_nb,hermann2019aoa_nb-BELC
-hermann2019aoa_nb,hermann2019aoa_nb-CB15
-hermann2019aoa_nb,hermann2019aoa_nb-CB18
-hermann2019aoa_nb,hermann2019aoa_nb-ACE
-hermann2019aoa_nb,hermann2019aoa_nb-ME
-hermann2019aoa_ba,hermann2019aoa_ba-CB2
-hermann2019aoa_ba,hermann2019aoa_ba-BELC
-hermann2019aoa_ba,hermann2019aoa_ba-CB15
-hermann2019aoa_ba,hermann2019aoa_ba-CB18
-hermann2019aoa_ba,hermann2019aoa_ba-ACE
-hermann2019aoa_ba,hermann2019aoa_ba-ME
-hermann2019aoa_la,hermann2019aoa_la-CB2
-hermann2019aoa_la,hermann2019aoa_la-BELC
-hermann2019aoa_la,hermann2019aoa_la-CB15
-hermann2019aoa_la,hermann2019aoa_la-CB18
-hermann2019aoa_la,hermann2019aoa_la-ACE
-hermann2019aoa_la,hermann2019aoa_la-ME
-hermann2019aoa_ce,hermann2019aoa_ce-CB2
-hermann2019aoa_ce,hermann2019aoa_ce-BELC
-hermann2019aoa_ce,hermann2019aoa_ce-CB15
-hermann2019aoa_ce,hermann2019aoa_ce-CB18
-hermann2019aoa_ce,hermann2019aoa_ce-ACE
-hermann2019aoa_ce,hermann2019aoa_ce-ME
-hermann2019aoa_nd,hermann2019aoa_nd-CB2
-hermann2019aoa_nd,hermann2019aoa_nd-BELC
-hermann2019aoa_nd,hermann2019aoa_nd-CB15
-hermann2019aoa_nd,hermann2019aoa_nd-CB18
-hermann2019aoa_nd,hermann2019aoa_nd-ACE
-hermann2019aoa_nd,hermann2019aoa_nd-ME
-hermann2019aoa_sm,hermann2019aoa_sm-CB2
-hermann2019aoa_sm,hermann2019aoa_sm-BELC
-hermann2019aoa_sm,hermann2019aoa_sm-CB15
-hermann2019aoa_sm,hermann2019aoa_sm-CB18
-hermann2019aoa_sm,hermann2019aoa_sm-ACE
-hermann2019aoa_sm,hermann2019aoa_sm-ME
-hermann2019aoa_eu,hermann2019aoa_eu-CB2
-hermann2019aoa_eu,hermann2019aoa_eu-BELC
-hermann2019aoa_eu,hermann2019aoa_eu-CB15
-hermann2019aoa_eu,hermann2019aoa_eu-CB18
-hermann2019aoa_eu,hermann2019aoa_eu-ACE
-hermann2019aoa_eu,hermann2019aoa_eu-ME
-hermann2019aoa_gd,hermann2019aoa_gd-CB2
-hermann2019aoa_gd,hermann2019aoa_gd-BELC
-hermann2019aoa_gd,hermann2019aoa_gd-CB15
-hermann2019aoa_gd,hermann2019aoa_gd-CB18
-hermann2019aoa_gd,hermann2019aoa_gd-ACE
-hermann2019aoa_gd,hermann2019aoa_gd-ME
-hermann2019aoa_dy,hermann2019aoa_dy-CB2
-hermann2019aoa_dy,hermann2019aoa_dy-BELC
-hermann2019aoa_dy,hermann2019aoa_dy-CB15
-hermann2019aoa_dy,hermann2019aoa_dy-CB18
-hermann2019aoa_dy,hermann2019aoa_dy-ACE
-hermann2019aoa_dy,hermann2019aoa_dy-ME
-hermann2019aoa_er,hermann2019aoa_er-CB2
-hermann2019aoa_er,hermann2019aoa_er-BELC
-hermann2019aoa_er,hermann2019aoa_er-CB15
-hermann2019aoa_er,hermann2019aoa_er-CB18
-hermann2019aoa_er,hermann2019aoa_er-ACE
-hermann2019aoa_er,hermann2019aoa_er-ME
-hermann2019aoa_yb,hermann2019aoa_yb-CB2
-hermann2019aoa_yb,hermann2019aoa_yb-BELC
-hermann2019aoa_yb,hermann2019aoa_yb-CB15
-hermann2019aoa_yb,hermann2019aoa_yb-CB18
-hermann2019aoa_yb,hermann2019aoa_yb-ACE
-hermann2019aoa_yb,hermann2019aoa_yb-ME
-hermann2019aoa_th,hermann2019aoa_th-CB2
-hermann2019aoa_th,hermann2019aoa_th-BELC
-hermann2019aoa_th,hermann2019aoa_th-CB15
-hermann2019aoa_th,hermann2019aoa_th-CB18
-hermann2019aoa_th,hermann2019aoa_th-ACE
-hermann2019aoa_th,hermann2019aoa_th-ME
-hermann2019aob_sio2,hermann2019aob_sio2-JR-1
-hermann2019aob_sio2,hermann2019aob_sio2-JR-2
-hermann2019aob_tio2,hermann2019aob_tio2-JR-1
-hermann2019aob_tio2,hermann2019aob_tio2-JR-2
-hermann2019aob_fe2o3,hermann2019aob_fe2o3-JR-1
-hermann2019aob_fe2o3,hermann2019aob_fe2o3-JR-2
-hermann2019aob_cao,hermann2019aob_cao-JR-1
-hermann2019aob_cao,hermann2019aob_cao-JR-2
-hermann2019aob_mno,hermann2019aob_mno-JR-1
-hermann2019aob_mno,hermann2019aob_mno-JR-2
-hermann2019aob_k2o,hermann2019aob_k2o-
-hermann2019aob_v,hermann2019aob_v-JR-1
-hermann2019aob_v,hermann2019aob_v-JR-2
-hermann2019aob_ni,hermann2019aob_ni-
-hermann2019aob_cu,hermann2019aob_cu-JR-1
-hermann2019aob_cu,hermann2019aob_cu-JR-2
-hermann2019aob_zn,hermann2019aob_zn-
-hermann2019aob_ga,hermann2019aob_ga-JR-1
-hermann2019aob_ga,hermann2019aob_ga-JR-2
-hermann2019aob_rb,hermann2019aob_rb-JR-1
-hermann2019aob_rb,hermann2019aob_rb-JR-2
-hermann2019aob_sr,hermann2019aob_sr-JR-1
-hermann2019aob_sr,hermann2019aob_sr-JR-2
-hermann2019aob_y,hermann2019aob_y-JR-1
-hermann2019aob_y,hermann2019aob_y-JR-2
-hermann2019aob_zr,hermann2019aob_zr-JR-1
-hermann2019aob_zr,hermann2019aob_zr-JR-2
-hermann2019aob_nb,hermann2019aob_nb-JR-1
-hermann2019aob_nb,hermann2019aob_nb-JR-2
-hermann2019aob_pb,hermann2019aob_pb-JR-1
-hermann2019aob_pb,hermann2019aob_pb-JR-2
-reepmeyer2010archaeometrya_sio2,reepmeyer2010archaeometrya_sio2-ANU2000
-reepmeyer2010archaeometrya_al2o3,reepmeyer2010archaeometrya_al2o3-ANU2000
-reepmeyer2010archaeometrya_feot,reepmeyer2010archaeometrya_feot-ANU2000
-reepmeyer2010archaeometrya_cao,reepmeyer2010archaeometrya_cao-ANU2000
-reepmeyer2010archaeometrya_mgo,reepmeyer2010archaeometrya_mgo-ANU2000
-reepmeyer2010archaeometrya_k2o,reepmeyer2010archaeometrya_k2o-ANU2000
-reepmeyer2010archaeometrya_na2o,reepmeyer2010archaeometrya_na2o-ANU2000
-reepmeyer2010archaeometryb_p,reepmeyer2010archaeometryb_p-ANU2000
-reepmeyer2010archaeometryb_sc,reepmeyer2010archaeometryb_sc-ANU2000
-reepmeyer2010archaeometryb_ti,reepmeyer2010archaeometryb_ti-ANU2000
-reepmeyer2010archaeometryb_v,reepmeyer2010archaeometryb_v-ANU2000
-reepmeyer2010archaeometryb_mn,reepmeyer2010archaeometryb_mn-ANU2000
-reepmeyer2010archaeometryb_co,reepmeyer2010archaeometryb_co-ANU2000
-reepmeyer2010archaeometryb_ni,reepmeyer2010archaeometryb_ni-ANU2000
-reepmeyer2010archaeometryb_cu,reepmeyer2010archaeometryb_cu-ANU2000
-reepmeyer2010archaeometryb_as,reepmeyer2010archaeometryb_as-ANU2000
-reepmeyer2010archaeometryb_rb,reepmeyer2010archaeometryb_rb-ANU2000
-reepmeyer2010archaeometryb_sr,reepmeyer2010archaeometryb_sr-ANU2000
-reepmeyer2010archaeometryb_y,reepmeyer2010archaeometryb_y-ANU2000
-reepmeyer2010archaeometryb_zr,reepmeyer2010archaeometryb_zr-ANU2000
-reepmeyer2010archaeometryb_nb,reepmeyer2010archaeometryb_nb-ANU2000
-reepmeyer2010archaeometryb_mo,reepmeyer2010archaeometryb_mo-ANU2000
-reepmeyer2010archaeometryb_sn,reepmeyer2010archaeometryb_sn-ANU2000
-reepmeyer2010archaeometryb_cs,reepmeyer2010archaeometryb_cs-ANU2000
-reepmeyer2010archaeometryb_ba,reepmeyer2010archaeometryb_ba-ANU2000
-reepmeyer2010archaeometryb_la,reepmeyer2010archaeometryb_la-ANU2000
-reepmeyer2010archaeometryb_ce,reepmeyer2010archaeometryb_ce-ANU2000
-reepmeyer2010archaeometryb_pr,reepmeyer2010archaeometryb_pr-ANU2000
-reepmeyer2010archaeometryb_nd,reepmeyer2010archaeometryb_nd-ANU2000
-reepmeyer2010archaeometryb_sm,reepmeyer2010archaeometryb_sm-ANU2000
-reepmeyer2010archaeometryb_eu,reepmeyer2010archaeometryb_eu-ANU2000
-reepmeyer2010archaeometryb_gd,reepmeyer2010archaeometryb_gd-ANU2000
-reepmeyer2010archaeometryb_tb,reepmeyer2010archaeometryb_tb-ANU2000
-reepmeyer2010archaeometryb_dy,reepmeyer2010archaeometryb_dy-ANU2000
-reepmeyer2010archaeometryb_er,reepmeyer2010archaeometryb_er-ANU2000
-reepmeyer2010archaeometryb_tm,reepmeyer2010archaeometryb_tm-ANU2000
-reepmeyer2010archaeometryb_yb,reepmeyer2010archaeometryb_yb-ANU2000
-reepmeyer2010archaeometryb_lu,reepmeyer2010archaeometryb_lu-ANU2000
-reepmeyer2010archaeometryb_ta,reepmeyer2010archaeometryb_ta-ANU2000
-reepmeyer2010archaeometryb_w,reepmeyer2010archaeometryb_w-ANU2000
-reepmeyer2010archaeometryb_pb,reepmeyer2010archaeometryb_pb-ANU2000
-reepmeyer2010archaeometryb_th,reepmeyer2010archaeometryb_th-ANU2000
-reepmeyer2010archaeometryb_u,reepmeyer2010archaeometryb_u-ANU2000
-reepmeyer2010archaeometryc_nd143nd144,reepmeyer2010archaeometryc_nd143nd144-Ames Nd
-reepmeyer2010archaeometryc_sr87sr86,reepmeyer2010archaeometryc_sr87sr86-NBS SRM 987
-reepmeyer2010archaeometryc_pb206pb204,reepmeyer2010archaeometryc_pb206pb204-NBS SRM 981
-reepmeyer2010archaeometryc_pb207pb204,reepmeyer2010archaeometryc_pb207pb204-NBS SRM 981
-reepmeyer2010archaeometryc_pb208pb204,reepmeyer2010archaeometryc_pb208pb204-NBS SRM 981
-mccoy2019joadb_mn,mccoy2019joadb_mn-BHVO-2
-mccoy2019joadb_zn,mccoy2019joadb_zn-BHVO-2
-mccoy2019joadb_rb,mccoy2019joadb_rb-BHVO-2
-mccoy2019joadb_sr,mccoy2019joadb_sr-BHVO-2
-mccoy2019joadb_y,mccoy2019joadb_y-BHVO-2
-mccoy2019joadb_zr,mccoy2019joadb_zr-BHVO-2
-mccoy2019joadb_nb,mccoy2019joadb_nb-BHVO-2
-mccoy2019joadb_th,mccoy2019joadb_th-BHVO-2
-mccoy2019joadc_fe,mccoy2019joadc_fe-BHVO-2
-mccoy2019joadb_fe,mccoy2019joadb_fe-BHVO-2
-mccoy2019joadb_mg,mccoy2019joadb_mg-BHVO-2
-mccoy2019joadb_k,mccoy2019joadb_k-BHVO-2
-mccoy2019joadb_ca,mccoy2019joadb_ca-BHVO-2
-mccoy2019joadb_ti,mccoy2019joadb_ti-BHVO-2
-mccoy2019joada_ti,mccoy2019joada_ti-NIST-278
-mccoy2019joada_mn,mccoy2019joada_mn-NIST-278
-mccoy2019joada_fe,mccoy2019joada_fe-NIST-278
-mccoy2019joada_zn,mccoy2019joada_zn-NIST-278
-mccoy2019joada_rb,mccoy2019joada_rb-NIST-278
-mccoy2019joada_zr,mccoy2019joada_zr-NIST-278
-mccoy2019joada_sr,mccoy2019joada_sr-NIST-278
-mccoy2019joada_k,mccoy2019joada_k-NIST-278
-mccoy2019joada_ca,mccoy2019joada_ca-NIST-278
-mccoy2019joada_y,mccoy2019joada_y-NIST-278
-mccoy2019joada_nb,mccoy2019joada_nb-NIST-278
-mccoy2019joada_th,mccoy2019joada_th-NIST-278
-kneebone2018maa_sio2,kneebone2018maa_sio2-JR-1
-kneebone2018maa_sio2,kneebone2018maa_sio2-JR-2
-kneebone2018maa_tio2,kneebone2018maa_tio2-JR-1
-kneebone2018maa_tio2,kneebone2018maa_tio2-JR-2
-kneebone2018maa_fe2o3,kneebone2018maa_fe2o3-JR-1
-kneebone2018maa_fe2o3,kneebone2018maa_fe2o3-JR-2
-kneebone2018maa_cao,kneebone2018maa_cao-JR-1
-kneebone2018maa_cao,kneebone2018maa_cao-JR-2
-kneebone2018maa_mno,kneebone2018maa_mno-JR-1
-kneebone2018maa_k2o,kneebone2018maa_k2o-JR-1
-kneebone2018maa_k2o,kneebone2018maa_k2o-JR-2
-kneebone2018maa_v,kneebone2018maa_v-JR-1
-kneebone2018maa_v,kneebone2018maa_v-JR-2
-kneebone2018maa_cr,kneebone2018maa_cr-JR-1
-kneebone2018maa_cr,kneebone2018maa_cr-JR-2
-kneebone2018maa_ni,kneebone2018maa_ni-JR-1
-kneebone2018maa_ni,kneebone2018maa_ni-JR-2
-kneebone2018maa_cu,kneebone2018maa_cu-JR-1
-kneebone2018maa_cu,kneebone2018maa_cu-JR-2
-kneebone2018maa_zn,kneebone2018maa_zn-JR-1
-kneebone2018maa_zn,kneebone2018maa_zn-JR-2
-kneebone2018maa_rb,kneebone2018maa_rb-JR-1
-kneebone2018maa_rb,kneebone2018maa_rb-JR-2
-kneebone2018maa_sr,kneebone2018maa_sr-JR-1
-kneebone2018maa_sr,kneebone2018maa_sr-JR-2
-kneebone2018maa_y,kneebone2018maa_y-JR-1
-kneebone2018maa_y,kneebone2018maa_y-JR-2
-kneebone2018maa_zr,kneebone2018maa_zr-JR-1
-kneebone2018maa_zr,kneebone2018maa_zr-JR-2
-kneebone2018maa_nb,kneebone2018maa_nb-JR-1
-kneebone2018maa_nb,kneebone2018maa_nb-JR-2
-kneebone2018maa_pb,kneebone2018maa_pb-JR-1
-kneebone2018maa_pb,kneebone2018maa_pb-JR-2
-kneebone2018maa_th,kneebone2018maa_th-JR-1
-kneebone2018maa_th,kneebone2018maa_th-JR-2
-kneebone2018baa_mn,kneebone2018baa_mn-JR-1
-kneebone2018baa_mn,kneebone2018baa_mn-JR-2
-kneebone2018baa_fe,kneebone2018baa_fe-JR-2
-kneebone2018baa_zn,kneebone2018baa_zn-JR-1
-kneebone2018baa_zn,kneebone2018baa_zn-JR-2
-kneebone2018baa_rb,kneebone2018baa_rb-JR-1
-kneebone2018baa_rb,kneebone2018baa_rb-JR-2
-kneebone2018baa_sr,kneebone2018baa_sr-JR-1
-kneebone2018baa_sr,kneebone2018baa_sr-JR-2
-kneebone2018baa_y,kneebone2018baa_y-JR-1
-kneebone2018baa_y,kneebone2018baa_y-JR-2
-kneebone2018baa_zr,kneebone2018baa_zr-JR-1
-kneebone2018baa_zr,kneebone2018baa_zr-JR-2
-kneebone2018baa_nb,kneebone2018baa_nb-JR-1
-kneebone2018baa_nb,kneebone2018baa_nb-JR-2
-golitko2013sepika_k,golitko2013sepika_k-USGS RGM-2
-golitko2013sepika_k,golitko2013sepika_k-NIST278
-golitko2013sepika_ca,golitko2013sepika_ca-USGS RGM-2
-golitko2013sepika_ca,golitko2013sepika_ca-NIST278
-golitko2013sepika_ti,golitko2013sepika_ti-USGS RGM-2
-golitko2013sepika_ti,golitko2013sepika_ti-NIST278
-golitko2013sepika_mn,golitko2013sepika_mn-USGS RGM-2
-golitko2013sepika_mn,golitko2013sepika_mn-NIST278
-golitko2013sepika_fe,golitko2013sepika_fe-USGS RGM-2
-golitko2013sepika_fe,golitko2013sepika_fe-NIST278
-golitko2013sepika_zn,golitko2013sepika_zn-USGS RGM-2
-golitko2013sepika_zn,golitko2013sepika_zn-NIST278
-golitko2013sepika_rb,golitko2013sepika_rb-USGS RGM-2
-golitko2013sepika_rb,golitko2013sepika_rb-NIST278
-golitko2013sepika_sr,golitko2013sepika_sr-USGS RGM-2
-golitko2013sepika_sr,golitko2013sepika_sr-NIST278
-golitko2013sepika_zr,golitko2013sepika_zr-USGS RGM-2
-golitko2013sepika_zr,golitko2013sepika_zr-NIST278
-golitko2013sepika_nb,golitko2013sepika_nb-USGS RGM-2
-golitko2013sepika_nb,golitko2013sepika_nb-NIST278
-reepmeyer2008aoa_sio2,reepmeyer2008aoa_sio2-NIST612
-reepmeyer2008aoa_tio2,reepmeyer2008aoa_tio2-NIST612
-reepmeyer2008aoa_al2o3,reepmeyer2008aoa_al2o3-NIST612
-reepmeyer2008aoa_feo,reepmeyer2008aoa_feo-NIST612
-reepmeyer2008aoa_cao,reepmeyer2008aoa_cao-NIST612
-reepmeyer2008aoa_mgo,reepmeyer2008aoa_mgo-NIST612
-reepmeyer2008aoa_mno,reepmeyer2008aoa_mno-NIST612
-reepmeyer2008aoa_k2o,reepmeyer2008aoa_k2o-NIST612
-reepmeyer2008aoa_na2o,reepmeyer2008aoa_na2o-NIST612
-reepmeyer2008aob_p,reepmeyer2008aob_p-ANU2000
-reepmeyer2008aob_sc,reepmeyer2008aob_sc-ANU2000
-reepmeyer2008aob_ti,reepmeyer2008aob_ti-ANU2000
-reepmeyer2008aob_v,reepmeyer2008aob_v-ANU2000
-reepmeyer2008aob_cr,reepmeyer2008aob_cr-ANU2000
-reepmeyer2008aob_mn,reepmeyer2008aob_mn-ANU2000
-reepmeyer2008aob_co,reepmeyer2008aob_co-ANU2000
-reepmeyer2008aob_ni,reepmeyer2008aob_ni-ANU2000
-reepmeyer2008aob_cu,reepmeyer2008aob_cu-ANU2000
-reepmeyer2008aob_as,reepmeyer2008aob_as-ANU2000
-reepmeyer2008aob_rb,reepmeyer2008aob_rb-ANU2000
-reepmeyer2008aob_sr,reepmeyer2008aob_sr-ANU2000
-reepmeyer2008aob_y,reepmeyer2008aob_y-ANU2000
-reepmeyer2008aob_zr,reepmeyer2008aob_zr-ANU2000
-reepmeyer2008aob_nb,reepmeyer2008aob_nb-ANU2000
-reepmeyer2008aob_mo,reepmeyer2008aob_mo-ANU2000
-reepmeyer2008aob_sn,reepmeyer2008aob_sn-ANU2000
-reepmeyer2008aob_cs,reepmeyer2008aob_cs-ANU2000
-reepmeyer2008aob_ba,reepmeyer2008aob_ba-ANU2000
-reepmeyer2008aob_la,reepmeyer2008aob_la-ANU2000
-reepmeyer2008aob_ce,reepmeyer2008aob_ce-ANU2000
-reepmeyer2008aob_pr,reepmeyer2008aob_pr-ANU2000
-reepmeyer2008aob_nd,reepmeyer2008aob_nd-ANU2000
-reepmeyer2008aob_sm,reepmeyer2008aob_sm-ANU2000
-reepmeyer2008aob_eu,reepmeyer2008aob_eu-ANU2000
-reepmeyer2008aob_gd,reepmeyer2008aob_gd-ANU2000
-reepmeyer2008aob_tb,reepmeyer2008aob_tb-ANU2000
-reepmeyer2008aob_dy,reepmeyer2008aob_dy-ANU2000
-reepmeyer2008aob_er,reepmeyer2008aob_er-ANU2000
-reepmeyer2008aob_tm,reepmeyer2008aob_tm-ANU2000
-reepmeyer2008aob_yb,reepmeyer2008aob_yb-ANU2000
-reepmeyer2008aob_lu,reepmeyer2008aob_lu-ANU2000
-reepmeyer2008aob_ta,reepmeyer2008aob_ta-ANU2000
-reepmeyer2008aob_w,reepmeyer2008aob_w-ANU2000
-reepmeyer2008aob_th,reepmeyer2008aob_th-ANU2000
-reepmeyer2008aob_u,reepmeyer2008aob_u-ANU2000
-reepmeyer2008aob_pb207pb206,reepmeyer2008aob_pb207pb206-ANU2000
-reepmeyer2008aob_pb208pb206,reepmeyer2008aob_pb208pb206-ANU2000
-reepmeyer2010apa_sio2,reepmeyer2010apa_sio2-ANU2000
-reepmeyer2010apa_sio2,reepmeyer2010apa_sio2-ANU9000
-reepmeyer2010apa_tio2,reepmeyer2010apa_tio2-ANU2000
-reepmeyer2010apa_tio2,reepmeyer2010apa_tio2-ANU9000
-reepmeyer2010apa_al2o3,reepmeyer2010apa_al2o3-ANU2000
-reepmeyer2010apa_al2o3,reepmeyer2010apa_al2o3-ANU9000
-reepmeyer2010apa_feo,reepmeyer2010apa_feo-ANU2000
-reepmeyer2010apa_feo,reepmeyer2010apa_feo-ANU9000
-reepmeyer2010apa_cao,reepmeyer2010apa_cao-ANU2000
-reepmeyer2010apa_cao,reepmeyer2010apa_cao-ANU9000
-reepmeyer2010apa_mgo,reepmeyer2010apa_mgo-ANU2000
-reepmeyer2010apa_mgo,reepmeyer2010apa_mgo-ANU9000
-reepmeyer2010apa_mno,reepmeyer2010apa_mno-ANU2000
-reepmeyer2010apa_mno,reepmeyer2010apa_mno-ANU9000
-reepmeyer2010apa_k2o,reepmeyer2010apa_k2o-ANU2000
-reepmeyer2010apa_k2o,reepmeyer2010apa_k2o-ANU9000
-reepmeyer2010apa_na2o,reepmeyer2010apa_na2o-ANU2000
-reepmeyer2010apa_na2o,reepmeyer2010apa_na2o-ANU9000
-reepmeyer2010apb_ca,reepmeyer2010apb_ca-ANU2000
-reepmeyer2010apb_sc,reepmeyer2010apb_sc-ANU2000
-reepmeyer2010apb_ti,reepmeyer2010apb_ti-ANU2000
-reepmeyer2010apb_v,reepmeyer2010apb_v-ANU2000
-reepmeyer2010apb_cr,reepmeyer2010apb_cr-ANU2000
-reepmeyer2010apb_mn,reepmeyer2010apb_mn-ANU2000
-reepmeyer2010apb_ni,reepmeyer2010apb_ni-ANU2000
-reepmeyer2010apb_cu,reepmeyer2010apb_cu-ANU2000
-reepmeyer2010apb_rb,reepmeyer2010apb_rb-ANU2000
-reepmeyer2010apb_sr,reepmeyer2010apb_sr-ANU2000
-reepmeyer2010apb_y,reepmeyer2010apb_y-ANU2000
-reepmeyer2010apb_zr,reepmeyer2010apb_zr-ANU2000
-reepmeyer2010apb_nb,reepmeyer2010apb_nb-ANU2000
-reepmeyer2010apb_mo,reepmeyer2010apb_mo-ANU2000
-reepmeyer2010apb_sn,reepmeyer2010apb_sn-ANU2000
-reepmeyer2010apb_cs,reepmeyer2010apb_cs-ANU2000
-reepmeyer2010apb_ba,reepmeyer2010apb_ba-ANU2000
-reepmeyer2010apb_la,reepmeyer2010apb_la-ANU2000
-reepmeyer2010apb_ce,reepmeyer2010apb_ce-ANU2000
-reepmeyer2010apb_nd,reepmeyer2010apb_nd-ANU2000
-reepmeyer2010apb_sm,reepmeyer2010apb_sm-ANU2000
-reepmeyer2010apb_eu,reepmeyer2010apb_eu-ANU2000
-reepmeyer2010apb_gd,reepmeyer2010apb_gd-ANU2000
-reepmeyer2010apb_dy,reepmeyer2010apb_dy-ANU2000
-reepmeyer2010apb_er,reepmeyer2010apb_er-ANU2000
-reepmeyer2010apb_yb,reepmeyer2010apb_yb-ANU2000
-reepmeyer2010apb_lu,reepmeyer2010apb_lu-ANU2000
-reepmeyer2010apb_ta,reepmeyer2010apb_ta-ANU2000
-reepmeyer2010apb_th,reepmeyer2010apb_th-ANU2000
-reepmeyer2010apb_u,reepmeyer2010apb_u-ANU2000
-reepmeyer2010apb_pb207pb206,reepmeyer2010apb_pb207pb206-ANU2000
-reepmeyer2010apb_pb208pb206,reepmeyer2010apb_pb208pb206-ANU2000
-reepmeyer2010apb_as,reepmeyer2010apb_as-ANU2000
-reepmeyer2010apb_pr,reepmeyer2010apb_pr-ANU2000
-reepmeyer2010apb_tb,reepmeyer2010apb_tb-ANU2000
-reepmeyer2010apb_tm,reepmeyer2010apb_tm-ANU2000
-reepmeyer2012jicaa_sio2,reepmeyer2012jicaa_sio2-ANU2000
-reepmeyer2012jicaa_sio2,reepmeyer2012jicaa_sio2-ANU9000
-reepmeyer2012jicaa_tio2,reepmeyer2012jicaa_tio2-ANU2000
-reepmeyer2012jicaa_tio2,reepmeyer2012jicaa_tio2-ANU9000
-reepmeyer2012jicaa_al2o3,reepmeyer2012jicaa_al2o3-ANU2000
-reepmeyer2012jicaa_al2o3,reepmeyer2012jicaa_al2o3-ANU9000
-reepmeyer2012jicaa_feo,reepmeyer2012jicaa_feo-ANU2000
-reepmeyer2012jicaa_feo,reepmeyer2012jicaa_feo-ANU9000
-reepmeyer2012jicaa_cao,reepmeyer2012jicaa_cao-ANU2000
-reepmeyer2012jicaa_cao,reepmeyer2012jicaa_cao-ANU9000
-reepmeyer2012jicaa_mgo,reepmeyer2012jicaa_mgo-ANU2000
-reepmeyer2012jicaa_mgo,reepmeyer2012jicaa_mgo-ANU9000
-reepmeyer2012jicaa_mno,reepmeyer2012jicaa_mno-ANU2000
-reepmeyer2012jicaa_mno,reepmeyer2012jicaa_mno-ANU9000
-reepmeyer2012jicaa_k2o,reepmeyer2012jicaa_k2o-ANU2000
-reepmeyer2012jicaa_k2o,reepmeyer2012jicaa_k2o-ANU9000
-reepmeyer2012jicaa_na2o,reepmeyer2012jicaa_na2o-ANU2000
-reepmeyer2012jicaa_na2o,reepmeyer2012jicaa_na2o-ANU9000
-reepmeyer2012jicab_p,reepmeyer2012jicab_p-ANU2000
-reepmeyer2012jicab_p,reepmeyer2012jicab_p-ANU9000
-reepmeyer2012jicab_sc,reepmeyer2012jicab_sc-ANU2000
-reepmeyer2012jicab_sc,reepmeyer2012jicab_sc-ANU9000
-reepmeyer2012jicab_ti,reepmeyer2012jicab_ti-ANU2000
-reepmeyer2012jicab_ti,reepmeyer2012jicab_ti-ANU9000
-reepmeyer2012jicab_v,reepmeyer2012jicab_v-ANU2000
-reepmeyer2012jicab_v,reepmeyer2012jicab_v-ANU9000
-reepmeyer2012jicab_mn,reepmeyer2012jicab_mn-ANU2000
-reepmeyer2012jicab_mn,reepmeyer2012jicab_mn-ANU9000
-reepmeyer2012jicab_co,reepmeyer2012jicab_co-ANU2000
-reepmeyer2012jicab_co,reepmeyer2012jicab_co-ANU9000
-reepmeyer2012jicab_cu,reepmeyer2012jicab_cu-ANU2000
-reepmeyer2012jicab_cu,reepmeyer2012jicab_cu-ANU9000
-reepmeyer2012jicab_ga,reepmeyer2012jicab_ga-ANU2000
-reepmeyer2012jicab_ga,reepmeyer2012jicab_ga-ANU9000
-reepmeyer2012jicab_as,reepmeyer2012jicab_as-ANU2000
-reepmeyer2012jicab_as,reepmeyer2012jicab_as-ANU9000
-reepmeyer2012jicab_rb,reepmeyer2012jicab_rb-ANU2000
-reepmeyer2012jicab_rb,reepmeyer2012jicab_rb-ANU9000
-reepmeyer2012jicab_sr,reepmeyer2012jicab_sr-ANU2000
-reepmeyer2012jicab_sr,reepmeyer2012jicab_sr-ANU9000
-reepmeyer2012jicab_y,reepmeyer2012jicab_y-ANU2000
-reepmeyer2012jicab_y,reepmeyer2012jicab_y-ANU9000
-reepmeyer2012jicab_zr,reepmeyer2012jicab_zr-ANU2000
-reepmeyer2012jicab_zr,reepmeyer2012jicab_zr-ANU9000
-reepmeyer2012jicab_nb,reepmeyer2012jicab_nb-ANU2000
-reepmeyer2012jicab_nb,reepmeyer2012jicab_nb-ANU9000
-reepmeyer2012jicab_mo,reepmeyer2012jicab_mo-ANU2000
-reepmeyer2012jicab_mo,reepmeyer2012jicab_mo-ANU9000
-reepmeyer2012jicab_sn,reepmeyer2012jicab_sn-ANU2000
-reepmeyer2012jicab_sn,reepmeyer2012jicab_sn-ANU9000
-reepmeyer2012jicab_cs,reepmeyer2012jicab_cs-ANU2000
-reepmeyer2012jicab_cs,reepmeyer2012jicab_cs-ANU9000
-reepmeyer2012jicab_ba,reepmeyer2012jicab_ba-ANU2000
-reepmeyer2012jicab_ba,reepmeyer2012jicab_ba-ANU9000
-reepmeyer2012jicab_la,reepmeyer2012jicab_la-ANU2000
-reepmeyer2012jicab_la,reepmeyer2012jicab_la-ANU9000
-reepmeyer2012jicab_ce,reepmeyer2012jicab_ce-ANU2000
-reepmeyer2012jicab_ce,reepmeyer2012jicab_ce-ANU9000
-reepmeyer2012jicab_pr,reepmeyer2012jicab_pr-ANU2000
-reepmeyer2012jicab_pr,reepmeyer2012jicab_pr-ANU9000
-reepmeyer2012jicab_nd,reepmeyer2012jicab_nd-ANU2000
-reepmeyer2012jicab_nd,reepmeyer2012jicab_nd-ANU9000
-reepmeyer2012jicab_sm,reepmeyer2012jicab_sm-ANU2000
-reepmeyer2012jicab_sm,reepmeyer2012jicab_sm-ANU9000
-reepmeyer2012jicab_eu,reepmeyer2012jicab_eu-ANU2000
-reepmeyer2012jicab_eu,reepmeyer2012jicab_eu-ANU9000
-reepmeyer2012jicab_gd,reepmeyer2012jicab_gd-ANU2000
-reepmeyer2012jicab_gd,reepmeyer2012jicab_gd-ANU9000
-reepmeyer2012jicab_tb,reepmeyer2012jicab_tb-ANU2000
-reepmeyer2012jicab_tb,reepmeyer2012jicab_tb-ANU9000
-reepmeyer2012jicab_dy,reepmeyer2012jicab_dy-ANU2000
-reepmeyer2012jicab_dy,reepmeyer2012jicab_dy-ANU9000
-reepmeyer2012jicab_er,reepmeyer2012jicab_er-ANU2000
-reepmeyer2012jicab_er,reepmeyer2012jicab_er-ANU9000
-reepmeyer2012jicab_tm,reepmeyer2012jicab_tm-ANU2000
-reepmeyer2012jicab_tm,reepmeyer2012jicab_tm-ANU9000
-reepmeyer2012jicab_yb,reepmeyer2012jicab_yb-ANU2000
-reepmeyer2012jicab_yb,reepmeyer2012jicab_yb-ANU9000
-reepmeyer2012jicab_lu,reepmeyer2012jicab_lu-ANU2000
-reepmeyer2012jicab_lu,reepmeyer2012jicab_lu-ANU9000
-reepmeyer2012jicab_ta,reepmeyer2012jicab_ta-ANU2000
-reepmeyer2012jicab_ta,reepmeyer2012jicab_ta-ANU9000
-reepmeyer2012jicab_w,reepmeyer2012jicab_w-ANU2000
-reepmeyer2012jicab_w,reepmeyer2012jicab_w-ANU9000
-reepmeyer2012jicab_th,reepmeyer2012jicab_th-ANU2000
-reepmeyer2012jicab_th,reepmeyer2012jicab_th-ANU9000
-reepmeyer2012jicab_u,reepmeyer2012jicab_u-ANU2000
-reepmeyer2012jicab_u,reepmeyer2012jicab_u-ANU9000
-reepmeyer2012jicab_pb207pb206,reepmeyer2012jicab_pb207pb206-ANU2000
-reepmeyer2012jicab_pb207pb206,reepmeyer2012jicab_pb207pb206-ANU9000
-reepmeyer2012jicab_pb208pb206,reepmeyer2012jicab_pb208pb206-ANU2000
-reepmeyer2012jicab_pb208pb206,reepmeyer2012jicab_pb208pb206-ANU9000
-mccoy2020qra_mn,mccoy2020qra_mn-AGV-2
-mccoy2020qra_mn,mccoy2020qra_mn-BCR-2
-mccoy2020qra_mn,mccoy2020qra_mn-BHVO-2
-mccoy2020qra_mn,mccoy2020qra_mn-BIR-1a
-mccoy2020qra_mn,mccoy2020qra_mn-DNC-1a
-mccoy2020qra_mn,mccoy2020qra_mn-GSP-2
-mccoy2020qra_mn,mccoy2020qra_mn-QLO-1
-mccoy2020qra_mn,mccoy2020qra_mn-NIST-SRM-278
-mccoy2020qra_mn,mccoy2020qra_mn-NIST-SRM-688
-mccoy2020qra_mn,mccoy2020qra_mn-W-2a
-mccoy2020qra_fe,mccoy2020qra_fe-AGV-2
-mccoy2020qra_fe,mccoy2020qra_fe-BCR-2
-mccoy2020qra_fe,mccoy2020qra_fe-BHVO-2
-mccoy2020qra_fe,mccoy2020qra_fe-BIR-1a
-mccoy2020qra_fe,mccoy2020qra_fe-DNC-1a
-mccoy2020qra_fe,mccoy2020qra_fe-GSP-2
-mccoy2020qra_fe,mccoy2020qra_fe-QLO-1
-mccoy2020qra_fe,mccoy2020qra_fe-NIST-SRM-278
-mccoy2020qra_fe,mccoy2020qra_fe-NIST-SRM-688
-mccoy2020qra_fe,mccoy2020qra_fe-W-2a
-mccoy2020qra_zn,mccoy2020qra_zn-AGV-2
-mccoy2020qra_zn,mccoy2020qra_zn-BCR-2
-mccoy2020qra_zn,mccoy2020qra_zn-BHVO-2
-mccoy2020qra_zn,mccoy2020qra_zn-BIR-1a
-mccoy2020qra_zn,mccoy2020qra_zn-DNC-1a
-mccoy2020qra_zn,mccoy2020qra_zn-GSP-2
-mccoy2020qra_zn,mccoy2020qra_zn-QLO-1
-mccoy2020qra_zn,mccoy2020qra_zn-NIST-SRM-278
-mccoy2020qra_zn,mccoy2020qra_zn-NIST-SRM-688
-mccoy2020qra_zn,mccoy2020qra_zn-W-2a
-mccoy2020qra_rb,mccoy2020qra_rb-AGV-2
-mccoy2020qra_rb,mccoy2020qra_rb-BCR-2
-mccoy2020qra_rb,mccoy2020qra_rb-BHVO-2
-mccoy2020qra_rb,mccoy2020qra_rb-BIR-1a
-mccoy2020qra_rb,mccoy2020qra_rb-DNC-1a
-mccoy2020qra_rb,mccoy2020qra_rb-GSP-2
-mccoy2020qra_rb,mccoy2020qra_rb-QLO-1
-mccoy2020qra_rb,mccoy2020qra_rb-NIST-SRM-278
-mccoy2020qra_rb,mccoy2020qra_rb-NIST-SRM-688
-mccoy2020qra_rb,mccoy2020qra_rb-W-2a
-mccoy2020qra_sr,mccoy2020qra_sr-AGV-2
-mccoy2020qra_sr,mccoy2020qra_sr-BCR-2
-mccoy2020qra_sr,mccoy2020qra_sr-BHVO-2
-mccoy2020qra_sr,mccoy2020qra_sr-BIR-1a
-mccoy2020qra_sr,mccoy2020qra_sr-DNC-1a
-mccoy2020qra_sr,mccoy2020qra_sr-GSP-2
-mccoy2020qra_sr,mccoy2020qra_sr-QLO-1
-mccoy2020qra_sr,mccoy2020qra_sr-NIST-SRM-278
-mccoy2020qra_sr,mccoy2020qra_sr-NIST-SRM-688
-mccoy2020qra_sr,mccoy2020qra_sr-W-2a
-mccoy2020qra_y,mccoy2020qra_y-AGV-2
-mccoy2020qra_y,mccoy2020qra_y-BCR-2
-mccoy2020qra_y,mccoy2020qra_y-BHVO-2
-mccoy2020qra_y,mccoy2020qra_y-BIR-1a
-mccoy2020qra_y,mccoy2020qra_y-DNC-1a
-mccoy2020qra_y,mccoy2020qra_y-GSP-2
-mccoy2020qra_y,mccoy2020qra_y-QLO-1
-mccoy2020qra_y,mccoy2020qra_y-NIST-SRM-278
-mccoy2020qra_y,mccoy2020qra_y-NIST-SRM-688
-mccoy2020qra_y,mccoy2020qra_y-W-2a
-mccoy2020qra_zr,mccoy2020qra_zr-AGV-2
-mccoy2020qra_zr,mccoy2020qra_zr-BCR-2
-mccoy2020qra_zr,mccoy2020qra_zr-BHVO-2
-mccoy2020qra_zr,mccoy2020qra_zr-BIR-1a
-mccoy2020qra_zr,mccoy2020qra_zr-DNC-1a
-mccoy2020qra_zr,mccoy2020qra_zr-GSP-2
-mccoy2020qra_zr,mccoy2020qra_zr-QLO-1
-mccoy2020qra_zr,mccoy2020qra_zr-NIST-SRM-278
-mccoy2020qra_zr,mccoy2020qra_zr-NIST-SRM-688
-mccoy2020qra_zr,mccoy2020qra_zr-W-2a
-mccoy2020qra_nb,mccoy2020qra_nb-AGV-2
-mccoy2020qra_nb,mccoy2020qra_nb-BCR-2
-mccoy2020qra_nb,mccoy2020qra_nb-BHVO-2
-mccoy2020qra_nb,mccoy2020qra_nb-BIR-1a
-mccoy2020qra_nb,mccoy2020qra_nb-DNC-1a
-mccoy2020qra_nb,mccoy2020qra_nb-GSP-2
-mccoy2020qra_nb,mccoy2020qra_nb-QLO-1
-mccoy2020qra_nb,mccoy2020qra_nb-NIST-SRM-278
-mccoy2020qra_nb,mccoy2020qra_nb-NIST-SRM-688
-mccoy2020qra_nb,mccoy2020qra_nb-W-2a
-mccoy2011jasa_rb,mccoy2011jasa_rb-BHVO-2
-mccoy2011jasa_sr,mccoy2011jasa_sr-BHVO-2
-mccoy2011jasa_y,mccoy2011jasa_y-BHVO-2
-mccoy2011jasa_zr,mccoy2011jasa_zr-BHVO-2
-mccoy2011jasa_nb,mccoy2011jasa_nb-BHVO-2
-mills2011jpaa_sio2,mills2011jpaa_sio2-BHVO-2
-mills2011jpaa_tio2,mills2011jpaa_tio2-BHVO-2
-mills2011jpaa_al2o3,mills2011jpaa_al2o3-BHVO-2
-mills2011jpaa_cao,mills2011jpaa_cao-BHVO-2
-mills2011jpaa_mgo,mills2011jpaa_mgo-BHVO-2
-mills2011jpaa_mno,mills2011jpaa_mno-BHVO-2
-mills2011jpaa_k2o,mills2011jpaa_k2o-BHVO-2
-mills2011jpaa_na2o,mills2011jpaa_na2o-BHVO-2
-mills2011jpaa_v,mills2011jpaa_v-BHVO-2
-mills2011jpaa_ni,mills2011jpaa_ni-BHVO-2
-mills2011jpaa_cu,mills2011jpaa_cu-BHVO-2
-mills2011jpaa_zn,mills2011jpaa_zn-BHVO-2
-mills2011jpaa_rb,mills2011jpaa_rb-BHVO-2
-mills2011jpaa_sr,mills2011jpaa_sr-BHVO-2
-mills2011jpaa_y,mills2011jpaa_y-BHVO-2
-mills2011jpaa_zr,mills2011jpaa_zr-BHVO-2
-mills2011jpaa_nb,mills2011jpaa_nb-BHVO-2
-mills2011jpaa_ba,mills2011jpaa_ba-BHVO-2
-mills2008aaa_sio2,mills2008aaa_sio2-BHVO-2
-mills2008aaa_tio2,mills2008aaa_tio2-BHVO-2
-mills2008aaa_al2o3,mills2008aaa_al2o3-BHVO-2
-mills2008aaa_cao,mills2008aaa_cao-BHVO-2
-mills2008aaa_mgo,mills2008aaa_mgo-BHVO-2
-mills2008aaa_k2o,mills2008aaa_k2o-BHVO-2
-mills2008aaa_v,mills2008aaa_v-BHVO-2
-mills2008aaa_mn,mills2008aaa_mn-BHVO-2
-mills2008aaa_ni,mills2008aaa_ni-BHVO-2
-mills2008aaa_cu,mills2008aaa_cu-BHVO-2
-mills2008aaa_zn,mills2008aaa_zn-BHVO-2
-mills2008aaa_rb,mills2008aaa_rb-BHVO-2
-mills2008aaa_sr,mills2008aaa_sr-BHVO-2
-mills2008aaa_y,mills2008aaa_y-BHVO-2
-mills2008aaa_zr,mills2008aaa_zr-BHVO-2
-mills2008aaa_nb,mills2008aaa_nb-BHVO-2
-putzi2015jasra_sio2,putzi2015jasra_sio2-BHVO-2
-putzi2015jasra_tio2,putzi2015jasra_tio2-BHVO-2
-putzi2015jasra_al2o3,putzi2015jasra_al2o3-BHVO-2
-putzi2015jasra_cao,putzi2015jasra_cao-BHVO-2
-putzi2015jasra_mgo,putzi2015jasra_mgo-BHVO-2
-putzi2015jasra_k2o,putzi2015jasra_k2o-BHVO-2
-putzi2015jasra_na2o,putzi2015jasra_na2o-BHVO-2
-putzi2015jasra_v,putzi2015jasra_v-BHVO-2
-putzi2015jasra_mn,putzi2015jasra_mn-BHVO-2
-putzi2015jasra_fe,putzi2015jasra_fe-BHVO-2
-putzi2015jasra_ni,putzi2015jasra_ni-BHVO-2
-putzi2015jasra_cu,putzi2015jasra_cu-BHVO-2
-putzi2015jasra_zn,putzi2015jasra_zn-BHVO-2
-putzi2015jasra_rb,putzi2015jasra_rb-BHVO-2
-putzi2015jasra_sr,putzi2015jasra_sr-BHVO-2
-putzi2015jasra_y,putzi2015jasra_y-BHVO-2
-putzi2015jasra_zr,putzi2015jasra_zr-BHVO-2
-putzi2015jasra_nb,putzi2015jasra_nb-BHVO-2
-divito2020jasra_cu,divito2020jasra_cu-BHVO-2
-divito2020jasra_zn,divito2020jasra_zn-BHVO-2
-divito2020jasra_rb,divito2020jasra_rb-BHVO-2
-divito2020jasra_sr,divito2020jasra_sr-BHVO-2
-divito2020jasra_y,divito2020jasra_y-BHVO-2
-divito2020jasra_zr,divito2020jasra_zr-BHVO-2
-divito2020jasra_nb,divito2020jasra_nb-BHVO-2
-divito2020jasra_v,divito2020jasra_v-BHVO-2
-divito2020jasra_cr,divito2020jasra_cr-BHVO-2
-divito2020jasra_mn,divito2020jasra_mn-BHVO-2
-divito2020jasra_ni,divito2020jasra_ni-BHVO-2
-divito2020jasrb_sio2,divito2020jasrb_sio2-A-99
-divito2020jasrb_sio2,divito2020jasrb_sio2-VG-2
-divito2020jasrb_tio2,divito2020jasrb_tio2-A-99
-divito2020jasrb_tio2,divito2020jasrb_tio2-VG-2
-divito2020jasrb_al2o3,divito2020jasrb_al2o3-A-99
-divito2020jasrb_al2o3,divito2020jasrb_al2o3-VG-2
-divito2020jasrb_cao,divito2020jasrb_cao-A-99
-divito2020jasrb_cao,divito2020jasrb_cao-VG-2
-divito2020jasrb_mgo,divito2020jasrb_mgo-A-99
-divito2020jasrb_mgo,divito2020jasrb_mgo-VG-2
-divito2020jasrb_mno,divito2020jasrb_mno-A-99
-divito2020jasrb_mno,divito2020jasrb_mno-VG-2
-divito2020jasrb_k2o,divito2020jasrb_k2o-A-99
-divito2020jasrb_k2o,divito2020jasrb_k2o-VG-2
-divito2020jasrb_na2o,divito2020jasrb_na2o-A-99
-divito2020jasrb_na2o,divito2020jasrb_na2o-VG-2
-divito2020jasrb_p2o5,divito2020jasrb_p2o5-A-99
-divito2020jasrb_p2o5,divito2020jasrb_p2o5-VG-2
-ambrose2009jasa_sio2,ambrose2009jasa_sio2-NIST612
-ambrose2009jasa_al2o3,ambrose2009jasa_al2o3-NIST612
-ambrose2009jasa_cao,ambrose2009jasa_cao-NIST612
-ambrose2009jasa_na2o,ambrose2009jasa_na2o-NIST612
-ambrose2009jasb_p,ambrose2009jasb_p-Wekwok2000
-ambrose2009jasb_sc,ambrose2009jasb_sc-Wekwok2000
-ambrose2009jasb_ti,ambrose2009jasb_ti-Wekwok2000
-ambrose2009jasb_v,ambrose2009jasb_v-Wekwok2000
-ambrose2009jasb_cr,ambrose2009jasb_cr-Wekwok2000
-ambrose2009jasb_mn,ambrose2009jasb_mn-Wekwok2000
-ambrose2009jasb_co,ambrose2009jasb_co-Wekwok2000
-ambrose2009jasb_cu,ambrose2009jasb_cu-Wekwok2000
-ambrose2009jasb_rb,ambrose2009jasb_rb-Wekwok2000
-ambrose2009jasb_sr,ambrose2009jasb_sr-Wekwok2000
-ambrose2009jasb_y,ambrose2009jasb_y-Wekwok2000
-ambrose2009jasb_zr,ambrose2009jasb_zr-Wekwok2000
-ambrose2009jasb_nb,ambrose2009jasb_nb-Wekwok2000
-ambrose2009jasb_mo,ambrose2009jasb_mo-Wekwok2000
-ambrose2009jasb_sn,ambrose2009jasb_sn-Wekwok2000
-ambrose2009jasb_cs,ambrose2009jasb_cs-Wekwok2000
-ambrose2009jasb_ba,ambrose2009jasb_ba-Wekwok2000
-ambrose2009jasb_la,ambrose2009jasb_la-Wekwok2000
-ambrose2009jasb_ce,ambrose2009jasb_ce-Wekwok2000
-ambrose2009jasb_nd,ambrose2009jasb_nd-Wekwok2000
-ambrose2009jasb_sm,ambrose2009jasb_sm-Wekwok2000
-ambrose2009jasb_eu,ambrose2009jasb_eu-Wekwok2000
-ambrose2009jasb_gd,ambrose2009jasb_gd-Wekwok2000
-ambrose2009jasb_dy,ambrose2009jasb_dy-Wekwok2000
-ambrose2009jasb_er,ambrose2009jasb_er-Wekwok2000
-ambrose2009jasb_yb,ambrose2009jasb_yb-Wekwok2000
-ambrose2009jasb_lu,ambrose2009jasb_lu-Wekwok2000
-ambrose2009jasb_ta,ambrose2009jasb_ta-Wekwok2000
-ambrose2009jasb_w,ambrose2009jasb_w-Wekwok2000
-ambrose2009jasb_th,ambrose2009jasb_th-Wekwok2000
-ambrose2009jasb_u,ambrose2009jasb_u-Wekwok2000
-ambrose2009jasb_pb207pb206,ambrose2009jasb_pb207pb206-Wekwok2000
-ambrose2009jasb_pb208pb206,ambrose2009jasb_pb208pb206-Wekwok2000
-mcalister2019aoa_k,mcalister2019aoa_k-SARM-4
-mcalister2019aoa_k,mcalister2019aoa_k-9.5
-mcalister2019aoa_k,mcalister2019aoa_k-17.59
-mcalister2019aoa_k,mcalister2019aoa_k-29.16
-mcalister2019aoa_k,mcalister2019aoa_k-32.1
-mcalister2019aoa_k,mcalister2019aoa_k-AC-08
-mcalister2019aoa_k,mcalister2019aoa_k-AGV-2
-mcalister2019aoa_k,mcalister2019aoa_k-ANU-2000
-mcalister2019aoa_k,mcalister2019aoa_k-DNC-1
-mcalister2019aoa_k,mcalister2019aoa_k-JA-1
-mcalister2019aoa_k,mcalister2019aoa_k-JA-2
-mcalister2019aoa_k,mcalister2019aoa_k-JF-2
-mcalister2019aoa_k,mcalister2019aoa_k-JG-1a
-mcalister2019aoa_k,mcalister2019aoa_k-JG-2
-mcalister2019aoa_k,mcalister2019aoa_k-JG-3
-mcalister2019aoa_k,mcalister2019aoa_k-JGb-1
-mcalister2019aoa_k,mcalister2019aoa_k-JH-1
-mcalister2019aoa_k,mcalister2019aoa_k-JR-1
-mcalister2019aoa_k,mcalister2019aoa_k-JR-2
-mcalister2019aoa_k,mcalister2019aoa_k-JR-3
-mcalister2019aoa_k,mcalister2019aoa_k-JSl-2
-mcalister2019aoa_k,mcalister2019aoa_k-JSy-1
-mcalister2019aoa_k,mcalister2019aoa_k-MQ-004
-mcalister2019aoa_k,mcalister2019aoa_k-MQ-007
-mcalister2019aoa_k,mcalister2019aoa_k-NIST-278
-mcalister2019aoa_k,mcalister2019aoa_k-QLO-1a
-mcalister2019aoa_k,mcalister2019aoa_k-SARM-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-SARM-4
-mcalister2019aoa_ca,mcalister2019aoa_ca-9.5
-mcalister2019aoa_ca,mcalister2019aoa_ca-17.59
-mcalister2019aoa_ca,mcalister2019aoa_ca-29.16
-mcalister2019aoa_ca,mcalister2019aoa_ca-32.1
-mcalister2019aoa_ca,mcalister2019aoa_ca-AC-08
-mcalister2019aoa_ca,mcalister2019aoa_ca-AGV-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-ANU-2000
-mcalister2019aoa_ca,mcalister2019aoa_ca-DNC-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-JA-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-JA-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-JF-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-JG-1a
-mcalister2019aoa_ca,mcalister2019aoa_ca-JG-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-JG-3
-mcalister2019aoa_ca,mcalister2019aoa_ca-JGb-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-JH-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-JR-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-JR-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-JR-3
-mcalister2019aoa_ca,mcalister2019aoa_ca-JSl-2
-mcalister2019aoa_ca,mcalister2019aoa_ca-JSy-1
-mcalister2019aoa_ca,mcalister2019aoa_ca-MQ-004
-mcalister2019aoa_ca,mcalister2019aoa_ca-MQ-007
-mcalister2019aoa_ca,mcalister2019aoa_ca-NIST-278
-mcalister2019aoa_ca,mcalister2019aoa_ca-QLO-1a
-mcalister2019aoa_ca,mcalister2019aoa_ca-SARM-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-SARM-4
-mcalister2019aoa_ti,mcalister2019aoa_ti-9.5
-mcalister2019aoa_ti,mcalister2019aoa_ti-17.59
-mcalister2019aoa_ti,mcalister2019aoa_ti-29.16
-mcalister2019aoa_ti,mcalister2019aoa_ti-32.1
-mcalister2019aoa_ti,mcalister2019aoa_ti-AC-08
-mcalister2019aoa_ti,mcalister2019aoa_ti-AGV-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-ANU-2000
-mcalister2019aoa_ti,mcalister2019aoa_ti-DNC-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-JA-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-JA-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-JF-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-JG-1a
-mcalister2019aoa_ti,mcalister2019aoa_ti-JG-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-JG-3
-mcalister2019aoa_ti,mcalister2019aoa_ti-JGb-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-JH-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-JR-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-JR-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-JR-3
-mcalister2019aoa_ti,mcalister2019aoa_ti-JSl-2
-mcalister2019aoa_ti,mcalister2019aoa_ti-JSy-1
-mcalister2019aoa_ti,mcalister2019aoa_ti-MQ-004
-mcalister2019aoa_ti,mcalister2019aoa_ti-MQ-007
-mcalister2019aoa_ti,mcalister2019aoa_ti-NIST-278
-mcalister2019aoa_ti,mcalister2019aoa_ti-QLO-1a
-mcalister2019aoa_ti,mcalister2019aoa_ti-SARM-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-SARM-4
-mcalister2019aoa_mn,mcalister2019aoa_mn-9.5
-mcalister2019aoa_mn,mcalister2019aoa_mn-17.59
-mcalister2019aoa_mn,mcalister2019aoa_mn-29.16
-mcalister2019aoa_mn,mcalister2019aoa_mn-32.1
-mcalister2019aoa_mn,mcalister2019aoa_mn-AC-08
-mcalister2019aoa_mn,mcalister2019aoa_mn-AGV-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-ANU-2000
-mcalister2019aoa_mn,mcalister2019aoa_mn-DNC-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-JA-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-JA-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-JF-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-JG-1a
-mcalister2019aoa_mn,mcalister2019aoa_mn-JG-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-JG-3
-mcalister2019aoa_mn,mcalister2019aoa_mn-JGb-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-JH-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-JR-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-JR-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-JR-3
-mcalister2019aoa_mn,mcalister2019aoa_mn-JSl-2
-mcalister2019aoa_mn,mcalister2019aoa_mn-JSy-1
-mcalister2019aoa_mn,mcalister2019aoa_mn-MQ-004
-mcalister2019aoa_mn,mcalister2019aoa_mn-MQ-007
-mcalister2019aoa_mn,mcalister2019aoa_mn-NIST-278
-mcalister2019aoa_mn,mcalister2019aoa_mn-QLO-1a
-mcalister2019aoa_mn,mcalister2019aoa_mn-SARM-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-SARM-4
-mcalister2019aoa_fe,mcalister2019aoa_fe-9.5
-mcalister2019aoa_fe,mcalister2019aoa_fe-17.59
-mcalister2019aoa_fe,mcalister2019aoa_fe-29.16
-mcalister2019aoa_fe,mcalister2019aoa_fe-32.1
-mcalister2019aoa_fe,mcalister2019aoa_fe-AC-08
-mcalister2019aoa_fe,mcalister2019aoa_fe-AGV-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-ANU-2000
-mcalister2019aoa_fe,mcalister2019aoa_fe-DNC-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-JA-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-JA-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-JF-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-JG-1a
-mcalister2019aoa_fe,mcalister2019aoa_fe-JG-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-JG-3
-mcalister2019aoa_fe,mcalister2019aoa_fe-JGb-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-JH-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-JR-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-JR-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-JR-3
-mcalister2019aoa_fe,mcalister2019aoa_fe-JSl-2
-mcalister2019aoa_fe,mcalister2019aoa_fe-JSy-1
-mcalister2019aoa_fe,mcalister2019aoa_fe-MQ-004
-mcalister2019aoa_fe,mcalister2019aoa_fe-MQ-007
-mcalister2019aoa_fe,mcalister2019aoa_fe-NIST-278
-mcalister2019aoa_fe,mcalister2019aoa_fe-QLO-1a
-mcalister2019aoa_fe,mcalister2019aoa_fe-SARM-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-SARM-4
-mcalister2019aoa_zn,mcalister2019aoa_zn-9.5
-mcalister2019aoa_zn,mcalister2019aoa_zn-17.59
-mcalister2019aoa_zn,mcalister2019aoa_zn-29.16
-mcalister2019aoa_zn,mcalister2019aoa_zn-32.1
-mcalister2019aoa_zn,mcalister2019aoa_zn-AC-08
-mcalister2019aoa_zn,mcalister2019aoa_zn-AGV-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-ANU-2000
-mcalister2019aoa_zn,mcalister2019aoa_zn-DNC-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-JA-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-JA-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-JF-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-JG-1a
-mcalister2019aoa_zn,mcalister2019aoa_zn-JG-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-JG-3
-mcalister2019aoa_zn,mcalister2019aoa_zn-JGb-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-JH-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-JR-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-JR-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-JR-3
-mcalister2019aoa_zn,mcalister2019aoa_zn-JSl-2
-mcalister2019aoa_zn,mcalister2019aoa_zn-JSy-1
-mcalister2019aoa_zn,mcalister2019aoa_zn-MQ-004
-mcalister2019aoa_zn,mcalister2019aoa_zn-MQ-007
-mcalister2019aoa_zn,mcalister2019aoa_zn-NIST-278
-mcalister2019aoa_zn,mcalister2019aoa_zn-QLO-1a
-mcalister2019aoa_zn,mcalister2019aoa_zn-SARM-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-SARM-4
-mcalister2019aoa_rb,mcalister2019aoa_rb-9.5
-mcalister2019aoa_rb,mcalister2019aoa_rb-17.59
-mcalister2019aoa_rb,mcalister2019aoa_rb-29.16
-mcalister2019aoa_rb,mcalister2019aoa_rb-32.1
-mcalister2019aoa_rb,mcalister2019aoa_rb-AC-08
-mcalister2019aoa_rb,mcalister2019aoa_rb-AGV-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-ANU-2000
-mcalister2019aoa_rb,mcalister2019aoa_rb-JA-1
-mcalister2019aoa_rb,mcalister2019aoa_rb-JA-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-JF-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-JG-1a
-mcalister2019aoa_rb,mcalister2019aoa_rb-JG-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-JG-3
-mcalister2019aoa_rb,mcalister2019aoa_rb-JGb-1
-mcalister2019aoa_rb,mcalister2019aoa_rb-JH-1
-mcalister2019aoa_rb,mcalister2019aoa_rb-JR-1
-mcalister2019aoa_rb,mcalister2019aoa_rb-JR-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-JR-3
-mcalister2019aoa_rb,mcalister2019aoa_rb-JSl-2
-mcalister2019aoa_rb,mcalister2019aoa_rb-JSy-1
-mcalister2019aoa_rb,mcalister2019aoa_rb-MQ-004
-mcalister2019aoa_rb,mcalister2019aoa_rb-MQ-007
-mcalister2019aoa_rb,mcalister2019aoa_rb-NIST-278
-mcalister2019aoa_rb,mcalister2019aoa_rb-QLO-1a
-mcalister2019aoa_rb,mcalister2019aoa_rb-SARM-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-SARM-4
-mcalister2019aoa_sr,mcalister2019aoa_sr-9.5
-mcalister2019aoa_sr,mcalister2019aoa_sr-17.59
-mcalister2019aoa_sr,mcalister2019aoa_sr-29.16
-mcalister2019aoa_sr,mcalister2019aoa_sr-32.1
-mcalister2019aoa_sr,mcalister2019aoa_sr-AC-08
-mcalister2019aoa_sr,mcalister2019aoa_sr-AGV-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-ANU-2000
-mcalister2019aoa_sr,mcalister2019aoa_sr-JA-1
-mcalister2019aoa_sr,mcalister2019aoa_sr-JA-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-JF-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-JG-1a
-mcalister2019aoa_sr,mcalister2019aoa_sr-JG-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-JG-3
-mcalister2019aoa_sr,mcalister2019aoa_sr-JGb-1
-mcalister2019aoa_sr,mcalister2019aoa_sr-JH-1
-mcalister2019aoa_sr,mcalister2019aoa_sr-JR-1
-mcalister2019aoa_sr,mcalister2019aoa_sr-JR-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-JR-3
-mcalister2019aoa_sr,mcalister2019aoa_sr-JSl-2
-mcalister2019aoa_sr,mcalister2019aoa_sr-JSy-1
-mcalister2019aoa_sr,mcalister2019aoa_sr-MQ-004
-mcalister2019aoa_sr,mcalister2019aoa_sr-MQ-007
-mcalister2019aoa_sr,mcalister2019aoa_sr-NIST-278
-mcalister2019aoa_sr,mcalister2019aoa_sr-QLO-1a
-mcalister2019aoa_sr,mcalister2019aoa_sr-SARM-2
-mcalister2019aoa_y,mcalister2019aoa_y-SARM-4
-mcalister2019aoa_y,mcalister2019aoa_y-9.5
-mcalister2019aoa_y,mcalister2019aoa_y-17.59
-mcalister2019aoa_y,mcalister2019aoa_y-29.16
-mcalister2019aoa_y,mcalister2019aoa_y-32.1
-mcalister2019aoa_y,mcalister2019aoa_y-AC-08
-mcalister2019aoa_y,mcalister2019aoa_y-AGV-2
-mcalister2019aoa_y,mcalister2019aoa_y-ANU-2000
-mcalister2019aoa_y,mcalister2019aoa_y-JA-1
-mcalister2019aoa_y,mcalister2019aoa_y-JA-2
-mcalister2019aoa_y,mcalister2019aoa_y-JF-2
-mcalister2019aoa_y,mcalister2019aoa_y-JG-1a
-mcalister2019aoa_y,mcalister2019aoa_y-JG-2
-mcalister2019aoa_y,mcalister2019aoa_y-JG-3
-mcalister2019aoa_y,mcalister2019aoa_y-JGb-1
-mcalister2019aoa_y,mcalister2019aoa_y-JH-1
-mcalister2019aoa_y,mcalister2019aoa_y-JR-1
-mcalister2019aoa_y,mcalister2019aoa_y-JR-2
-mcalister2019aoa_y,mcalister2019aoa_y-JR-3
-mcalister2019aoa_y,mcalister2019aoa_y-JSl-2
-mcalister2019aoa_y,mcalister2019aoa_y-JSy-1
-mcalister2019aoa_y,mcalister2019aoa_y-MQ-004
-mcalister2019aoa_y,mcalister2019aoa_y-MQ-007
-mcalister2019aoa_y,mcalister2019aoa_y-NIST-278
-mcalister2019aoa_y,mcalister2019aoa_y-QLO-1a
-mcalister2019aoa_y,mcalister2019aoa_y-SARM-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-SARM-4
-mcalister2019aoa_zr,mcalister2019aoa_zr-9.5
-mcalister2019aoa_zr,mcalister2019aoa_zr-17.59
-mcalister2019aoa_zr,mcalister2019aoa_zr-29.16
-mcalister2019aoa_zr,mcalister2019aoa_zr-32.1
-mcalister2019aoa_zr,mcalister2019aoa_zr-AC-08
-mcalister2019aoa_zr,mcalister2019aoa_zr-AGV-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-ANU-2000
-mcalister2019aoa_zr,mcalister2019aoa_zr-JA-1
-mcalister2019aoa_zr,mcalister2019aoa_zr-JA-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-JF-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-JG-1a
-mcalister2019aoa_zr,mcalister2019aoa_zr-JG-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-JG-3
-mcalister2019aoa_zr,mcalister2019aoa_zr-JGb-1
-mcalister2019aoa_zr,mcalister2019aoa_zr-JH-1
-mcalister2019aoa_zr,mcalister2019aoa_zr-JR-1
-mcalister2019aoa_zr,mcalister2019aoa_zr-JR-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-JR-3
-mcalister2019aoa_zr,mcalister2019aoa_zr-JSl-2
-mcalister2019aoa_zr,mcalister2019aoa_zr-JSy-1
-mcalister2019aoa_zr,mcalister2019aoa_zr-MQ-004
-mcalister2019aoa_zr,mcalister2019aoa_zr-MQ-007
-mcalister2019aoa_zr,mcalister2019aoa_zr-NIST-278
-mcalister2019aoa_zr,mcalister2019aoa_zr-QLO-1a
-mcalister2019aoa_zr,mcalister2019aoa_zr-SARM-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-SARM-4
-mcalister2019aoa_nb,mcalister2019aoa_nb-9.5
-mcalister2019aoa_nb,mcalister2019aoa_nb-17.59
-mcalister2019aoa_nb,mcalister2019aoa_nb-29.16
-mcalister2019aoa_nb,mcalister2019aoa_nb-32.1
-mcalister2019aoa_nb,mcalister2019aoa_nb-AC-08
-mcalister2019aoa_nb,mcalister2019aoa_nb-AGV-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-ANU-2000
-mcalister2019aoa_nb,mcalister2019aoa_nb-JA-1
-mcalister2019aoa_nb,mcalister2019aoa_nb-JA-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-JF-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-JG-1a
-mcalister2019aoa_nb,mcalister2019aoa_nb-JG-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-JG-3
-mcalister2019aoa_nb,mcalister2019aoa_nb-JGb-1
-mcalister2019aoa_nb,mcalister2019aoa_nb-JH-1
-mcalister2019aoa_nb,mcalister2019aoa_nb-JR-1
-mcalister2019aoa_nb,mcalister2019aoa_nb-JR-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-JR-3
-mcalister2019aoa_nb,mcalister2019aoa_nb-JSl-2
-mcalister2019aoa_nb,mcalister2019aoa_nb-JSy-1
-mcalister2019aoa_nb,mcalister2019aoa_nb-MQ-004
-mcalister2019aoa_nb,mcalister2019aoa_nb-MQ-007
-mcalister2019aoa_nb,mcalister2019aoa_nb-NIST-278
-mcalister2019aoa_nb,mcalister2019aoa_nb-QLO-1a
-mcalister2019aoa_nb,mcalister2019aoa_nb-SARM-2
+charleux2014a_tio2,charleux2014a_tio2-BHVO-1
+charleux2014a_fe2o3,charleux2014a_fe2o3-BHVO-1
+charleux2014a_cao,charleux2014a_cao-BHVO-1
+charleux2014a_mno,charleux2014a_mno-BHVO-1
+charleux2014a_k2o,charleux2014a_k2o-BHVO-1
+charleux2014a_cr,charleux2014a_cr-BHVO-1
+charleux2014a_ni,charleux2014a_ni-BHVO-1
+charleux2014a_cu,charleux2014a_cu-BHVO-1
+charleux2014a_zn,charleux2014a_zn-BHVO-1
+charleux2014a_rb,charleux2014a_rb-BHVO-1
+charleux2014a_sr,charleux2014a_sr-BHVO-1
+charleux2014a_zr,charleux2014a_zr-BHVO-1
+charleux2014a_nb,charleux2014a_nb-BHVO-1
+charleux2014b_tio2,charleux2014b_tio2-BHVO-1
+charleux2014b_fe2o3,charleux2014b_fe2o3-BHVO-1
+charleux2014b_cao,charleux2014b_cao-BHVO-1
+charleux2014b_mno,charleux2014b_mno-BHVO-1
+charleux2014b_k2o,charleux2014b_k2o-BHVO-1
+charleux2014b_v,charleux2014b_v-BHVO-1
+charleux2014b_cr,charleux2014b_cr-BHVO-1
+charleux2014b_ni,charleux2014b_ni-BHVO-1
+charleux2014b_cu,charleux2014b_cu-BHVO-1
+charleux2014b_zn,charleux2014b_zn-BHVO-1
+charleux2014b_rb,charleux2014b_rb-BHVO-1
+charleux2014b_sr,charleux2014b_sr-BHVO-1
+charleux2014b_y,charleux2014b_y-BHVO-1
+charleux2014b_zr,charleux2014b_zr-BHVO-1
+charleux2014b_nb,charleux2014b_nb-BHVO-1
+charleux2014b_pb,charleux2014b_pb-BHVO-1
+charleux2014c_sio2,charleux2014c_sio2-BHVO-1
+charleux2014c_tio2,charleux2014c_tio2-BHVO-1
+charleux2014c_al2o3,charleux2014c_al2o3-BHVO-1
+charleux2014c_fe2o3,charleux2014c_fe2o3-BHVO-1
+charleux2014c_cao,charleux2014c_cao-BHVO-1
+charleux2014c_mgo,charleux2014c_mgo-BHVO-1
+charleux2014c_mno,charleux2014c_mno-BHVO-1
+charleux2014c_k2o,charleux2014c_k2o-BHVO-1
+charleux2014c_na2o,charleux2014c_na2o-BHVO-1
+charleux2014c_v,charleux2014c_v-BHVO-1
+charleux2014c_ni,charleux2014c_ni-BHVO-1
+charleux2014c_cu,charleux2014c_cu-BHVO-1
+charleux2014c_zn,charleux2014c_zn-BHVO-1
+charleux2014c_rb,charleux2014c_rb-BHVO-1
+charleux2014c_sr,charleux2014c_sr-BHVO-1
+charleux2014c_y,charleux2014c_y-BHVO-1
+charleux2014c_zr,charleux2014c_zr-BHVO-1
+charleux2014c_nb,charleux2014c_nb-BHVO-1
+charleux2014c_ba,charleux2014c_ba-BHVO-1
+charleux2014c_pb,charleux2014c_pb-BHVO-1
+clark2014a_ti,clark2014a_ti-ANU9000
+clark2014a_mn,clark2014a_mn-ANU9000
+clark2014a_fe,clark2014a_fe-ANU9000
+clark2014a_rb,clark2014a_rb-ANU9000
+clark2014a_sr,clark2014a_sr-ANU9000
+clark2014a_y,clark2014a_y-ANU9000
+clark2014a_zr,clark2014a_zr-ANU9000
+clark2014a_nb,clark2014a_nb-ANU9000
+clark2014c_sio2,clark2014c_sio2-ANU9000
+clark2014c_tio2,clark2014c_tio2-ANU9000
+clark2014c_al2o3,clark2014c_al2o3-ANU9000
+clark2014c_fe2o3,clark2014c_fe2o3-ANU9000
+clark2014c_cao,clark2014c_cao-ANU9000
+clark2014c_mgo,clark2014c_mgo-ANU9000
+clark2014c_mno,clark2014c_mno-ANU9000
+clark2014c_k2o,clark2014c_k2o-ANU9000
+clark2014c_na2o,clark2014c_na2o-ANU9000
+clark2014d_ca,clark2014d_ca-ANU9000
+clark2014d_sc,clark2014d_sc-ANU9000
+clark2014d_ti,clark2014d_ti-ANU9000
+clark2014d_v,clark2014d_v-ANU9000
+clark2014d_cr,clark2014d_cr-ANU9000
+clark2014d_mn,clark2014d_mn-ANU9000
+clark2014d_ni,clark2014d_ni-ANU9000
+clark2014d_cu,clark2014d_cu-ANU9000
+clark2014d_zn,clark2014d_zn-ANU9000
+clark2014d_ga,clark2014d_ga-ANU9000
+clark2014d_as,clark2014d_as-ANU9000
+clark2014d_rb,clark2014d_rb-ANU9000
+clark2014d_sr,clark2014d_sr-ANU9000
+clark2014d_y,clark2014d_y-ANU9000
+clark2014d_zr,clark2014d_zr-ANU9000
+clark2014d_nb,clark2014d_nb-ANU9000
+clark2014d_mo,clark2014d_mo-ANU9000
+clark2014d_sn,clark2014d_sn-ANU9000
+clark2014d_cs,clark2014d_cs-ANU9000
+clark2014d_ba,clark2014d_ba-ANU9000
+clark2014d_la,clark2014d_la-ANU9000
+clark2014d_ce,clark2014d_ce-ANU9000
+clark2014d_pr,clark2014d_pr-ANU9000
+clark2014d_nd,clark2014d_nd-ANU9000
+clark2014d_sm,clark2014d_sm-ANU9000
+clark2014d_eu,clark2014d_eu-ANU9000
+clark2014d_gd,clark2014d_gd-ANU9000
+clark2014d_tb,clark2014d_tb-ANU9000
+clark2014d_dy,clark2014d_dy-ANU9000
+clark2014d_ho,clark2014d_ho-ANU9000
+clark2014d_er,clark2014d_er-ANU9000
+clark2014d_tm,clark2014d_tm-ANU9000
+clark2014d_yb,clark2014d_yb-ANU9000
+clark2014d_lu,clark2014d_lu-ANU9000
+clark2014d_hf,clark2014d_hf-ANU9000
+clark2014d_ta,clark2014d_ta-ANU9000
+clark2014d_pb,clark2014d_pb-ANU9000
+clark2014d_th,clark2014d_th-ANU9000
+clark2014d_u,clark2014d_u-ANU9000
+clark2014b_sio2,clark2014b_sio2-ANU9000
+clark2014b_tio2,clark2014b_tio2-ANU9000
+clark2014b_al2o3,clark2014b_al2o3-ANU9000
+clark2014b_fe2o3,clark2014b_fe2o3-ANU9000
+clark2014b_cao,clark2014b_cao-ANU9000
+clark2014b_mgo,clark2014b_mgo-ANU9000
+clark2014b_mno,clark2014b_mno-ANU9000
+clark2014b_k2o,clark2014b_k2o-ANU9000
+clark2014b_na2o,clark2014b_na2o-ANU9000
+clark2014b_p2o5,clark2014b_p2o5-ANU9000
+clark2014d_be,clark2014d_be-ANU9000
+clark2014d_ge,clark2014d_ge-ANU9000
+clark2014d_ag,clark2014d_ag-ANU9000
+clark2014d_cd,clark2014d_cd-ANU9000
+clark2014d_in,clark2014d_in-ANU9000
+clark2014d_sb,clark2014d_sb-ANU9000
+clark2014d_bi,clark2014d_bi-ANU9000
+clark2014c_p2o5,clark2014c_p2o5-ANU9000
+collerson2007a_sio2,collerson2007a_sio2-BCR-2
+collerson2007a_tio2,collerson2007a_tio2-BCR-2
+collerson2007a_al2o3,collerson2007a_al2o3-BCR-2
+collerson2007a_feo,collerson2007a_feo-BCR-2
+collerson2007a_cao,collerson2007a_cao-BCR-2
+collerson2007a_mgo,collerson2007a_mgo-BCR-2
+collerson2007a_mno,collerson2007a_mno-BCR-2
+collerson2007a_k2o,collerson2007a_k2o-BCR-2
+collerson2007a_na2o,collerson2007a_na2o-BCR-2
+collerson2007a_p2o5,collerson2007a_p2o5-BCR-2
+collerson2007b_li,collerson2007b_li-BHVO-1
+collerson2007b_li,collerson2007b_li-BCR-21
+collerson2007b_li,collerson2007b_li-W-2
+collerson2007b_be,collerson2007b_be-BHVO-1
+collerson2007b_be,collerson2007b_be-BCR-21
+collerson2007b_be,collerson2007b_be-W-2
+collerson2007b_sc,collerson2007b_sc-BHVO-1
+collerson2007b_sc,collerson2007b_sc-BCR-21
+collerson2007b_sc,collerson2007b_sc-W-2
+collerson2007b_v,collerson2007b_v-BHVO-1
+collerson2007b_v,collerson2007b_v-BCR-21
+collerson2007b_v,collerson2007b_v-W-2
+collerson2007b_cr,collerson2007b_cr-BHVO-1
+collerson2007b_cr,collerson2007b_cr-BCR-21
+collerson2007b_cr,collerson2007b_cr-W-2
+collerson2007b_co,collerson2007b_co-BHVO-1
+collerson2007b_co,collerson2007b_co-BCR-21
+collerson2007b_co,collerson2007b_co-W-2
+collerson2007b_ni,collerson2007b_ni-BHVO-1
+collerson2007b_ni,collerson2007b_ni-BCR-21
+collerson2007b_ni,collerson2007b_ni-W-2
+collerson2007b_cu,collerson2007b_cu-BHVO-1
+collerson2007b_cu,collerson2007b_cu-BCR-21
+collerson2007b_cu,collerson2007b_cu-W-2
+collerson2007b_zn,collerson2007b_zn-BHVO-1
+collerson2007b_zn,collerson2007b_zn-BCR-21
+collerson2007b_zn,collerson2007b_zn-W-2
+collerson2007b_ga,collerson2007b_ga-BHVO-1
+collerson2007b_ga,collerson2007b_ga-BCR-21
+collerson2007b_ga,collerson2007b_ga-W-2
+collerson2007b_rb,collerson2007b_rb-BHVO-1
+collerson2007b_rb,collerson2007b_rb-BCR-21
+collerson2007b_rb,collerson2007b_rb-W-2
+collerson2007b_sr,collerson2007b_sr-BHVO-1
+collerson2007b_sr,collerson2007b_sr-BCR-21
+collerson2007b_sr,collerson2007b_sr-W-2
+collerson2007b_y,collerson2007b_y-BHVO-1
+collerson2007b_y,collerson2007b_y-BCR-21
+collerson2007b_y,collerson2007b_y-W-2
+collerson2007b_zr,collerson2007b_zr-BHVO-1
+collerson2007b_zr,collerson2007b_zr-BCR-21
+collerson2007b_zr,collerson2007b_zr-W-2
+collerson2007b_nb,collerson2007b_nb-BHVO-1
+collerson2007b_nb,collerson2007b_nb-BCR-21
+collerson2007b_nb,collerson2007b_nb-W-2
+collerson2007b_sn,collerson2007b_sn-BHVO-1
+collerson2007b_sn,collerson2007b_sn-BCR-21
+collerson2007b_sn,collerson2007b_sn-W-2
+collerson2007b_cs,collerson2007b_cs-BHVO-1
+collerson2007b_cs,collerson2007b_cs-BCR-21
+collerson2007b_cs,collerson2007b_cs-W-2
+collerson2007b_ba,collerson2007b_ba-BHVO-1
+collerson2007b_ba,collerson2007b_ba-BCR-21
+collerson2007b_ba,collerson2007b_ba-W-2
+collerson2007b_la,collerson2007b_la-BHVO-1
+collerson2007b_la,collerson2007b_la-BCR-21
+collerson2007b_la,collerson2007b_la-W-2
+collerson2007b_ce,collerson2007b_ce-BHVO-1
+collerson2007b_ce,collerson2007b_ce-BCR-21
+collerson2007b_ce,collerson2007b_ce-W-2
+collerson2007b_pr,collerson2007b_pr-BHVO-1
+collerson2007b_pr,collerson2007b_pr-BCR-21
+collerson2007b_pr,collerson2007b_pr-W-2
+collerson2007b_nd,collerson2007b_nd-BHVO-1
+collerson2007b_nd,collerson2007b_nd-BCR-21
+collerson2007b_nd,collerson2007b_nd-W-2
+collerson2007b_sm,collerson2007b_sm-BHVO-1
+collerson2007b_sm,collerson2007b_sm-BCR-21
+collerson2007b_sm,collerson2007b_sm-W-2
+collerson2007b_eu,collerson2007b_eu-BHVO-1
+collerson2007b_eu,collerson2007b_eu-BCR-21
+collerson2007b_eu,collerson2007b_eu-W-2
+collerson2007b_gd,collerson2007b_gd-BHVO-1
+collerson2007b_gd,collerson2007b_gd-BCR-21
+collerson2007b_gd,collerson2007b_gd-W-2
+collerson2007b_tb,collerson2007b_tb-BHVO-1
+collerson2007b_tb,collerson2007b_tb-BCR-21
+collerson2007b_tb,collerson2007b_tb-W-2
+collerson2007b_dy,collerson2007b_dy-BHVO-1
+collerson2007b_dy,collerson2007b_dy-BCR-21
+collerson2007b_dy,collerson2007b_dy-W-2
+collerson2007b_ho,collerson2007b_ho-BHVO-1
+collerson2007b_ho,collerson2007b_ho-BCR-21
+collerson2007b_ho,collerson2007b_ho-W-2
+collerson2007b_er,collerson2007b_er-BHVO-1
+collerson2007b_er,collerson2007b_er-BCR-21
+collerson2007b_er,collerson2007b_er-W-2
+collerson2007b_tm,collerson2007b_tm-BHVO-1
+collerson2007b_tm,collerson2007b_tm-BCR-21
+collerson2007b_tm,collerson2007b_tm-W-2
+collerson2007b_yb,collerson2007b_yb-BHVO-1
+collerson2007b_yb,collerson2007b_yb-BCR-21
+collerson2007b_yb,collerson2007b_yb-W-2
+collerson2007b_lu,collerson2007b_lu-BHVO-1
+collerson2007b_lu,collerson2007b_lu-BCR-21
+collerson2007b_lu,collerson2007b_lu-W-2
+collerson2007b_hf,collerson2007b_hf-BHVO-1
+collerson2007b_hf,collerson2007b_hf-BCR-21
+collerson2007b_hf,collerson2007b_hf-W-2
+collerson2007b_ta,collerson2007b_ta-BHVO-1
+collerson2007b_ta,collerson2007b_ta-BCR-21
+collerson2007b_ta,collerson2007b_ta-W-2
+collerson2007b_w,collerson2007b_w-BHVO-1
+collerson2007b_w,collerson2007b_w-BCR-21
+collerson2007b_w,collerson2007b_w-W-2
+collerson2007b_tl,collerson2007b_tl-BHVO-1
+collerson2007b_tl,collerson2007b_tl-BCR-21
+collerson2007b_tl,collerson2007b_tl-W-2
+collerson2007b_pb,collerson2007b_pb-BHVO-1
+collerson2007b_pb,collerson2007b_pb-BCR-21
+collerson2007b_pb,collerson2007b_pb-W-2
+collerson2007b_th,collerson2007b_th-BHVO-1
+collerson2007b_th,collerson2007b_th-BCR-21
+collerson2007b_th,collerson2007b_th-W-2
+collerson2007b_u,collerson2007b_u-BHVO-1
+collerson2007b_u,collerson2007b_u-BCR-21
+collerson2007b_u,collerson2007b_u-W-2
+collerson2007c_nd143nd144,collerson2007c_nd143nd144-Ames Nd
+collerson2007c_sr87sr86,collerson2007c_sr87sr86-NBS SRM 987
+collerson2007c_pb206pb204,collerson2007c_pb206pb204-NBS SRM 981
+collerson2007c_pb207pb204,collerson2007c_pb207pb204-NBS SRM 981
+collerson2007c_pb208pb204,collerson2007c_pb208pb204-NBS SRM 981
+collerson2007c_pb207pb206,collerson2007c_pb207pb206-NBS SRM 981
+collerson2007c_pb208pb206,collerson2007c_pb208pb206-NBS SRM 981
+fankhauser2009c_sc,fankhauser2009c_sc-BHVO-1
+fankhauser2009c_v,fankhauser2009c_v-BHVO-1
+fankhauser2009c_cr,fankhauser2009c_cr-BHVO-1
+fankhauser2009c_ni,fankhauser2009c_ni-BHVO-1
+fankhauser2009c_cu,fankhauser2009c_cu-BHVO-1
+fankhauser2009c_zn,fankhauser2009c_zn-BHVO-1
+fankhauser2009c_ga,fankhauser2009c_ga-BHVO-1
+fankhauser2009c_as,fankhauser2009c_as-BHVO-1
+fankhauser2009c_rb,fankhauser2009c_rb-BHVO-1
+fankhauser2009c_sr,fankhauser2009c_sr-BHVO-1
+fankhauser2009c_y,fankhauser2009c_y-BHVO-1
+fankhauser2009c_zr,fankhauser2009c_zr-BHVO-1
+fankhauser2009c_nb,fankhauser2009c_nb-BHVO-1
+fankhauser2009c_ba,fankhauser2009c_ba-BHVO-1
+fankhauser2009c_la,fankhauser2009c_la-BHVO-1
+fankhauser2009c_ce,fankhauser2009c_ce-BHVO-1
+fankhauser2009c_nd,fankhauser2009c_nd-BHVO-1
+fankhauser2009c_pb,fankhauser2009c_pb-BHVO-1
+fankhauser2009c_th,fankhauser2009c_th-BHVO-1
+hermann2017a_sio2,hermann2017a_sio2-JB-2
+hermann2017a_sio2,hermann2017a_sio2-AC-E
+hermann2017a_sio2,hermann2017a_sio2-WSE
+hermann2017a_tio2,hermann2017a_tio2-JB-2
+hermann2017a_tio2,hermann2017a_tio2-AC-E
+hermann2017a_tio2,hermann2017a_tio2-WSE
+hermann2017a_al2o3,hermann2017a_al2o3-JB-2
+hermann2017a_al2o3,hermann2017a_al2o3-AC-E
+hermann2017a_al2o3,hermann2017a_al2o3-WSE
+hermann2017a_fe2o3,hermann2017a_fe2o3-JB-2
+hermann2017a_fe2o3,hermann2017a_fe2o3-AC-E
+hermann2017a_fe2o3,hermann2017a_fe2o3-WSE
+hermann2017a_cao,hermann2017a_cao-JB-2
+hermann2017a_cao,hermann2017a_cao-AC-E
+hermann2017a_cao,hermann2017a_cao-WSE
+hermann2017a_mgo,hermann2017a_mgo-JB-2
+hermann2017a_mgo,hermann2017a_mgo-AC-E
+hermann2017a_mgo,hermann2017a_mgo-WSE
+hermann2017a_mno,hermann2017a_mno-JB-2
+hermann2017a_mno,hermann2017a_mno-AC-E
+hermann2017a_mno,hermann2017a_mno-WSE
+hermann2017a_k2o,hermann2017a_k2o-JB-2
+hermann2017a_k2o,hermann2017a_k2o-AC-E
+hermann2017a_k2o,hermann2017a_k2o-WSE
+hermann2017a_na2o,hermann2017a_na2o-JB-2
+hermann2017a_na2o,hermann2017a_na2o-AC-E
+hermann2017a_na2o,hermann2017a_na2o-WSE
+hermann2017a_p2o5,hermann2017a_p2o5-JB-2
+hermann2017a_p2o5,hermann2017a_p2o5-AC-E
+hermann2017a_p2o5,hermann2017a_p2o5-WSE
+hermann2017a_sc,hermann2017a_sc-JB-2
+hermann2017a_sc,hermann2017a_sc-AC-E
+hermann2017a_sc,hermann2017a_sc-WSE
+hermann2017a_v,hermann2017a_v-JB-2
+hermann2017a_v,hermann2017a_v-AC-E
+hermann2017a_v,hermann2017a_v-WSE
+hermann2017a_cr,hermann2017a_cr-JB-2
+hermann2017a_cr,hermann2017a_cr-AC-E
+hermann2017a_cr,hermann2017a_cr-WSE
+hermann2017a_co,hermann2017a_co-JB-2
+hermann2017a_co,hermann2017a_co-AC-E
+hermann2017a_co,hermann2017a_co-WSE
+hermann2017a_ni,hermann2017a_ni-JB-2
+hermann2017a_ni,hermann2017a_ni-AC-E
+hermann2017a_ni,hermann2017a_ni-WSE
+hermann2017a_rb,hermann2017a_rb-JB-2
+hermann2017a_rb,hermann2017a_rb-AC-E
+hermann2017a_rb,hermann2017a_rb-WSE
+hermann2017a_sr,hermann2017a_sr-JB-2
+hermann2017a_sr,hermann2017a_sr-AC-E
+hermann2017a_sr,hermann2017a_sr-WSE
+hermann2017a_y,hermann2017a_y-JB-2
+hermann2017a_y,hermann2017a_y-AC-E
+hermann2017a_y,hermann2017a_y-WSE
+hermann2017a_zr,hermann2017a_zr-JB-2
+hermann2017a_zr,hermann2017a_zr-AC-E
+hermann2017a_zr,hermann2017a_zr-WSE
+hermann2017a_nb,hermann2017a_nb-JB-2
+hermann2017a_nb,hermann2017a_nb-AC-E
+hermann2017a_nb,hermann2017a_nb-WSE
+hermann2017a_ba,hermann2017a_ba-JB-2
+hermann2017a_ba,hermann2017a_ba-AC-E
+hermann2017a_ba,hermann2017a_ba-WSE
+hermann2017a_la,hermann2017a_la-JB-2
+hermann2017a_la,hermann2017a_la-AC-E
+hermann2017a_la,hermann2017a_la-WSE
+hermann2017a_ce,hermann2017a_ce-JB-2
+hermann2017a_ce,hermann2017a_ce-AC-E
+hermann2017a_ce,hermann2017a_ce-WSE
+hermann2017a_nd,hermann2017a_nd-JB-2
+hermann2017a_nd,hermann2017a_nd-AC-E
+hermann2017a_nd,hermann2017a_nd-WSE
+hermann2017a_sm,hermann2017a_sm-JB-2
+hermann2017a_sm,hermann2017a_sm-AC-E
+hermann2017a_sm,hermann2017a_sm-WSE
+hermann2017a_eu,hermann2017a_eu-JB-2
+hermann2017a_eu,hermann2017a_eu-AC-E
+hermann2017a_eu,hermann2017a_eu-WSE
+hermann2017a_gd,hermann2017a_gd-JB-2
+hermann2017a_gd,hermann2017a_gd-AC-E
+hermann2017a_gd,hermann2017a_gd-WSE
+hermann2017a_dy,hermann2017a_dy-JB-2
+hermann2017a_dy,hermann2017a_dy-AC-E
+hermann2017a_dy,hermann2017a_dy-WSE
+hermann2017a_er,hermann2017a_er-JB-2
+hermann2017a_er,hermann2017a_er-AC-E
+hermann2017a_er,hermann2017a_er-WSE
+hermann2017a_yb,hermann2017a_yb-JB-2
+hermann2017a_yb,hermann2017a_yb-AC-E
+hermann2017a_yb,hermann2017a_yb-WSE
+hermann2017a_th,hermann2017a_th-JB-2
+hermann2017a_th,hermann2017a_th-AC-E
+hermann2017a_th,hermann2017a_th-WSE
+hermann2017b_sr87sr86,hermann2017b_sr87sr86-NBS 987
+hermann2017c_pb206pb204,hermann2017c_pb206pb204-NBS 981
+hermann2017c_pb207pb204,hermann2017c_pb207pb204-NBS 981
+hermann2017c_pb208pb204,hermann2017c_pb208pb204-NBS 981
+kahn2008a_sio2,kahn2008a_sio2-BHVO-2
+kahn2008a_tio2,kahn2008a_tio2-BHVO-2
+kahn2008a_al2o3,kahn2008a_al2o3-BHVO-2
+kahn2008a_cao,kahn2008a_cao-BHVO-2
+kahn2008a_mgo,kahn2008a_mgo-BHVO-2
+kahn2008a_k2o,kahn2008a_k2o-BHVO-2
+kahn2008a_na2o,kahn2008a_na2o-BHVO-2
+kahn2008a_v,kahn2008a_v-BHVO-2
+kahn2008a_fe,kahn2008a_fe-BHVO-2
+kahn2008a_ni,kahn2008a_ni-BHVO-2
+kahn2008a_cu,kahn2008a_cu-BHVO-2
+kahn2008a_zn,kahn2008a_zn-BHVO-2
+kahn2008a_rb,kahn2008a_rb-BHVO-2
+kahn2008a_sr,kahn2008a_sr-BHVO-2
+kahn2008a_y,kahn2008a_y-BHVO-2
+kahn2008a_zr,kahn2008a_zr-BHVO-2
+kahn2008a_nb,kahn2008a_nb-BHVO-2
+kahn2013a_sio2,kahn2013a_sio2-BHVO-2
+kahn2013a_tio2,kahn2013a_tio2-BHVO-2
+kahn2013a_al2o3,kahn2013a_al2o3-BHVO-2
+kahn2013a_cao,kahn2013a_cao-BHVO-2
+kahn2013a_mgo,kahn2013a_mgo-BHVO-2
+kahn2013a_k2o,kahn2013a_k2o-BHVO-2
+kahn2013a_v,kahn2013a_v-BHVO-2
+kahn2013a_ni,kahn2013a_ni-BHVO-2
+kahn2013a_cu,kahn2013a_cu-BHVO-2
+kahn2013a_zn,kahn2013a_zn-BHVO-2
+kahn2013a_rb,kahn2013a_rb-BHVO-2
+kahn2013a_sr,kahn2013a_sr-BHVO-2
+kahn2013a_y,kahn2013a_y-BHVO-2
+kahn2013a_zr,kahn2013a_zr-BHVO-2
+kahn2013a_nb,kahn2013a_nb-BHVO-2
+kahn2013a_na2o,kahn2013a_na2o-BHVO-2
+kirch2015a_sio2,kirch2015a_sio2-BHVO-2 (5-12.1)
+kirch2015a_sio2,kirch2015a_sio2-BHVO-2 (3-13.1)
+kirch2015a_tio2,kirch2015a_tio2-BHVO-2 (5-12.1)
+kirch2015a_tio2,kirch2015a_tio2-BHVO-2 (3-13.1)
+kirch2015a_al2o3,kirch2015a_al2o3-BHVO-2 (5-12.1)
+kirch2015a_al2o3,kirch2015a_al2o3-BHVO-2 (3-13.1)
+kirch2015a_cao,kirch2015a_cao-BHVO-2 (5-12.1)
+kirch2015a_cao,kirch2015a_cao-BHVO-2 (3-13.1)
+kirch2015a_mgo,kirch2015a_mgo-BHVO-2 (5-12.1)
+kirch2015a_mgo,kirch2015a_mgo-BHVO-2 (3-13.1)
+kirch2015a_mno,kirch2015a_mno-BHVO-2 (5-12.1)
+kirch2015a_mno,kirch2015a_mno-BHVO-2 (3-13.1)
+kirch2015a_k2o,kirch2015a_k2o-BHVO-2 (5-12.1)
+kirch2015a_k2o,kirch2015a_k2o-BHVO-2 (3-13.1)
+kirch2015a_na2o,kirch2015a_na2o-BHVO-2 (5-12.1)
+kirch2015a_na2o,kirch2015a_na2o-BHVO-2 (3-13.1)
+kirch2015a_v,kirch2015a_v-BHVO-2 (5-12.1)
+kirch2015a_v,kirch2015a_v-BHVO-2 (3-13.1)
+kirch2015a_fe,kirch2015a_fe-BHVO-2 (5-12.1)
+kirch2015a_fe,kirch2015a_fe-BHVO-2 (3-13.1)
+kirch2015a_ni,kirch2015a_ni-BHVO-2 (5-12.1)
+kirch2015a_ni,kirch2015a_ni-BHVO-2 (3-13.1)
+kirch2015a_cu,kirch2015a_cu-BHVO-2 (5-12.1)
+kirch2015a_cu,kirch2015a_cu-BHVO-2 (3-13.1)
+kirch2015a_zn,kirch2015a_zn-BHVO-2 (5-12.1)
+kirch2015a_zn,kirch2015a_zn-BHVO-2 (3-13.1)
+kirch2015a_rb,kirch2015a_rb-BHVO-2 (5-12.1)
+kirch2015a_rb,kirch2015a_rb-BHVO-2 (3-13.1)
+kirch2015a_sr,kirch2015a_sr-BHVO-2 (5-12.1)
+kirch2015a_sr,kirch2015a_sr-BHVO-2 (3-13.1)
+kirch2015a_y,kirch2015a_y-BHVO-2 (5-12.1)
+kirch2015a_y,kirch2015a_y-BHVO-2 (3-13.1)
+kirch2015a_zr,kirch2015a_zr-BHVO-2 (5-12.1)
+kirch2015a_zr,kirch2015a_zr-BHVO-2 (3-13.1)
+kirch2015a_nb,kirch2015a_nb-BHVO-2 (5-12.1)
+kirch2015a_nb,kirch2015a_nb-BHVO-2 (3-13.1)
+kirch2015a_ba,kirch2015a_ba-BHVO-2 (5-12.1)
+kirch2015a_ba,kirch2015a_ba-BHVO-2 (3-13.1)
+kirch2015a_pb,kirch2015a_pb-BHVO-2 (5-12.1)
+kirch2015a_pb,kirch2015a_pb-BHVO-2 (3-13.1)
+rolett2015a_sio2,rolett2015a_sio2-W-1
+rolett2015a_sio2,rolett2015a_sio2-BHVO-1
+rolett2015a_sio2,rolett2015a_sio2-BIR-1
+rolett2015a_tio2,rolett2015a_tio2-W-1
+rolett2015a_tio2,rolett2015a_tio2-BHVO-1
+rolett2015a_tio2,rolett2015a_tio2-BIR-1
+rolett2015a_al2o3,rolett2015a_al2o3-W-1
+rolett2015a_al2o3,rolett2015a_al2o3-BHVO-1
+rolett2015a_al2o3,rolett2015a_al2o3-BIR-1
+rolett2015a_feo,rolett2015a_feo-W-1
+rolett2015a_feo,rolett2015a_feo-BHVO-1
+rolett2015a_feo,rolett2015a_feo-BIR-1
+rolett2015a_cao,rolett2015a_cao-W-1
+rolett2015a_cao,rolett2015a_cao-BHVO-1
+rolett2015a_cao,rolett2015a_cao-BIR-1
+rolett2015a_mgo,rolett2015a_mgo-W-1
+rolett2015a_mgo,rolett2015a_mgo-BHVO-1
+rolett2015a_mgo,rolett2015a_mgo-BIR-1
+rolett2015a_mno,rolett2015a_mno-W-1
+rolett2015a_mno,rolett2015a_mno-BHVO-1
+rolett2015a_mno,rolett2015a_mno-BIR-1
+rolett2015a_k2o,rolett2015a_k2o-W-1
+rolett2015a_k2o,rolett2015a_k2o-BHVO-1
+rolett2015a_k2o,rolett2015a_k2o-BIR-1
+rolett2015a_na2o,rolett2015a_na2o-W-1
+rolett2015a_na2o,rolett2015a_na2o-BHVO-1
+rolett2015a_na2o,rolett2015a_na2o-BIR-1
+rolett2015a_p2o5,rolett2015a_p2o5-W-1
+rolett2015a_p2o5,rolett2015a_p2o5-BHVO-1
+rolett2015a_p2o5,rolett2015a_p2o5-BIR-1
+rolett2015a_sc,rolett2015a_sc-W-1
+rolett2015a_sc,rolett2015a_sc-BHVO-1
+rolett2015a_sc,rolett2015a_sc-BIR-1
+rolett2015a_v,rolett2015a_v-W-1
+rolett2015a_v,rolett2015a_v-BHVO-1
+rolett2015a_v,rolett2015a_v-BIR-1
+rolett2015a_cr,rolett2015a_cr-W-1
+rolett2015a_cr,rolett2015a_cr-BHVO-1
+rolett2015a_cr,rolett2015a_cr-BIR-1
+rolett2015a_co,rolett2015a_co-W-1
+rolett2015a_co,rolett2015a_co-BHVO-1
+rolett2015a_co,rolett2015a_co-BIR-1
+rolett2015a_ni,rolett2015a_ni-W-1
+rolett2015a_ni,rolett2015a_ni-BHVO-1
+rolett2015a_ni,rolett2015a_ni-BIR-1
+rolett2015a_zn,rolett2015a_zn-W-1
+rolett2015a_zn,rolett2015a_zn-BHVO-1
+rolett2015a_zn,rolett2015a_zn-BIR-1
+rolett2015a_rb,rolett2015a_rb-W-1
+rolett2015a_rb,rolett2015a_rb-BHVO-1
+rolett2015a_rb,rolett2015a_rb-BIR-1
+rolett2015a_sr,rolett2015a_sr-W-1
+rolett2015a_sr,rolett2015a_sr-BHVO-1
+rolett2015a_sr,rolett2015a_sr-BIR-1
+rolett2015a_y,rolett2015a_y-W-1
+rolett2015a_y,rolett2015a_y-BHVO-1
+rolett2015a_y,rolett2015a_y-BIR-1
+rolett2015a_zr,rolett2015a_zr-W-1
+rolett2015a_zr,rolett2015a_zr-BHVO-1
+rolett2015a_zr,rolett2015a_zr-BIR-1
+rolett2015a_nb,rolett2015a_nb-W-1
+rolett2015a_nb,rolett2015a_nb-BHVO-1
+rolett2015a_nb,rolett2015a_nb-BIR-1
+rolett2015a_ba,rolett2015a_ba-W-1
+rolett2015a_ba,rolett2015a_ba-BHVO-1
+rolett2015a_ba,rolett2015a_ba-BIR-1
+sheppard1997a_sio2,sheppard1997a_sio2-AC-E
+sheppard1997a_sio2,sheppard1997a_sio2-MEB (Mount Eden Basalt)
+sheppard1997a_sio2,sheppard1997a_sio2-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_tio2,sheppard1997a_tio2-AC-E
+sheppard1997a_tio2,sheppard1997a_tio2-MEB (Mount Eden Basalt)
+sheppard1997a_tio2,sheppard1997a_tio2-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_al2o3,sheppard1997a_al2o3-AC-E
+sheppard1997a_al2o3,sheppard1997a_al2o3-MEB (Mount Eden Basalt)
+sheppard1997a_al2o3,sheppard1997a_al2o3-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_fe2o3,sheppard1997a_fe2o3-AC-E
+sheppard1997a_fe2o3,sheppard1997a_fe2o3-MEB (Mount Eden Basalt)
+sheppard1997a_fe2o3,sheppard1997a_fe2o3-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_cao,sheppard1997a_cao-AC-E
+sheppard1997a_cao,sheppard1997a_cao-MEB (Mount Eden Basalt)
+sheppard1997a_cao,sheppard1997a_cao-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_mgo,sheppard1997a_mgo-AC-E
+sheppard1997a_mgo,sheppard1997a_mgo-MEB (Mount Eden Basalt)
+sheppard1997a_mgo,sheppard1997a_mgo-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_mno,sheppard1997a_mno-AC-E
+sheppard1997a_mno,sheppard1997a_mno-MEB (Mount Eden Basalt)
+sheppard1997a_mno,sheppard1997a_mno-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_k2o,sheppard1997a_k2o-AC-E
+sheppard1997a_k2o,sheppard1997a_k2o-MEB (Mount Eden Basalt)
+sheppard1997a_k2o,sheppard1997a_k2o-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_na2o,sheppard1997a_na2o-AC-E
+sheppard1997a_na2o,sheppard1997a_na2o-MEB (Mount Eden Basalt)
+sheppard1997a_na2o,sheppard1997a_na2o-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_p2o5,sheppard1997a_p2o5-AC-E
+sheppard1997a_p2o5,sheppard1997a_p2o5-MEB (Mount Eden Basalt)
+sheppard1997a_p2o5,sheppard1997a_p2o5-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_v,sheppard1997a_v-AC-E
+sheppard1997a_v,sheppard1997a_v-MEB (Mount Eden Basalt)
+sheppard1997a_v,sheppard1997a_v-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_cr,sheppard1997a_cr-AC-E
+sheppard1997a_cr,sheppard1997a_cr-MEB (Mount Eden Basalt)
+sheppard1997a_cr,sheppard1997a_cr-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_ni,sheppard1997a_ni-AC-E
+sheppard1997a_ni,sheppard1997a_ni-MEB (Mount Eden Basalt)
+sheppard1997a_ni,sheppard1997a_ni-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_zn,sheppard1997a_zn-AC-E
+sheppard1997a_zn,sheppard1997a_zn-MEB (Mount Eden Basalt)
+sheppard1997a_zn,sheppard1997a_zn-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_rb,sheppard1997a_rb-AC-E
+sheppard1997a_rb,sheppard1997a_rb-MEB (Mount Eden Basalt)
+sheppard1997a_rb,sheppard1997a_rb-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_sr,sheppard1997a_sr-AC-E
+sheppard1997a_sr,sheppard1997a_sr-MEB (Mount Eden Basalt)
+sheppard1997a_sr,sheppard1997a_sr-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_y,sheppard1997a_y-AC-E
+sheppard1997a_y,sheppard1997a_y-MEB (Mount Eden Basalt)
+sheppard1997a_y,sheppard1997a_y-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_zr,sheppard1997a_zr-AC-E
+sheppard1997a_zr,sheppard1997a_zr-MEB (Mount Eden Basalt)
+sheppard1997a_zr,sheppard1997a_zr-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_nb,sheppard1997a_nb-AC-E
+sheppard1997a_nb,sheppard1997a_nb-MEB (Mount Eden Basalt)
+sheppard1997a_nb,sheppard1997a_nb-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_ba,sheppard1997a_ba-AC-E
+sheppard1997a_ba,sheppard1997a_ba-MEB (Mount Eden Basalt)
+sheppard1997a_ba,sheppard1997a_ba-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_la,sheppard1997a_la-AC-E
+sheppard1997a_la,sheppard1997a_la-MEB (Mount Eden Basalt)
+sheppard1997a_la,sheppard1997a_la-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_pb,sheppard1997a_pb-AC-E
+sheppard1997a_pb,sheppard1997a_pb-MEB (Mount Eden Basalt)
+sheppard1997a_pb,sheppard1997a_pb-TOR (Taupo Obsidian Rhyolite)
+sheppard1997a_th,sheppard1997a_th-AC-E
+sheppard1997a_th,sheppard1997a_th-MEB (Mount Eden Basalt)
+sheppard1997a_th,sheppard1997a_th-TOR (Taupo Obsidian Rhyolite)
+simpson2018ab_be,simpson2018ab_be-BHVO-2
+simpson2018ab_mg,simpson2018ab_mg-BHVO-2
+simpson2018ab_p,simpson2018ab_p-BHVO-2
+simpson2018ab_ca,simpson2018ab_ca-BHVO-2
+simpson2018ab_sc,simpson2018ab_sc-BHVO-2
+simpson2018ab_ti,simpson2018ab_ti-BHVO-2
+simpson2018ab_v,simpson2018ab_v-BHVO-2
+simpson2018ab_cr,simpson2018ab_cr-BHVO-2
+simpson2018ab_mn,simpson2018ab_mn-BHVO-2
+simpson2018ab_fe,simpson2018ab_fe-BHVO-2
+simpson2018ab_co,simpson2018ab_co-BHVO-2
+simpson2018ab_ni,simpson2018ab_ni-BHVO-2
+simpson2018ab_cu,simpson2018ab_cu-BHVO-2
+simpson2018ab_zn,simpson2018ab_zn-BHVO-2
+simpson2018ab_ga,simpson2018ab_ga-BHVO-2
+simpson2018ab_rb,simpson2018ab_rb-BHVO-2
+simpson2018ab_sr,simpson2018ab_sr-BHVO-2
+simpson2018ab_y,simpson2018ab_y-BHVO-2
+simpson2018ab_zr,simpson2018ab_zr-BHVO-2
+simpson2018ab_nb,simpson2018ab_nb-BHVO-2
+simpson2018ab_mo,simpson2018ab_mo-BHVO-2
+simpson2018ab_cd,simpson2018ab_cd-BHVO-2
+simpson2018ab_sn,simpson2018ab_sn-BHVO-2
+simpson2018ab_sb,simpson2018ab_sb-BHVO-2
+simpson2018ab_cs,simpson2018ab_cs-BHVO-2
+simpson2018ab_ba,simpson2018ab_ba-BHVO-2
+simpson2018ab_la,simpson2018ab_la-BHVO-2
+simpson2018ab_ce,simpson2018ab_ce-BHVO-2
+simpson2018ab_pr,simpson2018ab_pr-BHVO-2
+simpson2018ab_nd,simpson2018ab_nd-BHVO-2
+simpson2018ab_sm,simpson2018ab_sm-BHVO-2
+simpson2018ab_eu,simpson2018ab_eu-BHVO-2
+simpson2018ab_gd,simpson2018ab_gd-BHVO-2
+simpson2018ab_tb,simpson2018ab_tb-BHVO-2
+simpson2018ab_dy,simpson2018ab_dy-BHVO-2
+simpson2018ab_ho,simpson2018ab_ho-BHVO-2
+simpson2018ab_er,simpson2018ab_er-BHVO-2
+simpson2018ab_tm,simpson2018ab_tm-BHVO-2
+simpson2018ab_yb,simpson2018ab_yb-BHVO-2
+simpson2018ab_lu,simpson2018ab_lu-BHVO-2
+simpson2018ab_hf,simpson2018ab_hf-BHVO-2
+simpson2018ab_ta,simpson2018ab_ta-BHVO-2
+simpson2018ab_w,simpson2018ab_w-BHVO-2
+simpson2018ab_pb,simpson2018ab_pb-BHVO-2
+simpson2018ab_th,simpson2018ab_th-BHVO-2
+simpson2018ab_u,simpson2018ab_u-BHVO-2
+simpson2018ac_nd143nd144,simpson2018ac_nd143nd144-BHVO-2
+simpson2018ac_sr87sr86,simpson2018ac_sr87sr86-BHVO-2
+simpson2018ac_pb206pb204,simpson2018ac_pb206pb204-BHVO-2
+simpson2018ac_pb207pb204,simpson2018ac_pb207pb204-BHVO-2
+simpson2018ac_pb208pb204,simpson2018ac_pb208pb204-BHVO-2
+simpson2018ab_tl,simpson2018ab_tl-BHVO-2
+simpson2018a_sio2,simpson2018a_sio2-CORNING B
+simpson2018a_sio2,simpson2018a_sio2-CORNING D
+simpson2018a_tio2,simpson2018a_tio2-CORNING B
+simpson2018a_tio2,simpson2018a_tio2-CORNING D
+simpson2018a_al2o3,simpson2018a_al2o3-CORNING B
+simpson2018a_al2o3,simpson2018a_al2o3-CORNING D
+simpson2018a_fe2o3,simpson2018a_fe2o3-CORNING B
+simpson2018a_fe2o3,simpson2018a_fe2o3-CORNING D
+simpson2018a_cao,simpson2018a_cao-CORNING B
+simpson2018a_cao,simpson2018a_cao-CORNING D
+simpson2018a_mgo,simpson2018a_mgo-CORNING B
+simpson2018a_mgo,simpson2018a_mgo-CORNING D
+simpson2018a_mno,simpson2018a_mno-CORNING B
+simpson2018a_mno,simpson2018a_mno-CORNING D
+simpson2018a_k2o,simpson2018a_k2o-CORNING B
+simpson2018a_k2o,simpson2018a_k2o-CORNING D
+simpson2018a_na2o,simpson2018a_na2o-CORNING B
+simpson2018a_na2o,simpson2018a_na2o-CORNING D
+simpson2018a_p2o5,simpson2018a_p2o5-CORNING B
+simpson2018a_p2o5,simpson2018a_p2o5-CORNING D
+simpson2018a_li,simpson2018a_li-CORNING B
+simpson2018a_li,simpson2018a_li-CORNING D
+simpson2018a_be,simpson2018a_be-CORNING B
+simpson2018a_be,simpson2018a_be-CORNING D
+simpson2018a_b,simpson2018a_b-CORNING B
+simpson2018a_b,simpson2018a_b-CORNING D
+simpson2018a_sc,simpson2018a_sc-CORNING B
+simpson2018a_sc,simpson2018a_sc-CORNING D
+simpson2018a_v,simpson2018a_v-CORNING B
+simpson2018a_v,simpson2018a_v-CORNING D
+simpson2018a_cr,simpson2018a_cr-CORNING B
+simpson2018a_cr,simpson2018a_cr-CORNING D
+simpson2018a_co,simpson2018a_co-CORNING B
+simpson2018a_co,simpson2018a_co-CORNING D
+simpson2018a_ni,simpson2018a_ni-CORNING B
+simpson2018a_ni,simpson2018a_ni-CORNING D
+simpson2018a_zn,simpson2018a_zn-CORNING B
+simpson2018a_zn,simpson2018a_zn-CORNING D
+simpson2018a_as,simpson2018a_as-CORNING B
+simpson2018a_as,simpson2018a_as-CORNING D
+simpson2018a_rb,simpson2018a_rb-CORNING B
+simpson2018a_rb,simpson2018a_rb-CORNING D
+simpson2018a_sr,simpson2018a_sr-CORNING B
+simpson2018a_sr,simpson2018a_sr-CORNING D
+simpson2018a_y,simpson2018a_y-CORNING B
+simpson2018a_y,simpson2018a_y-CORNING D
+simpson2018a_zr,simpson2018a_zr-CORNING B
+simpson2018a_zr,simpson2018a_zr-CORNING D
+simpson2018a_nb,simpson2018a_nb-CORNING B
+simpson2018a_nb,simpson2018a_nb-CORNING D
+simpson2018a_mo,simpson2018a_mo-CORNING B
+simpson2018a_mo,simpson2018a_mo-CORNING D
+simpson2018a_ag,simpson2018a_ag-CORNING B
+simpson2018a_ag,simpson2018a_ag-CORNING D
+simpson2018a_in,simpson2018a_in-CORNING B
+simpson2018a_in,simpson2018a_in-CORNING D
+simpson2018a_sn,simpson2018a_sn-CORNING B
+simpson2018a_sn,simpson2018a_sn-CORNING D
+simpson2018a_sb,simpson2018a_sb-CORNING B
+simpson2018a_sb,simpson2018a_sb-CORNING D
+simpson2018a_cs,simpson2018a_cs-CORNING B
+simpson2018a_cs,simpson2018a_cs-CORNING D
+simpson2018a_ba,simpson2018a_ba-CORNING B
+simpson2018a_ba,simpson2018a_ba-CORNING D
+simpson2018a_la,simpson2018a_la-CORNING B
+simpson2018a_la,simpson2018a_la-CORNING D
+simpson2018a_ce,simpson2018a_ce-CORNING B
+simpson2018a_ce,simpson2018a_ce-CORNING D
+simpson2018a_pr,simpson2018a_pr-CORNING B
+simpson2018a_pr,simpson2018a_pr-CORNING D
+simpson2018a_nd,simpson2018a_nd-CORNING B
+simpson2018a_nd,simpson2018a_nd-CORNING D
+simpson2018a_sm,simpson2018a_sm-CORNING B
+simpson2018a_sm,simpson2018a_sm-CORNING D
+simpson2018a_eu,simpson2018a_eu-CORNING B
+simpson2018a_eu,simpson2018a_eu-CORNING D
+simpson2018a_gd,simpson2018a_gd-CORNING B
+simpson2018a_gd,simpson2018a_gd-CORNING D
+simpson2018a_tb,simpson2018a_tb-CORNING B
+simpson2018a_tb,simpson2018a_tb-CORNING D
+simpson2018a_dy,simpson2018a_dy-CORNING B
+simpson2018a_dy,simpson2018a_dy-CORNING D
+simpson2018a_ho,simpson2018a_ho-CORNING B
+simpson2018a_ho,simpson2018a_ho-CORNING D
+simpson2018a_er,simpson2018a_er-CORNING B
+simpson2018a_er,simpson2018a_er-CORNING D
+simpson2018a_tm,simpson2018a_tm-CORNING B
+simpson2018a_tm,simpson2018a_tm-CORNING D
+simpson2018a_yb,simpson2018a_yb-CORNING B
+simpson2018a_yb,simpson2018a_yb-CORNING D
+simpson2018a_lu,simpson2018a_lu-CORNING B
+simpson2018a_lu,simpson2018a_lu-CORNING D
+simpson2018a_hf,simpson2018a_hf-CORNING B
+simpson2018a_hf,simpson2018a_hf-CORNING D
+simpson2018a_ta,simpson2018a_ta-CORNING B
+simpson2018a_ta,simpson2018a_ta-CORNING D
+simpson2018a_w,simpson2018a_w-CORNING B
+simpson2018a_w,simpson2018a_w-CORNING D
+simpson2018a_au,simpson2018a_au-CORNING B
+simpson2018a_au,simpson2018a_au-CORNING D
+simpson2018a_bi,simpson2018a_bi-CORNING B
+simpson2018a_bi,simpson2018a_bi-CORNING D
+simpson2018a_th,simpson2018a_th-CORNING B
+simpson2018a_th,simpson2018a_th-CORNING D
+simpson2018a_u,simpson2018a_u-CORNING B
+simpson2018a_u,simpson2018a_u-CORNING D
+weisler1993ba_sio2,weisler1993ba_sio2-BCRP-84
+weisler1993ba_sio2,weisler1993ba_sio2-GSP-1
+weisler1993ba_tio2,weisler1993ba_tio2-BCRP-84
+weisler1993ba_tio2,weisler1993ba_tio2-GSP-1
+weisler1993ba_al2o3,weisler1993ba_al2o3-BCRP-84
+weisler1993ba_al2o3,weisler1993ba_al2o3-GSP-1
+weisler1993ba_fe2o3,weisler1993ba_fe2o3-BCRP-84
+weisler1993ba_fe2o3,weisler1993ba_fe2o3-GSP-1
+weisler1993ba_cao,weisler1993ba_cao-BCRP-84
+weisler1993ba_cao,weisler1993ba_cao-GSP-1
+weisler1993ba_mgo,weisler1993ba_mgo-BCRP-84
+weisler1993ba_mgo,weisler1993ba_mgo-GSP-1
+weisler1993ba_mno,weisler1993ba_mno-BCRP-84
+weisler1993ba_mno,weisler1993ba_mno-GSP-1
+weisler1993ba_k2o,weisler1993ba_k2o-BCRP-84
+weisler1993ba_k2o,weisler1993ba_k2o-GSP-1
+weisler1993ba_na2o,weisler1993ba_na2o-BCRP-84
+weisler1993ba_na2o,weisler1993ba_na2o-GSP-1
+weisler1993ba_p2o5,weisler1993ba_p2o5-BCRP-84
+weisler1993ba_p2o5,weisler1993ba_p2o5-GSP-1
+weisler1993ba_sc,weisler1993ba_sc-BCRP-84
+weisler1993ba_sc,weisler1993ba_sc-GSP-1
+weisler1993ba_v,weisler1993ba_v-BCRP-84
+weisler1993ba_v,weisler1993ba_v-GSP-1
+weisler1993ba_cr,weisler1993ba_cr-BCRP-84
+weisler1993ba_cr,weisler1993ba_cr-GSP-1
+weisler1993ba_zn,weisler1993ba_zn-BCRP-84
+weisler1993ba_zn,weisler1993ba_zn-GSP-1
+weisler1993ba_ga,weisler1993ba_ga-BCRP-84
+weisler1993ba_ga,weisler1993ba_ga-GSP-1
+weisler1993ba_rb,weisler1993ba_rb-BCRP-84
+weisler1993ba_rb,weisler1993ba_rb-GSP-1
+weisler1993ba_sr,weisler1993ba_sr-BCRP-84
+weisler1993ba_sr,weisler1993ba_sr-GSP-1
+weisler1993ba_y,weisler1993ba_y-BCRP-84
+weisler1993ba_y,weisler1993ba_y-GSP-1
+weisler1993ba_zr,weisler1993ba_zr-BCRP-84
+weisler1993ba_zr,weisler1993ba_zr-GSP-1
+weisler1993ba_nb,weisler1993ba_nb-BCRP-84
+weisler1993ba_nb,weisler1993ba_nb-GSP-1
+weisler1993ba_ba,weisler1993ba_ba-BCRP-84
+weisler1993ba_ba,weisler1993ba_ba-GSP-1
+weisler1993ba_la,weisler1993ba_la-BCRP-84
+weisler1993ba_la,weisler1993ba_la-GSP-1
+weisler1993ba_ce,weisler1993ba_ce-BCRP-84
+weisler1993ba_ce,weisler1993ba_ce-GSP-1
+weisler1993ba_pb,weisler1993ba_pb-BCRP-84
+weisler1993ba_pb,weisler1993ba_pb-GSP-1
+weisler1993ba_th,weisler1993ba_th-BCRP-84
+weisler1993ba_th,weisler1993ba_th-GSP-1
+weisler1993bb_rb,weisler1993bb_rb-RGM-1
+weisler1993bb_sr,weisler1993bb_sr-RGM-1
+weisler1993bb_y,weisler1993bb_y-RGM-1
+weisler1993bb_zr,weisler1993bb_zr-RGM-1
+weisler1993bb_nb,weisler1993bb_nb-RGM-1
+weisler1993bb_pb,weisler1993bb_pb-RGM-1
+weisler1993ba_cu,weisler1993ba_cu-BCRP-84
+weisler1993ba_cu,weisler1993ba_cu-GSP-1
+weisler1993bb_th,weisler1993bb_th-RGM-1
+weisler1993ba_ni,weisler1993ba_ni-BCRP-84
+weisler1993ba_ni,weisler1993ba_ni-GSP-1
+weisler1994aa_sio2,weisler1994aa_sio2-BCRP-84
+weisler1994aa_sio2,weisler1994aa_sio2-GSP-1
+weisler1994aa_tio2,weisler1994aa_tio2-BCRP-84
+weisler1994aa_tio2,weisler1994aa_tio2-GSP-1
+weisler1994aa_al2o3,weisler1994aa_al2o3-BCRP-84
+weisler1994aa_al2o3,weisler1994aa_al2o3-GSP-1
+weisler1994aa_feo,weisler1994aa_feo-BCRP-84
+weisler1994aa_feo,weisler1994aa_feo-GSP-1
+weisler1994aa_cao,weisler1994aa_cao-BCRP-84
+weisler1994aa_cao,weisler1994aa_cao-GSP-1
+weisler1994aa_mgo,weisler1994aa_mgo-BCRP-84
+weisler1994aa_mgo,weisler1994aa_mgo-GSP-1
+weisler1994aa_mno,weisler1994aa_mno-BCRP-84
+weisler1994aa_mno,weisler1994aa_mno-GSP-1
+weisler1994aa_k2o,weisler1994aa_k2o-BCRP-84
+weisler1994aa_k2o,weisler1994aa_k2o-GSP-1
+weisler1994aa_na2o,weisler1994aa_na2o-BCRP-84
+weisler1994aa_na2o,weisler1994aa_na2o-GSP-1
+weisler1994aa_p2o5,weisler1994aa_p2o5-BCRP-84
+weisler1994aa_p2o5,weisler1994aa_p2o5-GSP-1
+weisler1994aa_sc,weisler1994aa_sc-BCRP-84
+weisler1994aa_sc,weisler1994aa_sc-GSP-1
+weisler1994aa_v,weisler1994aa_v-BCRP-84
+weisler1994aa_v,weisler1994aa_v-GSP-1
+weisler1994aa_cr,weisler1994aa_cr-BCRP-84
+weisler1994aa_cr,weisler1994aa_cr-GSP-1
+weisler1994aa_ni,weisler1994aa_ni-BCRP-84
+weisler1994aa_ni,weisler1994aa_ni-GSP-1
+weisler1994aa_cu,weisler1994aa_cu-BCRP-84
+weisler1994aa_cu,weisler1994aa_cu-GSP-1
+weisler1994aa_zn,weisler1994aa_zn-BCRP-84
+weisler1994aa_zn,weisler1994aa_zn-GSP-1
+weisler1994aa_ga,weisler1994aa_ga-BCRP-84
+weisler1994aa_ga,weisler1994aa_ga-GSP-1
+weisler1994aa_rb,weisler1994aa_rb-BCRP-84
+weisler1994aa_rb,weisler1994aa_rb-GSP-1
+weisler1994aa_sr,weisler1994aa_sr-BCRP-84
+weisler1994aa_sr,weisler1994aa_sr-GSP-1
+weisler1994aa_y,weisler1994aa_y-BCRP-84
+weisler1994aa_y,weisler1994aa_y-GSP-1
+weisler1994aa_zr,weisler1994aa_zr-BCRP-84
+weisler1994aa_zr,weisler1994aa_zr-GSP-1
+weisler1994aa_nb,weisler1994aa_nb-BCRP-84
+weisler1994aa_nb,weisler1994aa_nb-GSP-1
+weisler1994aa_ba,weisler1994aa_ba-BCRP-84
+weisler1994aa_ba,weisler1994aa_ba-GSP-1
+weisler1994aa_la,weisler1994aa_la-BCRP-84
+weisler1994aa_la,weisler1994aa_la-GSP-1
+weisler1994aa_ce,weisler1994aa_ce-BCRP-84
+weisler1994aa_ce,weisler1994aa_ce-GSP-1
+weisler1994aa_pb,weisler1994aa_pb-BCRP-84
+weisler1994aa_pb,weisler1994aa_pb-GSP-1
+weisler1994aa_th,weisler1994aa_th-BCRP-84
+weisler1994aa_th,weisler1994aa_th-GSP-1
+weisler1994ab_rb,weisler1994ab_rb-RGM-1
+weisler1994ab_sr,weisler1994ab_sr-RGM-1
+weisler1994ab_y,weisler1994ab_y-RGM-1
+weisler1994ab_zr,weisler1994ab_zr-RGM-1
+weisler1994ab_nb,weisler1994ab_nb-RGM-1
+weisler1994ab_pb,weisler1994ab_pb-RGM-1
+weisler1995a_pb206pb204,weisler1995a_pb206pb204-NIST SRM 981
+weisler1995a_pb206pb204,weisler1995a_pb206pb204-NG 0124
+weisler1995a_pb207pb204,weisler1995a_pb207pb204-NIST SRM 981
+weisler1995a_pb207pb204,weisler1995a_pb207pb204-NG 0124
+weisler1995a_pb208pb204,weisler1995a_pb208pb204-NIST SRM 981
+weisler1995a_pb208pb204,weisler1995a_pb208pb204-NG 0124
+weisler1996a_sr,weisler1996a_sr-RGM-1
+weisler1996a_zr,weisler1996a_zr-RGM-1
+weisler1996a_nb,weisler1996a_nb-RGM-1
+weisler2016a_sio2,weisler2016a_sio2-BHVO-2
+weisler2016a_tio2,weisler2016a_tio2-BHVO-2
+weisler2016a_al2o3,weisler2016a_al2o3-BHVO-2
+weisler2016a_fe2o3,weisler2016a_fe2o3-BHVO-2
+weisler2016a_cao,weisler2016a_cao-BHVO-2
+weisler2016a_mgo,weisler2016a_mgo-BHVO-2
+weisler2016a_mno,weisler2016a_mno-BHVO-2
+weisler2016a_k2o,weisler2016a_k2o-BHVO-2
+weisler2016a_na2o,weisler2016a_na2o-BHVO-2
+weisler2016a_p2o5,weisler2016a_p2o5-BHVO-2
+weisler2016b_li,weisler2016b_li-BHVO-2
+weisler2016b_be,weisler2016b_be-BHVO-2
+weisler2016b_mg,weisler2016b_mg-BHVO-2
+weisler2016b_p,weisler2016b_p-BHVO-2
+weisler2016b_ca,weisler2016b_ca-BHVO-2
+weisler2016b_sc,weisler2016b_sc-BHVO-2
+weisler2016b_ti,weisler2016b_ti-BHVO-2
+weisler2016b_v,weisler2016b_v-BHVO-2
+weisler2016b_cr,weisler2016b_cr-BHVO-2
+weisler2016b_mn,weisler2016b_mn-BHVO-2
+weisler2016b_fe,weisler2016b_fe-BHVO-2
+weisler2016b_co,weisler2016b_co-BHVO-2
+weisler2016b_ni,weisler2016b_ni-BHVO-2
+weisler2016b_cu,weisler2016b_cu-BHVO-2
+weisler2016b_zn,weisler2016b_zn-BHVO-2
+weisler2016b_ga,weisler2016b_ga-BHVO-2
+weisler2016b_rb,weisler2016b_rb-BHVO-2
+weisler2016b_sr,weisler2016b_sr-BHVO-2
+weisler2016b_y,weisler2016b_y-BHVO-2
+weisler2016b_zr,weisler2016b_zr-BHVO-2
+weisler2016b_nb,weisler2016b_nb-BHVO-2
+weisler2016b_mo,weisler2016b_mo-BHVO-2
+weisler2016b_cd,weisler2016b_cd-BHVO-2
+weisler2016b_sn,weisler2016b_sn-BHVO-2
+weisler2016b_sb,weisler2016b_sb-BHVO-2
+weisler2016b_cs,weisler2016b_cs-BHVO-2
+weisler2016b_ba,weisler2016b_ba-BHVO-2
+weisler2016b_la,weisler2016b_la-BHVO-2
+weisler2016b_ce,weisler2016b_ce-BHVO-2
+weisler2016b_pr,weisler2016b_pr-BHVO-2
+weisler2016b_nd,weisler2016b_nd-BHVO-2
+weisler2016b_sm,weisler2016b_sm-BHVO-2
+weisler2016b_eu,weisler2016b_eu-BHVO-2
+weisler2016b_gd,weisler2016b_gd-BHVO-2
+weisler2016b_tb,weisler2016b_tb-BHVO-2
+weisler2016b_dy,weisler2016b_dy-BHVO-2
+weisler2016b_ho,weisler2016b_ho-BHVO-2
+weisler2016b_er,weisler2016b_er-BHVO-2
+weisler2016b_tm,weisler2016b_tm-BHVO-2
+weisler2016b_yb,weisler2016b_yb-BHVO-2
+weisler2016b_lu,weisler2016b_lu-BHVO-2
+weisler2016b_hf,weisler2016b_hf-BHVO-2
+weisler2016b_ta,weisler2016b_ta-BHVO-2
+weisler2016b_w,weisler2016b_w-BHVO-2
+weisler2016b_tl,weisler2016b_tl-BHVO-2
+weisler2016b_pb,weisler2016b_pb-BHVO-2
+weisler2016b_th,weisler2016b_th-BHVO-2
+weisler2016b_u,weisler2016b_u-BHVO-2
+weisler2016c_nd143nd144,weisler2016c_nd143nd144-BHVO-2
+weisler2016c_sr87sr86,weisler2016c_sr87sr86-BHVO-2
+weisler2016c_pb206pb204,weisler2016c_pb206pb204-BHVO-2
+weisler2016c_pb207pb204,weisler2016c_pb207pb204-BHVO-2
+weisler2016c_pb208pb204,weisler2016c_pb208pb204-BHVO-2
+weisler2016c_pb207pb206,weisler2016c_pb207pb206-BHVO-2
+weisler2016c_pb208pb206,weisler2016c_pb208pb206-BHVO-2
+weisler2016aa_li,weisler2016aa_li-BHVO-2
+weisler2016aa_be,weisler2016aa_be-BHVO-2
+weisler2016aa_mg,weisler2016aa_mg-BHVO-2
+weisler2016aa_p,weisler2016aa_p-BHVO-2
+weisler2016aa_ca,weisler2016aa_ca-BHVO-2
+weisler2016aa_sc,weisler2016aa_sc-BHVO-2
+weisler2016aa_ti,weisler2016aa_ti-BHVO-2
+weisler2016aa_v,weisler2016aa_v-BHVO-2
+weisler2016aa_cr,weisler2016aa_cr-BHVO-2
+weisler2016aa_mn,weisler2016aa_mn-BHVO-2
+weisler2016aa_fe,weisler2016aa_fe-BHVO-2
+weisler2016aa_co,weisler2016aa_co-BHVO-2
+weisler2016aa_ni,weisler2016aa_ni-BHVO-2
+weisler2016aa_cu,weisler2016aa_cu-BHVO-2
+weisler2016aa_zn,weisler2016aa_zn-BHVO-2
+weisler2016aa_ga,weisler2016aa_ga-BHVO-2
+weisler2016aa_rb,weisler2016aa_rb-BHVO-2
+weisler2016aa_sr,weisler2016aa_sr-BHVO-2
+weisler2016aa_y,weisler2016aa_y-BHVO-2
+weisler2016aa_zr,weisler2016aa_zr-BHVO-2
+weisler2016aa_nb,weisler2016aa_nb-BHVO-2
+weisler2016aa_mo,weisler2016aa_mo-BHVO-2
+weisler2016aa_cd,weisler2016aa_cd-BHVO-2
+weisler2016aa_sb,weisler2016aa_sb-BHVO-2
+weisler2016aa_cs,weisler2016aa_cs-BHVO-2
+weisler2016aa_ba,weisler2016aa_ba-BHVO-2
+weisler2016aa_la,weisler2016aa_la-BHVO-2
+weisler2016aa_ce,weisler2016aa_ce-BHVO-2
+weisler2016aa_pr,weisler2016aa_pr-BHVO-2
+weisler2016aa_nd,weisler2016aa_nd-BHVO-2
+weisler2016aa_sm,weisler2016aa_sm-BHVO-2
+weisler2016aa_eu,weisler2016aa_eu-BHVO-2
+weisler2016aa_gd,weisler2016aa_gd-BHVO-2
+weisler2016aa_tb,weisler2016aa_tb-BHVO-2
+weisler2016aa_dy,weisler2016aa_dy-BHVO-2
+weisler2016aa_ho,weisler2016aa_ho-BHVO-2
+weisler2016aa_er,weisler2016aa_er-BHVO-2
+weisler2016aa_tm,weisler2016aa_tm-BHVO-2
+weisler2016aa_yb,weisler2016aa_yb-BHVO-2
+weisler2016aa_lu,weisler2016aa_lu-BHVO-2
+weisler2016aa_hf,weisler2016aa_hf-BHVO-2
+weisler2016aa_ta,weisler2016aa_ta-BHVO-2
+weisler2016aa_w,weisler2016aa_w-BHVO-2
+weisler2016aa_tl,weisler2016aa_tl-BHVO-2
+weisler2016aa_pb,weisler2016aa_pb-BHVO-2
+weisler2016aa_th,weisler2016aa_th-BHVO-2
+weisler2016aa_u,weisler2016aa_u-BHVO-2
+weisler2016ab_sr87sr86,weisler2016ab_sr87sr86-BHVO-2
+weisler2016ac_nd143nd144,weisler2016ac_nd143nd144-BHVO-2
+weisler2016ac_pb206pb204,weisler2016ac_pb206pb204-BHVO-2
+weisler2016ac_pb207pb204,weisler2016ac_pb207pb204-BHVO-2
+weisler2016ac_pb208pb204,weisler2016ac_pb208pb204-BHVO-2
+weisler2016ac_pb207pb206,weisler2016ac_pb207pb206-BHVO-2
+weisler2016ac_pb208pb206,weisler2016ac_pb208pb206-BHVO-2
+weisler2016aa_na,weisler2016aa_na-BHVO-2
+weisler2016aa_k,weisler2016aa_k-BHVO-2
+weisler1998a_sio2,weisler1998a_sio2-BCR-1
+weisler1998a_tio2,weisler1998a_tio2-BCR-1
+weisler1998a_al2o3,weisler1998a_al2o3-BCR-1
+weisler1998a_feo,weisler1998a_feo-BCR-1
+weisler1998a_cao,weisler1998a_cao-BCR-1
+weisler1998a_mgo,weisler1998a_mgo-BCR-1
+weisler1998a_mno,weisler1998a_mno-BCR-1
+weisler1998a_k2o,weisler1998a_k2o-BCR-1
+weisler1998a_na2o,weisler1998a_na2o-BCR-1
+weisler1998a_p2o5,weisler1998a_p2o5-BCR-1
+weisler1998a_sc,weisler1998a_sc-BCR-1
+weisler1998a_v,weisler1998a_v-BCR-1
+weisler1998a_cr,weisler1998a_cr-BCR-1
+weisler1998a_ni,weisler1998a_ni-BCR-1
+weisler1998a_cu,weisler1998a_cu-BCR-1
+weisler1998a_zn,weisler1998a_zn-BCR-1
+weisler1998a_ga,weisler1998a_ga-BCR-1
+weisler1998a_rb,weisler1998a_rb-BCR-1
+weisler1998a_sr,weisler1998a_sr-BCR-1
+weisler1998a_y,weisler1998a_y-BCR-1
+weisler1998a_zr,weisler1998a_zr-BCR-1
+weisler1998a_nb,weisler1998a_nb-BCR-1
+weisler1998a_ba,weisler1998a_ba-BCR-1
+weisler1998a_la,weisler1998a_la-BCR-1
+weisler1998a_ce,weisler1998a_ce-BCR-1
+weisler1998a_th,weisler1998a_th-BCR-1
+weisler1998a_pb,weisler1998a_pb-BCR-1
+mcalister2017b_sio2,mcalister2017b_sio2-JR-1
+mcalister2017b_sio2,mcalister2017b_sio2-JR-2
+mcalister2017b_tio2,mcalister2017b_tio2-JR-1
+mcalister2017b_tio2,mcalister2017b_tio2-JR-2
+mcalister2017b_feot,mcalister2017b_feot-JR-1
+mcalister2017b_feot,mcalister2017b_feot-JR-2
+mcalister2017b_cao,mcalister2017b_cao-JR-1
+mcalister2017b_cao,mcalister2017b_cao-JR-2
+mcalister2017b_k2o,mcalister2017b_k2o-JR-1
+mcalister2017b_k2o,mcalister2017b_k2o-JR-2
+mcalister2017b_v,mcalister2017b_v-JR-1
+mcalister2017b_v,mcalister2017b_v-JR-2
+mcalister2017b_cr,mcalister2017b_cr-JR-1
+mcalister2017b_cr,mcalister2017b_cr-JR-2
+mcalister2017b_ni,mcalister2017b_ni-JR-1
+mcalister2017b_ni,mcalister2017b_ni-JR-2
+mcalister2017b_cu,mcalister2017b_cu-JR-1
+mcalister2017b_cu,mcalister2017b_cu-JR-2
+mcalister2017b_zn,mcalister2017b_zn-JR-1
+mcalister2017b_zn,mcalister2017b_zn-JR-2
+mcalister2017b_rb,mcalister2017b_rb-JR-1
+mcalister2017b_rb,mcalister2017b_rb-JR-2
+mcalister2017b_sr,mcalister2017b_sr-JR-1
+mcalister2017b_sr,mcalister2017b_sr-JR-2
+mcalister2017b_y,mcalister2017b_y-JR-1
+mcalister2017b_y,mcalister2017b_y-JR-2
+mcalister2017b_zr,mcalister2017b_zr-JR-1
+mcalister2017b_zr,mcalister2017b_zr-JR-2
+mcalister2017b_nb,mcalister2017b_nb-JR-1
+mcalister2017b_nb,mcalister2017b_nb-JR-2
+mcalister2017b_pb,mcalister2017b_pb-JR-1
+mcalister2017b_pb,mcalister2017b_pb-JR-2
+mcalister2017b_th,mcalister2017b_th-JR-1
+mcalister2017b_th,mcalister2017b_th-JR-2
+best1992a_sio2,best1992a_sio2-MEB (Mount Eden Basalt)
+best1992a_tio2,best1992a_tio2-MEB (Mount Eden Basalt)
+best1992a_al2o3,best1992a_al2o3-MEB (Mount Eden Basalt)
+best1992a_fe2o3,best1992a_fe2o3-MEB (Mount Eden Basalt)
+best1992a_cao,best1992a_cao-MEB (Mount Eden Basalt)
+best1992a_mgo,best1992a_mgo-MEB (Mount Eden Basalt)
+best1992a_mno,best1992a_mno-MEB (Mount Eden Basalt)
+best1992a_k2o,best1992a_k2o-MEB (Mount Eden Basalt)
+best1992a_na2o,best1992a_na2o-MEB (Mount Eden Basalt)
+best1992a_p2o5,best1992a_p2o5-MEB (Mount Eden Basalt)
+best1992a_v,best1992a_v-MEB (Mount Eden Basalt)
+best1992a_zn,best1992a_zn-MEB (Mount Eden Basalt)
+best1992a_rb,best1992a_rb-MEB (Mount Eden Basalt)
+best1992a_sr,best1992a_sr-MEB (Mount Eden Basalt)
+best1992a_y,best1992a_y-MEB (Mount Eden Basalt)
+best1992a_zr,best1992a_zr-MEB (Mount Eden Basalt)
+best1992a_nb,best1992a_nb-MEB (Mount Eden Basalt)
+best1992a_ba,best1992a_ba-MEB (Mount Eden Basalt)
+best1992a_la,best1992a_la-MEB (Mount Eden Basalt)
+best1992a_pb,best1992a_pb-MEB (Mount Eden Basalt)
+best1992a_th,best1992a_th-MEB (Mount Eden Basalt)
+best1992a_cr,best1992a_cr-MEB (Mount Eden Basalt)
+best1992a_ni,best1992a_ni-MEB (Mount Eden Basalt)
+mccoy2016a_fe,mccoy2016a_fe-BHVO-2
+mccoy2016a_sr,mccoy2016a_sr-BHVO-2
+mccoy2016a_y,mccoy2016a_y-BHVO-2
+mccoy2016a_zr,mccoy2016a_zr-BHVO-2
+mccoy2016a_nb,mccoy2016a_nb-BHVO-2
+hermann2019a_sio2,hermann2019a_sio2-CB2
+hermann2019a_sio2,hermann2019a_sio2-BELC
+hermann2019a_sio2,hermann2019a_sio2-CB15
+hermann2019a_sio2,hermann2019a_sio2-CB18
+hermann2019a_sio2,hermann2019a_sio2-ACE
+hermann2019a_sio2,hermann2019a_sio2-ME
+hermann2019a_tio2,hermann2019a_tio2-CB2
+hermann2019a_tio2,hermann2019a_tio2-BELC
+hermann2019a_tio2,hermann2019a_tio2-CB15
+hermann2019a_tio2,hermann2019a_tio2-CB18
+hermann2019a_tio2,hermann2019a_tio2-ACE
+hermann2019a_tio2,hermann2019a_tio2-ME
+hermann2019a_al2o3,hermann2019a_al2o3-CB2
+hermann2019a_al2o3,hermann2019a_al2o3-BELC
+hermann2019a_al2o3,hermann2019a_al2o3-CB15
+hermann2019a_al2o3,hermann2019a_al2o3-CB18
+hermann2019a_al2o3,hermann2019a_al2o3-ACE
+hermann2019a_al2o3,hermann2019a_al2o3-ME
+hermann2019a_fe2o3,hermann2019a_fe2o3-CB2
+hermann2019a_fe2o3,hermann2019a_fe2o3-BELC
+hermann2019a_fe2o3,hermann2019a_fe2o3-CB15
+hermann2019a_fe2o3,hermann2019a_fe2o3-CB18
+hermann2019a_fe2o3,hermann2019a_fe2o3-ACE
+hermann2019a_fe2o3,hermann2019a_fe2o3-ME
+hermann2019a_cao,hermann2019a_cao-CB2
+hermann2019a_cao,hermann2019a_cao-BELC
+hermann2019a_cao,hermann2019a_cao-CB15
+hermann2019a_cao,hermann2019a_cao-CB18
+hermann2019a_cao,hermann2019a_cao-ACE
+hermann2019a_cao,hermann2019a_cao-ME
+hermann2019a_mgo,hermann2019a_mgo-CB2
+hermann2019a_mgo,hermann2019a_mgo-BELC
+hermann2019a_mgo,hermann2019a_mgo-CB15
+hermann2019a_mgo,hermann2019a_mgo-CB18
+hermann2019a_mgo,hermann2019a_mgo-ACE
+hermann2019a_mgo,hermann2019a_mgo-ME
+hermann2019a_mno,hermann2019a_mno-CB2
+hermann2019a_mno,hermann2019a_mno-BELC
+hermann2019a_mno,hermann2019a_mno-CB15
+hermann2019a_mno,hermann2019a_mno-CB18
+hermann2019a_mno,hermann2019a_mno-ACE
+hermann2019a_mno,hermann2019a_mno-ME
+hermann2019a_k2o,hermann2019a_k2o-CB2
+hermann2019a_k2o,hermann2019a_k2o-BELC
+hermann2019a_k2o,hermann2019a_k2o-CB15
+hermann2019a_k2o,hermann2019a_k2o-CB18
+hermann2019a_k2o,hermann2019a_k2o-ACE
+hermann2019a_k2o,hermann2019a_k2o-ME
+hermann2019a_na2o,hermann2019a_na2o-CB2
+hermann2019a_na2o,hermann2019a_na2o-BELC
+hermann2019a_na2o,hermann2019a_na2o-CB15
+hermann2019a_na2o,hermann2019a_na2o-CB18
+hermann2019a_na2o,hermann2019a_na2o-ACE
+hermann2019a_na2o,hermann2019a_na2o-ME
+hermann2019a_p2o5,hermann2019a_p2o5-CB2
+hermann2019a_p2o5,hermann2019a_p2o5-BELC
+hermann2019a_p2o5,hermann2019a_p2o5-CB15
+hermann2019a_p2o5,hermann2019a_p2o5-CB18
+hermann2019a_p2o5,hermann2019a_p2o5-ACE
+hermann2019a_p2o5,hermann2019a_p2o5-ME
+hermann2019a_sc,hermann2019a_sc-CB2
+hermann2019a_sc,hermann2019a_sc-BELC
+hermann2019a_sc,hermann2019a_sc-CB15
+hermann2019a_sc,hermann2019a_sc-CB18
+hermann2019a_sc,hermann2019a_sc-ACE
+hermann2019a_sc,hermann2019a_sc-ME
+hermann2019a_rb,hermann2019a_rb-CB2
+hermann2019a_rb,hermann2019a_rb-BELC
+hermann2019a_rb,hermann2019a_rb-CB15
+hermann2019a_rb,hermann2019a_rb-CB18
+hermann2019a_rb,hermann2019a_rb-ACE
+hermann2019a_rb,hermann2019a_rb-ME
+hermann2019a_sr,hermann2019a_sr-CB2
+hermann2019a_sr,hermann2019a_sr-BELC
+hermann2019a_sr,hermann2019a_sr-CB15
+hermann2019a_sr,hermann2019a_sr-CB18
+hermann2019a_sr,hermann2019a_sr-ACE
+hermann2019a_sr,hermann2019a_sr-ME
+hermann2019a_y,hermann2019a_y-CB2
+hermann2019a_y,hermann2019a_y-BELC
+hermann2019a_y,hermann2019a_y-CB15
+hermann2019a_y,hermann2019a_y-CB18
+hermann2019a_y,hermann2019a_y-ACE
+hermann2019a_y,hermann2019a_y-ME
+hermann2019a_zr,hermann2019a_zr-CB2
+hermann2019a_zr,hermann2019a_zr-BELC
+hermann2019a_zr,hermann2019a_zr-CB15
+hermann2019a_zr,hermann2019a_zr-CB18
+hermann2019a_zr,hermann2019a_zr-ACE
+hermann2019a_zr,hermann2019a_zr-ME
+hermann2019a_nb,hermann2019a_nb-CB2
+hermann2019a_nb,hermann2019a_nb-BELC
+hermann2019a_nb,hermann2019a_nb-CB15
+hermann2019a_nb,hermann2019a_nb-CB18
+hermann2019a_nb,hermann2019a_nb-ACE
+hermann2019a_nb,hermann2019a_nb-ME
+hermann2019a_ba,hermann2019a_ba-CB2
+hermann2019a_ba,hermann2019a_ba-BELC
+hermann2019a_ba,hermann2019a_ba-CB15
+hermann2019a_ba,hermann2019a_ba-CB18
+hermann2019a_ba,hermann2019a_ba-ACE
+hermann2019a_ba,hermann2019a_ba-ME
+hermann2019a_la,hermann2019a_la-CB2
+hermann2019a_la,hermann2019a_la-BELC
+hermann2019a_la,hermann2019a_la-CB15
+hermann2019a_la,hermann2019a_la-CB18
+hermann2019a_la,hermann2019a_la-ACE
+hermann2019a_la,hermann2019a_la-ME
+hermann2019a_ce,hermann2019a_ce-CB2
+hermann2019a_ce,hermann2019a_ce-BELC
+hermann2019a_ce,hermann2019a_ce-CB15
+hermann2019a_ce,hermann2019a_ce-CB18
+hermann2019a_ce,hermann2019a_ce-ACE
+hermann2019a_ce,hermann2019a_ce-ME
+hermann2019a_nd,hermann2019a_nd-CB2
+hermann2019a_nd,hermann2019a_nd-BELC
+hermann2019a_nd,hermann2019a_nd-CB15
+hermann2019a_nd,hermann2019a_nd-CB18
+hermann2019a_nd,hermann2019a_nd-ACE
+hermann2019a_nd,hermann2019a_nd-ME
+hermann2019a_sm,hermann2019a_sm-CB2
+hermann2019a_sm,hermann2019a_sm-BELC
+hermann2019a_sm,hermann2019a_sm-CB15
+hermann2019a_sm,hermann2019a_sm-CB18
+hermann2019a_sm,hermann2019a_sm-ACE
+hermann2019a_sm,hermann2019a_sm-ME
+hermann2019a_eu,hermann2019a_eu-CB2
+hermann2019a_eu,hermann2019a_eu-BELC
+hermann2019a_eu,hermann2019a_eu-CB15
+hermann2019a_eu,hermann2019a_eu-CB18
+hermann2019a_eu,hermann2019a_eu-ACE
+hermann2019a_eu,hermann2019a_eu-ME
+hermann2019a_gd,hermann2019a_gd-CB2
+hermann2019a_gd,hermann2019a_gd-BELC
+hermann2019a_gd,hermann2019a_gd-CB15
+hermann2019a_gd,hermann2019a_gd-CB18
+hermann2019a_gd,hermann2019a_gd-ACE
+hermann2019a_gd,hermann2019a_gd-ME
+hermann2019a_dy,hermann2019a_dy-CB2
+hermann2019a_dy,hermann2019a_dy-BELC
+hermann2019a_dy,hermann2019a_dy-CB15
+hermann2019a_dy,hermann2019a_dy-CB18
+hermann2019a_dy,hermann2019a_dy-ACE
+hermann2019a_dy,hermann2019a_dy-ME
+hermann2019a_er,hermann2019a_er-CB2
+hermann2019a_er,hermann2019a_er-BELC
+hermann2019a_er,hermann2019a_er-CB15
+hermann2019a_er,hermann2019a_er-CB18
+hermann2019a_er,hermann2019a_er-ACE
+hermann2019a_er,hermann2019a_er-ME
+hermann2019a_yb,hermann2019a_yb-CB2
+hermann2019a_yb,hermann2019a_yb-BELC
+hermann2019a_yb,hermann2019a_yb-CB15
+hermann2019a_yb,hermann2019a_yb-CB18
+hermann2019a_yb,hermann2019a_yb-ACE
+hermann2019a_yb,hermann2019a_yb-ME
+hermann2019a_th,hermann2019a_th-CB2
+hermann2019a_th,hermann2019a_th-BELC
+hermann2019a_th,hermann2019a_th-CB15
+hermann2019a_th,hermann2019a_th-CB18
+hermann2019a_th,hermann2019a_th-ACE
+hermann2019a_th,hermann2019a_th-ME
+hermann2019b_sio2,hermann2019b_sio2-JR-1
+hermann2019b_sio2,hermann2019b_sio2-JR-2
+hermann2019b_tio2,hermann2019b_tio2-JR-1
+hermann2019b_tio2,hermann2019b_tio2-JR-2
+hermann2019b_fe2o3,hermann2019b_fe2o3-JR-1
+hermann2019b_fe2o3,hermann2019b_fe2o3-JR-2
+hermann2019b_cao,hermann2019b_cao-JR-1
+hermann2019b_cao,hermann2019b_cao-JR-2
+hermann2019b_mno,hermann2019b_mno-JR-1
+hermann2019b_mno,hermann2019b_mno-JR-2
+hermann2019b_k2o,hermann2019b_k2o-
+hermann2019b_v,hermann2019b_v-JR-1
+hermann2019b_v,hermann2019b_v-JR-2
+hermann2019b_ni,hermann2019b_ni-
+hermann2019b_cu,hermann2019b_cu-JR-1
+hermann2019b_cu,hermann2019b_cu-JR-2
+hermann2019b_zn,hermann2019b_zn-
+hermann2019b_ga,hermann2019b_ga-JR-1
+hermann2019b_ga,hermann2019b_ga-JR-2
+hermann2019b_rb,hermann2019b_rb-JR-1
+hermann2019b_rb,hermann2019b_rb-JR-2
+hermann2019b_sr,hermann2019b_sr-JR-1
+hermann2019b_sr,hermann2019b_sr-JR-2
+hermann2019b_y,hermann2019b_y-JR-1
+hermann2019b_y,hermann2019b_y-JR-2
+hermann2019b_zr,hermann2019b_zr-JR-1
+hermann2019b_zr,hermann2019b_zr-JR-2
+hermann2019b_nb,hermann2019b_nb-JR-1
+hermann2019b_nb,hermann2019b_nb-JR-2
+hermann2019b_pb,hermann2019b_pb-JR-1
+hermann2019b_pb,hermann2019b_pb-JR-2
+reepmeyer2010a_sio2,reepmeyer2010a_sio2-ANU2000
+reepmeyer2010a_al2o3,reepmeyer2010a_al2o3-ANU2000
+reepmeyer2010a_feot,reepmeyer2010a_feot-ANU2000
+reepmeyer2010a_cao,reepmeyer2010a_cao-ANU2000
+reepmeyer2010a_mgo,reepmeyer2010a_mgo-ANU2000
+reepmeyer2010a_k2o,reepmeyer2010a_k2o-ANU2000
+reepmeyer2010a_na2o,reepmeyer2010a_na2o-ANU2000
+reepmeyer2010b_p,reepmeyer2010b_p-ANU2000
+reepmeyer2010b_sc,reepmeyer2010b_sc-ANU2000
+reepmeyer2010b_ti,reepmeyer2010b_ti-ANU2000
+reepmeyer2010b_v,reepmeyer2010b_v-ANU2000
+reepmeyer2010b_mn,reepmeyer2010b_mn-ANU2000
+reepmeyer2010b_co,reepmeyer2010b_co-ANU2000
+reepmeyer2010b_ni,reepmeyer2010b_ni-ANU2000
+reepmeyer2010b_cu,reepmeyer2010b_cu-ANU2000
+reepmeyer2010b_as,reepmeyer2010b_as-ANU2000
+reepmeyer2010b_rb,reepmeyer2010b_rb-ANU2000
+reepmeyer2010b_sr,reepmeyer2010b_sr-ANU2000
+reepmeyer2010b_y,reepmeyer2010b_y-ANU2000
+reepmeyer2010b_zr,reepmeyer2010b_zr-ANU2000
+reepmeyer2010b_nb,reepmeyer2010b_nb-ANU2000
+reepmeyer2010b_mo,reepmeyer2010b_mo-ANU2000
+reepmeyer2010b_sn,reepmeyer2010b_sn-ANU2000
+reepmeyer2010b_cs,reepmeyer2010b_cs-ANU2000
+reepmeyer2010b_ba,reepmeyer2010b_ba-ANU2000
+reepmeyer2010b_la,reepmeyer2010b_la-ANU2000
+reepmeyer2010b_ce,reepmeyer2010b_ce-ANU2000
+reepmeyer2010b_pr,reepmeyer2010b_pr-ANU2000
+reepmeyer2010b_nd,reepmeyer2010b_nd-ANU2000
+reepmeyer2010b_sm,reepmeyer2010b_sm-ANU2000
+reepmeyer2010b_eu,reepmeyer2010b_eu-ANU2000
+reepmeyer2010b_gd,reepmeyer2010b_gd-ANU2000
+reepmeyer2010b_tb,reepmeyer2010b_tb-ANU2000
+reepmeyer2010b_dy,reepmeyer2010b_dy-ANU2000
+reepmeyer2010b_er,reepmeyer2010b_er-ANU2000
+reepmeyer2010b_tm,reepmeyer2010b_tm-ANU2000
+reepmeyer2010b_yb,reepmeyer2010b_yb-ANU2000
+reepmeyer2010b_lu,reepmeyer2010b_lu-ANU2000
+reepmeyer2010b_ta,reepmeyer2010b_ta-ANU2000
+reepmeyer2010b_w,reepmeyer2010b_w-ANU2000
+reepmeyer2010b_pb,reepmeyer2010b_pb-ANU2000
+reepmeyer2010b_th,reepmeyer2010b_th-ANU2000
+reepmeyer2010b_u,reepmeyer2010b_u-ANU2000
+reepmeyer2010c_nd143nd144,reepmeyer2010c_nd143nd144-Ames Nd
+reepmeyer2010c_sr87sr86,reepmeyer2010c_sr87sr86-NBS SRM 987
+reepmeyer2010c_pb206pb204,reepmeyer2010c_pb206pb204-NBS SRM 981
+reepmeyer2010c_pb207pb204,reepmeyer2010c_pb207pb204-NBS SRM 981
+reepmeyer2010c_pb208pb204,reepmeyer2010c_pb208pb204-NBS SRM 981
+mccoy2019b_mn,mccoy2019b_mn-BHVO-2
+mccoy2019b_zn,mccoy2019b_zn-BHVO-2
+mccoy2019b_rb,mccoy2019b_rb-BHVO-2
+mccoy2019b_sr,mccoy2019b_sr-BHVO-2
+mccoy2019b_y,mccoy2019b_y-BHVO-2
+mccoy2019b_zr,mccoy2019b_zr-BHVO-2
+mccoy2019b_nb,mccoy2019b_nb-BHVO-2
+mccoy2019b_th,mccoy2019b_th-BHVO-2
+mccoy2019c_fe,mccoy2019c_fe-BHVO-2
+mccoy2019b_fe,mccoy2019b_fe-BHVO-2
+mccoy2019b_mg,mccoy2019b_mg-BHVO-2
+mccoy2019b_k,mccoy2019b_k-BHVO-2
+mccoy2019b_ca,mccoy2019b_ca-BHVO-2
+mccoy2019b_ti,mccoy2019b_ti-BHVO-2
+mccoy2019a_ti,mccoy2019a_ti-NIST-278
+mccoy2019a_mn,mccoy2019a_mn-NIST-278
+mccoy2019a_fe,mccoy2019a_fe-NIST-278
+mccoy2019a_zn,mccoy2019a_zn-NIST-278
+mccoy2019a_rb,mccoy2019a_rb-NIST-278
+mccoy2019a_zr,mccoy2019a_zr-NIST-278
+mccoy2019a_sr,mccoy2019a_sr-NIST-278
+mccoy2019a_k,mccoy2019a_k-NIST-278
+mccoy2019a_ca,mccoy2019a_ca-NIST-278
+mccoy2019a_y,mccoy2019a_y-NIST-278
+mccoy2019a_nb,mccoy2019a_nb-NIST-278
+mccoy2019a_th,mccoy2019a_th-NIST-278
+kneebone2018a_sio2,kneebone2018a_sio2-JR-1
+kneebone2018a_sio2,kneebone2018a_sio2-JR-2
+kneebone2018a_tio2,kneebone2018a_tio2-JR-1
+kneebone2018a_tio2,kneebone2018a_tio2-JR-2
+kneebone2018a_fe2o3,kneebone2018a_fe2o3-JR-1
+kneebone2018a_fe2o3,kneebone2018a_fe2o3-JR-2
+kneebone2018a_cao,kneebone2018a_cao-JR-1
+kneebone2018a_cao,kneebone2018a_cao-JR-2
+kneebone2018a_mno,kneebone2018a_mno-JR-1
+kneebone2018a_k2o,kneebone2018a_k2o-JR-1
+kneebone2018a_k2o,kneebone2018a_k2o-JR-2
+kneebone2018a_v,kneebone2018a_v-JR-1
+kneebone2018a_v,kneebone2018a_v-JR-2
+kneebone2018a_cr,kneebone2018a_cr-JR-1
+kneebone2018a_cr,kneebone2018a_cr-JR-2
+kneebone2018a_ni,kneebone2018a_ni-JR-1
+kneebone2018a_ni,kneebone2018a_ni-JR-2
+kneebone2018a_cu,kneebone2018a_cu-JR-1
+kneebone2018a_cu,kneebone2018a_cu-JR-2
+kneebone2018a_zn,kneebone2018a_zn-JR-1
+kneebone2018a_zn,kneebone2018a_zn-JR-2
+kneebone2018a_rb,kneebone2018a_rb-JR-1
+kneebone2018a_rb,kneebone2018a_rb-JR-2
+kneebone2018a_sr,kneebone2018a_sr-JR-1
+kneebone2018a_sr,kneebone2018a_sr-JR-2
+kneebone2018a_y,kneebone2018a_y-JR-1
+kneebone2018a_y,kneebone2018a_y-JR-2
+kneebone2018a_zr,kneebone2018a_zr-JR-1
+kneebone2018a_zr,kneebone2018a_zr-JR-2
+kneebone2018a_nb,kneebone2018a_nb-JR-1
+kneebone2018a_nb,kneebone2018a_nb-JR-2
+kneebone2018a_pb,kneebone2018a_pb-JR-1
+kneebone2018a_pb,kneebone2018a_pb-JR-2
+kneebone2018a_th,kneebone2018a_th-JR-1
+kneebone2018a_th,kneebone2018a_th-JR-2
+kneebone2016a_mn,kneebone2016a_mn-JR-1
+kneebone2016a_mn,kneebone2016a_mn-JR-2
+kneebone2016a_fe,kneebone2016a_fe-JR-2
+kneebone2016a_zn,kneebone2016a_zn-JR-1
+kneebone2016a_zn,kneebone2016a_zn-JR-2
+kneebone2016a_rb,kneebone2016a_rb-JR-1
+kneebone2016a_rb,kneebone2016a_rb-JR-2
+kneebone2016a_sr,kneebone2016a_sr-JR-1
+kneebone2016a_sr,kneebone2016a_sr-JR-2
+kneebone2016a_y,kneebone2016a_y-JR-1
+kneebone2016a_y,kneebone2016a_y-JR-2
+kneebone2016a_zr,kneebone2016a_zr-JR-1
+kneebone2016a_zr,kneebone2016a_zr-JR-2
+kneebone2016a_nb,kneebone2016a_nb-JR-1
+kneebone2016a_nb,kneebone2016a_nb-JR-2
+golitko2013a_k,golitko2013a_k-USGS RGM-2
+golitko2013a_k,golitko2013a_k-NIST278
+golitko2013a_ca,golitko2013a_ca-USGS RGM-2
+golitko2013a_ca,golitko2013a_ca-NIST278
+golitko2013a_ti,golitko2013a_ti-USGS RGM-2
+golitko2013a_ti,golitko2013a_ti-NIST278
+golitko2013a_mn,golitko2013a_mn-USGS RGM-2
+golitko2013a_mn,golitko2013a_mn-NIST278
+golitko2013a_fe,golitko2013a_fe-USGS RGM-2
+golitko2013a_fe,golitko2013a_fe-NIST278
+golitko2013a_zn,golitko2013a_zn-USGS RGM-2
+golitko2013a_zn,golitko2013a_zn-NIST278
+golitko2013a_rb,golitko2013a_rb-USGS RGM-2
+golitko2013a_rb,golitko2013a_rb-NIST278
+golitko2013a_sr,golitko2013a_sr-USGS RGM-2
+golitko2013a_sr,golitko2013a_sr-NIST278
+golitko2013a_zr,golitko2013a_zr-USGS RGM-2
+golitko2013a_zr,golitko2013a_zr-NIST278
+golitko2013a_nb,golitko2013a_nb-USGS RGM-2
+golitko2013a_nb,golitko2013a_nb-NIST278
+reepmeyer2008a_sio2,reepmeyer2008a_sio2-NIST612
+reepmeyer2008a_tio2,reepmeyer2008a_tio2-NIST612
+reepmeyer2008a_al2o3,reepmeyer2008a_al2o3-NIST612
+reepmeyer2008a_feo,reepmeyer2008a_feo-NIST612
+reepmeyer2008a_cao,reepmeyer2008a_cao-NIST612
+reepmeyer2008a_mgo,reepmeyer2008a_mgo-NIST612
+reepmeyer2008a_mno,reepmeyer2008a_mno-NIST612
+reepmeyer2008a_k2o,reepmeyer2008a_k2o-NIST612
+reepmeyer2008a_na2o,reepmeyer2008a_na2o-NIST612
+reepmeyer2008b_p,reepmeyer2008b_p-ANU2000
+reepmeyer2008b_sc,reepmeyer2008b_sc-ANU2000
+reepmeyer2008b_ti,reepmeyer2008b_ti-ANU2000
+reepmeyer2008b_v,reepmeyer2008b_v-ANU2000
+reepmeyer2008b_cr,reepmeyer2008b_cr-ANU2000
+reepmeyer2008b_mn,reepmeyer2008b_mn-ANU2000
+reepmeyer2008b_co,reepmeyer2008b_co-ANU2000
+reepmeyer2008b_ni,reepmeyer2008b_ni-ANU2000
+reepmeyer2008b_cu,reepmeyer2008b_cu-ANU2000
+reepmeyer2008b_as,reepmeyer2008b_as-ANU2000
+reepmeyer2008b_rb,reepmeyer2008b_rb-ANU2000
+reepmeyer2008b_sr,reepmeyer2008b_sr-ANU2000
+reepmeyer2008b_y,reepmeyer2008b_y-ANU2000
+reepmeyer2008b_zr,reepmeyer2008b_zr-ANU2000
+reepmeyer2008b_nb,reepmeyer2008b_nb-ANU2000
+reepmeyer2008b_mo,reepmeyer2008b_mo-ANU2000
+reepmeyer2008b_sn,reepmeyer2008b_sn-ANU2000
+reepmeyer2008b_cs,reepmeyer2008b_cs-ANU2000
+reepmeyer2008b_ba,reepmeyer2008b_ba-ANU2000
+reepmeyer2008b_la,reepmeyer2008b_la-ANU2000
+reepmeyer2008b_ce,reepmeyer2008b_ce-ANU2000
+reepmeyer2008b_pr,reepmeyer2008b_pr-ANU2000
+reepmeyer2008b_nd,reepmeyer2008b_nd-ANU2000
+reepmeyer2008b_sm,reepmeyer2008b_sm-ANU2000
+reepmeyer2008b_eu,reepmeyer2008b_eu-ANU2000
+reepmeyer2008b_gd,reepmeyer2008b_gd-ANU2000
+reepmeyer2008b_tb,reepmeyer2008b_tb-ANU2000
+reepmeyer2008b_dy,reepmeyer2008b_dy-ANU2000
+reepmeyer2008b_er,reepmeyer2008b_er-ANU2000
+reepmeyer2008b_tm,reepmeyer2008b_tm-ANU2000
+reepmeyer2008b_yb,reepmeyer2008b_yb-ANU2000
+reepmeyer2008b_lu,reepmeyer2008b_lu-ANU2000
+reepmeyer2008b_ta,reepmeyer2008b_ta-ANU2000
+reepmeyer2008b_w,reepmeyer2008b_w-ANU2000
+reepmeyer2008b_th,reepmeyer2008b_th-ANU2000
+reepmeyer2008b_u,reepmeyer2008b_u-ANU2000
+reepmeyer2008b_pb207pb206,reepmeyer2008b_pb207pb206-ANU2000
+reepmeyer2008b_pb208pb206,reepmeyer2008b_pb208pb206-ANU2000
+reepmeyer2010aa_sio2,reepmeyer2010aa_sio2-ANU2000
+reepmeyer2010aa_sio2,reepmeyer2010aa_sio2-ANU9000
+reepmeyer2010aa_tio2,reepmeyer2010aa_tio2-ANU2000
+reepmeyer2010aa_tio2,reepmeyer2010aa_tio2-ANU9000
+reepmeyer2010aa_al2o3,reepmeyer2010aa_al2o3-ANU2000
+reepmeyer2010aa_al2o3,reepmeyer2010aa_al2o3-ANU9000
+reepmeyer2010aa_feo,reepmeyer2010aa_feo-ANU2000
+reepmeyer2010aa_feo,reepmeyer2010aa_feo-ANU9000
+reepmeyer2010aa_cao,reepmeyer2010aa_cao-ANU2000
+reepmeyer2010aa_cao,reepmeyer2010aa_cao-ANU9000
+reepmeyer2010aa_mgo,reepmeyer2010aa_mgo-ANU2000
+reepmeyer2010aa_mgo,reepmeyer2010aa_mgo-ANU9000
+reepmeyer2010aa_mno,reepmeyer2010aa_mno-ANU2000
+reepmeyer2010aa_mno,reepmeyer2010aa_mno-ANU9000
+reepmeyer2010aa_k2o,reepmeyer2010aa_k2o-ANU2000
+reepmeyer2010aa_k2o,reepmeyer2010aa_k2o-ANU9000
+reepmeyer2010aa_na2o,reepmeyer2010aa_na2o-ANU2000
+reepmeyer2010aa_na2o,reepmeyer2010aa_na2o-ANU9000
+reepmeyer2010ab_ca,reepmeyer2010ab_ca-ANU2000
+reepmeyer2010ab_sc,reepmeyer2010ab_sc-ANU2000
+reepmeyer2010ab_ti,reepmeyer2010ab_ti-ANU2000
+reepmeyer2010ab_v,reepmeyer2010ab_v-ANU2000
+reepmeyer2010ab_cr,reepmeyer2010ab_cr-ANU2000
+reepmeyer2010ab_mn,reepmeyer2010ab_mn-ANU2000
+reepmeyer2010ab_ni,reepmeyer2010ab_ni-ANU2000
+reepmeyer2010ab_cu,reepmeyer2010ab_cu-ANU2000
+reepmeyer2010ab_rb,reepmeyer2010ab_rb-ANU2000
+reepmeyer2010ab_sr,reepmeyer2010ab_sr-ANU2000
+reepmeyer2010ab_y,reepmeyer2010ab_y-ANU2000
+reepmeyer2010ab_zr,reepmeyer2010ab_zr-ANU2000
+reepmeyer2010ab_nb,reepmeyer2010ab_nb-ANU2000
+reepmeyer2010ab_mo,reepmeyer2010ab_mo-ANU2000
+reepmeyer2010ab_sn,reepmeyer2010ab_sn-ANU2000
+reepmeyer2010ab_cs,reepmeyer2010ab_cs-ANU2000
+reepmeyer2010ab_ba,reepmeyer2010ab_ba-ANU2000
+reepmeyer2010ab_la,reepmeyer2010ab_la-ANU2000
+reepmeyer2010ab_ce,reepmeyer2010ab_ce-ANU2000
+reepmeyer2010ab_nd,reepmeyer2010ab_nd-ANU2000
+reepmeyer2010ab_sm,reepmeyer2010ab_sm-ANU2000
+reepmeyer2010ab_eu,reepmeyer2010ab_eu-ANU2000
+reepmeyer2010ab_gd,reepmeyer2010ab_gd-ANU2000
+reepmeyer2010ab_dy,reepmeyer2010ab_dy-ANU2000
+reepmeyer2010ab_er,reepmeyer2010ab_er-ANU2000
+reepmeyer2010ab_yb,reepmeyer2010ab_yb-ANU2000
+reepmeyer2010ab_lu,reepmeyer2010ab_lu-ANU2000
+reepmeyer2010ab_ta,reepmeyer2010ab_ta-ANU2000
+reepmeyer2010ab_th,reepmeyer2010ab_th-ANU2000
+reepmeyer2010ab_u,reepmeyer2010ab_u-ANU2000
+reepmeyer2010ab_pb207pb206,reepmeyer2010ab_pb207pb206-ANU2000
+reepmeyer2010ab_pb208pb206,reepmeyer2010ab_pb208pb206-ANU2000
+reepmeyer2010ab_as,reepmeyer2010ab_as-ANU2000
+reepmeyer2010ab_pr,reepmeyer2010ab_pr-ANU2000
+reepmeyer2010ab_tb,reepmeyer2010ab_tb-ANU2000
+reepmeyer2010ab_tm,reepmeyer2010ab_tm-ANU2000
+reepmeyer2012a_sio2,reepmeyer2012a_sio2-ANU2000
+reepmeyer2012a_sio2,reepmeyer2012a_sio2-ANU9000
+reepmeyer2012a_tio2,reepmeyer2012a_tio2-ANU2000
+reepmeyer2012a_tio2,reepmeyer2012a_tio2-ANU9000
+reepmeyer2012a_al2o3,reepmeyer2012a_al2o3-ANU2000
+reepmeyer2012a_al2o3,reepmeyer2012a_al2o3-ANU9000
+reepmeyer2012a_feo,reepmeyer2012a_feo-ANU2000
+reepmeyer2012a_feo,reepmeyer2012a_feo-ANU9000
+reepmeyer2012a_cao,reepmeyer2012a_cao-ANU2000
+reepmeyer2012a_cao,reepmeyer2012a_cao-ANU9000
+reepmeyer2012a_mgo,reepmeyer2012a_mgo-ANU2000
+reepmeyer2012a_mgo,reepmeyer2012a_mgo-ANU9000
+reepmeyer2012a_mno,reepmeyer2012a_mno-ANU2000
+reepmeyer2012a_mno,reepmeyer2012a_mno-ANU9000
+reepmeyer2012a_k2o,reepmeyer2012a_k2o-ANU2000
+reepmeyer2012a_k2o,reepmeyer2012a_k2o-ANU9000
+reepmeyer2012a_na2o,reepmeyer2012a_na2o-ANU2000
+reepmeyer2012a_na2o,reepmeyer2012a_na2o-ANU9000
+reepmeyer2012b_p,reepmeyer2012b_p-ANU2000
+reepmeyer2012b_p,reepmeyer2012b_p-ANU9000
+reepmeyer2012b_sc,reepmeyer2012b_sc-ANU2000
+reepmeyer2012b_sc,reepmeyer2012b_sc-ANU9000
+reepmeyer2012b_ti,reepmeyer2012b_ti-ANU2000
+reepmeyer2012b_ti,reepmeyer2012b_ti-ANU9000
+reepmeyer2012b_v,reepmeyer2012b_v-ANU2000
+reepmeyer2012b_v,reepmeyer2012b_v-ANU9000
+reepmeyer2012b_mn,reepmeyer2012b_mn-ANU2000
+reepmeyer2012b_mn,reepmeyer2012b_mn-ANU9000
+reepmeyer2012b_co,reepmeyer2012b_co-ANU2000
+reepmeyer2012b_co,reepmeyer2012b_co-ANU9000
+reepmeyer2012b_cu,reepmeyer2012b_cu-ANU2000
+reepmeyer2012b_cu,reepmeyer2012b_cu-ANU9000
+reepmeyer2012b_ga,reepmeyer2012b_ga-ANU2000
+reepmeyer2012b_ga,reepmeyer2012b_ga-ANU9000
+reepmeyer2012b_as,reepmeyer2012b_as-ANU2000
+reepmeyer2012b_as,reepmeyer2012b_as-ANU9000
+reepmeyer2012b_rb,reepmeyer2012b_rb-ANU2000
+reepmeyer2012b_rb,reepmeyer2012b_rb-ANU9000
+reepmeyer2012b_sr,reepmeyer2012b_sr-ANU2000
+reepmeyer2012b_sr,reepmeyer2012b_sr-ANU9000
+reepmeyer2012b_y,reepmeyer2012b_y-ANU2000
+reepmeyer2012b_y,reepmeyer2012b_y-ANU9000
+reepmeyer2012b_zr,reepmeyer2012b_zr-ANU2000
+reepmeyer2012b_zr,reepmeyer2012b_zr-ANU9000
+reepmeyer2012b_nb,reepmeyer2012b_nb-ANU2000
+reepmeyer2012b_nb,reepmeyer2012b_nb-ANU9000
+reepmeyer2012b_mo,reepmeyer2012b_mo-ANU2000
+reepmeyer2012b_mo,reepmeyer2012b_mo-ANU9000
+reepmeyer2012b_sn,reepmeyer2012b_sn-ANU2000
+reepmeyer2012b_sn,reepmeyer2012b_sn-ANU9000
+reepmeyer2012b_cs,reepmeyer2012b_cs-ANU2000
+reepmeyer2012b_cs,reepmeyer2012b_cs-ANU9000
+reepmeyer2012b_ba,reepmeyer2012b_ba-ANU2000
+reepmeyer2012b_ba,reepmeyer2012b_ba-ANU9000
+reepmeyer2012b_la,reepmeyer2012b_la-ANU2000
+reepmeyer2012b_la,reepmeyer2012b_la-ANU9000
+reepmeyer2012b_ce,reepmeyer2012b_ce-ANU2000
+reepmeyer2012b_ce,reepmeyer2012b_ce-ANU9000
+reepmeyer2012b_pr,reepmeyer2012b_pr-ANU2000
+reepmeyer2012b_pr,reepmeyer2012b_pr-ANU9000
+reepmeyer2012b_nd,reepmeyer2012b_nd-ANU2000
+reepmeyer2012b_nd,reepmeyer2012b_nd-ANU9000
+reepmeyer2012b_sm,reepmeyer2012b_sm-ANU2000
+reepmeyer2012b_sm,reepmeyer2012b_sm-ANU9000
+reepmeyer2012b_eu,reepmeyer2012b_eu-ANU2000
+reepmeyer2012b_eu,reepmeyer2012b_eu-ANU9000
+reepmeyer2012b_gd,reepmeyer2012b_gd-ANU2000
+reepmeyer2012b_gd,reepmeyer2012b_gd-ANU9000
+reepmeyer2012b_tb,reepmeyer2012b_tb-ANU2000
+reepmeyer2012b_tb,reepmeyer2012b_tb-ANU9000
+reepmeyer2012b_dy,reepmeyer2012b_dy-ANU2000
+reepmeyer2012b_dy,reepmeyer2012b_dy-ANU9000
+reepmeyer2012b_er,reepmeyer2012b_er-ANU2000
+reepmeyer2012b_er,reepmeyer2012b_er-ANU9000
+reepmeyer2012b_tm,reepmeyer2012b_tm-ANU2000
+reepmeyer2012b_tm,reepmeyer2012b_tm-ANU9000
+reepmeyer2012b_yb,reepmeyer2012b_yb-ANU2000
+reepmeyer2012b_yb,reepmeyer2012b_yb-ANU9000
+reepmeyer2012b_lu,reepmeyer2012b_lu-ANU2000
+reepmeyer2012b_lu,reepmeyer2012b_lu-ANU9000
+reepmeyer2012b_ta,reepmeyer2012b_ta-ANU2000
+reepmeyer2012b_ta,reepmeyer2012b_ta-ANU9000
+reepmeyer2012b_w,reepmeyer2012b_w-ANU2000
+reepmeyer2012b_w,reepmeyer2012b_w-ANU9000
+reepmeyer2012b_th,reepmeyer2012b_th-ANU2000
+reepmeyer2012b_th,reepmeyer2012b_th-ANU9000
+reepmeyer2012b_u,reepmeyer2012b_u-ANU2000
+reepmeyer2012b_u,reepmeyer2012b_u-ANU9000
+reepmeyer2012b_pb207pb206,reepmeyer2012b_pb207pb206-ANU2000
+reepmeyer2012b_pb207pb206,reepmeyer2012b_pb207pb206-ANU9000
+reepmeyer2012b_pb208pb206,reepmeyer2012b_pb208pb206-ANU2000
+reepmeyer2012b_pb208pb206,reepmeyer2012b_pb208pb206-ANU9000
+mccoy2020a_mn,mccoy2020a_mn-AGV-2
+mccoy2020a_mn,mccoy2020a_mn-BCR-2
+mccoy2020a_mn,mccoy2020a_mn-BHVO-2
+mccoy2020a_mn,mccoy2020a_mn-BIR-1a
+mccoy2020a_mn,mccoy2020a_mn-DNC-1a
+mccoy2020a_mn,mccoy2020a_mn-GSP-2
+mccoy2020a_mn,mccoy2020a_mn-QLO-1
+mccoy2020a_mn,mccoy2020a_mn-NIST-SRM-278
+mccoy2020a_mn,mccoy2020a_mn-NIST-SRM-688
+mccoy2020a_mn,mccoy2020a_mn-W-2a
+mccoy2020a_fe,mccoy2020a_fe-AGV-2
+mccoy2020a_fe,mccoy2020a_fe-BCR-2
+mccoy2020a_fe,mccoy2020a_fe-BHVO-2
+mccoy2020a_fe,mccoy2020a_fe-BIR-1a
+mccoy2020a_fe,mccoy2020a_fe-DNC-1a
+mccoy2020a_fe,mccoy2020a_fe-GSP-2
+mccoy2020a_fe,mccoy2020a_fe-QLO-1
+mccoy2020a_fe,mccoy2020a_fe-NIST-SRM-278
+mccoy2020a_fe,mccoy2020a_fe-NIST-SRM-688
+mccoy2020a_fe,mccoy2020a_fe-W-2a
+mccoy2020a_zn,mccoy2020a_zn-AGV-2
+mccoy2020a_zn,mccoy2020a_zn-BCR-2
+mccoy2020a_zn,mccoy2020a_zn-BHVO-2
+mccoy2020a_zn,mccoy2020a_zn-BIR-1a
+mccoy2020a_zn,mccoy2020a_zn-DNC-1a
+mccoy2020a_zn,mccoy2020a_zn-GSP-2
+mccoy2020a_zn,mccoy2020a_zn-QLO-1
+mccoy2020a_zn,mccoy2020a_zn-NIST-SRM-278
+mccoy2020a_zn,mccoy2020a_zn-NIST-SRM-688
+mccoy2020a_zn,mccoy2020a_zn-W-2a
+mccoy2020a_rb,mccoy2020a_rb-AGV-2
+mccoy2020a_rb,mccoy2020a_rb-BCR-2
+mccoy2020a_rb,mccoy2020a_rb-BHVO-2
+mccoy2020a_rb,mccoy2020a_rb-BIR-1a
+mccoy2020a_rb,mccoy2020a_rb-DNC-1a
+mccoy2020a_rb,mccoy2020a_rb-GSP-2
+mccoy2020a_rb,mccoy2020a_rb-QLO-1
+mccoy2020a_rb,mccoy2020a_rb-NIST-SRM-278
+mccoy2020a_rb,mccoy2020a_rb-NIST-SRM-688
+mccoy2020a_rb,mccoy2020a_rb-W-2a
+mccoy2020a_sr,mccoy2020a_sr-AGV-2
+mccoy2020a_sr,mccoy2020a_sr-BCR-2
+mccoy2020a_sr,mccoy2020a_sr-BHVO-2
+mccoy2020a_sr,mccoy2020a_sr-BIR-1a
+mccoy2020a_sr,mccoy2020a_sr-DNC-1a
+mccoy2020a_sr,mccoy2020a_sr-GSP-2
+mccoy2020a_sr,mccoy2020a_sr-QLO-1
+mccoy2020a_sr,mccoy2020a_sr-NIST-SRM-278
+mccoy2020a_sr,mccoy2020a_sr-NIST-SRM-688
+mccoy2020a_sr,mccoy2020a_sr-W-2a
+mccoy2020a_y,mccoy2020a_y-AGV-2
+mccoy2020a_y,mccoy2020a_y-BCR-2
+mccoy2020a_y,mccoy2020a_y-BHVO-2
+mccoy2020a_y,mccoy2020a_y-BIR-1a
+mccoy2020a_y,mccoy2020a_y-DNC-1a
+mccoy2020a_y,mccoy2020a_y-GSP-2
+mccoy2020a_y,mccoy2020a_y-QLO-1
+mccoy2020a_y,mccoy2020a_y-NIST-SRM-278
+mccoy2020a_y,mccoy2020a_y-NIST-SRM-688
+mccoy2020a_y,mccoy2020a_y-W-2a
+mccoy2020a_zr,mccoy2020a_zr-AGV-2
+mccoy2020a_zr,mccoy2020a_zr-BCR-2
+mccoy2020a_zr,mccoy2020a_zr-BHVO-2
+mccoy2020a_zr,mccoy2020a_zr-BIR-1a
+mccoy2020a_zr,mccoy2020a_zr-DNC-1a
+mccoy2020a_zr,mccoy2020a_zr-GSP-2
+mccoy2020a_zr,mccoy2020a_zr-QLO-1
+mccoy2020a_zr,mccoy2020a_zr-NIST-SRM-278
+mccoy2020a_zr,mccoy2020a_zr-NIST-SRM-688
+mccoy2020a_zr,mccoy2020a_zr-W-2a
+mccoy2020a_nb,mccoy2020a_nb-AGV-2
+mccoy2020a_nb,mccoy2020a_nb-BCR-2
+mccoy2020a_nb,mccoy2020a_nb-BHVO-2
+mccoy2020a_nb,mccoy2020a_nb-BIR-1a
+mccoy2020a_nb,mccoy2020a_nb-DNC-1a
+mccoy2020a_nb,mccoy2020a_nb-GSP-2
+mccoy2020a_nb,mccoy2020a_nb-QLO-1
+mccoy2020a_nb,mccoy2020a_nb-NIST-SRM-278
+mccoy2020a_nb,mccoy2020a_nb-NIST-SRM-688
+mccoy2020a_nb,mccoy2020a_nb-W-2a
+mccoy2011a_rb,mccoy2011a_rb-BHVO-2
+mccoy2011a_sr,mccoy2011a_sr-BHVO-2
+mccoy2011a_y,mccoy2011a_y-BHVO-2
+mccoy2011a_zr,mccoy2011a_zr-BHVO-2
+mccoy2011a_nb,mccoy2011a_nb-BHVO-2
+mills2011a_sio2,mills2011a_sio2-BHVO-2
+mills2011a_tio2,mills2011a_tio2-BHVO-2
+mills2011a_al2o3,mills2011a_al2o3-BHVO-2
+mills2011a_cao,mills2011a_cao-BHVO-2
+mills2011a_mgo,mills2011a_mgo-BHVO-2
+mills2011a_k2o,mills2011a_k2o-BHVO-2
+mills2011a_na2o,mills2011a_na2o-BHVO-2
+mills2011a_v,mills2011a_v-BHVO-2
+mills2011a_ni,mills2011a_ni-BHVO-2
+mills2011a_cu,mills2011a_cu-BHVO-2
+mills2011a_zn,mills2011a_zn-BHVO-2
+mills2011a_rb,mills2011a_rb-BHVO-2
+mills2011a_sr,mills2011a_sr-BHVO-2
+mills2011a_y,mills2011a_y-BHVO-2
+mills2011a_zr,mills2011a_zr-BHVO-2
+mills2011a_nb,mills2011a_nb-BHVO-2
+mills2011a_ba,mills2011a_ba-BHVO-2
+mills2008a_sio2,mills2008a_sio2-BHVO-2
+mills2008a_tio2,mills2008a_tio2-BHVO-2
+mills2008a_al2o3,mills2008a_al2o3-BHVO-2
+mills2008a_cao,mills2008a_cao-BHVO-2
+mills2008a_mgo,mills2008a_mgo-BHVO-2
+mills2008a_k2o,mills2008a_k2o-BHVO-2
+mills2008a_v,mills2008a_v-BHVO-2
+mills2008a_mn,mills2008a_mn-BHVO-2
+mills2008a_ni,mills2008a_ni-BHVO-2
+mills2008a_cu,mills2008a_cu-BHVO-2
+mills2008a_zn,mills2008a_zn-BHVO-2
+mills2008a_rb,mills2008a_rb-BHVO-2
+mills2008a_sr,mills2008a_sr-BHVO-2
+mills2008a_y,mills2008a_y-BHVO-2
+mills2008a_zr,mills2008a_zr-BHVO-2
+mills2008a_nb,mills2008a_nb-BHVO-2
+putzi2015a_sio2,putzi2015a_sio2-BHVO-2
+putzi2015a_tio2,putzi2015a_tio2-BHVO-2
+putzi2015a_al2o3,putzi2015a_al2o3-BHVO-2
+putzi2015a_cao,putzi2015a_cao-BHVO-2
+putzi2015a_mgo,putzi2015a_mgo-BHVO-2
+putzi2015a_k2o,putzi2015a_k2o-BHVO-2
+putzi2015a_na2o,putzi2015a_na2o-BHVO-2
+putzi2015a_v,putzi2015a_v-BHVO-2
+putzi2015a_mn,putzi2015a_mn-BHVO-2
+putzi2015a_cu,putzi2015a_cu-BHVO-2
+putzi2015a_zn,putzi2015a_zn-BHVO-2
+putzi2015a_rb,putzi2015a_rb-BHVO-2
+putzi2015a_sr,putzi2015a_sr-BHVO-2
+putzi2015a_y,putzi2015a_y-BHVO-2
+putzi2015a_zr,putzi2015a_zr-BHVO-2
+putzi2015a_nb,putzi2015a_nb-BHVO-2
+putzi2015a_ni,putzi2015a_ni-BHVO-2
+divito2020a_cu,divito2020a_cu-BHVO-2
+divito2020a_zn,divito2020a_zn-BHVO-2
+divito2020a_rb,divito2020a_rb-BHVO-2
+divito2020a_sr,divito2020a_sr-BHVO-2
+divito2020a_y,divito2020a_y-BHVO-2
+divito2020a_zr,divito2020a_zr-BHVO-2
+divito2020a_nb,divito2020a_nb-BHVO-2
+divito2020a_v,divito2020a_v-BHVO-2
+divito2020a_cr,divito2020a_cr-BHVO-2
+divito2020a_mn,divito2020a_mn-BHVO-2
+divito2020a_ni,divito2020a_ni-BHVO-2
+divito2020b_sio2,divito2020b_sio2-A-99
+divito2020b_sio2,divito2020b_sio2-VG-2
+divito2020b_tio2,divito2020b_tio2-A-99
+divito2020b_tio2,divito2020b_tio2-VG-2
+divito2020b_al2o3,divito2020b_al2o3-A-99
+divito2020b_al2o3,divito2020b_al2o3-VG-2
+divito2020b_cao,divito2020b_cao-A-99
+divito2020b_cao,divito2020b_cao-VG-2
+divito2020b_mgo,divito2020b_mgo-A-99
+divito2020b_mgo,divito2020b_mgo-VG-2
+divito2020b_mno,divito2020b_mno-A-99
+divito2020b_mno,divito2020b_mno-VG-2
+divito2020b_k2o,divito2020b_k2o-A-99
+divito2020b_k2o,divito2020b_k2o-VG-2
+divito2020b_na2o,divito2020b_na2o-A-99
+divito2020b_na2o,divito2020b_na2o-VG-2
+divito2020b_p2o5,divito2020b_p2o5-A-99
+divito2020b_p2o5,divito2020b_p2o5-VG-2
+ambrose2009a_sio2,ambrose2009a_sio2-NIST612
+ambrose2009a_al2o3,ambrose2009a_al2o3-NIST612
+ambrose2009a_cao,ambrose2009a_cao-NIST612
+ambrose2009a_na2o,ambrose2009a_na2o-NIST612
+ambrose2009b_p,ambrose2009b_p-Wekwok2000
+ambrose2009b_sc,ambrose2009b_sc-Wekwok2000
+ambrose2009b_ti,ambrose2009b_ti-Wekwok2000
+ambrose2009b_v,ambrose2009b_v-Wekwok2000
+ambrose2009b_cr,ambrose2009b_cr-Wekwok2000
+ambrose2009b_mn,ambrose2009b_mn-Wekwok2000
+ambrose2009b_co,ambrose2009b_co-Wekwok2000
+ambrose2009b_cu,ambrose2009b_cu-Wekwok2000
+ambrose2009b_rb,ambrose2009b_rb-Wekwok2000
+ambrose2009b_sr,ambrose2009b_sr-Wekwok2000
+ambrose2009b_y,ambrose2009b_y-Wekwok2000
+ambrose2009b_zr,ambrose2009b_zr-Wekwok2000
+ambrose2009b_nb,ambrose2009b_nb-Wekwok2000
+ambrose2009b_mo,ambrose2009b_mo-Wekwok2000
+ambrose2009b_sn,ambrose2009b_sn-Wekwok2000
+ambrose2009b_cs,ambrose2009b_cs-Wekwok2000
+ambrose2009b_ba,ambrose2009b_ba-Wekwok2000
+ambrose2009b_la,ambrose2009b_la-Wekwok2000
+ambrose2009b_ce,ambrose2009b_ce-Wekwok2000
+ambrose2009b_nd,ambrose2009b_nd-Wekwok2000
+ambrose2009b_sm,ambrose2009b_sm-Wekwok2000
+ambrose2009b_eu,ambrose2009b_eu-Wekwok2000
+ambrose2009b_gd,ambrose2009b_gd-Wekwok2000
+ambrose2009b_dy,ambrose2009b_dy-Wekwok2000
+ambrose2009b_er,ambrose2009b_er-Wekwok2000
+ambrose2009b_yb,ambrose2009b_yb-Wekwok2000
+ambrose2009b_lu,ambrose2009b_lu-Wekwok2000
+ambrose2009b_ta,ambrose2009b_ta-Wekwok2000
+ambrose2009b_w,ambrose2009b_w-Wekwok2000
+ambrose2009b_th,ambrose2009b_th-Wekwok2000
+ambrose2009b_u,ambrose2009b_u-Wekwok2000
+ambrose2009b_pb207pb206,ambrose2009b_pb207pb206-Wekwok2000
+ambrose2009b_pb208pb206,ambrose2009b_pb208pb206-Wekwok2000
+mcalister2019a_k,mcalister2019a_k-SARM-4
+mcalister2019a_k,mcalister2019a_k-9.5
+mcalister2019a_k,mcalister2019a_k-17.59
+mcalister2019a_k,mcalister2019a_k-29.16
+mcalister2019a_k,mcalister2019a_k-32.1
+mcalister2019a_k,mcalister2019a_k-AC-08
+mcalister2019a_k,mcalister2019a_k-AGV-2
+mcalister2019a_k,mcalister2019a_k-ANU-2000
+mcalister2019a_k,mcalister2019a_k-DNC-1
+mcalister2019a_k,mcalister2019a_k-JA-1
+mcalister2019a_k,mcalister2019a_k-JA-2
+mcalister2019a_k,mcalister2019a_k-JF-2
+mcalister2019a_k,mcalister2019a_k-JG-1a
+mcalister2019a_k,mcalister2019a_k-JG-2
+mcalister2019a_k,mcalister2019a_k-JG-3
+mcalister2019a_k,mcalister2019a_k-JGb-1
+mcalister2019a_k,mcalister2019a_k-JH-1
+mcalister2019a_k,mcalister2019a_k-JR-1
+mcalister2019a_k,mcalister2019a_k-JR-2
+mcalister2019a_k,mcalister2019a_k-JR-3
+mcalister2019a_k,mcalister2019a_k-JSl-2
+mcalister2019a_k,mcalister2019a_k-JSy-1
+mcalister2019a_k,mcalister2019a_k-MQ-004
+mcalister2019a_k,mcalister2019a_k-MQ-007
+mcalister2019a_k,mcalister2019a_k-NIST-278
+mcalister2019a_k,mcalister2019a_k-QLO-1a
+mcalister2019a_k,mcalister2019a_k-SARM-2
+mcalister2019a_ca,mcalister2019a_ca-SARM-4
+mcalister2019a_ca,mcalister2019a_ca-9.5
+mcalister2019a_ca,mcalister2019a_ca-17.59
+mcalister2019a_ca,mcalister2019a_ca-29.16
+mcalister2019a_ca,mcalister2019a_ca-32.1
+mcalister2019a_ca,mcalister2019a_ca-AC-08
+mcalister2019a_ca,mcalister2019a_ca-AGV-2
+mcalister2019a_ca,mcalister2019a_ca-ANU-2000
+mcalister2019a_ca,mcalister2019a_ca-DNC-1
+mcalister2019a_ca,mcalister2019a_ca-JA-1
+mcalister2019a_ca,mcalister2019a_ca-JA-2
+mcalister2019a_ca,mcalister2019a_ca-JF-2
+mcalister2019a_ca,mcalister2019a_ca-JG-1a
+mcalister2019a_ca,mcalister2019a_ca-JG-2
+mcalister2019a_ca,mcalister2019a_ca-JG-3
+mcalister2019a_ca,mcalister2019a_ca-JGb-1
+mcalister2019a_ca,mcalister2019a_ca-JH-1
+mcalister2019a_ca,mcalister2019a_ca-JR-1
+mcalister2019a_ca,mcalister2019a_ca-JR-2
+mcalister2019a_ca,mcalister2019a_ca-JR-3
+mcalister2019a_ca,mcalister2019a_ca-JSl-2
+mcalister2019a_ca,mcalister2019a_ca-JSy-1
+mcalister2019a_ca,mcalister2019a_ca-MQ-004
+mcalister2019a_ca,mcalister2019a_ca-MQ-007
+mcalister2019a_ca,mcalister2019a_ca-NIST-278
+mcalister2019a_ca,mcalister2019a_ca-QLO-1a
+mcalister2019a_ca,mcalister2019a_ca-SARM-2
+mcalister2019a_ti,mcalister2019a_ti-SARM-4
+mcalister2019a_ti,mcalister2019a_ti-9.5
+mcalister2019a_ti,mcalister2019a_ti-17.59
+mcalister2019a_ti,mcalister2019a_ti-29.16
+mcalister2019a_ti,mcalister2019a_ti-32.1
+mcalister2019a_ti,mcalister2019a_ti-AC-08
+mcalister2019a_ti,mcalister2019a_ti-AGV-2
+mcalister2019a_ti,mcalister2019a_ti-ANU-2000
+mcalister2019a_ti,mcalister2019a_ti-DNC-1
+mcalister2019a_ti,mcalister2019a_ti-JA-1
+mcalister2019a_ti,mcalister2019a_ti-JA-2
+mcalister2019a_ti,mcalister2019a_ti-JF-2
+mcalister2019a_ti,mcalister2019a_ti-JG-1a
+mcalister2019a_ti,mcalister2019a_ti-JG-2
+mcalister2019a_ti,mcalister2019a_ti-JG-3
+mcalister2019a_ti,mcalister2019a_ti-JGb-1
+mcalister2019a_ti,mcalister2019a_ti-JH-1
+mcalister2019a_ti,mcalister2019a_ti-JR-1
+mcalister2019a_ti,mcalister2019a_ti-JR-2
+mcalister2019a_ti,mcalister2019a_ti-JR-3
+mcalister2019a_ti,mcalister2019a_ti-JSl-2
+mcalister2019a_ti,mcalister2019a_ti-JSy-1
+mcalister2019a_ti,mcalister2019a_ti-MQ-004
+mcalister2019a_ti,mcalister2019a_ti-MQ-007
+mcalister2019a_ti,mcalister2019a_ti-NIST-278
+mcalister2019a_ti,mcalister2019a_ti-QLO-1a
+mcalister2019a_ti,mcalister2019a_ti-SARM-2
+mcalister2019a_mn,mcalister2019a_mn-SARM-4
+mcalister2019a_mn,mcalister2019a_mn-9.5
+mcalister2019a_mn,mcalister2019a_mn-17.59
+mcalister2019a_mn,mcalister2019a_mn-29.16
+mcalister2019a_mn,mcalister2019a_mn-32.1
+mcalister2019a_mn,mcalister2019a_mn-AC-08
+mcalister2019a_mn,mcalister2019a_mn-AGV-2
+mcalister2019a_mn,mcalister2019a_mn-ANU-2000
+mcalister2019a_mn,mcalister2019a_mn-DNC-1
+mcalister2019a_mn,mcalister2019a_mn-JA-1
+mcalister2019a_mn,mcalister2019a_mn-JA-2
+mcalister2019a_mn,mcalister2019a_mn-JF-2
+mcalister2019a_mn,mcalister2019a_mn-JG-1a
+mcalister2019a_mn,mcalister2019a_mn-JG-2
+mcalister2019a_mn,mcalister2019a_mn-JG-3
+mcalister2019a_mn,mcalister2019a_mn-JGb-1
+mcalister2019a_mn,mcalister2019a_mn-JH-1
+mcalister2019a_mn,mcalister2019a_mn-JR-1
+mcalister2019a_mn,mcalister2019a_mn-JR-2
+mcalister2019a_mn,mcalister2019a_mn-JR-3
+mcalister2019a_mn,mcalister2019a_mn-JSl-2
+mcalister2019a_mn,mcalister2019a_mn-JSy-1
+mcalister2019a_mn,mcalister2019a_mn-MQ-004
+mcalister2019a_mn,mcalister2019a_mn-MQ-007
+mcalister2019a_mn,mcalister2019a_mn-NIST-278
+mcalister2019a_mn,mcalister2019a_mn-QLO-1a
+mcalister2019a_mn,mcalister2019a_mn-SARM-2
+mcalister2019a_fe,mcalister2019a_fe-SARM-4
+mcalister2019a_fe,mcalister2019a_fe-9.5
+mcalister2019a_fe,mcalister2019a_fe-17.59
+mcalister2019a_fe,mcalister2019a_fe-29.16
+mcalister2019a_fe,mcalister2019a_fe-32.1
+mcalister2019a_fe,mcalister2019a_fe-AC-08
+mcalister2019a_fe,mcalister2019a_fe-AGV-2
+mcalister2019a_fe,mcalister2019a_fe-ANU-2000
+mcalister2019a_fe,mcalister2019a_fe-DNC-1
+mcalister2019a_fe,mcalister2019a_fe-JA-1
+mcalister2019a_fe,mcalister2019a_fe-JA-2
+mcalister2019a_fe,mcalister2019a_fe-JF-2
+mcalister2019a_fe,mcalister2019a_fe-JG-1a
+mcalister2019a_fe,mcalister2019a_fe-JG-2
+mcalister2019a_fe,mcalister2019a_fe-JG-3
+mcalister2019a_fe,mcalister2019a_fe-JGb-1
+mcalister2019a_fe,mcalister2019a_fe-JH-1
+mcalister2019a_fe,mcalister2019a_fe-JR-1
+mcalister2019a_fe,mcalister2019a_fe-JR-2
+mcalister2019a_fe,mcalister2019a_fe-JR-3
+mcalister2019a_fe,mcalister2019a_fe-JSl-2
+mcalister2019a_fe,mcalister2019a_fe-JSy-1
+mcalister2019a_fe,mcalister2019a_fe-MQ-004
+mcalister2019a_fe,mcalister2019a_fe-MQ-007
+mcalister2019a_fe,mcalister2019a_fe-NIST-278
+mcalister2019a_fe,mcalister2019a_fe-QLO-1a
+mcalister2019a_fe,mcalister2019a_fe-SARM-2
+mcalister2019a_zn,mcalister2019a_zn-SARM-4
+mcalister2019a_zn,mcalister2019a_zn-9.5
+mcalister2019a_zn,mcalister2019a_zn-17.59
+mcalister2019a_zn,mcalister2019a_zn-29.16
+mcalister2019a_zn,mcalister2019a_zn-32.1
+mcalister2019a_zn,mcalister2019a_zn-AC-08
+mcalister2019a_zn,mcalister2019a_zn-AGV-2
+mcalister2019a_zn,mcalister2019a_zn-ANU-2000
+mcalister2019a_zn,mcalister2019a_zn-DNC-1
+mcalister2019a_zn,mcalister2019a_zn-JA-1
+mcalister2019a_zn,mcalister2019a_zn-JA-2
+mcalister2019a_zn,mcalister2019a_zn-JF-2
+mcalister2019a_zn,mcalister2019a_zn-JG-1a
+mcalister2019a_zn,mcalister2019a_zn-JG-2
+mcalister2019a_zn,mcalister2019a_zn-JG-3
+mcalister2019a_zn,mcalister2019a_zn-JGb-1
+mcalister2019a_zn,mcalister2019a_zn-JH-1
+mcalister2019a_zn,mcalister2019a_zn-JR-1
+mcalister2019a_zn,mcalister2019a_zn-JR-2
+mcalister2019a_zn,mcalister2019a_zn-JR-3
+mcalister2019a_zn,mcalister2019a_zn-JSl-2
+mcalister2019a_zn,mcalister2019a_zn-JSy-1
+mcalister2019a_zn,mcalister2019a_zn-MQ-004
+mcalister2019a_zn,mcalister2019a_zn-MQ-007
+mcalister2019a_zn,mcalister2019a_zn-NIST-278
+mcalister2019a_zn,mcalister2019a_zn-QLO-1a
+mcalister2019a_zn,mcalister2019a_zn-SARM-2
+mcalister2019a_rb,mcalister2019a_rb-SARM-4
+mcalister2019a_rb,mcalister2019a_rb-9.5
+mcalister2019a_rb,mcalister2019a_rb-17.59
+mcalister2019a_rb,mcalister2019a_rb-29.16
+mcalister2019a_rb,mcalister2019a_rb-32.1
+mcalister2019a_rb,mcalister2019a_rb-AC-08
+mcalister2019a_rb,mcalister2019a_rb-AGV-2
+mcalister2019a_rb,mcalister2019a_rb-ANU-2000
+mcalister2019a_rb,mcalister2019a_rb-JA-1
+mcalister2019a_rb,mcalister2019a_rb-JA-2
+mcalister2019a_rb,mcalister2019a_rb-JF-2
+mcalister2019a_rb,mcalister2019a_rb-JG-1a
+mcalister2019a_rb,mcalister2019a_rb-JG-2
+mcalister2019a_rb,mcalister2019a_rb-JG-3
+mcalister2019a_rb,mcalister2019a_rb-JGb-1
+mcalister2019a_rb,mcalister2019a_rb-JH-1
+mcalister2019a_rb,mcalister2019a_rb-JR-1
+mcalister2019a_rb,mcalister2019a_rb-JR-2
+mcalister2019a_rb,mcalister2019a_rb-JR-3
+mcalister2019a_rb,mcalister2019a_rb-JSl-2
+mcalister2019a_rb,mcalister2019a_rb-JSy-1
+mcalister2019a_rb,mcalister2019a_rb-MQ-004
+mcalister2019a_rb,mcalister2019a_rb-MQ-007
+mcalister2019a_rb,mcalister2019a_rb-NIST-278
+mcalister2019a_rb,mcalister2019a_rb-QLO-1a
+mcalister2019a_rb,mcalister2019a_rb-SARM-2
+mcalister2019a_sr,mcalister2019a_sr-SARM-4
+mcalister2019a_sr,mcalister2019a_sr-9.5
+mcalister2019a_sr,mcalister2019a_sr-17.59
+mcalister2019a_sr,mcalister2019a_sr-29.16
+mcalister2019a_sr,mcalister2019a_sr-32.1
+mcalister2019a_sr,mcalister2019a_sr-AC-08
+mcalister2019a_sr,mcalister2019a_sr-AGV-2
+mcalister2019a_sr,mcalister2019a_sr-ANU-2000
+mcalister2019a_sr,mcalister2019a_sr-JA-1
+mcalister2019a_sr,mcalister2019a_sr-JA-2
+mcalister2019a_sr,mcalister2019a_sr-JF-2
+mcalister2019a_sr,mcalister2019a_sr-JG-1a
+mcalister2019a_sr,mcalister2019a_sr-JG-2
+mcalister2019a_sr,mcalister2019a_sr-JG-3
+mcalister2019a_sr,mcalister2019a_sr-JGb-1
+mcalister2019a_sr,mcalister2019a_sr-JH-1
+mcalister2019a_sr,mcalister2019a_sr-JR-1
+mcalister2019a_sr,mcalister2019a_sr-JR-2
+mcalister2019a_sr,mcalister2019a_sr-JR-3
+mcalister2019a_sr,mcalister2019a_sr-JSl-2
+mcalister2019a_sr,mcalister2019a_sr-JSy-1
+mcalister2019a_sr,mcalister2019a_sr-MQ-004
+mcalister2019a_sr,mcalister2019a_sr-MQ-007
+mcalister2019a_sr,mcalister2019a_sr-NIST-278
+mcalister2019a_sr,mcalister2019a_sr-QLO-1a
+mcalister2019a_sr,mcalister2019a_sr-SARM-2
+mcalister2019a_y,mcalister2019a_y-SARM-4
+mcalister2019a_y,mcalister2019a_y-9.5
+mcalister2019a_y,mcalister2019a_y-17.59
+mcalister2019a_y,mcalister2019a_y-29.16
+mcalister2019a_y,mcalister2019a_y-32.1
+mcalister2019a_y,mcalister2019a_y-AC-08
+mcalister2019a_y,mcalister2019a_y-AGV-2
+mcalister2019a_y,mcalister2019a_y-ANU-2000
+mcalister2019a_y,mcalister2019a_y-JA-1
+mcalister2019a_y,mcalister2019a_y-JA-2
+mcalister2019a_y,mcalister2019a_y-JF-2
+mcalister2019a_y,mcalister2019a_y-JG-1a
+mcalister2019a_y,mcalister2019a_y-JG-2
+mcalister2019a_y,mcalister2019a_y-JG-3
+mcalister2019a_y,mcalister2019a_y-JGb-1
+mcalister2019a_y,mcalister2019a_y-JH-1
+mcalister2019a_y,mcalister2019a_y-JR-1
+mcalister2019a_y,mcalister2019a_y-JR-2
+mcalister2019a_y,mcalister2019a_y-JR-3
+mcalister2019a_y,mcalister2019a_y-JSl-2
+mcalister2019a_y,mcalister2019a_y-JSy-1
+mcalister2019a_y,mcalister2019a_y-MQ-004
+mcalister2019a_y,mcalister2019a_y-MQ-007
+mcalister2019a_y,mcalister2019a_y-NIST-278
+mcalister2019a_y,mcalister2019a_y-QLO-1a
+mcalister2019a_y,mcalister2019a_y-SARM-2
+mcalister2019a_zr,mcalister2019a_zr-SARM-4
+mcalister2019a_zr,mcalister2019a_zr-9.5
+mcalister2019a_zr,mcalister2019a_zr-17.59
+mcalister2019a_zr,mcalister2019a_zr-29.16
+mcalister2019a_zr,mcalister2019a_zr-32.1
+mcalister2019a_zr,mcalister2019a_zr-AC-08
+mcalister2019a_zr,mcalister2019a_zr-AGV-2
+mcalister2019a_zr,mcalister2019a_zr-ANU-2000
+mcalister2019a_zr,mcalister2019a_zr-JA-1
+mcalister2019a_zr,mcalister2019a_zr-JA-2
+mcalister2019a_zr,mcalister2019a_zr-JF-2
+mcalister2019a_zr,mcalister2019a_zr-JG-1a
+mcalister2019a_zr,mcalister2019a_zr-JG-2
+mcalister2019a_zr,mcalister2019a_zr-JG-3
+mcalister2019a_zr,mcalister2019a_zr-JGb-1
+mcalister2019a_zr,mcalister2019a_zr-JH-1
+mcalister2019a_zr,mcalister2019a_zr-JR-1
+mcalister2019a_zr,mcalister2019a_zr-JR-2
+mcalister2019a_zr,mcalister2019a_zr-JR-3
+mcalister2019a_zr,mcalister2019a_zr-JSl-2
+mcalister2019a_zr,mcalister2019a_zr-JSy-1
+mcalister2019a_zr,mcalister2019a_zr-MQ-004
+mcalister2019a_zr,mcalister2019a_zr-MQ-007
+mcalister2019a_zr,mcalister2019a_zr-NIST-278
+mcalister2019a_zr,mcalister2019a_zr-QLO-1a
+mcalister2019a_zr,mcalister2019a_zr-SARM-2
+mcalister2019a_nb,mcalister2019a_nb-SARM-4
+mcalister2019a_nb,mcalister2019a_nb-9.5
+mcalister2019a_nb,mcalister2019a_nb-17.59
+mcalister2019a_nb,mcalister2019a_nb-29.16
+mcalister2019a_nb,mcalister2019a_nb-32.1
+mcalister2019a_nb,mcalister2019a_nb-AC-08
+mcalister2019a_nb,mcalister2019a_nb-AGV-2
+mcalister2019a_nb,mcalister2019a_nb-ANU-2000
+mcalister2019a_nb,mcalister2019a_nb-JA-1
+mcalister2019a_nb,mcalister2019a_nb-JA-2
+mcalister2019a_nb,mcalister2019a_nb-JF-2
+mcalister2019a_nb,mcalister2019a_nb-JG-1a
+mcalister2019a_nb,mcalister2019a_nb-JG-2
+mcalister2019a_nb,mcalister2019a_nb-JG-3
+mcalister2019a_nb,mcalister2019a_nb-JGb-1
+mcalister2019a_nb,mcalister2019a_nb-JH-1
+mcalister2019a_nb,mcalister2019a_nb-JR-1
+mcalister2019a_nb,mcalister2019a_nb-JR-2
+mcalister2019a_nb,mcalister2019a_nb-JR-3
+mcalister2019a_nb,mcalister2019a_nb-JSl-2
+mcalister2019a_nb,mcalister2019a_nb-JSy-1
+mcalister2019a_nb,mcalister2019a_nb-MQ-004
+mcalister2019a_nb,mcalister2019a_nb-MQ-007
+mcalister2019a_nb,mcalister2019a_nb-NIST-278
+mcalister2019a_nb,mcalister2019a_nb-QLO-1a
+mcalister2019a_nb,mcalister2019a_nb-SARM-2
+pengilley2019a_sio2,pengilley2019a_sio2-NIST-688
+pengilley2019a_tio2,pengilley2019a_tio2-NIST-688
+pengilley2019a_al2o3,pengilley2019a_al2o3-NIST-688
+pengilley2019a_fe2o3,pengilley2019a_fe2o3-NIST-688
+pengilley2019a_cao,pengilley2019a_cao-NIST-688
+pengilley2019a_mgo,pengilley2019a_mgo-NIST-688
+pengilley2019a_mno,pengilley2019a_mno-NIST-688
+pengilley2019a_k2o,pengilley2019a_k2o-NIST-688
+pengilley2019a_v,pengilley2019a_v-NIST-688
+pengilley2019a_ni,pengilley2019a_ni-NIST-688
+pengilley2019a_cu,pengilley2019a_cu-NIST-688
+pengilley2019a_zn,pengilley2019a_zn-NIST-688
+pengilley2019a_rb,pengilley2019a_rb-NIST-688
+pengilley2019a_sr,pengilley2019a_sr-NIST-688
+pengilley2019a_y,pengilley2019a_y-NIST-688
+pengilley2019a_zr,pengilley2019a_zr-NIST-688
+pengilley2019a_nb,pengilley2019a_nb-NIST-688
+allen1997a_v,allen1997a_v-BCR-1
+allen1997a_v,allen1997a_v-BHVO-1
+allen1997a_cr,allen1997a_cr-BCR-1
+allen1997a_cr,allen1997a_cr-BHVO-1
+allen1997a_ni,allen1997a_ni-BCR-1
+allen1997a_ni,allen1997a_ni-BHVO-1
+allen1997a_cu,allen1997a_cu-BCR-1
+allen1997a_cu,allen1997a_cu-BHVO-1
+allen1997a_zn,allen1997a_zn-BCR-1
+allen1997a_zn,allen1997a_zn-BHVO-1
+allen1997a_rb,allen1997a_rb-BCR-1
+allen1997a_rb,allen1997a_rb-BHVO-1
+allen1997a_sr,allen1997a_sr-BCR-1
+allen1997a_sr,allen1997a_sr-BHVO-1
+allen1997a_y,allen1997a_y-BCR-1
+allen1997a_y,allen1997a_y-BHVO-1
+allen1997a_zr,allen1997a_zr-BCR-1
+allen1997a_zr,allen1997a_zr-BHVO-1
+allen1997a_nb,allen1997a_nb-BCR-1
+allen1997a_nb,allen1997a_nb-BHVO-1
+allen1997a_pb,allen1997a_pb-BCR-1
+allen1997a_pb,allen1997a_pb-BHVO-1
+allen1997a_th,allen1997a_th-BCR-1
+allen1997a_th,allen1997a_th-BHVO-1
+allen1997a_u,allen1997a_u-BCR-1
+allen1997a_u,allen1997a_u-BHVO-1
