@@ -1,6 +1,10 @@
 # Releasing Pofatu data
 
 1. Update the ["raw" data](raw/) in the repository.
+   ```shell
+   cp ../pofatu-faagai/pofatu-faagai.xlsx raw/pofatu.xlsx
+   cp ../pofatu-faagai/pofatu-references.bib raw/pofatu-references.bib
+   ```
 
 2. Dump the Pofatu excel file to CSV, running
    ```shell

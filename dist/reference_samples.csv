@@ -249,13 +249,13 @@ collerson2007b_th-W-2,W-2,2.1,0.47,%,254.0
 collerson2007b_u-BHVO-1,BHVO-1,0.43,1.27,%,254.0
 collerson2007b_u-BCR-21,BCR-21,0.51,1.16,%,254.0
 collerson2007b_u-W-2,W-2,0.51,1.16,%,254.0
-collerson2007c_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2σ,long-term reproducibility over 9 years
-collerson2007c_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2σ,long-term reproducibility over 9 years
-collerson2007c_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2σ,6.0
-collerson2007c_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2σ,6.0
-collerson2007c_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2σ,6.0
-collerson2007c_pb207pb206-NBS SRM 981,NBS SRM 981,0.91461,0.00018,2σ,6.0
-collerson2007c_pb208pb206-NBS SRM 981,NBS SRM 981,2.16746,0.00098,2σ,6.0
+collerson2007c_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2sigma,long-term reproducibility over 9 years
+collerson2007c_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2sigma,long-term reproducibility over 9 years
+collerson2007c_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2sigma,6.0
+collerson2007c_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2sigma,6.0
+collerson2007c_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2sigma,6.0
+collerson2007c_pb207pb206-NBS SRM 981,NBS SRM 981,0.91461,0.00018,2sigma,6.0
+collerson2007c_pb208pb206-NBS SRM 981,NBS SRM 981,2.16746,0.00098,2sigma,6.0
 fankhauser2009c_sc-BHVO-1,BHVO-1,32.1,,,
 fankhauser2009c_v-BHVO-1,BHVO-1,310.3,,,
 fankhauser2009c_cr-BHVO-1,BHVO-1,257.4,,,
@@ -368,10 +368,10 @@ hermann2017a_yb-WSE,WSE,2.48,1.12378233189883,%,10.0
 hermann2017a_th-JB-2,JB-2,<LD,0.0,%,10.0
 hermann2017a_th-AC-E,AC-E,16.65,2.75522035584264,%,10.0
 hermann2017a_th-WSE,WSE,3.0,15.0282496620534,%,10.0
-hermann2017b_sr87sr86-NBS 987,NBS 987,0.710248,8e-06,2σ,3.0
-hermann2017c_pb206pb204-NBS 981,NBS 981,16.9415,0.0052,2σ,14.0
-hermann2017c_pb207pb204-NBS 981,NBS 981,15.4924,0.002,2σ,14.0
-hermann2017c_pb208pb204-NBS 981,NBS 981,36.701,0.007,2σ,14.0
+hermann2017b_sr87sr86-NBS 987,NBS 987,0.710248,8e-06,2sigma,3.0
+hermann2017c_pb206pb204-NBS 981,NBS 981,16.9415,0.0052,2sigma,14.0
+hermann2017c_pb207pb204-NBS 981,NBS 981,15.4924,0.002,2sigma,14.0
+hermann2017c_pb208pb204-NBS 981,NBS 981,36.701,0.007,2sigma,14.0
 kahn2008a_sio2-BHVO-2,BHVO-2,48.0,,,3.0
 kahn2008a_tio2-BHVO-2,BHVO-2,2.9,,,3.0
 kahn2008a_al2o3-BHVO-2,BHVO-2,13.5,,,3.0
@@ -626,11 +626,11 @@ simpson2018ab_w-BHVO-2,BHVO-2,0.1,,,
 simpson2018ab_pb-BHVO-2,BHVO-2,1.0,,,
 simpson2018ab_th-BHVO-2,BHVO-2,1.1,,,
 simpson2018ab_u-BHVO-2,BHVO-2,0.3,,,
-simpson2018ac_nd143nd144-BHVO-2,BHVO-2,0.51298,5e-06,2σ,
-simpson2018ac_sr87sr86-BHVO-2,BHVO-2,0.703476,9e-06,2σ,
-simpson2018ac_pb206pb204-BHVO-2,BHVO-2,18.619,0.0017,2σ,
-simpson2018ac_pb207pb204-BHVO-2,BHVO-2,15.5312,0.0027,2σ,
-simpson2018ac_pb208pb204-BHVO-2,BHVO-2,38.2031,0.0077,2σ,
+simpson2018ac_nd143nd144-BHVO-2,BHVO-2,0.51298,5e-06,2sigma,
+simpson2018ac_sr87sr86-BHVO-2,BHVO-2,0.703476,9e-06,2sigma,
+simpson2018ac_pb206pb204-BHVO-2,BHVO-2,18.619,0.0017,2sigma,
+simpson2018ac_pb207pb204-BHVO-2,BHVO-2,15.5312,0.0027,2sigma,
+simpson2018ac_pb208pb204-BHVO-2,BHVO-2,38.2031,0.0077,2sigma,
 simpson2018ab_tl-BHVO-2,BHVO-2,0.0,,,
 simpson2018a_sio2-CORNING B,CORNING B,62.5,0.5,%,15.0
 simpson2018a_sio2-CORNING D,CORNING D,55.5,1.0,%,15.0
@@ -859,12 +859,12 @@ weisler1994ab_y-RGM-1,RGM-1,26.9,1.5,ppm,2.0
 weisler1994ab_zr-RGM-1,RGM-1,170.5,0.35,ppm,2.0
 weisler1994ab_nb-RGM-1,RGM-1,20.2,1.3,ppm,2.0
 weisler1994ab_pb-RGM-1,RGM-1,0.85,0.8,ppm,2.0
-weisler1995a_pb206pb204-NIST SRM 981,NIST SRM 981,16.937,0.002,±2σ,109.0
-weisler1995a_pb206pb204-NG 0124,NG 0124,18.695,0.0013,±2σ,6.0
-weisler1995a_pb207pb204-NIST SRM 981,NIST SRM 981,15.492,0.0024,±2σ,109.0
-weisler1995a_pb207pb204-NG 0124,NG 0124,15.568,0.0017,±2σ,6.0
-weisler1995a_pb208pb204-NIST SRM 981,NIST SRM 981,36.708,0.0064,±2σ,109.0
-weisler1995a_pb208pb204-NG 0124,NG 0124,38.479,0.0048,±2σ,6.0
+weisler1995a_pb206pb204-NIST SRM 981,NIST SRM 981,16.937,0.002,2sigma,109.0
+weisler1995a_pb206pb204-NG 0124,NG 0124,18.695,0.0013,2sigma,6.0
+weisler1995a_pb207pb204-NIST SRM 981,NIST SRM 981,15.492,0.0024,2sigma,109.0
+weisler1995a_pb207pb204-NG 0124,NG 0124,15.568,0.0017,2sigma,6.0
+weisler1995a_pb208pb204-NIST SRM 981,NIST SRM 981,36.708,0.0064,2sigma,109.0
+weisler1995a_pb208pb204-NG 0124,NG 0124,38.479,0.0048,2sigma,6.0
 weisler1996a_sr-RGM-1,RGM-1,399.5,1.5,ppm,2.0
 weisler1996a_zr-RGM-1,RGM-1,170.5,0.35,ppm,2.0
 weisler1996a_nb-RGM-1,RGM-1,10.1,0.7,ppm,2.0
@@ -926,13 +926,13 @@ weisler2016b_tl-BHVO-2,BHVO-2,0.0195,0.0005,ppm,2.0
 weisler2016b_pb-BHVO-2,BHVO-2,1.56,0.0600000000000001,ppm,2.0
 weisler2016b_th-BHVO-2,BHVO-2,1.135,0.0349999999999999,ppm,2.0
 weisler2016b_u-BHVO-2,BHVO-2,0.4315,0.0025,ppm,2.0
-weisler2016c_nd143nd144-BHVO-2,BHVO-2,0.512987,5.5e-06,±2σ,2.0
-weisler2016c_sr87sr86-BHVO-2,BHVO-2,0.7034745,1.05e-05,±2σ,2.0
-weisler2016c_pb206pb204-BHVO-2,BHVO-2,18.60275,0.00135,±2σ,2.0
-weisler2016c_pb207pb204-BHVO-2,BHVO-2,15.53305,0.0018,±2σ,2.0
-weisler2016c_pb208pb204-BHVO-2,BHVO-2,38.20065,0.0054,±2σ,2.0
-weisler2016c_pb207pb206-BHVO-2,BHVO-2,0.83495,1e-05,±2σ,2.0
-weisler2016c_pb208pb206-BHVO-2,BHVO-2,2.053445,6e-05,±2σ,2.0
+weisler2016c_nd143nd144-BHVO-2,BHVO-2,0.512987,5.5e-06,±2sigma,2.0
+weisler2016c_sr87sr86-BHVO-2,BHVO-2,0.7034745,1.05e-05,±2sigma,2.0
+weisler2016c_pb206pb204-BHVO-2,BHVO-2,18.60275,0.00135,2sigma,2.0
+weisler2016c_pb207pb204-BHVO-2,BHVO-2,15.53305,0.0018,2sigma,2.0
+weisler2016c_pb208pb204-BHVO-2,BHVO-2,38.20065,0.0054,2sigma,2.0
+weisler2016c_pb207pb206-BHVO-2,BHVO-2,0.83495,1e-05,2sigma,2.0
+weisler2016c_pb208pb206-BHVO-2,BHVO-2,2.053445,6e-05,2sigma,2.0
 weisler2016aa_li-BHVO-2,BHVO-2,4.63,,,
 weisler2016aa_be-BHVO-2,BHVO-2,1.29,,,
 weisler2016aa_mg-BHVO-2,BHVO-2,42607.0,,,
@@ -980,7 +980,7 @@ weisler2016aa_tl-BHVO-2,BHVO-2,0.019,,,
 weisler2016aa_pb-BHVO-2,BHVO-2,1.39,,,
 weisler2016aa_th-BHVO-2,BHVO-2,1.13,,,
 weisler2016aa_u-BHVO-2,BHVO-2,0.411,,,
-weisler2016ab_sr87sr86-BHVO-2,BHVO-2,0.703469,7e-06,2σ,2.0
+weisler2016ab_sr87sr86-BHVO-2,BHVO-2,0.703469,7e-06,2sigma,2.0
 weisler2016ac_nd143nd144-BHVO-2,BHVO-2,0.5129783,1.5e-05,,2.0
 weisler2016ac_pb206pb204-BHVO-2,BHVO-2,18.6264,0.0014,,
 weisler2016ac_pb207pb204-BHVO-2,BHVO-2,15.5361,0.0013,,
@@ -1314,11 +1314,11 @@ reepmeyer2010b_w-ANU2000,ANU2000,1.25,0.02,ppm,10.0
 reepmeyer2010b_pb-ANU2000,ANU2000,6.35,0.23,ppm,10.0
 reepmeyer2010b_th-ANU2000,ANU2000,10.43,0.8,ppm,10.0
 reepmeyer2010b_u-ANU2000,ANU2000,2.99,0.23,ppm,10.0
-reepmeyer2010c_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2σ,
-reepmeyer2010c_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2σ,
-reepmeyer2010c_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2σ,
-reepmeyer2010c_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2σ,
-reepmeyer2010c_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2σ,
+reepmeyer2010c_nd143nd144-Ames Nd,Ames Nd,0.511977,1.1e-05,2sigma,
+reepmeyer2010c_sr87sr86-NBS SRM 987,NBS SRM 987,0.710251,2.4e-05,2sigma,
+reepmeyer2010c_pb206pb204-NBS SRM 981,NBS SRM 981,16.9406,0.008,2sigma,
+reepmeyer2010c_pb207pb204-NBS SRM 981,NBS SRM 981,15.4942,0.0097,2sigma,
+reepmeyer2010c_pb208pb204-NBS SRM 981,NBS SRM 981,36.7177,0.0321,2sigma,
 mccoy2019b_mn-BHVO-2,BHVO-2,1270.0,174.0,ppm,
 mccoy2019b_zn-BHVO-2,BHVO-2,116.0,41.0,ppm,
 mccoy2019b_rb-BHVO-2,BHVO-2,10.0,2.0,ppm,
@@ -1396,25 +1396,25 @@ kneebone2016a_zr-JR-2,JR-2,97.8699866644082,,,
 kneebone2016a_nb-JR-1,JR-1,17.8534040530269,,,
 kneebone2016a_nb-JR-2,JR-2,20.06139338844,,,
 golitko2013a_k-USGS RGM-2,USGS RGM-2,35688.0,714.0,ppm,
-golitko2013a_k-NIST278,NIST278,34790.0,348.0,ppm,
+golitko2013a_k-NIST-278,NIST-278,34790.0,348.0,ppm,
 golitko2013a_ca-USGS RGM-2,USGS RGM-2,8679.0,347.0,ppm,
-golitko2013a_ca-NIST278,NIST278,7160.0,358.0,ppm,
+golitko2013a_ca-NIST-278,NIST-278,7160.0,358.0,ppm,
 golitko2013a_ti-USGS RGM-2,USGS RGM-2,1462.0,88.0,ppm,
-golitko2013a_ti-NIST278,NIST278,1344.0,94.0,ppm,
+golitko2013a_ti-NIST-278,NIST-278,1344.0,94.0,ppm,
 golitko2013a_mn-USGS RGM-2,USGS RGM-2,206.0,10.0,ppm,
-golitko2013a_mn-NIST278,NIST278,281.0,14.0,ppm,
+golitko2013a_mn-NIST-278,NIST-278,281.0,14.0,ppm,
 golitko2013a_fe-USGS RGM-2,USGS RGM-2,12196.0,122.0,ppm,
-golitko2013a_fe-NIST278,NIST278,13636.0,136.0,ppm,
+golitko2013a_fe-NIST-278,NIST-278,13636.0,136.0,ppm,
 golitko2013a_zn-USGS RGM-2,USGS RGM-2,36.0,3.0,ppm,
-golitko2013a_zn-NIST278,NIST278,48.0,3.0,ppm,
+golitko2013a_zn-NIST-278,NIST-278,48.0,3.0,ppm,
 golitko2013a_rb-USGS RGM-2,USGS RGM-2,151.0,3.0,ppm,
-golitko2013a_rb-NIST278,NIST278,131.0,3.0,ppm,
+golitko2013a_rb-NIST-278,NIST-278,131.0,3.0,ppm,
 golitko2013a_sr-USGS RGM-2,USGS RGM-2,110.0,3.0,ppm,
-golitko2013a_sr-NIST278,NIST278,66.0,2.0,ppm,
+golitko2013a_sr-NIST-278,NIST-278,66.0,2.0,ppm,
 golitko2013a_zr-USGS RGM-2,USGS RGM-2,204.0,2.0,ppm,
-golitko2013a_zr-NIST278,NIST278,266.0,1.0,ppm,
+golitko2013a_zr-NIST-278,NIST-278,266.0,1.0,ppm,
 golitko2013a_nb-USGS RGM-2,USGS RGM-2,<LOD,<LOD,ppm,
-golitko2013a_nb-NIST278,NIST278,17.0,4.0,ppm,
+golitko2013a_nb-NIST-278,NIST-278,17.0,4.0,ppm,
 reepmeyer2008a_sio2-NIST612,NIST612,,,,
 reepmeyer2008a_tio2-NIST612,NIST612,,,,
 reepmeyer2008a_al2o3-NIST612,NIST612,,,,
@@ -1615,7 +1615,7 @@ mccoy2020a_mn-BIR-1a,BIR-1a,1326.0,,,3.0
 mccoy2020a_mn-DNC-1a,DNC-1a,1197.0,,,6.0
 mccoy2020a_mn-GSP-2,GSP-2,366.0,,,3.0
 mccoy2020a_mn-QLO-1,QLO-1,644.0,,,3.0
-mccoy2020a_mn-NIST-SRM-278,NIST-SRM-278,342.0,,,3.0
+mccoy2020a_mn-NIST-278,NIST-278,342.0,,,3.0
 mccoy2020a_mn-NIST-SRM-688,NIST-SRM-688,1228.0,,,3.0
 mccoy2020a_mn-W-2a,W-2a,1298.0,,,6.0
 mccoy2020a_fe-AGV-2,AGV-2,45089.0,,,3.0
@@ -1625,7 +1625,7 @@ mccoy2020a_fe-BIR-1a,BIR-1a,79317.0,,,3.0
 mccoy2020a_fe-DNC-1a,DNC-1a,71253.0,,,6.0
 mccoy2020a_fe-GSP-2,GSP-2,32546.0,,,3.0
 mccoy2020a_fe-QLO-1,QLO-1,29690.0,,,3.0
-mccoy2020a_fe-NIST-SRM-278,NIST-SRM-278,15838.0,,,3.0
+mccoy2020a_fe-NIST-278,NIST-278,15838.0,,,3.0
 mccoy2020a_fe-NIST-SRM-688,NIST-SRM-688,71486.0,,,3.0
 mccoy2020a_fe-W-2a,W-2a,76611.0,,,6.0
 mccoy2020a_zn-AGV-2,AGV-2,88.0,,,3.0
@@ -1635,7 +1635,7 @@ mccoy2020a_zn-BIR-1a,BIR-1a,72.0,,,3.0
 mccoy2020a_zn-DNC-1a,DNC-1a,72.0,,,6.0
 mccoy2020a_zn-GSP-2,GSP-2,118.0,,,3.0
 mccoy2020a_zn-QLO-1,QLO-1,64.0,,,3.0
-mccoy2020a_zn-NIST-SRM-278,NIST-SRM-278,51.0,,,3.0
+mccoy2020a_zn-NIST-278,NIST-278,51.0,,,3.0
 mccoy2020a_zn-NIST-SRM-688,NIST-SRM-688,61.0,,,3.0
 mccoy2020a_zn-W-2a,W-2a,76.0,,,6.0
 mccoy2020a_rb-AGV-2,AGV-2,72.0,,,3.0
@@ -1645,7 +1645,7 @@ mccoy2020a_rb-BIR-1a,BIR-1a,1.0,,,3.0
 mccoy2020a_rb-DNC-1a,DNC-1a,5.0,,,6.0
 mccoy2020a_rb-GSP-2,GSP-2,244.0,,,3.0
 mccoy2020a_rb-QLO-1,QLO-1,71.0,,,3.0
-mccoy2020a_rb-NIST-SRM-278,NIST-SRM-278,129.0,,,3.0
+mccoy2020a_rb-NIST-278,NIST-278,129.0,,,3.0
 mccoy2020a_rb-NIST-SRM-688,NIST-SRM-688,3.0,,,3.0
 mccoy2020a_rb-W-2a,W-2a,22.0,,,6.0
 mccoy2020a_sr-AGV-2,AGV-2,668.0,,,3.0
@@ -1655,7 +1655,7 @@ mccoy2020a_sr-BIR-1a,BIR-1a,109.0,,,3.0
 mccoy2020a_sr-DNC-1a,DNC-1a,147.0,,,6.0
 mccoy2020a_sr-GSP-2,GSP-2,234.0,,,3.0
 mccoy2020a_sr-QLO-1,QLO-1,345.0,,,3.0
-mccoy2020a_sr-NIST-SRM-278,NIST-SRM-278,66.0,,,3.0
+mccoy2020a_sr-NIST-278,NIST-278,66.0,,,3.0
 mccoy2020a_sr-NIST-SRM-688,NIST-SRM-688,174.0,,,3.0
 mccoy2020a_sr-W-2a,W-2a,203.0,,,6.0
 mccoy2020a_y-AGV-2,AGV-2,21.0,,,3.0
@@ -1665,7 +1665,7 @@ mccoy2020a_y-BIR-1a,BIR-1a,16.0,,,3.0
 mccoy2020a_y-DNC-1a,DNC-1a,18.0,,,6.0
 mccoy2020a_y-GSP-2,GSP-2,28.0,,,3.0
 mccoy2020a_y-QLO-1,QLO-1,25.0,,,3.0
-mccoy2020a_y-NIST-SRM-278,NIST-SRM-278,39.0,,,3.0
+mccoy2020a_y-NIST-278,NIST-278,39.0,,,3.0
 mccoy2020a_y-NIST-SRM-688,NIST-SRM-688,21.0,,,3.0
 mccoy2020a_y-W-2a,W-2a,22.0,,,6.0
 mccoy2020a_zr-AGV-2,AGV-2,233.0,,,3.0
@@ -1675,7 +1675,7 @@ mccoy2020a_zr-BIR-1a,BIR-1a,12.0,,,3.0
 mccoy2020a_zr-DNC-1a,DNC-1a,37.0,,,6.0
 mccoy2020a_zr-GSP-2,GSP-2,543.0,,,3.0
 mccoy2020a_zr-QLO-1,QLO-1,193.0,,,3.0
-mccoy2020a_zr-NIST-SRM-278,NIST-SRM-278,302.0,,,3.0
+mccoy2020a_zr-NIST-278,NIST-278,302.0,,,3.0
 mccoy2020a_zr-NIST-SRM-688,NIST-SRM-688,55.0,,,3.0
 mccoy2020a_zr-W-2a,W-2a,95.0,,,6.0
 mccoy2020a_nb-AGV-2,AGV-2,13.0,,,3.0
@@ -1685,7 +1685,7 @@ mccoy2020a_nb-BIR-1a,BIR-1a,3.0,,,3.0
 mccoy2020a_nb-DNC-1a,DNC-1a,3.0,,,6.0
 mccoy2020a_nb-GSP-2,GSP-2,25.0,,,3.0
 mccoy2020a_nb-QLO-1,QLO-1,9.0,,,3.0
-mccoy2020a_nb-NIST-SRM-278,NIST-SRM-278,18.0,,,3.0
+mccoy2020a_nb-NIST-278,NIST-278,18.0,,,3.0
 mccoy2020a_nb-NIST-SRM-688,NIST-SRM-688,4.0,,,3.0
 mccoy2020a_nb-W-2a,W-2a,8.0,,,6.0
 mccoy2011a_rb-BHVO-2,BHVO-2,,,,
@@ -1824,7 +1824,7 @@ mcalister2019a_k-JF-2,JF-2,95843.03001289039,,,
 mcalister2019a_k-JG-1a,JG-1a,34405.69755969513,,,
 mcalister2019a_k-JG-2,JG-2,38669.56903099509,,,
 mcalister2019a_k-JG-3,JG-3,22271.335217438136,,,
-mcalister2019a_k-JGb-1,JGb-1,-788.9314601628494,,,
+mcalister2019a_k-JGb-1,JGb-1,788.931460162849,,,
 mcalister2019a_k-JH-1,JH-1,3243.8488792763283,,,
 mcalister2019a_k-JR-1,JR-1,34298.44126635359,,,
 mcalister2019a_k-JR-2,JR-2,33851.88132542646,,,
@@ -2144,3 +2144,158 @@ allen1997a_th-BCR-1,BCR-1,6.0,,,2.0
 allen1997a_th-BHVO-1,BHVO-1,1.5,,,2.0
 allen1997a_u-BCR-1,BCR-1,3.0,,,2.0
 allen1997a_u-BHVO-1,BHVO-1,1.0,,,2.0
+mulrooney2016a_mn-NIST-278,NIST-278,336.0,22.0,%,30.0
+mulrooney2016a_fe-NIST-278,NIST-278,13618.0,2.0,%,30.0
+mulrooney2016a_zn-NIST-278,NIST-278,36.0,21.0,%,30.0
+mulrooney2016a_rb-NIST-278,NIST-278,119.0,3.0,%,30.0
+mulrooney2016a_sr-NIST-278,NIST-278,58.0,5.0,%,30.0
+mulrooney2016a_y-NIST-278,NIST-278,38.0,6.0,%,30.0
+mulrooney2016a_zr-NIST-278,NIST-278,257.0,2.0,%,30.0
+mulrooney2016a_nb-NIST-278,NIST-278,16.0,7.0,%,30.0
+mulrooney2016a_th-NIST-278,NIST-278,11.0,15.0,%,30.0
+mulrooney2016b_mn-NIST-278,NIST-278,427.0,2.0,%,10.0
+mulrooney2016b_fe-NIST-278,NIST-278,14745.0,1.0,%,10.0
+mulrooney2016b_zn-NIST-278,NIST-278,48.0,5.0,%,10.0
+mulrooney2016b_rb-NIST-278,NIST-278,131.0,1.0,%,10.0
+mulrooney2016b_sr-NIST-278,NIST-278,67.0,2.0,%,10.0
+mulrooney2016b_y-NIST-278,NIST-278,42.0,6.0,%,10.0
+mulrooney2016b_zr-NIST-278,NIST-278,286.0,1.0,%,10.0
+mulrooney2016b_nb-NIST-278,NIST-278,19.0,13.0,%,10.0
+mulrooney2016b_th-NIST-278,NIST-278,16.0,27.0,%,10.0
+rosssheppard2013a_k-NIST-278,NIST-278,34036.5,84.1,ppm,10.0
+rosssheppard2013a_ca-NIST-278,NIST-278,6973.7,105.6,ppm,10.0
+rosssheppard2013a_ti-NIST-278,NIST-278,1386.6,38.6,ppm,10.0
+rosssheppard2013a_mn-NIST-278,NIST-278,405.4,2.9,ppm,10.0
+rosssheppard2013a_fe-NIST-278,NIST-278,14307.5,40.2,ppm,10.0
+rosssheppard2013a_zn-NIST-278,NIST-278,50.6,1.1,ppm,10.0
+rosssheppard2013a_rb-NIST-278,NIST-278,126.4,0.7,ppm,10.0
+rosssheppard2013a_sr-NIST-278,NIST-278,63.6,1.8,ppm,10.0
+rosssheppard2013a_y-NIST-278,NIST-278,40.9,0.5,ppm,10.0
+rosssheppard2013a_zr-NIST-278,NIST-278,275.0,2.6,ppm,10.0
+rosssheppard2013a_nb-NIST-278,NIST-278,16.8,0.6,ppm,10.0
+rosssheppard2013a_pb-NIST-278,NIST-278,17.4,1.0,ppm,10.0
+shaw2021a_mn-NIST-278,NIST-278,378.4,7.3,ppm,29.0
+shaw2021a_mn-RGM-2,RGM-2,306.1,8.3,ppm,54.0
+shaw2021a_fe-NIST-278,NIST-278,12114.8,125.5,ppm,29.0
+shaw2021a_fe-RGM-2,RGM-2,12462.2,122.4,ppm,54.0
+shaw2021a_zn-NIST-278,NIST-278,48.9,1.4,ppm,29.0
+shaw2021a_zn-RGM-2,RGM-2,36.6,1.1,ppm,54.0
+shaw2021a_rb-NIST-278,NIST-278,114.4,0.7,ppm,29.0
+shaw2021a_rb-RGM-2,RGM-2,153.5,0.9,ppm,54.0
+shaw2021a_sr-NIST-278,NIST-278,57.6,0.4,ppm,29.0
+shaw2021a_sr-RGM-2,RGM-2,111.0,0.6,ppm,54.0
+shaw2021a_y-NIST-278,NIST-278,42.2,0.6,ppm,29.0
+shaw2021a_y-RGM-2,RGM-2,29.4,0.6,ppm,54.0
+shaw2021a_zr-NIST-278,NIST-278,272.6,1.4,ppm,29.0
+shaw2021a_zr-RGM-2,RGM-2,240.8,0.7,ppm,54.0
+shaw2021a_nb-NIST-278,NIST-278,15.4,0.3,ppm,29.0
+shaw2021a_nb-RGM-2,RGM-2,11.9,0.4,ppm,54.0
+nagaoka2022a_k-NIST SRM 278,NIST SRM 278,33337.3,1069.9,ppm,15.0
+nagaoka2022a_ca-NIST SRM 278,NIST SRM 278,6623.0,558.8,ppm,15.0
+nagaoka2022a_ti-NIST SRM 278,NIST SRM 278,1332.2,98.3,ppm,15.0
+nagaoka2022a_mn-NIST SRM 278,NIST SRM 278,405.5,5.1,ppm,15.0
+nagaoka2022a_fe-NIST SRM 278,NIST SRM 278,14119.5,316.2,ppm,15.0
+nagaoka2022a_zn-NIST SRM 278,NIST SRM 278,50.6,1.3,ppm,15.0
+nagaoka2022a_rb-NIST SRM 278,NIST SRM 278,125.3,2.2,ppm,15.0
+nagaoka2022a_sr-NIST SRM 278,NIST SRM 278,62.3,1.9,ppm,15.0
+nagaoka2022a_y-NIST SRM 278,NIST SRM 278,40.9,0.7,ppm,15.0
+nagaoka2022a_zr-NIST SRM 278,NIST SRM 278,272.3,4.9,ppm,15.0
+nagaoka2022a_nb-NIST SRM 278,NIST SRM 278,16.5,0.7,ppm,15.0
+nagaoka2022a_pb-NIST SRM 278,NIST SRM 278,17.4,0.7,ppm,15.0
+hermann2023a_sio2-ME,ME,49.1,,%,
+hermann2023a_sio2-WS-E,WS-E,51.3,,%,
+hermann2023a_tio2-ME,ME,1.72,,%,
+hermann2023a_tio2-WS-E,WS-E,2.41,,%,
+hermann2023a_al2o3-ME,ME,15.4,,%,
+hermann2023a_al2o3-WS-E,WS-E,13.3,,%,
+hermann2023a_fe2o3-ME,ME,9.6,,%,
+hermann2023a_fe2o3-WS-E,WS-E,13.0,,%,
+hermann2023a_cao-ME,ME,0.172,,%,
+hermann2023a_cao-WS-E,WS-E,0.172,,%,
+hermann2023a_mgo-ME,ME,7.32,,%,
+hermann2023a_mgo-WS-E,WS-E,5.35,,%,
+hermann2023a_mno-ME,ME,10.7,,%,
+hermann2023a_mno-WS-E,WS-E,8.67,,%,
+hermann2023a_k2o-ME,ME,3.13,,%,
+hermann2023a_k2o-WS-E,WS-E,2.45,,%,
+hermann2023a_na2o-ME,ME,0.38,,%,
+hermann2023a_na2o-WS-E,WS-E,0.97,,%,
+hermann2023a_p2o5-ME,ME,0.246,,%,
+hermann2023a_p2o5-WS-E,WS-E,0.299,,%,
+hermann2023b_sc-BR-24,BR-24,26.2,,ppm,
+hermann2023b_ti-BR-24,BR-24,3.09,,ppm,
+hermann2023b_v-BR-24,BR-24,280.0,,ppm,
+hermann2023b_cr-BR-24,BR-24,,,ppm,
+hermann2023b_co-BR-24,BR-24,54.2,,ppm,
+hermann2023b_ni-BR-24,BR-24,,,ppm,
+hermann2023b_cu-BR-24,BR-24,42.8,,ppm,
+hermann2023b_zn-BR-24,BR-24,106.0,,ppm,
+hermann2023b_as-BR-24,BR-24,1.2,,ppm,
+hermann2023b_rb-BR-24,BR-24,80.7,,ppm,
+hermann2023b_sr-BR-24,BR-24,606.0,,ppm,
+hermann2023b_y-BR-24,BR-24,28.5,,ppm,
+hermann2023b_zr-BR-24,BR-24,292.0,,ppm,
+hermann2023b_nb-BR-24,BR-24,39.0,,ppm,
+hermann2023b_cd-BR-24,BR-24,0.437,,ppm,
+hermann2023b_cs-BR-24,BR-24,0.639,,ppm,
+hermann2023b_ba-BR-24,BR-24,391.0,,ppm,
+hermann2023b_la-BR-24,BR-24,34.2,,ppm,
+hermann2023b_ce-BR-24,BR-24,74.2,,ppm,
+hermann2023b_pr-BR-24,BR-24,9.63,,ppm,
+hermann2023b_nd-BR-24,BR-24,39.7,,ppm,
+hermann2023b_sm-BR-24,BR-24,8.27,,ppm,
+hermann2023b_eu-BR-24,BR-24,2.59,,ppm,
+hermann2023b_gd-BR-24,BR-24,7.75,,ppm,
+hermann2023b_tb-BR-24,BR-24,1.12,,ppm,
+hermann2023b_dy-BR-24,BR-24,5.93,,ppm,
+hermann2023b_ho-BR-24,BR-24,1.05,,ppm,
+hermann2023b_er-BR-24,BR-24,2.67,,ppm,
+hermann2023b_tm-BR-24,BR-24,0.35,,ppm,
+hermann2023b_yb-BR-24,BR-24,2.19,,ppm,
+hermann2023b_lu-BR-24,BR-24,0.302,,ppm,
+hermann2023b_hf-BR-24,BR-24,7.09,,ppm,
+hermann2023b_ta-BR-24,BR-24,2.54,,ppm,
+hermann2023b_pb-BR-24,BR-24,3.87,,ppm,
+hermann2023b_th-BR-24,BR-24,4.73,,ppm,
+hermann2023b_u-BR-24,BR-24,1.26,,ppm,
+hermann2023c_nd143nd144-BR-24,BR-24,0.512804,3e-06,2sigma,50.0
+hermann2023c_sr87sr86-BR-24,BR-24,0.705073,8e-06,2sigma,50.0
+hermann2023c_pb206pb204-BR-24,BR-24,19.092,0.001,2sigma,80.0
+hermann2023c_pb207pb204-BR-24,BR-24,15.615,0.001,2sigma,80.0
+hermann2023c_pb208pb204-BR-24,BR-24,38.843,0.002,2sigma,80.0
+quintus2022a_sio2-BHVO-2,BHVO-2,47.4,,,9.0
+quintus2022a_tio2-BHVO-2,BHVO-2,2.8,,,9.0
+quintus2022a_al2o3-BHVO-2,BHVO-2,13.4,,,9.0
+quintus2022a_cao-BHVO-2,BHVO-2,11.7,,,9.0
+quintus2022a_mgo-BHVO-2,BHVO-2,5.5,,,9.0
+quintus2022a_mno-BHVO-2,BHVO-2,1641.0,,,9.0
+quintus2022a_k2o-BHVO-2,BHVO-2,0.6,,,9.0
+quintus2022a_na2o-BHVO-2,BHVO-2,2.2,,,9.0
+quintus2022a_v-BHVO-2,BHVO-2,377.0,,,9.0
+quintus2022a_cr-BHVO-2,BHVO-2,280.0,,,9.0
+quintus2022a_fe-BHVO-2,BHVO-2,8.8,,,9.0
+quintus2022a_ni-BHVO-2,BHVO-2,115.0,,,9.0
+quintus2022a_cu-BHVO-2,BHVO-2,126.0,,,12.0
+quintus2022a_zn-BHVO-2,BHVO-2,121.0,,,12.0
+quintus2022a_rb-BHVO-2,BHVO-2,12.0,,,12.0
+quintus2022a_sr-BHVO-2,BHVO-2,404.0,,,12.0
+quintus2022a_y-BHVO-2,BHVO-2,28.0,,,12.0
+quintus2022a_zr-BHVO-2,BHVO-2,178.0,,,12.0
+quintus2022a_nb-BHVO-2,BHVO-2,19.0,,,12.0
+quintus2022a_mo-BHVO-2,BHVO-2,3.0,,,12.0
+quintus2022a_ba-BHVO-2,BHVO-2,129.0,,,9.0
+quintus2022a_la-BHVO-2,BHVO-2,18.0,,,9.0
+quintus2022a_ce-BHVO-2,BHVO-2,51.0,,,9.0
+quintus2022a_pb-BHVO-2,BHVO-2,2.0,,,12.0
+quintus2022b_pb206pb204-BCR-2,BCR-2,18.7465,,,
+quintus2022b_pb207pb204-BCR-2,BCR-2,15.6079,,,
+quintus2022b_pb208pb204-BCR-2,BCR-2,38.684,,,
+burley2011a_k-NIST-2709,NIST-2709,26418.0,2266.0,ppm,14.0
+burley2011a_ti-NIST-2709,NIST-2709,4559.0,412.0,ppm,14.0
+burley2011a_mn-NIST-2709,NIST-2709,566.0,94.0,ppm,14.0
+burley2011a_fe-NIST-2709,NIST-2709,38927.0,3402.0,ppm,14.0
+burley2011a_zn-NIST-2709,NIST-2709,82.0,2.0,ppm,14.0
+burley2011a_rb-NIST-2709,NIST-2709,95.0,2.0,ppm,14.0
+burley2011a_sr-NIST-2709,NIST-2709,240.0,3.0,ppm,14.0
+burley2011a_zr-NIST-2709,NIST-2709,130.0,3.0,ppm,14.0
+burley2011a_pb-NIST-2709,NIST-2709,20.0,2.0,ppm,14.0

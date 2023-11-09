@@ -80,16 +80,16 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "name": "location_latitude"
                     },
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "name": "location_longitude"
                     },
@@ -108,7 +108,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|RETOUCHED\\ FLAKE"
+                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|GEOLOGICAL|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|RETOUCHED\\ FLAKE"
                         },
                         "name": "artefact_category"
                     },
@@ -266,6 +266,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "note"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "number"
                     },
                     {
@@ -403,14 +407,14 @@
                         "name": "less"
                     },
                     {
-                        "datatype": "decimal",
+                        "datatype": "float",
                         "name": "value_sd"
                     },
                     {
                         "datatype": {
                             "base": "integer",
-                            "minimum": 1,
-                            "maximum": 2
+                            "minimum": "1",
+                            "maximum": "2"
                         },
                         "name": "sd_sigma"
                     }

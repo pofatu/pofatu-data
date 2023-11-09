@@ -1396,25 +1396,25 @@ kneebone2016a_zr,kneebone2016a_zr-JR-2
 kneebone2016a_nb,kneebone2016a_nb-JR-1
 kneebone2016a_nb,kneebone2016a_nb-JR-2
 golitko2013a_k,golitko2013a_k-USGS RGM-2
-golitko2013a_k,golitko2013a_k-NIST278
+golitko2013a_k,golitko2013a_k-NIST-278
 golitko2013a_ca,golitko2013a_ca-USGS RGM-2
-golitko2013a_ca,golitko2013a_ca-NIST278
+golitko2013a_ca,golitko2013a_ca-NIST-278
 golitko2013a_ti,golitko2013a_ti-USGS RGM-2
-golitko2013a_ti,golitko2013a_ti-NIST278
+golitko2013a_ti,golitko2013a_ti-NIST-278
 golitko2013a_mn,golitko2013a_mn-USGS RGM-2
-golitko2013a_mn,golitko2013a_mn-NIST278
+golitko2013a_mn,golitko2013a_mn-NIST-278
 golitko2013a_fe,golitko2013a_fe-USGS RGM-2
-golitko2013a_fe,golitko2013a_fe-NIST278
+golitko2013a_fe,golitko2013a_fe-NIST-278
 golitko2013a_zn,golitko2013a_zn-USGS RGM-2
-golitko2013a_zn,golitko2013a_zn-NIST278
+golitko2013a_zn,golitko2013a_zn-NIST-278
 golitko2013a_rb,golitko2013a_rb-USGS RGM-2
-golitko2013a_rb,golitko2013a_rb-NIST278
+golitko2013a_rb,golitko2013a_rb-NIST-278
 golitko2013a_sr,golitko2013a_sr-USGS RGM-2
-golitko2013a_sr,golitko2013a_sr-NIST278
+golitko2013a_sr,golitko2013a_sr-NIST-278
 golitko2013a_zr,golitko2013a_zr-USGS RGM-2
-golitko2013a_zr,golitko2013a_zr-NIST278
+golitko2013a_zr,golitko2013a_zr-NIST-278
 golitko2013a_nb,golitko2013a_nb-USGS RGM-2
-golitko2013a_nb,golitko2013a_nb-NIST278
+golitko2013a_nb,golitko2013a_nb-NIST-278
 reepmeyer2008a_sio2,reepmeyer2008a_sio2-NIST612
 reepmeyer2008a_tio2,reepmeyer2008a_tio2-NIST612
 reepmeyer2008a_al2o3,reepmeyer2008a_al2o3-NIST612
@@ -1615,7 +1615,7 @@ mccoy2020a_mn,mccoy2020a_mn-BIR-1a
 mccoy2020a_mn,mccoy2020a_mn-DNC-1a
 mccoy2020a_mn,mccoy2020a_mn-GSP-2
 mccoy2020a_mn,mccoy2020a_mn-QLO-1
-mccoy2020a_mn,mccoy2020a_mn-NIST-SRM-278
+mccoy2020a_mn,mccoy2020a_mn-NIST-278
 mccoy2020a_mn,mccoy2020a_mn-NIST-SRM-688
 mccoy2020a_mn,mccoy2020a_mn-W-2a
 mccoy2020a_fe,mccoy2020a_fe-AGV-2
@@ -1625,7 +1625,7 @@ mccoy2020a_fe,mccoy2020a_fe-BIR-1a
 mccoy2020a_fe,mccoy2020a_fe-DNC-1a
 mccoy2020a_fe,mccoy2020a_fe-GSP-2
 mccoy2020a_fe,mccoy2020a_fe-QLO-1
-mccoy2020a_fe,mccoy2020a_fe-NIST-SRM-278
+mccoy2020a_fe,mccoy2020a_fe-NIST-278
 mccoy2020a_fe,mccoy2020a_fe-NIST-SRM-688
 mccoy2020a_fe,mccoy2020a_fe-W-2a
 mccoy2020a_zn,mccoy2020a_zn-AGV-2
@@ -1635,7 +1635,7 @@ mccoy2020a_zn,mccoy2020a_zn-BIR-1a
 mccoy2020a_zn,mccoy2020a_zn-DNC-1a
 mccoy2020a_zn,mccoy2020a_zn-GSP-2
 mccoy2020a_zn,mccoy2020a_zn-QLO-1
-mccoy2020a_zn,mccoy2020a_zn-NIST-SRM-278
+mccoy2020a_zn,mccoy2020a_zn-NIST-278
 mccoy2020a_zn,mccoy2020a_zn-NIST-SRM-688
 mccoy2020a_zn,mccoy2020a_zn-W-2a
 mccoy2020a_rb,mccoy2020a_rb-AGV-2
@@ -1645,7 +1645,7 @@ mccoy2020a_rb,mccoy2020a_rb-BIR-1a
 mccoy2020a_rb,mccoy2020a_rb-DNC-1a
 mccoy2020a_rb,mccoy2020a_rb-GSP-2
 mccoy2020a_rb,mccoy2020a_rb-QLO-1
-mccoy2020a_rb,mccoy2020a_rb-NIST-SRM-278
+mccoy2020a_rb,mccoy2020a_rb-NIST-278
 mccoy2020a_rb,mccoy2020a_rb-NIST-SRM-688
 mccoy2020a_rb,mccoy2020a_rb-W-2a
 mccoy2020a_sr,mccoy2020a_sr-AGV-2
@@ -1655,7 +1655,7 @@ mccoy2020a_sr,mccoy2020a_sr-BIR-1a
 mccoy2020a_sr,mccoy2020a_sr-DNC-1a
 mccoy2020a_sr,mccoy2020a_sr-GSP-2
 mccoy2020a_sr,mccoy2020a_sr-QLO-1
-mccoy2020a_sr,mccoy2020a_sr-NIST-SRM-278
+mccoy2020a_sr,mccoy2020a_sr-NIST-278
 mccoy2020a_sr,mccoy2020a_sr-NIST-SRM-688
 mccoy2020a_sr,mccoy2020a_sr-W-2a
 mccoy2020a_y,mccoy2020a_y-AGV-2
@@ -1665,7 +1665,7 @@ mccoy2020a_y,mccoy2020a_y-BIR-1a
 mccoy2020a_y,mccoy2020a_y-DNC-1a
 mccoy2020a_y,mccoy2020a_y-GSP-2
 mccoy2020a_y,mccoy2020a_y-QLO-1
-mccoy2020a_y,mccoy2020a_y-NIST-SRM-278
+mccoy2020a_y,mccoy2020a_y-NIST-278
 mccoy2020a_y,mccoy2020a_y-NIST-SRM-688
 mccoy2020a_y,mccoy2020a_y-W-2a
 mccoy2020a_zr,mccoy2020a_zr-AGV-2
@@ -1675,7 +1675,7 @@ mccoy2020a_zr,mccoy2020a_zr-BIR-1a
 mccoy2020a_zr,mccoy2020a_zr-DNC-1a
 mccoy2020a_zr,mccoy2020a_zr-GSP-2
 mccoy2020a_zr,mccoy2020a_zr-QLO-1
-mccoy2020a_zr,mccoy2020a_zr-NIST-SRM-278
+mccoy2020a_zr,mccoy2020a_zr-NIST-278
 mccoy2020a_zr,mccoy2020a_zr-NIST-SRM-688
 mccoy2020a_zr,mccoy2020a_zr-W-2a
 mccoy2020a_nb,mccoy2020a_nb-AGV-2
@@ -1685,7 +1685,7 @@ mccoy2020a_nb,mccoy2020a_nb-BIR-1a
 mccoy2020a_nb,mccoy2020a_nb-DNC-1a
 mccoy2020a_nb,mccoy2020a_nb-GSP-2
 mccoy2020a_nb,mccoy2020a_nb-QLO-1
-mccoy2020a_nb,mccoy2020a_nb-NIST-SRM-278
+mccoy2020a_nb,mccoy2020a_nb-NIST-278
 mccoy2020a_nb,mccoy2020a_nb-NIST-SRM-688
 mccoy2020a_nb,mccoy2020a_nb-W-2a
 mccoy2011a_rb,mccoy2011a_rb-BHVO-2
@@ -2144,3 +2144,158 @@ allen1997a_th,allen1997a_th-BCR-1
 allen1997a_th,allen1997a_th-BHVO-1
 allen1997a_u,allen1997a_u-BCR-1
 allen1997a_u,allen1997a_u-BHVO-1
+mulrooney2016a_mn,mulrooney2016a_mn-NIST-278
+mulrooney2016a_fe,mulrooney2016a_fe-NIST-278
+mulrooney2016a_zn,mulrooney2016a_zn-NIST-278
+mulrooney2016a_rb,mulrooney2016a_rb-NIST-278
+mulrooney2016a_sr,mulrooney2016a_sr-NIST-278
+mulrooney2016a_y,mulrooney2016a_y-NIST-278
+mulrooney2016a_zr,mulrooney2016a_zr-NIST-278
+mulrooney2016a_nb,mulrooney2016a_nb-NIST-278
+mulrooney2016a_th,mulrooney2016a_th-NIST-278
+mulrooney2016b_mn,mulrooney2016b_mn-NIST-278
+mulrooney2016b_fe,mulrooney2016b_fe-NIST-278
+mulrooney2016b_zn,mulrooney2016b_zn-NIST-278
+mulrooney2016b_rb,mulrooney2016b_rb-NIST-278
+mulrooney2016b_sr,mulrooney2016b_sr-NIST-278
+mulrooney2016b_y,mulrooney2016b_y-NIST-278
+mulrooney2016b_zr,mulrooney2016b_zr-NIST-278
+mulrooney2016b_nb,mulrooney2016b_nb-NIST-278
+mulrooney2016b_th,mulrooney2016b_th-NIST-278
+rosssheppard2013a_k,rosssheppard2013a_k-NIST-278
+rosssheppard2013a_ca,rosssheppard2013a_ca-NIST-278
+rosssheppard2013a_ti,rosssheppard2013a_ti-NIST-278
+rosssheppard2013a_mn,rosssheppard2013a_mn-NIST-278
+rosssheppard2013a_fe,rosssheppard2013a_fe-NIST-278
+rosssheppard2013a_zn,rosssheppard2013a_zn-NIST-278
+rosssheppard2013a_rb,rosssheppard2013a_rb-NIST-278
+rosssheppard2013a_sr,rosssheppard2013a_sr-NIST-278
+rosssheppard2013a_y,rosssheppard2013a_y-NIST-278
+rosssheppard2013a_zr,rosssheppard2013a_zr-NIST-278
+rosssheppard2013a_nb,rosssheppard2013a_nb-NIST-278
+rosssheppard2013a_pb,rosssheppard2013a_pb-NIST-278
+shaw2021a_mn,shaw2021a_mn-NIST-278
+shaw2021a_mn,shaw2021a_mn-RGM-2
+shaw2021a_fe,shaw2021a_fe-NIST-278
+shaw2021a_fe,shaw2021a_fe-RGM-2
+shaw2021a_zn,shaw2021a_zn-NIST-278
+shaw2021a_zn,shaw2021a_zn-RGM-2
+shaw2021a_rb,shaw2021a_rb-NIST-278
+shaw2021a_rb,shaw2021a_rb-RGM-2
+shaw2021a_sr,shaw2021a_sr-NIST-278
+shaw2021a_sr,shaw2021a_sr-RGM-2
+shaw2021a_y,shaw2021a_y-NIST-278
+shaw2021a_y,shaw2021a_y-RGM-2
+shaw2021a_zr,shaw2021a_zr-NIST-278
+shaw2021a_zr,shaw2021a_zr-RGM-2
+shaw2021a_nb,shaw2021a_nb-NIST-278
+shaw2021a_nb,shaw2021a_nb-RGM-2
+nagaoka2022a_k,nagaoka2022a_k-NIST SRM 278
+nagaoka2022a_ca,nagaoka2022a_ca-NIST SRM 278
+nagaoka2022a_ti,nagaoka2022a_ti-NIST SRM 278
+nagaoka2022a_mn,nagaoka2022a_mn-NIST SRM 278
+nagaoka2022a_fe,nagaoka2022a_fe-NIST SRM 278
+nagaoka2022a_zn,nagaoka2022a_zn-NIST SRM 278
+nagaoka2022a_rb,nagaoka2022a_rb-NIST SRM 278
+nagaoka2022a_sr,nagaoka2022a_sr-NIST SRM 278
+nagaoka2022a_y,nagaoka2022a_y-NIST SRM 278
+nagaoka2022a_zr,nagaoka2022a_zr-NIST SRM 278
+nagaoka2022a_nb,nagaoka2022a_nb-NIST SRM 278
+nagaoka2022a_pb,nagaoka2022a_pb-NIST SRM 278
+hermann2023a_sio2,hermann2023a_sio2-ME
+hermann2023a_sio2,hermann2023a_sio2-WS-E
+hermann2023a_tio2,hermann2023a_tio2-ME
+hermann2023a_tio2,hermann2023a_tio2-WS-E
+hermann2023a_al2o3,hermann2023a_al2o3-ME
+hermann2023a_al2o3,hermann2023a_al2o3-WS-E
+hermann2023a_fe2o3,hermann2023a_fe2o3-ME
+hermann2023a_fe2o3,hermann2023a_fe2o3-WS-E
+hermann2023a_cao,hermann2023a_cao-ME
+hermann2023a_cao,hermann2023a_cao-WS-E
+hermann2023a_mgo,hermann2023a_mgo-ME
+hermann2023a_mgo,hermann2023a_mgo-WS-E
+hermann2023a_mno,hermann2023a_mno-ME
+hermann2023a_mno,hermann2023a_mno-WS-E
+hermann2023a_k2o,hermann2023a_k2o-ME
+hermann2023a_k2o,hermann2023a_k2o-WS-E
+hermann2023a_na2o,hermann2023a_na2o-ME
+hermann2023a_na2o,hermann2023a_na2o-WS-E
+hermann2023a_p2o5,hermann2023a_p2o5-ME
+hermann2023a_p2o5,hermann2023a_p2o5-WS-E
+hermann2023b_sc,hermann2023b_sc-BR-24
+hermann2023b_ti,hermann2023b_ti-BR-24
+hermann2023b_v,hermann2023b_v-BR-24
+hermann2023b_cr,hermann2023b_cr-BR-24
+hermann2023b_co,hermann2023b_co-BR-24
+hermann2023b_ni,hermann2023b_ni-BR-24
+hermann2023b_cu,hermann2023b_cu-BR-24
+hermann2023b_zn,hermann2023b_zn-BR-24
+hermann2023b_as,hermann2023b_as-BR-24
+hermann2023b_rb,hermann2023b_rb-BR-24
+hermann2023b_sr,hermann2023b_sr-BR-24
+hermann2023b_y,hermann2023b_y-BR-24
+hermann2023b_zr,hermann2023b_zr-BR-24
+hermann2023b_nb,hermann2023b_nb-BR-24
+hermann2023b_cd,hermann2023b_cd-BR-24
+hermann2023b_cs,hermann2023b_cs-BR-24
+hermann2023b_ba,hermann2023b_ba-BR-24
+hermann2023b_la,hermann2023b_la-BR-24
+hermann2023b_ce,hermann2023b_ce-BR-24
+hermann2023b_pr,hermann2023b_pr-BR-24
+hermann2023b_nd,hermann2023b_nd-BR-24
+hermann2023b_sm,hermann2023b_sm-BR-24
+hermann2023b_eu,hermann2023b_eu-BR-24
+hermann2023b_gd,hermann2023b_gd-BR-24
+hermann2023b_tb,hermann2023b_tb-BR-24
+hermann2023b_dy,hermann2023b_dy-BR-24
+hermann2023b_ho,hermann2023b_ho-BR-24
+hermann2023b_er,hermann2023b_er-BR-24
+hermann2023b_tm,hermann2023b_tm-BR-24
+hermann2023b_yb,hermann2023b_yb-BR-24
+hermann2023b_lu,hermann2023b_lu-BR-24
+hermann2023b_hf,hermann2023b_hf-BR-24
+hermann2023b_ta,hermann2023b_ta-BR-24
+hermann2023b_pb,hermann2023b_pb-BR-24
+hermann2023b_th,hermann2023b_th-BR-24
+hermann2023b_u,hermann2023b_u-BR-24
+hermann2023c_nd143nd144,hermann2023c_nd143nd144-BR-24
+hermann2023c_sr87sr86,hermann2023c_sr87sr86-BR-24
+hermann2023c_pb206pb204,hermann2023c_pb206pb204-BR-24
+hermann2023c_pb207pb204,hermann2023c_pb207pb204-BR-24
+hermann2023c_pb208pb204,hermann2023c_pb208pb204-BR-24
+quintus2022a_sio2,quintus2022a_sio2-BHVO-2
+quintus2022a_tio2,quintus2022a_tio2-BHVO-2
+quintus2022a_al2o3,quintus2022a_al2o3-BHVO-2
+quintus2022a_cao,quintus2022a_cao-BHVO-2
+quintus2022a_mgo,quintus2022a_mgo-BHVO-2
+quintus2022a_mno,quintus2022a_mno-BHVO-2
+quintus2022a_k2o,quintus2022a_k2o-BHVO-2
+quintus2022a_na2o,quintus2022a_na2o-BHVO-2
+quintus2022a_v,quintus2022a_v-BHVO-2
+quintus2022a_cr,quintus2022a_cr-BHVO-2
+quintus2022a_fe,quintus2022a_fe-BHVO-2
+quintus2022a_ni,quintus2022a_ni-BHVO-2
+quintus2022a_cu,quintus2022a_cu-BHVO-2
+quintus2022a_zn,quintus2022a_zn-BHVO-2
+quintus2022a_rb,quintus2022a_rb-BHVO-2
+quintus2022a_sr,quintus2022a_sr-BHVO-2
+quintus2022a_y,quintus2022a_y-BHVO-2
+quintus2022a_zr,quintus2022a_zr-BHVO-2
+quintus2022a_nb,quintus2022a_nb-BHVO-2
+quintus2022a_mo,quintus2022a_mo-BHVO-2
+quintus2022a_ba,quintus2022a_ba-BHVO-2
+quintus2022a_la,quintus2022a_la-BHVO-2
+quintus2022a_ce,quintus2022a_ce-BHVO-2
+quintus2022a_pb,quintus2022a_pb-BHVO-2
+quintus2022b_pb206pb204,quintus2022b_pb206pb204-BCR-2
+quintus2022b_pb207pb204,quintus2022b_pb207pb204-BCR-2
+quintus2022b_pb208pb204,quintus2022b_pb208pb204-BCR-2
+burley2011a_k,burley2011a_k-NIST-2709
+burley2011a_ti,burley2011a_ti-NIST-2709
+burley2011a_mn,burley2011a_mn-NIST-2709
+burley2011a_fe,burley2011a_fe-NIST-2709
+burley2011a_zn,burley2011a_zn-NIST-2709
+burley2011a_rb,burley2011a_rb-NIST-2709
+burley2011a_sr,burley2011a_sr-NIST-2709
+burley2011a_zr,burley2011a_zr-NIST-2709
+burley2011a_pb,burley2011a_pb-NIST-2709
