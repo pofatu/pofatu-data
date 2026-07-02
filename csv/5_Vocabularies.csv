@@ -4,48 +4,48 @@ Vocabularies,
 Contact us with questions or additions: hermann@shh.mpg.de,
 Last modified: 23 October 2020,
 ,
-SAMPLE CATEGORY,Sample Category description
-SOURCE,"Sample related to natural raw material, as a primary geological source location"
-ARTEFACT,"Sample related to used material, transformed or not, that was removed and transported from its primary geological source location"
+SAMPLE CATEGORY,SAMPLE CATEGORY description
+Source,"Sample related to natural raw material, as a primary geological source location"
+Artefact,"Sample related to used material, transformed or not, that was removed and transported from its primary geological source location"
 ,
-ARTEFACT CATEGORY,Artefact Category description
-ADZE,
-ADZE PREFORM,
-CHISEL,
-COBBLE,Natural cobbles
-CORE,
-FLAKE,Undetermined flake
-RETOUCHED FLAKE,Flake tool with retouched edge
-RAW MATERIAL,Untransformed material transported from primary geological source to archaeological site
-ARCHITECTURAL,Material transported from primary geological source and used as an element of architecture
-GRINDSTONE,
-PICK,
-OVENSTONE,Stone (generally porphyric and vacuolar) used in earth oven
-HAMMERSTONE,Stone used as hammer
+ARTEFACT CATEGORY,ARTEFACT CATEGORY description
+Adze,
+Adze Preform,
+Chisel,
+Cobble,Natural cobbles
+Core,
+Flake,Undetermined flake
+Retouched flake,Flake tool with retouched edge
+Raw material,Untransformed material transported from primary geological source to archaeological site
+Architectural,Material transported from primary geological source and used as an element of architecture
+Grindstone,
+Pick,
+Ovenstone,Stone (generally porphyric and vacuolar) used in earth oven
+Hammerstone,Stone used as hammer
 NA,No information
 ,
-ARTEFACT ATTRIBUTES,Artefact attributes description
-COMPLETE,Complete artefact
-FRAGMENT,Undetermined fragment of artefact
-FRAGMENT (PROXIMAL),"Proximal end fragment (side of flake butt, or opposite side of point or cutting edge)"
-FRAGMENT (MESIAL),Mesial part of artefact
-FRAGMENT (DISTAL),Distal end fragment (side of point or cutting edge)
-NATURAL DYKE,Prismatic material extracted from dyke seam
-NATURAL BOULDER/COBBLE,Redeposited material
-NATURAL PRISM,Prismatic material (from dyke seam or other formations)
+ARTEFACT ATTRIBUTES,ARTEFACT ATTRIBUTES description
+Complete,Complete artefact
+Fragment,Undetermined fragment of artefact
+Fragment (proximal),"Proximal end fragment (side of flake butt, or opposite side of point or cutting edge)"
+Fragment (mesial),Mesial part of artefact
+Fragment (distal),Distal end fragment (side of point or cutting edge)
+Natural dyke,Prismatic material extracted from dyke seam
+Natural boulder/cobble,Redeposited material
+Natural prism,Prismatic material (from dyke seam or other formations)
 NA,No information
 ,
-SITE CONTEXT,Site Context description
-AGRICULTURAL,
-CEREMONIAL,
-DOMESTIC,
-DEFENSIVE,
-FUNERAL,
-MIDDEN,
-NATURAL,
-QUARRY,
-ROCKSHELTER,
-WORKSHOP,
+SITE CONTEXT,SITE CONTEXT description
+Agricultural,
+Ceremonial,
+Domestic,
+Defensive,
+Funeral,
+Midden,
+Natural,
+Quarry,
+Rockshelter,
+Worshop,
 NA,
 ,
 ANALYZED MATERIAL 1,Analyzed Material description
