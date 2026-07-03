@@ -1,35 +1,24 @@
 # Releasing Pofatu data
 
-1. Update the ["raw" data](raw/) in the repository.
-   ```shell
-   cp ../pofatu-faagai/pofatu-faagai.xlsx raw/pofatu.xlsx
-   cp ../pofatu-faagai/pofatu-references.bib raw/pofatu-references.bib
-   ```
-
-2. Dump the Pofatu excel file to CSV, running
-   ```shell
-   pofatu dump
-   ```
-
-3. Check data consistency running
+1. Check data consistency running
    ```shell
    pofatu check
    ```
 
-4. Create the data formats for distribution, running
+2. Create the data formats for distribution, running
    ```shell
    pofatu dist
    ```
 
-5. Commit and push all changes.
+3. Commit and push all changes.
 
-6. Create a release on GitHub
+4. Create a release on GitHub
 
-7. Edit the release's metadata on Zenodo
+5. Edit the release's metadata on Zenodo
 
-8. Copy the Zenodo DOI into the GitHub release description.
+6. Copy the Zenodo DOI into the GitHub release description.
 
-9. Update the [clld app](https://pofatu.clld.org):
+7. Update the [clld app](https://pofatu.clld.org):
    ```shell
    cd ../pofatu
    clld initdb development.ini
