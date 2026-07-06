@@ -1,25 +1,55 @@
 # Releasing Pofatu data
 
-1. Update the ["raw" data](raw/) in the repository.
-   ```shell
-   cp ../pofatu-faagai/pofatu-faagai.xlsx raw/pofatu.xlsx
-   cp ../pofatu-faagai/pofatu-references.bib raw/pofatu-references.bib
-   ```
+Make sure, `pypofatu` is installed:
+```shell
+pip install -U pypofatu
+```
 
-2. Dump the Pofatu excel file to CSV, running
-   ```shell
-   pofatu dump
-   ```
 
-3. Check data consistency running
+1. Check data consistency running
    ```shell
    pofatu check
    ```
+   Some warnings about "missing methods" are expected.
 
-4. Create the data formats for distribution, running
+2. Create the data formats for distribution, running
    ```shell
    pofatu dist
    ```
+
+3. Validate the CSVW data (the `--lax` option is necessary to allow for null-valued foreign keys,
+   cf. the "missing methods" reported above):
+   ```shell
+   csvwvalidate dist/metadata.json --lax
+   ```
+
+4. Test the distribution data by re-running the examples in [README.md](README.md)
+   and [cookbook][doc/cookbook.md].
+   ```shell
+   csvcut -c location_region dist/samples.csv | sort | uniq
+   ```
+   ```shell
+   csvgrep -c location_region -m VANUATU dist/samples.csv | csvcut -c ID
+   ```
+   ```shell
+   csvcut -c Sample_ID,parameter,value_string dist/measurements.csv | csvgrep -c Sample_ID -m"reepmeyer2008_ANU9001" | csvcut -c parameter,value_string
+   ```
+   ```shell
+   pofatu query "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU' limit 10"
+   ```
+   ```shell
+   sqlite3 dist/pofatu.sqlite "select s.id, m.parameter, m.value_string from \"samples.csv\" as s, \"measurements.csv\" as m where m.sample_id = s.id and s.location_region == 'VANUATU'"
+   ```
+   ```shell
+   cat doc/query.sql | sqlite3 dist/pofatu.sqlite -csv -header
+   ```
+   ```shell
+   cat doc/query_mm.sql | sqlite3 dist/pofatu.sqlite -csv -header
+   ```
+   ```shell
+   cat doc/query_combined.sql | sqlite3 dist/pofatu.sqlite -csv -header | wc -l
+   ```
+   >= 1159
 
 5. Commit and push all changes.
 
@@ -34,8 +64,7 @@
    cd ../pofatu
    clld initdb development.ini
    pytest
-   workon appconfig
-   cd appconfig/apps/pofatu
-   fab deploy:production
    ```
+
+10. Deploy the app.
 

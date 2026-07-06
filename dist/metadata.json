@@ -108,14 +108,14 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|GEOLOGICAL|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|RETOUCHED\\ FLAKE"
+                            "format": "ADZE|ADZE\\ BUTT|ADZE\\ FLAKE|ADZE\\ PREFORM|ADZE\\ ADZE\\ PREFORM|CHISEL|COBBLE|COBBLE\\ \\(KILIKILI\\)|CORE|FLAKE|FLAKE\\ \\(ADZE\\ BLANK\\)|FLAKE\\ \\(ADZE\\ KNAPPING\\)|FLAKE\\ \\(DEBITAGE\\)|FLAKE\\ \\(RETOUCHED\\)|GEOLOGICAL|RAW\\ MATERIAL|ARCHITECTURAL|GRINDSTONE|OVENSTONE|HAMMERSTONE|NATURAL\\ PEBBLE|ABRADER|PAVING\\ STONE|FLAKE\\ TOOL|PICK|RETOUCHED\\ FLAKE|SHATTER"
                         },
                         "name": "artefact_category"
                     },
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER/COBBLE|NATURAL\\ PRISM"
+                            "format": "COMPLETE|FRAGMENT|FRAGMENT\\ \\(PROXIMAL\\)|FRAGMENT\\ \\(MESIAL\\)|FRAGMENT\\ \\(DISTAL\\)|NATURAL\\ DYKE|NATURAL\\ BOULDER/COBBLE|NATURAL\\ PRISM|MAKATEA|TAKAROA|RANGIROA|MAROKAU"
                         },
                         "name": "artefact_attributes"
                     },
@@ -157,7 +157,7 @@
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "DOMESTIC|QUARRY|CEREMONIAL|WORKSHOP|NATURAL|AGRICULTURAL|ROCKSHELTER|MIDDEN|FUNERAL|DEFENSIVE"
+                            "format": "DOMESTIC|QUARRY|CEREMONIAL|WORKSHOP|NATURAL|AGRICULTURAL|ROCKSHELTER|MIDDEN|FUNERAL|DEFENSIVE|BURIAL|UNDERWATER"
                         },
                         "name": "site_context"
                     },
@@ -194,11 +194,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "author"
+                        "name": "address"
                     },
                     {
                         "datatype": "string",
-                        "name": "bookauthor"
+                        "name": "author"
                     },
                     {
                         "datatype": "string",
@@ -206,7 +206,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "date"
+                        "name": "collaborator"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "copyright"
                     },
                     {
                         "datatype": "string",
@@ -230,6 +234,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "googlebooks"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "ids"
                     },
                     {
@@ -246,11 +254,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "issue"
+                        "name": "journal"
                     },
                     {
                         "datatype": "string",
-                        "name": "journaltitle"
+                        "name": "jstor"
                     },
                     {
                         "datatype": "string",
@@ -262,7 +270,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "location"
+                        "name": "month"
                     },
                     {
                         "datatype": "string",
@@ -278,10 +286,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "pagetotal"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "pmcid"
                     },
                     {
@@ -290,11 +294,11 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "series"
+                        "name": "school"
                     },
                     {
                         "datatype": "string",
-                        "name": "shortjournal"
+                        "name": "series"
                     },
                     {
                         "datatype": "string",
@@ -307,10 +311,6 @@
                     {
                         "datatype": "string",
                         "name": "type"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "url"
                     },
                     {
                         "datatype": "string",
@@ -522,6 +522,26 @@
                     {
                         "datatype": "string",
                         "name": "total_procedural_unit"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fractionationcorrection_parameter"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fractionationcorrection_reference_sample_name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fractionationcorrection_sample_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fractionationcorrection_sample_accepted_value"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fractionationcorrection_citation"
                     }
                 ],
                 "primaryKey": [
